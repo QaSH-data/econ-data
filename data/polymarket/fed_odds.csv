@@ -1,2 +1,6 @@
 datetime_utc,odds_a_pct,odds_b_pct,combined_pct,end_date_utc,source
 2025-12-16T00:09:55Z,100.0000,0.0000,100.0000,2025-12-10T00:00:00Z,gamma:fed-decreases-interest-rates-by-25-bps-after-december-2025-meeting|fed-decreases-interest-rates-by-50-bps-after-december-2025-meeting
+2025-12-16T00:20:23Z,0.0000,0.0000,0.0000,2020-11-04T00:00:00Z,gamma|mt=december 2025|25=will-joe-biden-get-coronavirus-before-the-election|50=will-joe-biden-get-coronavirus-before-the-election
+2025-12-16T00:28:41Z,0.0000,0.0000,0.0000,2020-11-04T00:00:00Z,gamma|mt=december 2025|25=will-joe-biden-get-coronavirus-before-the-election|50=will-joe-biden-get-coronavirus-before-the-election|window_days=45
+2025-12-16T00:33:29Z,0.0000,0.0000,0.0000,2020-11-04T00:00:00Z,gamma|mt=december 2025|25=will-joe-biden-get-coronavirus-before-the-election|50=will-joe-biden-get-coronavirus-before-the-election|window_days=60
+2025-12-16T00:42:14Z,100.0000,0.0000,100.0000,,gamma|mt=december 2025|25=fed-decreases-interest-rates-by-25-bps-after-december-2025-meeting|50=fed-decreases-interest-rates-by-50-bps-after-december-2025-meeting|window_days=60
