@@ -1,13 +1,13 @@
 ts_utc,title,impact,forecast,previous,url
 2025-12-29T23:00:00+00:00,Pending Home Sales m/m,Medium,1.0%,1.9%,https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm
 2025-12-30T01:00:00+00:00,Natural Gas Storage,Low,-169B,-167B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
-2025-12-30T06:03:00+00:00,Crude Oil Inventories,Low,-2.0M,-1.3M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
+2025-12-30T06:00:00+00:00,Crude Oil Inventories,Low,-2.0M,-1.3M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
 2025-12-30T22:00:00+00:00,HPI m/m,Low,0.1%,0.0%,https://www.forexfactory.com/calendar/239-us-hpi-mm
 2025-12-30T22:00:00+00:00,S&P/CS Composite-20 HPI y/y,Low,1.1%,1.4%,https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
-2025-12-30T22:45:00+00:00,Chicago PMI,Low,39.6,36.3,https://www.forexfactory.com/calendar/189-us-chicago-pmi
+2025-12-30T22:45:00+00:00,Chicago PMI,Low,39.8,36.3,https://www.forexfactory.com/calendar/189-us-chicago-pmi
 2025-12-31T03:00:00+00:00,FOMC Meeting Minutes,High,,,https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes
 2025-12-31T05:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
-2025-12-31T21:30:00+00:00,Unemployment Claims,High,215K,214K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
+2025-12-31T21:30:00+00:00,Unemployment Claims,High,217K,214K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
 2025-12-31T23:30:00+00:00,Crude Oil Inventories,Low,,,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
 2026-01-01T01:00:00+00:00,Natural Gas Storage,Low,,-166B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
 2026-01-01T21:00:00+00:00,Bank Holiday,Holiday,,,https://www.forexfactory.com/calendar/370-us-bank-holiday
