@@ -1,0 +1,226 @@
+{
+  "asof_utc": "2026-01-02T21:33:13+00:00",
+  "active_contexts": [
+    {
+      "context_id": "eu_pmi_downshift_dec2025",
+      "priority": 4,
+      "theme": "growth",
+      "statement": "Eurozone Dec final mfg PMI 48.8 (vs 49.2 prelim), deeper contraction; Germany final 47.0.",
+      "market_link": "Weaker EU growth impulse can lean risk sentiment and support quality duration; EUR-sensitive risk can react via 6E/DX.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZN",
+        "ZB",
+        "6E",
+        "DX"
+      ],
+      "directional_pressure": "risk_off",
+      "confidence": 0.62,
+      "valid_until_utc": "2026-01-05T15:00:00Z",
+      "sources": [
+        "Reuters 2026-01-02",
+        "TradingEconomics 2026-01-02"
+      ],
+      "notes": "Final prints were weaker vs prelim; headline risk mainly via Europe growth tone."
+    },
+    {
+      "context_id": "ecb_m3_accel_nov2025",
+      "priority": 3,
+      "theme": "liquidity",
+      "statement": "ECB: Eurozone M3 y/y 3.0% in Nov (Oct 2.8%); M1 y/y 5.0% (Oct 5.2%).",
+      "market_link": "Incremental euro-area liquidity improvement can affect EUR rates/risk correlations; usually a second-order driver vs PMIs.",
+      "contracts": [
+        "6E",
+        "DX",
+        "ES",
+        "NQ",
+        "ZN"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.55,
+      "valid_until_utc": "2026-01-06T09:00:00Z",
+      "sources": [
+        "ECB 2026-01-02"
+      ],
+      "notes": "Monthly monetary data is slower-moving; watch for confirmation in credit/lending trends."
+    },
+    {
+      "context_id": "us_mfg_pmi_stable_dec2025",
+      "priority": 2,
+      "theme": "growth",
+      "statement": "US S&P Global final mfg PMI confirmed 51.8 for Dec; expansion but slower than Nov (52.2).",
+      "market_link": "Steady/softening growth signals mainly transmit to front-end rates and equity cyclicality; limited surprise vs consensus.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "DX"
+      ],
+      "directional_pressure": "none",
+      "confidence": 0.5,
+      "valid_until_utc": "2026-01-07T15:00:00Z",
+      "sources": [
+        "TradingEconomics 2026-01-02"
+      ],
+      "notes": "Headline matches forecast; subcomponents (orders/exports/prices) matter more than the print."
+    },
+    {
+      "context_id": "fed_srf_yearend_liquidity",
+      "priority": 3,
+      "theme": "liquidity",
+      "statement": "Fed NY SRF usage hit record $74.6B on Dec 31 amid year-end funding needs; RRP usage also rose.",
+      "market_link": "Funding-market tightness can spill into bill/GC repo and front-end rates (ZT) and broader risk tone (ES/NQ).",
+      "contracts": [
+        "ZT",
+        "ZF",
+        "ZN",
+        "ES",
+        "NQ",
+        "DX"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.64,
+      "valid_until_utc": "2026-01-03T21:00:00Z",
+      "sources": [
+        "Reuters 2025-12-31",
+        "Reuters 2025-12-29"
+      ],
+      "notes": "Primarily a turn-of-year technical; monitor if elevated usage persists post turn."
+    },
+    {
+      "context_id": "uk_mfg_pmi_final_below_flash",
+      "priority": 2,
+      "theme": "growth",
+      "statement": "UK Dec final mfg PMI 50.6 (flash 51.2), still >50 for 2nd month; less momentum than initial read.",
+      "market_link": "UK data can influence European risk tone and EUR/GBP complex; typically modest direct impact on US index futures.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "6E",
+        "DX"
+      ],
+      "directional_pressure": "none",
+      "confidence": 0.4,
+      "valid_until_utc": "2026-01-06T12:00:00Z",
+      "sources": [
+        "Yahoo Finance (MT Newswires) 2026-01-02"
+      ],
+      "notes": "Included for cross-Atlantic macro tone; not usually a primary US driver."
+    }
+  ],
+  "watchlist": [
+    {
+      "context_id": "us_cash_imbalances_index_flow",
+      "priority": 3,
+      "theme": "risk",
+      "statement": "US cash close: large MOC buy imbalance reported (S&P/NQ/Dow/Mag7 all positive).",
+      "market_link": "End-of-day index-fund flows can create late-session futures dislocations and next-session gap risk in ES/NQ.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "YM",
+        "RTY"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.45,
+      "valid_until_utc": "2026-01-03T02:00:00Z",
+      "sources": [
+        "System headlines 2026-01-02"
+      ],
+      "notes": "Flow data is time-decaying; relevance typically limited to same/next session."
+    }
+  ],
+  "upcoming_catalysts": [
+    {
+      "event_id": "us_final_mfg_pmi_2026_01_02",
+      "event_utc": "2026-01-02T22:45:00Z",
+      "event_local_ny": "2026-01-02T17:45:00-05:00",
+      "name": "Final Manufacturing PMI",
+      "expected_market_channel": "growth",
+      "why_it_matters": "Usually low impact vs ISM; revisions to prices/orders can still nudge rates/risk if meaningful.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "6E"
+      ],
+      "confidence": 0.35,
+      "sources": [
+        "System calendar 2026-01-02"
+      ]
+    },
+    {
+      "event_id": "fomc_speaker_paulson_2026_01_03",
+      "event_utc": "2026-01-03T23:15:00Z",
+      "event_local_ny": "2026-01-03T18:15:00-05:00",
+      "name": "FOMC Member Paulson Speaks",
+      "expected_market_channel": "rates",
+      "why_it_matters": "Any guidance on reaction function/cuts path can move front-end and drive equity duration sensitivity.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "6E"
+      ],
+      "confidence": 0.4,
+      "sources": [
+        "System calendar 2026-01-03"
+      ]
+    },
+    {
+      "event_id": "fomc_speaker_paulson_2026_01_04",
+      "event_utc": "2026-01-04T03:30:00Z",
+      "event_local_ny": "2026-01-03T22:30:00-05:00",
+      "name": "FOMC Member Paulson Speaks",
+      "expected_market_channel": "rates",
+      "why_it_matters": "Second appearance can reinforce/clarify messaging; watch for consistency with recent minutes and market pricing.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "6E"
+      ],
+      "confidence": 0.35,
+      "sources": [
+        "System calendar 2026-01-04"
+      ]
+    }
+  ],
+  "change_log": [
+    {
+      "action": "added",
+      "context_id": "eu_pmi_downshift_dec2025",
+      "reason": "High-impact Europe macro: Eurozone final PMI weaker than prelim; Germany final notably lower."
+    },
+    {
+      "action": "added",
+      "context_id": "ecb_m3_accel_nov2025",
+      "reason": "ECB monetary data released Jan 2 shows M3 growth uptick; useful liquidity backdrop for EUR/risk correlations."
+    },
+    {
+      "action": "added",
+      "context_id": "us_mfg_pmi_stable_dec2025",
+      "reason": "US final PMI confirmed at consensus; include as low-surprise growth confirmation."
+    },
+    {
+      "action": "added",
+      "context_id": "fed_srf_yearend_liquidity",
+      "reason": "Reuters reported record SRF usage into year-end; relevant for front-end/funding tone."
+    },
+    {
+      "action": "added",
+      "context_id": "uk_mfg_pmi_final_below_flash",
+      "reason": "UK final PMI materially below flash; cross-market growth tone item."
+    },
+    {
+      "action": "added",
+      "context_id": "us_cash_imbalances_index_flow",
+      "reason": "Large MOC buy imbalance is a near-term flow driver for US index futures."
+    }
+  ]
+}
