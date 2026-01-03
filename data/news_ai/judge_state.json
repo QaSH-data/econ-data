@@ -2,5 +2,6 @@
   "date_utc": "2026-01-03",
   "seen_message_ids": [],
   "seen_max": 2000,
-  "topic_index": {}
+  "topic_index": {},
+  "topics": {}
 }
