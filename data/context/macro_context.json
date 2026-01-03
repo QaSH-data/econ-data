@@ -1,12 +1,12 @@
 {
-  "asof_utc": "2026-01-03T03:22:06+00:00",
+  "asof_utc": "2026-01-03T03:38:32+00:00",
   "active_contexts": [
     {
-      "context_id": "eu_pmi_downshift_dec2025",
+      "context_id": "eu_mfg_pmi_final_weaker_dec2025",
       "priority": 4,
       "theme": "growth",
-      "statement": "Eurozone Dec final mfg PMI 48.8; Germany final 47.0 shows deeper contraction vs flash.",
-      "market_link": "Softer EU manufacturing can weigh global risk tone; supports duration bid narrative and impacts EUR/USD (6E/DX) correlations.",
+      "statement": "Eurozone Dec final mfg PMI 48.8; Germany final 47.0 with export orders notably weak.",
+      "market_link": "EU manufacturing contraction can weigh global risk tone and support duration demand; also relevant for EUR/USD (6E/DX) correlations.",
       "contracts": [
         "ES",
         "NQ",
@@ -16,20 +16,20 @@
         "DX"
       ],
       "directional_pressure": "risk_off",
-      "confidence": 0.64,
+      "confidence": 0.66,
       "valid_until_utc": "2026-01-05T15:00:00Z",
       "sources": [
         "Reuters 2026-01-02",
         "LOCAL 2026-01-02"
       ],
-      "notes": "Reuters notes Germany export sales drove weakness."
+      "notes": "Germany: deeper downturn, export sales drag."
     },
     {
-      "context_id": "fed_srof_yearend_liquidity_2025_12_31",
+      "context_id": "nyfed_standing_repo_record_yearend_2025_12_31",
       "priority": 3,
       "theme": "liquidity",
-      "statement": "NY Fed standing repo operation take-up hit record $74.6B on Dec 31 amid year-end funding needs.",
-      "market_link": "Highlights year-end funding tightness; most relevant to front-end rates and liquidity conditions if elevated usage persists post-turn.",
+      "statement": "NY Fed standing repo operation take-up hit a record $74.6B on Dec 31 amid year-end funding needs.",
+      "market_link": "Highlights calendar-driven front-end funding tightness; key for rates/liquidity tone if elevated usage persists post-turn.",
       "contracts": [
         "ZT",
         "ZF",
@@ -39,19 +39,20 @@
         "DX"
       ],
       "directional_pressure": "mixed",
-      "confidence": 0.66,
+      "confidence": 0.63,
       "valid_until_utc": "2026-01-03T21:00:00Z",
       "sources": [
-        "Reuters 2025-12-31"
+        "Reuters 2025-12-31",
+        "Reuters 2026-01-02"
       ],
-      "notes": "Monitor early-Jan operations for normalization."
+      "notes": "Year-end effect; monitor normalization."
     },
     {
       "context_id": "ecb_m3_accel_nov2025",
       "priority": 3,
       "theme": "liquidity",
-      "statement": "ECB: Eurozone M3 y/y 3.0% in Nov (Oct 2.8%); M1 y/y 5.0% (Oct 5.2%).",
-      "market_link": "Euro-area liquidity backdrop can matter for EUR rates and EUR-risk correlations; typically secondary vs growth/inflation shocks.",
+      "statement": "Eurozone money supply: M3 y/y 3.0% in Nov (Oct 2.8%); lending to HH 2.9%, to NFCs 3.1%.",
+      "market_link": "Slow-moving liquidity signal for EUR rates/FX; typically secondary for US index futures absent a broader EU shock.",
       "contracts": [
         "6E",
         "DX",
@@ -66,14 +67,36 @@
         "ECB 2026-01-02",
         "LOCAL 2026-01-02"
       ],
-      "notes": "Slow-moving series; watch bank lending follow-through."
+      "notes": "Focus on lending follow-through."
+    }
+  ],
+  "watchlist": [
+    {
+      "context_id": "us_cash_imbalances_index_flow",
+      "priority": 3,
+      "theme": "market_structure",
+      "statement": "US cash close (Jan 2): MOC buy imbalance S&P +1485.3M; NQ +330.8M; Dow +432.2M; Mag7 +273.3M.",
+      "market_link": "Large closing imbalances can create late-day futures dislocations and raise next-session gap sensitivity in ES/NQ.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "YM",
+        "RTY"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.48,
+      "valid_until_utc": "2026-01-03T16:00:00Z",
+      "sources": [
+        "LOCAL 2026-01-02"
+      ],
+      "notes": "Fast-decaying into next session."
     },
     {
-      "context_id": "us_mfg_pmi_stable_dec2025",
+      "context_id": "us_sp_global_mfg_pmi_confirmed_dec2025",
       "priority": 2,
       "theme": "growth",
-      "statement": "US S&P Global final mfg PMI confirmed 51.8 for Dec; no surprise vs forecast/prev.",
-      "market_link": "Low incremental info vs ISM; subcomponents (orders/prices) are more relevant for rates and equity cyclicality than headline.",
+      "statement": "US S&P Global final mfg PMI confirmed 51.8 for Dec; in line with forecast and prior.",
+      "market_link": "Low surprise content; typically less impactful than ISM. Rates/equity cyclicals react more to prices/new orders details.",
       "contracts": [
         "ES",
         "NQ",
@@ -87,36 +110,14 @@
       "sources": [
         "LOCAL 2026-01-02"
       ],
-      "notes": "Confirmatory print; limited macro impulse."
-    }
-  ],
-  "watchlist": [
-    {
-      "context_id": "us_cash_imbalances_index_flow",
-      "priority": 3,
-      "theme": "market_structure",
-      "statement": "US cash close: MOC buy imbalance reported (S&P +1485.3M; NQ +330.8M; Dow +432.2M; Mag7 +273.3M).",
-      "market_link": "Large closing imbalances can create late-session futures dislocations and increase next-session gap sensitivity in ES/NQ.",
-      "contracts": [
-        "ES",
-        "NQ",
-        "YM",
-        "RTY"
-      ],
-      "directional_pressure": "mixed",
-      "confidence": 0.48,
-      "valid_until_utc": "2026-01-03T16:00:00Z",
-      "sources": [
-        "LOCAL 2026-01-02"
-      ],
-      "notes": "Fast-decaying; mainly relevant into next session."
+      "notes": "Confirmatory print."
     },
     {
       "context_id": "uk_mfg_pmi_final_below_flash",
       "priority": 2,
       "theme": "growth",
-      "statement": "UK Dec final mfg PMI 50.6 (flash 51.2); still marginal expansion but less momentum than first read.",
-      "market_link": "UK/Europe growth tone can influence broader risk sentiment; usually modest direct impact on US index futures absent a shock.",
+      "statement": "UK Dec final mfg PMI 50.6 vs flash 51.2; marginal expansion but softer than first read.",
+      "market_link": "UK/Europe growth tone can influence risk sentiment; usually modest direct impact on US index futures absent a shock.",
       "contracts": [
         "ES",
         "NQ",
@@ -130,7 +131,29 @@
         "LOCAL 2026-01-02",
         "Reuters 2026-01-02"
       ],
-      "notes": "Cross-market growth tone item."
+      "notes": "Cross-market macro tone item."
+    },
+    {
+      "context_id": "fed_chair_succession_focus_early_2026",
+      "priority": 2,
+      "theme": "rates",
+      "statement": "Market attention on potential Fed leadership changes ahead of Chair Powell term end (May 2026) and early-2026 nomination talk.",
+      "market_link": "Fed independence/leadership headlines can move front-end rates, term premium, and USD risk premia; sensitivity can be episodic.",
+      "contracts": [
+        "ZT",
+        "ZN",
+        "ES",
+        "NQ",
+        "DX"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.42,
+      "valid_until_utc": "2026-01-10T00:00:00Z",
+      "sources": [
+        "Reuters 2025-06-30",
+        "Financial Times 2025-12-XX"
+      ],
+      "notes": "Headline-driven; timing/candidates can shift."
     }
   ],
   "upcoming_catalysts": [
@@ -140,7 +163,7 @@
       "event_local_ny": "2026-01-03T18:15:00-05:00",
       "name": "FOMC Member Paulson Speaks",
       "expected_market_channel": "rates",
-      "why_it_matters": "Any reaction-function or policy-path framing can move front-end rate pricing and spill into equity duration sensitivity (ES/NQ).",
+      "why_it_matters": "Reaction-function or policy-path framing can move front-end pricing and spill into equity duration sensitivity (ES/NQ) and USD.",
       "contracts": [
         "NQ",
         "ES",
@@ -171,23 +194,52 @@
       "sources": [
         "LOCAL 2026-01-04"
       ]
+    },
+    {
+      "event_id": "fomc_meeting_jan_27_28_2026",
+      "event_utc": "2026-01-28T19:00:00Z",
+      "event_local_ny": "2026-01-28T14:00:00-05:00",
+      "name": "FOMC Meeting (Decision/Statement; press conference 2:30pm ET)",
+      "expected_market_channel": "rates",
+      "why_it_matters": "Scheduled policy decision; reprices front-end expectations and can transmit to equity multiples and USD via real-rate moves.",
+      "contracts": [
+        "NQ",
+        "ES",
+        "ZT",
+        "ZN",
+        "6E"
+      ],
+      "confidence": 0.4,
+      "sources": [
+        "Federal Reserve 2026-01"
+      ]
     }
   ],
   "change_log": [
     {
       "action": "updated",
-      "context_id": "eu_pmi_downshift_dec2025",
-      "reason": "Confirmed Germany final PMI 47.0 details and driver (export sales) via Reuters (2026-01-02)."
+      "context_id": "eu_mfg_pmi_final_weaker_dec2025",
+      "reason": "Kept Dec final PMI context; confirmed Germany 47.0 and export-sales weakness via Reuters dated 2026-01-02."
+    },
+    {
+      "action": "updated",
+      "context_id": "nyfed_standing_repo_record_yearend_2025_12_31",
+      "reason": "Confirmed record $74.6B take-up and framed as year-end liquidity management; retained short TTL into post-turn session."
     },
     {
       "action": "updated",
       "context_id": "ecb_m3_accel_nov2025",
-      "reason": "Confirmed ECB monetary aggregates and lending growth figures in Nov 2025 release dated 2026-01-02."
+      "reason": "Validated Nov 2025 M3 3.0% y/y and lending details from ECB release dated 2026-01-02."
     },
     {
-      "action": "removed",
-      "context_id": "polymarket_fed_odds_snapshot",
-      "reason": "Input snapshot was unparseable; retained placeholder with LOCAL attribution and zeroed fields to avoid inventing odds."
+      "action": "added",
+      "context_id": "fed_chair_succession_focus_early_2026",
+      "reason": "Added as watchlist due to recurring sensitivity of rates/USD to Fed leadership/independence headlines into early 2026."
+    },
+    {
+      "action": "updated",
+      "context_id": "fomc_meeting_jan_27_28_2026",
+      "reason": "Confirmed Jan 27-28 meeting with Jan 28 decision time via official Federal Reserve January 2026 calendar."
     }
   ]
 }
