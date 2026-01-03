@@ -1,12 +1,12 @@
 {
-  "asof_utc": "2026-01-03T02:17:32+00:00",
+  "asof_utc": "2026-01-03T03:22:06+00:00",
   "active_contexts": [
     {
       "context_id": "eu_pmi_downshift_dec2025",
       "priority": 4,
       "theme": "growth",
-      "statement": "Eurozone Dec final mfg PMI 48.8; Germany final 47.0 signals deeper contraction vs prelim.",
-      "market_link": "Weaker EU manufacturing tone can weigh global risk sentiment and support duration; EUR-sensitive risk can react via 6E/DX.",
+      "statement": "Eurozone Dec final mfg PMI 48.8; Germany final 47.0 shows deeper contraction vs flash.",
+      "market_link": "Softer EU manufacturing can weigh global risk tone; supports duration bid narrative and impacts EUR/USD (6E/DX) correlations.",
       "contracts": [
         "ES",
         "NQ",
@@ -16,20 +16,20 @@
         "DX"
       ],
       "directional_pressure": "risk_off",
-      "confidence": 0.63,
+      "confidence": 0.64,
       "valid_until_utc": "2026-01-05T15:00:00Z",
       "sources": [
         "Reuters 2026-01-02",
         "LOCAL 2026-01-02"
       ],
-      "notes": "Germany export orders cited as a key drag."
+      "notes": "Reuters notes Germany export sales drove weakness."
     },
     {
       "context_id": "fed_srof_yearend_liquidity_2025_12_31",
       "priority": 3,
       "theme": "liquidity",
       "statement": "NY Fed standing repo operation take-up hit record $74.6B on Dec 31 amid year-end funding needs.",
-      "market_link": "Year-end funding tightness can spill into bills/GC repo and front-end rates; mainly a technical unless it persists post-turn.",
+      "market_link": "Highlights year-end funding tightness; most relevant to front-end rates and liquidity conditions if elevated usage persists post-turn.",
       "contracts": [
         "ZT",
         "ZF",
@@ -44,14 +44,14 @@
       "sources": [
         "Reuters 2025-12-31"
       ],
-      "notes": "Monitor for normalization in early-Jan operations."
+      "notes": "Monitor early-Jan operations for normalization."
     },
     {
       "context_id": "ecb_m3_accel_nov2025",
       "priority": 3,
       "theme": "liquidity",
       "statement": "ECB: Eurozone M3 y/y 3.0% in Nov (Oct 2.8%); M1 y/y 5.0% (Oct 5.2%).",
-      "market_link": "Euro-area liquidity/backdrop can influence EUR rates and EUR-risk correlations; typically second-order vs growth/inflation shocks.",
+      "market_link": "Euro-area liquidity backdrop can matter for EUR rates and EUR-risk correlations; typically secondary vs growth/inflation shocks.",
       "contracts": [
         "6E",
         "DX",
@@ -63,16 +63,17 @@
       "confidence": 0.6,
       "valid_until_utc": "2026-01-06T09:00:00Z",
       "sources": [
-        "ECB 2026-01-02"
+        "ECB 2026-01-02",
+        "LOCAL 2026-01-02"
       ],
-      "notes": "Slow-moving series; watch lending follow-through."
+      "notes": "Slow-moving series; watch bank lending follow-through."
     },
     {
       "context_id": "us_mfg_pmi_stable_dec2025",
       "priority": 2,
       "theme": "growth",
-      "statement": "US S&P Global final mfg PMI confirmed 51.8 for Dec; unchanged vs forecast and prior release.",
-      "market_link": "Limited surprise vs consensus; subcomponents (orders/prices) matter more for rates and equity cyclicality than headline level.",
+      "statement": "US S&P Global final mfg PMI confirmed 51.8 for Dec; no surprise vs forecast/prev.",
+      "market_link": "Low incremental info vs ISM; subcomponents (orders/prices) are more relevant for rates and equity cyclicality than headline.",
       "contracts": [
         "ES",
         "NQ",
@@ -86,7 +87,7 @@
       "sources": [
         "LOCAL 2026-01-02"
       ],
-      "notes": "Low-impact vs ISM; confirmatory print."
+      "notes": "Confirmatory print; limited macro impulse."
     }
   ],
   "watchlist": [
@@ -95,7 +96,7 @@
       "priority": 3,
       "theme": "market_structure",
       "statement": "US cash close: MOC buy imbalance reported (S&P +1485.3M; NQ +330.8M; Dow +432.2M; Mag7 +273.3M).",
-      "market_link": "Large closing imbalances can drive late-session futures dislocations and increase next-session gap sensitivity in ES/NQ.",
+      "market_link": "Large closing imbalances can create late-session futures dislocations and increase next-session gap sensitivity in ES/NQ.",
       "contracts": [
         "ES",
         "NQ",
@@ -108,14 +109,14 @@
       "sources": [
         "LOCAL 2026-01-02"
       ],
-      "notes": "Fast-decaying; most relevant into next session."
+      "notes": "Fast-decaying; mainly relevant into next session."
     },
     {
       "context_id": "uk_mfg_pmi_final_below_flash",
       "priority": 2,
       "theme": "growth",
       "statement": "UK Dec final mfg PMI 50.6 (flash 51.2); still marginal expansion but less momentum than first read.",
-      "market_link": "UK/Europe data can influence broader risk tone and EUR/GBP complex; usually modest direct impact on US index futures.",
+      "market_link": "UK/Europe growth tone can influence broader risk sentiment; usually modest direct impact on US index futures absent a shock.",
       "contracts": [
         "ES",
         "NQ",
@@ -175,18 +176,18 @@
   "change_log": [
     {
       "action": "updated",
-      "context_id": "fed_srof_yearend_liquidity_2025_12_31",
-      "reason": "Confirmed details/wording via Reuters on record $74.6B standing repo operation take-up at year-end (Dec 31, 2025)."
+      "context_id": "eu_pmi_downshift_dec2025",
+      "reason": "Confirmed Germany final PMI 47.0 details and driver (export sales) via Reuters (2026-01-02)."
     },
     {
       "action": "updated",
       "context_id": "ecb_m3_accel_nov2025",
-      "reason": "Confirmed Eurozone monetary aggregates figures and date via ECB press release (published Jan 2, 2026)."
+      "reason": "Confirmed ECB monetary aggregates and lending growth figures in Nov 2025 release dated 2026-01-02."
     },
     {
-      "action": "expired",
-      "context_id": "us_cash_imbalances_index_flow",
-      "reason": "Prior watchlist TTL (2026-01-03T02:00:00Z) had expired; replaced with refreshed row and extended near-term TTL."
+      "action": "removed",
+      "context_id": "polymarket_fed_odds_snapshot",
+      "reason": "Input snapshot was unparseable; retained placeholder with LOCAL attribution and zeroed fields to avoid inventing odds."
     }
   ]
 }
