@@ -2,7 +2,8 @@
   "date_utc": "2026-01-03",
   "seen_message_ids": [
     "1457128626435915797",
-    "1457137641328742591"
+    "1457137641328742591",
+    "289522085853017486"
   ],
   "seen_max": 2000,
   "topics": {
@@ -14,6 +15,15 @@
       "last_update_utc": "2026-01-03T22:26:15+00:00",
       "last_short": "Report: 'Neizchum' hospitalized after a military nuclear event; Trump en route. Potential risk-off headlines could pressure ES/NQ and lift T",
       "last_long": "As of headline time (2026-01-03T22:24:46Z) reports state ‘Neizchum’ was hospitalized following a “military nuclear event” and that former President Trump is en route. Identity of Neizchum, the event’s scope, and independent confirmation are not provided in this feed and require verification. If confirmed, historical market behavior favors a near-term risk-off response: equity futures (ES/NQ) typically weaken, Treasuries and gold tend to rally and safe-haven FX can firm, and intraday volatility rises. If the report is unverified or details remain limited, market moves may be muted or reversed once clarity emerges. No trade instructions — await authoritative confirmation and updates."
+    },
+    "t_e517b9c563239304": {
+      "count": 1,
+      "message_ids": [
+        "289522085853017486"
+      ],
+      "last_update_utc": "2026-01-03T22:47:20+00:00",
+      "last_short": "Unverified: no confirmation Trump resigned; treat as rumor. If true would be risk-off shock; but likely noise vs rates catalysts.",
+      "last_long": "As of 2026-01-03 22:46 UTC, the claim “Trump resigns; Vance vows to stop all tariffs” could not be corroborated in credible mainstream reporting during web checks. Given the scale of a U.S. presidential resignation, the lack of confirmation is itself highly informative: markets should treat this as an unverified headline/rumor (or potential satire/misattribution) until a major wire/official statement confirms. Separately, JD Vance is the sitting vice president, but there was also no verified reporting found that he vowed to stop all tariffs at this timestamp.\n\nIf (and only if) such a resignation were confirmed, the immediate market transmission would likely be: (1) higher volatility and risk aversion (ES/NQ), (2) safe-haven bid into Treasuries (front end and duration, depending on perceived policy continuity), and (3) headline-driven USD moves (DX) via risk + policy uncertainty. The ‘sto"
     }
   },
   "topic_index": {

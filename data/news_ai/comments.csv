@@ -4,3 +4,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-02T09:32:02.721000+00:00,1456580791772512388,1,eu_pmi_downshift_dec2025,4,"UK Manufacturing PMI eased to 50.6 (prev 51.2), reinforcing European manufacturing softness (context_id: eu_pmi_downshift_dec2025)"
 2026-01-02T14:34:21.578000+00:00,1456656871653113947,1,eu_pmi_downshift_dec2025,4,MOO: NQ -27.0M (S&P +14.0M) reinforces eurozone PMI-driven risk_off bias for ES/NQ.
 2026-01-03T22:24:46.001000+00:00,1457137641328742591,1,t_beb3165afa0443cd,5,Report: 'Neizchum' hospitalized after a military nuclear event; Trump en route. Potential risk-off headlines could pressure ES/NQ and lift T
+2026-01-03T22:46:25.198949+00:00,289522085853017486,1,t_e517b9c563239304,5,Unverified: no confirmation Trump resigned; treat as rumor. If true would be risk-off shock; but likely noise vs rates catalysts.
