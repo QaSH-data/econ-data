@@ -3,7 +3,10 @@
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
-    "289522085853017486"
+    "289522085853017486",
+    "1457143667860050115",
+    "1457145292074914035",
+    "1457146183092015226"
   ],
   "seen_max": 2000,
   "topics": {
@@ -24,6 +27,33 @@
       "last_update_utc": "2026-01-03T22:47:20+00:00",
       "last_short": "Unverified: no confirmation Trump resigned; treat as rumor. If true would be risk-off shock; but likely noise vs rates catalysts.",
       "last_long": "As of 2026-01-03 22:46 UTC, the claim “Trump resigns; Vance vows to stop all tariffs” could not be corroborated in credible mainstream reporting during web checks. Given the scale of a U.S. presidential resignation, the lack of confirmation is itself highly informative: markets should treat this as an unverified headline/rumor (or potential satire/misattribution) until a major wire/official statement confirms. Separately, JD Vance is the sitting vice president, but there was also no verified reporting found that he vowed to stop all tariffs at this timestamp.\n\nIf (and only if) such a resignation were confirmed, the immediate market transmission would likely be: (1) higher volatility and risk aversion (ES/NQ), (2) safe-haven bid into Treasuries (front end and duration, depending on perceived policy continuity), and (3) headline-driven USD moves (DX) via risk + policy uncertainty. The ‘sto"
+    },
+    "t_a424a25f5e58225f": {
+      "count": 1,
+      "message_ids": [
+        "1457143667860050115"
+      ],
+      "last_update_utc": "2026-01-03T22:50:05+00:00",
+      "last_short": "Unverified report: 'Trump resigns; Vance vows to stop all tariffs.' Confirmation needed — political shock could move ES/NQ, Treasuries, USD.",
+      "last_long": "As of headline time (2026-01-03T22:48:42Z UTC) this report is unverified; primary-source confirmation required. If true, an unexpected presidential resignation is a major political shock that typically raises uncertainty and can depress equity futures (ES/NQ), push investors to safe-haven Treasuries (lower yields), and move FX (USD/major pairs). The claim that 'Vance vows to stop all tariffs' signals a potential policy shift in trade that would have sectoral implications if implemented. Monitor official confirmations and follow-on statements; current market-impact assessment is preliminary until verification."
+    },
+    "t_1372e3e840e67e56": {
+      "count": 1,
+      "message_ids": [
+        "1457145292074914035"
+      ],
+      "last_update_utc": "2026-01-03T22:56:35+00:00",
+      "last_short": "Unverified correction: claim says Trump won’t resign; prior headline ‘fake’. Vance didn’t say he’d stop tariffs—watch for official/source co",
+      "last_long": "This looks like a rapid correction of political/tariff messaging, but I cannot corroborate (from major wires/publication records in the last ~30 days) a specific, contemporaneous Jan 3, 2026 report stating “Trump will not resign” and that a “previous headline was fake,” nor a matching correction about “Vance did not say he will stop tariffs.” Treat as low-confidence until an attributable source (e.g., Reuters/AP/WSJ) is identified.\n\nMarket framing (if/when confirmed):\n- A resignation rumor being debunked typically removes a transient political-risk premium; impact often fades quickly unless accompanied by policy/actionable developments.\n- The tariff angle matters more for macro pricing than the resignation-denial itself: anything that keeps tariff uncertainty ‘live’ can feed into inflation-risk narratives and rates sensitivity, especially into the January FOMC window.\n\nCross-current to m"
+    },
+    "t_9f3eab4ca3ff5ad5": {
+      "count": 1,
+      "message_ids": [
+        "1457146183092015226"
+      ],
+      "last_update_utc": "2026-01-03T22:59:58+00:00",
+      "last_short": "“Neizchum” nuclear-threat chatter looks like a non-credible/unknown-source hoax; unless confirmed by majors, treat as noise.",
+      "last_long": "As of 2026-01-03 22:59 UTC, I cannot corroborate “Neizchum” as a real location, agency, asset, or recognized geopolitical theater via accessible public sources, nor can I find credible-wire/official reporting tied to this specific claim. That strongly points to either (a) a fabricated headline, (b) a mistranslation/misspelling, or (c) an in-network/internal codename that is not publicly indexable.\n\nMarket read: if desks briefly priced a “nuclear threat” off this rumor, a debunk (“no nuclear threat”) typically removes the most acute tail-risk bid—supporting a normalization impulse (risk premia/volatility compression) rather than creating a new macro impulse. However, given the entity ambiguity, the safer posture is to treat this item as non-actionable until a top-tier source (official government statement or major wire) confirms both the original claim and its retraction.\n\nWhat to monitor"
     }
   },
   "topic_index": {
