@@ -1,0 +1,12 @@
+# Never commit scripts or secrets
+*.py
+*.pyc
+__pycache__/
+.env
+
+# Logs shouldn't be versioned
+logs/
+
+
+# Never commit python scripts
+*.py
