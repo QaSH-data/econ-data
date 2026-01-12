@@ -13,7 +13,8 @@
     "1460362745374310498",
     "1460366237380120616",
     "1460366756576235580",
-    "1460376050474418178"
+    "1460376050474418178",
+    "1460382245033345077"
   ],
   "seen_max": 2000,
   "topics": {
@@ -124,6 +125,15 @@
       "last_update_utc": "2026-01-12T20:53:51+00:00",
       "last_short": "",
       "last_long": ""
+    },
+    "t_e6be6b33661c274a": {
+      "count": 1,
+      "message_ids": [
+        "1460382245033345077"
+      ],
+      "last_update_utc": "2026-01-12T21:18:13+00:00",
+      "last_short": "Unable to verify the claimed Jan 12, 2026 Axios report that Trump is leaning toward Iran strikes; treat as unconfirmed.",
+      "last_long": "I couldn’t corroborate the specific headline “Trump leans toward Iran strikes” attributed to Axios and a White House official with currently available public reporting in web results (no matching Axios/major-wire pickup surfaced for Jan 12, 2026). Given the single-source nature implied by the headline and the lack of independent confirmation in major outlets from this check, treat it as an unverified geopolitical-risk rumor until there’s either an on-record U.S. statement, corroboration from multiple credible reporters, or confirmation via major wires.\n\nIf such a shift were confirmed, typical market transmission would be: (1) higher geopolitical risk premium (often weighing on broad risk sentiment), (2) potential bid for liquid defensives/safe havens (USTs, USD; sometimes gold), and (3) upside pressure in crude oil on perceived supply-risk, alongside higher implied volatility. In the nea"
     }
   },
   "topic_index": {
