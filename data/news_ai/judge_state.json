@@ -11,7 +11,8 @@
     "1460325818008997980",
     "1460362504516403483",
     "1460362745374310498",
-    "1460366237380120616"
+    "1460366237380120616",
+    "1460366756576235580"
   ],
   "seen_max": 2000,
   "topics": {
@@ -104,6 +105,15 @@
       "last_update_utc": "2026-01-12T20:14:40+00:00",
       "last_short": "Unverified: no credible reporting found that a plane hit the NYSE on Jan 12, 2026; treat as likely false until confirmed.",
       "last_long": "I cannot validate the headline “plane crashes into New York Stock Exchange” (timestamp 2026-01-12 20:14:03 UTC / 15:14 ET) via major, credible public sources in the last week. Web checks for this exact claim return no corroborating coverage from primary market/incident channels (NYSE/ICE, FAA/NTSB statements) or major wires; results instead surface unrelated historical items (e.g., 9/11 market closures) and other aviation/market stories not tied to an NYSE strike. Given the severity, absence of immediate confirmation strongly argues this is misinformation or a bad/garbled feed.\n\nMarket framing if (and only if) later confirmed: expect NYSE operational impacts (possible building evacuation, trading interruptions/halts, and order-routing shifts), a volatility shock across index futures/options, and a classic risk-off reflex (Treasuries/USD bid) driven by uncertainty and operational disrupti"
+    },
+    "t_1695767852b21ec7": {
+      "count": 1,
+      "message_ids": [
+        "1460366756576235580"
+      ],
+      "last_update_utc": "2026-01-12T20:16:45+00:00",
+      "last_short": "Unverified “plane crash” chatter appears to have been a false alarm; no corroborating official or major-wire report found.",
+      "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     }
   },
   "topic_index": {
