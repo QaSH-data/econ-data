@@ -1,12 +1,13 @@
 {
-  "date_utc": "2026-01-03",
+  "date_utc": "2026-01-12",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
     "289522085853017486",
     "1457143667860050115",
     "1457145292074914035",
-    "1457146183092015226"
+    "1457146183092015226",
+    "1460280326831079575"
   ],
   "seen_max": 2000,
   "topics": {
@@ -54,6 +55,15 @@
       "last_update_utc": "2026-01-03T22:59:58+00:00",
       "last_short": "“Neizchum” nuclear-threat chatter looks like a non-credible/unknown-source hoax; unless confirmed by majors, treat as noise.",
       "last_long": "As of 2026-01-03 22:59 UTC, I cannot corroborate “Neizchum” as a real location, agency, asset, or recognized geopolitical theater via accessible public sources, nor can I find credible-wire/official reporting tied to this specific claim. That strongly points to either (a) a fabricated headline, (b) a mistranslation/misspelling, or (c) an in-network/internal codename that is not publicly indexable.\n\nMarket read: if desks briefly priced a “nuclear threat” off this rumor, a debunk (“no nuclear threat”) typically removes the most acute tail-risk bid—supporting a normalization impulse (risk premia/volatility compression) rather than creating a new macro impulse. However, given the entity ambiguity, the safer posture is to treat this item as non-actionable until a top-tier source (official government statement or major wire) confirms both the original claim and its retraction.\n\nWhat to monitor"
+    },
+    "t_4e9a016194f8d732": {
+      "count": 1,
+      "message_ids": [
+        "1460280326831079575"
+      ],
+      "last_update_utc": "2026-01-12T17:26:36+00:00",
+      "last_short": "Headline unclear; verify source/details.",
+      "last_long": "The model failed to parse this headline reliably. Check the original source and context."
     }
   },
   "topic_index": {
