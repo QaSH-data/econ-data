@@ -4,3 +4,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-02T09:32:02.721000+00:00,1456580791772512388,1,eu_pmi_downshift_dec2025,4,"UK Manufacturing PMI eased to 50.6 (prev 51.2), reinforcing European manufacturing softness (context_id: eu_pmi_downshift_dec2025)"
 2026-01-02T14:34:21.578000+00:00,1456656871653113947,1,eu_pmi_downshift_dec2025,4,MOO: NQ -27.0M (S&P +14.0M) reinforces eurozone PMI-driven risk_off bias for ES/NQ.
 
+2026-01-12T19:59:13.300000+00:00,1460362504516403483,1,t_59731410cc87985a,2,Claim: China announces AI chip imports subject to 200% tariff (unverified)

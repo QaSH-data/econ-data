@@ -8,7 +8,8 @@
     "1457145292074914035",
     "1457146183092015226",
     "1460280326831079575",
-    "1460325818008997980"
+    "1460325818008997980",
+    "1460362504516403483"
   ],
   "seen_max": 2000,
   "topics": {
@@ -74,6 +75,15 @@
       "last_update_utc": "2026-01-12T17:33:29+00:00",
       "last_short": "Headline unclear; verify source/details.",
       "last_long": "The model failed to parse this headline reliably. Check the original source and context."
+    },
+    "t_59731410cc87985a": {
+      "count": 1,
+      "message_ids": [
+        "1460362504516403483"
+      ],
+      "last_update_utc": "2026-01-12T19:59:17+00:00",
+      "last_short": "Claim: China announces AI chip imports subject to 200% tariff (unverified)",
+      "last_long": "Claimed event: China announces AI chip imports subject to 200% tariff. The model failed, so this remains unverified. Check the original source."
     }
   },
   "topic_index": {
