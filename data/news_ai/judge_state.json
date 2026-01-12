@@ -9,7 +9,8 @@
     "1457146183092015226",
     "1460280326831079575",
     "1460325818008997980",
-    "1460362504516403483"
+    "1460362504516403483",
+    "1460362745374310498"
   ],
   "seen_max": 2000,
   "topics": {
@@ -84,6 +85,15 @@
       "last_update_utc": "2026-01-12T19:59:17+00:00",
       "last_short": "Claim: China announces AI chip imports subject to 200% tariff (unverified)",
       "last_long": "Claimed event: China announces AI chip imports subject to 200% tariff. The model failed, so this remains unverified. Check the original source."
+    },
+    "t_eca3bd15da8f45fe": {
+      "count": 1,
+      "message_ids": [
+        "1460362745374310498"
+      ],
+      "last_update_utc": "2026-01-12T20:00:14+00:00",
+      "last_short": "Claim: headline about china chip tariffs was false rumor (unverified)",
+      "last_long": "Claimed event: headline about china chip tariffs was false rumor. The model failed, so this remains unverified. Check the original source."
     }
   },
   "topic_index": {
