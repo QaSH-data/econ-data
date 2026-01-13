@@ -23,7 +23,8 @@
     "1460627519945441342",
     "1460642929071882283",
     "1460643489657131090",
-    "1460646589981921514"
+    "1460646589981921514",
+    "1460672647867400381"
   ],
   "seen_max": 2000,
   "topics": {
@@ -224,6 +225,15 @@
       "last_update_utc": "2026-01-13T14:48:34+00:00",
       "last_short": "Trump says he cancelled meetings with Iranian officials until protest killings stop—adds geopolitics risk premium; risk-off tilt, energy bid",
       "last_long": "Headline read-through: a harder US diplomatic posture toward Iran (conditioning talks on an internal-security outcome) increases perceived policy uncertainty and reduces near-term de-escalation pathways. Mechanism: lower expected diplomatic engagement → higher probability investors assign to sanctions/retaliation/escalation tails → wider geopolitical risk premium. Likely first-order market channels: (1) Risk sentiment: ES/NQ vulnerable to a knee-jerk risk-off/vol pickup, especially if the story broadens to sanctions or regional security headlines. (2) Energy: crude and energy equities can catch a bid on supply-risk repricing even without an immediate flow disruption. (3) Rates/FX: modest safe-haven impulse (UST bid, USD firmer) is plausible, but the rates impact should stay secondary unless follow-on policy actions are announced. Why now: coming into a data/Fed-windowed January, geopolit"
+    },
+    "t_f3903077a11f40b8": {
+      "count": 1,
+      "message_ids": [
+        "1460672647867400381"
+      ],
+      "last_update_utc": "2026-01-13T16:32:00+00:00",
+      "last_short": "China curbs Nvidia chip purchases; higher geopolitical/regulatory risk lifts equity risk premium, pressuring semiconductors/AI hardware stoc",
+      "last_long": "China's restriction on Nvidia chip purchases increases geopolitical and regulatory uncertainty for the AI semiconductor supply chain. Primary market mechanism: risk premium — the news raises perceived policy/regulatory risk for US chip exporters, prompting higher implied volatility and forcing short-term repositioning of long tech/semiconductor exposure. Over the next few sessions this tends to: 1) weigh on mega-cap tech and semiconductor names (NVDA, suppliers, SOX/semiconductor ETFs) and US index futures (NQ/ES) as risk-off flows pick up; 2) boost safe-haven demand that can support Treasuries and compress equity risk premia via lower price multiples; and 3) increase cross-market volatility and repricing in Asian tech/ADR listings. Monitor how broad the restrictions are (product classes, end-users) — broader scope = more persistent repricing of positioning and higher volatility; narrowl"
     }
   },
   "topic_index": {
