@@ -22,7 +22,8 @@
     "1460457496975118367",
     "1460627519945441342",
     "1460642929071882283",
-    "1460643489657131090"
+    "1460643489657131090",
+    "1460646589981921514"
   ],
   "seen_max": 2000,
   "topics": {
@@ -214,6 +215,15 @@
       "last_update_utc": "2026-01-13T14:36:18+00:00",
       "last_short": "World Bank nudges 2026 euro-area GDP up to 0.9% (from 0.8%); modest pro-growth signal, mildly supportive for EUR and EU rates.",
       "last_long": "The World Bank’s small upgrade to 2026 euro-area growth (0.9% vs 0.8% prior; still well below 2025’s 1.4%) is a marginally better macro baseline, but not a regime change. Near-term market transmission is primarily through Europe rates/FX: a slightly firmer growth profile can trim expectations for aggressive ECB easing at the margin, modestly pressuring Bund/Euribor yields higher and offering mild support to EUR (6E) versus USD (DX). Second-order effects are a small reduction in the “Eurozone stagnation” risk premium, which can help EU cyclicals/financials and slightly improve global risk tone; spillover to US index futures (ES/NQ) should be limited unless it coincides with broader upside global-growth revisions. Given recent soft euro-area manufacturing signals in the backdrop, this reads more like a stabilization datapoint than a decisive turn, so follow-through likely depends on incomi"
+    },
+    "t_50faae6a127938ca": {
+      "count": 1,
+      "message_ids": [
+        "1460646589981921514"
+      ],
+      "last_update_utc": "2026-01-13T14:48:34+00:00",
+      "last_short": "Trump says he cancelled meetings with Iranian officials until protest killings stop—adds geopolitics risk premium; risk-off tilt, energy bid",
+      "last_long": "Headline read-through: a harder US diplomatic posture toward Iran (conditioning talks on an internal-security outcome) increases perceived policy uncertainty and reduces near-term de-escalation pathways. Mechanism: lower expected diplomatic engagement → higher probability investors assign to sanctions/retaliation/escalation tails → wider geopolitical risk premium. Likely first-order market channels: (1) Risk sentiment: ES/NQ vulnerable to a knee-jerk risk-off/vol pickup, especially if the story broadens to sanctions or regional security headlines. (2) Energy: crude and energy equities can catch a bid on supply-risk repricing even without an immediate flow disruption. (3) Rates/FX: modest safe-haven impulse (UST bid, USD firmer) is plausible, but the rates impact should stay secondary unless follow-on policy actions are announced. Why now: coming into a data/Fed-windowed January, geopolit"
     }
   },
   "topic_index": {
