@@ -16,7 +16,9 @@
     "1460376050474418178",
     "1460382245033345077",
     "1460408404286636173",
-    "1460421288626487316"
+    "1460421288626487316",
+    "1460438794749870369",
+    "1460440212948648076"
   ],
   "seen_max": 2000,
   "topics": {
@@ -154,6 +156,24 @@
       "last_update_utc": "2026-01-12T23:53:15+00:00",
       "last_short": "Japan's Nov current-account surplus beat estimates (¥3.674T) and bank lending rose 4.4% YoY — supportive for JPY, Japanese banks and overall",
       "last_long": "Japan reported a larger-than-expected November current-account surplus of ¥3.674 trillion and Bank of Japan data showed bank lending up 4.4% YoY. Near term, the surplus is a constructive macro signal for the yen (net external receipts), while rising lending points to firmer domestic credit growth. Market channels to monitor: USD/JPY moves (FX reaction can be immediate), Japanese financials (loan growth supports margins/earnings expectations), and export-oriented sectors (positive demand signal but offset risk if a stronger yen pressures exporters’ JPY-denominated profits). Also watch BoJ commentary and incoming trade/FX flows — these data can influence yen funding/carry dynamics and spill into Japanese equities and global FX crosses over the next few sessions. This is bullish macro news for Japanese risk assets and the yen, with ambiguous implications for exporters depending on FX moves."
+    },
+    "t_586325954340d2df": {
+      "count": 1,
+      "message_ids": [
+        "1460438794749870369"
+      ],
+      "last_update_utc": "2026-01-13T01:48:39+00:00",
+      "last_short": "Venezuelan crude flows to the US rise; incremental heavy supply can damp WTI risk premium and shift refiner feedstock economics.",
+      "last_long": "Venezuela exporting to the US as its largest customer by volume is primarily a physical-supply and sanctions-policy signal for energy pricing. Mechanism: (1) incremental barrels into PADD 3 reduce perceived near-term tightness, tending to compress the geopolitical/scarcity premium in front-month crude and narrow upside tails; (2) because Venezuelan grades are typically heavier/sour, the bigger transmission can be via relative pricing (heavy-vs-light differentials) and refinery feedstock optimization rather than a clean one-for-one hit to headline WTI; (3) downstream beneficiaries can include complex Gulf Coast refiners if heavy feedstock discounts widen, while upstream beta (energy equities/high-yield) can fade if crude sentiment softens. Why now: a change in customer mix toward the US suggests logistics/contracting normalization and potentially a more durable flow than spot cargo headli"
+    },
+    "t_d3a05151f6fd9ea2": {
+      "count": 1,
+      "message_ids": [
+        "1460440212948648076"
+      ],
+      "last_update_utc": "2026-01-13T01:48:59+00:00",
+      "last_short": "Mexico declares war on US — acute geopolitical shock; risk-off: US equities (ES/NQ), Treasuries, oil and MXN/EM FX to react.",
+      "last_long": "Headline: Mexico has declared war on the US. Primary market mechanism: risk premium (with a spike in volatility). Causal chain: a sovereign conflict declaration sharply raises geopolitical uncertainty -> investors demand higher risk premia and reduce exposure to risk assets -> immediate safe-haven flows into US Treasuries and the USD, while equity index futures (ES/NQ) and credit spreads move wider; commodity and FX volatility rises (oil could spike on supply concerns; MXN and other EM FX collapse). Liquidity can also tighten intraday as market-makers widen spreads and bid-offer sizes shrink. Most exposed: US index futures (intraday gap/down risk), tech/growth names sensitive to risk-premium increases (NQ), US and EU credit (IG/HY spreads), Treasuries (yields likely to fall as flows enter duration), oil and gold (volatility up), and Mexican assets (MXN, Mexican equities/bonds). Time fram"
     }
   },
   "topic_index": {
