@@ -26,7 +26,8 @@
     "1460646589981921514",
     "1460672647867400381",
     "1460688287097422028",
-    "1460738323470356743"
+    "1460738323470356743",
+    "1460754528831017041"
   ],
   "seen_max": 2000,
   "topics": {
@@ -246,6 +247,15 @@
       "last_update_utc": "2026-01-13T17:34:23+00:00",
       "last_short": "USA Today: US could take “action on Greenland” in weeks/months; vague geopolitics adds risk-premium bid to UST/USD, weighs ES/NQ.",
       "last_long": "A USA Today report suggesting the US could take unspecified “action on Greenland” over the coming weeks/months is a tail-risk catalyst: the immediate channel is a higher geopolitical risk premium rather than a clean macro impulse. If headlines intensify without specifics, markets typically express this via modest risk-off: bid for safe havens (USTs, USD), a small drag on equity index futures (ES/NQ) via higher uncertainty/vol, and relative support for defense/security exposures; any resource/Arctic-shipping narrative could also pull in commodities/mining sentiment. Key sensitivity is definitional: “action” could range from diplomatic/economic measures to security posture changes—follow-through and official confirmation determine whether this stays as transient headline noise or becomes a sustained risk factor. Until clarified, treat as volatility/risk-premium skew rather than a direction"
+    },
+    "t_23088a9cc2f80b57": {
+      "count": 1,
+      "message_ids": [
+        "1460754528831017041"
+      ],
+      "last_update_utc": "2026-01-13T21:57:34+00:00",
+      "last_short": "Trump floats opening China markets to US goods while warning Iran—reduces perceived trade-friction tail risk but adds geopolitics; supportiv",
+      "last_long": "Mechanism (risk premia + sector dispersion). China-market-access rhetoric can be read as a de-escalatory/transactional trade stance, trimming perceived tariff/regulatory tail risk for China-exposed revenue streams (industrials, materials, select semis/mega-cap supply chains) and improving broad risk tone (ES/NQ) vs havens. In rates/FX, a modest risk-on impulse can lean toward slightly higher yields/softer USD on the margin if it reduces safe-haven demand, but magnitude is headline-dependent absent policy detail. Iran warnings push the other way by lifting geopolitical left-tail risk: keeps crude, defense, and volatility hedges “on watch,” raising cross-asset dispersion (risk indices up while energy/defense/oil risk premia remain supported). Why now: with Jan 27–28 FOMC approaching, geopolitics/trade headlines can quickly reprice equity risk premia and financial conditions even without a"
     }
   },
   "topic_index": {
