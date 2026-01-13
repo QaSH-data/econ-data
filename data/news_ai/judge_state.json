@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-12",
+  "date_utc": "2026-01-13",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -19,7 +19,8 @@
     "1460421288626487316",
     "1460438794749870369",
     "1460440212948648076",
-    "1460457496975118367"
+    "1460457496975118367",
+    "1460627519945441342"
   ],
   "seen_max": 2000,
   "topics": {
@@ -184,6 +185,15 @@
       "last_update_utc": "2026-01-13T02:17:10+00:00",
       "last_short": "Retracted: Mexico did not declare war on the US (prior alert was a test) — removes a tail-risk shock; risk premium/vol bid should fade.",
       "last_long": "This is a clean de-escalation because it negates a high-impact geopolitical tail that would have mechanically triggered risk-off positioning. If the false ‘war’ alert caused any knee-jerk repricing, the correction should (1) reduce demand for immediate downside hedges and safe havens (front-end/USTs, USD), and (2) allow equity index futures (ES/NQ) and EM risk sentiment to mean-revert as liquidity providers re-open risk and implied vol demand cools. Biggest near-term channel is volatility/risk-premium normalization rather than fundamentals. Residual sensitivity remains to follow-on clarification from the original source and to any repeat false alerts (credibility/operational-risk premium)."
+    },
+    "t_25546b89896b0c28": {
+      "count": 1,
+      "message_ids": [
+        "1460627519945441342"
+      ],
+      "last_update_utc": "2026-01-13T13:32:43+00:00",
+      "last_short": "US CPI MoM +0.3% (in line). Little shock, but keeps “sticky inflation” narrative alive into Jan 28 FOMC.",
+      "last_long": "US CPI MoM printed +0.3% vs +0.3% expected (prior +0.2%). With the headline exactly at consensus, the first-order impulse is “no surprise,” so any immediate ES/NQ and UST reaction should be more about positioning and details than the top-line beat/miss.\n\nMechanism: an in-line but firmer-than-prior monthly pace leans against rapid easing expectations, supporting front-end rates (ZT/2Y-sensitive) and keeping real-rate pressure in play. That tends to be a headwind for duration-heavy equities (NQ/mega-cap growth) and a mild tailwind for USD (DX), unless the market interprets the broader print as disinflationary in composition.\n\nWhy now: into the Jan 28 FOMC decision window, an on-consensus CPI reduces the odds of an “immediate policy surprise,” but it also doesn’t provide relief that inflation momentum is re-accelerating downward; the path of expectations is likely to hinge on whether underl"
     }
   },
   "topic_index": {
