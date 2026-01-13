@@ -6,3 +6,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-13T01:08:00.434000+00:00,1460440212948648076,1,t_d3a05151f6fd9ea2,2,"Mexico declares war on US — acute geopolitical shock; risk-off: US equities (ES/NQ), Treasuries, oil and MXN/EM FX to react."
 2026-01-13T02:16:41.267000+00:00,1460457496975118367,1,t_2dc5da3e354d59a9,4,Retracted: Mexico did not declare war on the US (prior alert was a test) — removes a tail-risk shock; risk premium/vol bid should fade.
 2026-01-13T13:32:17.902000+00:00,1460627519945441342,1,t_25546b89896b0c28,2,"US CPI MoM +0.3% (in line). Little shock, but keeps “sticky inflation” narrative alive into Jan 28 FOMC."
+2026-01-13T14:33:31.724000+00:00,1460642929071882283,1,t_841f88b7625c786c,4,"World Bank pegs global real GDP at 2.6% this year — lifts growth risk premium; negative for equities, supportive for Treasuries/safe-havens."

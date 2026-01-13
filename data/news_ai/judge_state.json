@@ -20,7 +20,8 @@
     "1460438794749870369",
     "1460440212948648076",
     "1460457496975118367",
-    "1460627519945441342"
+    "1460627519945441342",
+    "1460642929071882283"
   ],
   "seen_max": 2000,
   "topics": {
@@ -194,6 +195,15 @@
       "last_update_utc": "2026-01-13T13:32:43+00:00",
       "last_short": "US CPI MoM +0.3% (in line). Little shock, but keeps “sticky inflation” narrative alive into Jan 28 FOMC.",
       "last_long": "US CPI MoM printed +0.3% vs +0.3% expected (prior +0.2%). With the headline exactly at consensus, the first-order impulse is “no surprise,” so any immediate ES/NQ and UST reaction should be more about positioning and details than the top-line beat/miss.\n\nMechanism: an in-line but firmer-than-prior monthly pace leans against rapid easing expectations, supporting front-end rates (ZT/2Y-sensitive) and keeping real-rate pressure in play. That tends to be a headwind for duration-heavy equities (NQ/mega-cap growth) and a mild tailwind for USD (DX), unless the market interprets the broader print as disinflationary in composition.\n\nWhy now: into the Jan 28 FOMC decision window, an on-consensus CPI reduces the odds of an “immediate policy surprise,” but it also doesn’t provide relief that inflation momentum is re-accelerating downward; the path of expectations is likely to hinge on whether underl"
+    },
+    "t_841f88b7625c786c": {
+      "count": 1,
+      "message_ids": [
+        "1460642929071882283"
+      ],
+      "last_update_utc": "2026-01-13T14:34:00+00:00",
+      "last_short": "World Bank pegs global real GDP at 2.6% this year — lifts growth risk premium; negative for equities, supportive for Treasuries/safe-havens.",
+      "last_long": "World Bank: global real GDP seen at 2.6% this year. Primary market mechanism involved: risk premium. Causal chain: a weaker/slower global growth baseline raises downside risk to corporate revenues and margins, pushing investors to demand a higher equity risk premium and to reweight toward safe assets. Over the intraday to next few sessions expect this to shift session bias (not an isolated tick move): US index futures (ES/NQ) face downside pressure or muted upside as earnings prospects are repriced; commodity-sensitive sectors and EM assets are most exposed to downgrades in demand; concurrently, safe-haven flows should support US Treasuries (duration rally) and traditional defensive FX, compressing yields and steepening or flattening curves depending on positioning. The update also amplifies near-term Fed-event sensitivity (upcoming Jan FOMC window), since growth downgrades can temper fo"
     }
   },
   "topic_index": {
