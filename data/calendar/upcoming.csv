@@ -13,21 +13,21 @@ ts_utc,title,impact,forecast,previous,url
 2026-01-13T23:03:00+00:00,RCM/TIPP Economic Optimism,Low,48.2,47.9,https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism
 2026-01-14T02:01:00+00:00,30-y Bond Auction,Low,,4.77|2.4,https://www.forexfactory.com/calendar/540-us-30-y-bond-auction
 2026-01-14T03:00:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-2026-01-14T03:00:00+00:00,Federal Budget Balance,Low,-140.7B,-173.3B,https://www.forexfactory.com/calendar/322-us-federal-budget-balance
+2026-01-14T03:00:00+00:00,Federal Budget Balance,Low,-144.5B,-173.3B,https://www.forexfactory.com/calendar/322-us-federal-budget-balance
 2026-01-14T05:00:00+00:00,FOMC Member Barkin Speaks,Low,,,https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks
 2026-01-14T05:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
 2026-01-14T21:30:00+00:00,Core PPI m/m,High,0.2%,,https://www.forexfactory.com/calendar/87-us-core-ppi-mm
 2026-01-14T21:30:00+00:00,Core Retail Sales m/m,High,0.4%,0.4%,https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
 2026-01-14T21:30:00+00:00,PPI m/m,High,0.2%,,https://www.forexfactory.com/calendar/86-us-ppi-mm
 2026-01-14T21:30:00+00:00,Retail Sales m/m,High,0.5%,0.0%,https://www.forexfactory.com/calendar/102-us-retail-sales-mm
-2026-01-14T21:30:00+00:00,Current Account,Low,-238B,-251B,https://www.forexfactory.com/calendar/195-us-current-account
+2026-01-14T21:30:00+00:00,Current Account,Low,-235B,-251B,https://www.forexfactory.com/calendar/195-us-current-account
 2026-01-14T21:30:00+00:00,Core PPI m/m,Medium,,0.1%,https://www.forexfactory.com/calendar/87-us-core-ppi-mm
 2026-01-14T21:30:00+00:00,PPI m/m,Medium,,0.3%,https://www.forexfactory.com/calendar/86-us-ppi-mm
 2026-01-14T22:50:00+00:00,FOMC Member Paulson Speaks,Low,,,https://www.forexfactory.com/calendar/920-us-fomc-member-paulson-speaks
-2026-01-14T23:00:00+00:00,Business Inventories m/m,Low,0.2%,0.2%,https://www.forexfactory.com/calendar/153-us-business-inventories-mm
+2026-01-14T23:00:00+00:00,Business Inventories m/m,Low,0.1%,0.2%,https://www.forexfactory.com/calendar/153-us-business-inventories-mm
 2026-01-14T23:00:00+00:00,Existing Home Sales,Low,4.21M,4.13M,https://www.forexfactory.com/calendar/232-us-existing-home-sales
 2026-01-14T23:00:00+00:00,FOMC Member Miran Speaks,Low,,,https://www.forexfactory.com/calendar/926-us-fomc-member-miran-speaks
-2026-01-14T23:30:00+00:00,Crude Oil Inventories,Low,,-3.8M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
+2026-01-14T23:30:00+00:00,Crude Oil Inventories,Low,-1.7M,-3.8M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
 2026-01-15T01:00:00+00:00,FOMC Member Bostic Speaks,Low,,,https://www.forexfactory.com/calendar/725-us-fomc-member-bostic-speaks
 2026-01-15T01:00:00+00:00,FOMC Member Kashkari Speaks,Low,,,https://www.forexfactory.com/calendar/651-us-fomc-member-kashkari-speaks
 2026-01-15T03:00:00+00:00,Beige Book,Low,,,https://www.forexfactory.com/calendar/241-us-beige-book
@@ -39,7 +39,7 @@ ts_utc,title,impact,forecast,previous,url
 2026-01-15T21:30:00+00:00,Import Prices m/m,Low,,0.0%,https://www.forexfactory.com/calendar/256-us-import-prices-mm
 2026-01-15T21:35:00+00:00,FOMC Member Bostic Speaks,Low,,,https://www.forexfactory.com/calendar/725-us-fomc-member-bostic-speaks
 2026-01-15T22:15:00+00:00,FOMC Member Barr Speaks,Low,,,https://www.forexfactory.com/calendar/880-us-fomc-member-barr-speaks
-2026-01-15T23:30:00+00:00,Natural Gas Storage,Low,,-119B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
+2026-01-15T23:30:00+00:00,Natural Gas Storage,Low,-89B,-119B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
 2026-01-16T01:40:00+00:00,FOMC Member Barkin Speaks,Low,,,https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks
 2026-01-16T02:30:00+00:00,FOMC Member Schmid Speaks,Low,,,https://www.forexfactory.com/calendar/912-us-fomc-member-schmid-speaks
 2026-01-16T05:00:00+00:00,TIC Long-Term Purchases,Low,48.7B,17.5B,https://www.forexfactory.com/calendar/372-us-tic-long-term-purchases
