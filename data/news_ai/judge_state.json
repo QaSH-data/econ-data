@@ -15,7 +15,8 @@
     "1460366756576235580",
     "1460376050474418178",
     "1460382245033345077",
-    "1460408404286636173"
+    "1460408404286636173",
+    "1460421288626487316"
   ],
   "seen_max": 2000,
   "topics": {
@@ -144,6 +145,15 @@
       "last_update_utc": "2026-01-12T23:01:53+00:00",
       "last_short": "Iran launches thousands of missiles at a US base.",
       "last_long": "Assuming the report is accurate, a large-scale Iranian strike on a US base is a major geopolitical escalation that should trigger near-term risk-off market moves. Expect US equity futures (ES/NQ) to gap lower and volatility to spike, Treasuries to rally (yields fall), gold and the USD to rise, and crude oil to jump on supply/geopolitical risk. Sector impacts: defense/A&D and energy names likely bid; airlines, travel, and cyclical industrials under pressure. Key near-term things to watch: casualty and damage reports, US military/political response, disruption to shipping or regional energy infrastructure, sanctions/newsflow, and whether the episode is contained or prompts broader retaliation—these determine if the shock is fleeting or longer-lasting for rates, FX, and commodity markets."
+    },
+    "t_ee8d32f8cb673138": {
+      "count": 1,
+      "message_ids": [
+        "1460421288626487316"
+      ],
+      "last_update_utc": "2026-01-12T23:53:15+00:00",
+      "last_short": "Japan's Nov current-account surplus beat estimates (¥3.674T) and bank lending rose 4.4% YoY — supportive for JPY, Japanese banks and overall",
+      "last_long": "Japan reported a larger-than-expected November current-account surplus of ¥3.674 trillion and Bank of Japan data showed bank lending up 4.4% YoY. Near term, the surplus is a constructive macro signal for the yen (net external receipts), while rising lending points to firmer domestic credit growth. Market channels to monitor: USD/JPY moves (FX reaction can be immediate), Japanese financials (loan growth supports margins/earnings expectations), and export-oriented sectors (positive demand signal but offset risk if a stronger yen pressures exporters’ JPY-denominated profits). Also watch BoJ commentary and incoming trade/FX flows — these data can influence yen funding/carry dynamics and spill into Japanese equities and global FX crosses over the next few sessions. This is bullish macro news for Japanese risk assets and the yen, with ambiguous implications for exporters depending on FX moves."
     }
   },
   "topic_index": {
