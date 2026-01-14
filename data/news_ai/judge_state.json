@@ -34,7 +34,8 @@
     "1461020052936589312",
     "1461089562594906143",
     "1461097317309350124",
-    "1461100842118676756"
+    "1461100842118676756",
+    "1461145781032452206"
   ],
   "seen_max": 2000,
   "topics": {
@@ -310,6 +311,15 @@
       "last_update_utc": "2026-01-14T20:39:25+00:00",
       "last_short": "Trump says he was informed by 'sources on the other side' about Iran killings — raises geopolitical risk; likely boosts oil and defense name",
       "last_long": "Headline increases perceived geopolitical risk and should lift the market’s risk premium and volatility intraday and into the next few sessions. Causal chain: a high-profile claim of cross‑side sourcing on Iran killings raises uncertainty about attribution and potential escalation → investors demand a higher risk premium, bid safe-haven assets (USTs, gold, USD) and push implied volatility higher → oil prices and defense sector equities react to a greater chance of supply disruption or military activity → broad equity indices (ES/NQ) face downside bias as risk‑off flows and deleveraging pressure position-sensitive products. Primary market mechanism: risk premium/volatility. Info that will reweight impact and provide edge: confirmation or denial from governments, any reported military movements or strikes, Iranian/state-proxy responses, disruptions to shipping or oil infrastructure, offici"
+    },
+    "t_5793d270074476f0": {
+      "count": 1,
+      "message_ids": [
+        "1461145781032452206"
+      ],
+      "last_update_utc": "2026-01-14T23:52:13+00:00",
+      "last_short": "Japan PPI MoM rose 0.1% vs 0.2% expected (prior 0.3%), a small downside inflation surprise that leans mildly dovish for BoJ expectations and",
+      "last_long": "Japan PPI MoM at 0.1% (vs 0.2% consensus; prior 0.3%) is a modest cooling signal on upstream inflation. Mechanism: softer producer-price momentum marginally reduces urgency for additional BoJ tightening, which can ease upward pressure on JGB yields/real-rate expectations; that relative-rate channel can translate into a slightly softer JPY (USD/JPY firmer) and a better tone for duration-sensitive/rate-differential FX positioning. Why-now: with global markets still highly reactive to incremental inflation data into late-January central-bank windows, even small misses can matter at the margin via policy-path probabilities, but follow-through likely requires confirmation from CPI/wages or BoJ communication. Cross-asset read-through: most direct in JGBs and JPY; spillover to US index futures is usually second-order unless the FX move becomes large enough to tighten/loosen global financial con"
     }
   },
   "topic_index": {
