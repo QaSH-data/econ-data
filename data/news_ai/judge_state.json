@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-13",
+  "date_utc": "2026-01-14",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -27,7 +27,8 @@
     "1460672647867400381",
     "1460688287097422028",
     "1460738323470356743",
-    "1460754528831017041"
+    "1460754528831017041",
+    "1460989964366909480"
   ],
   "seen_max": 2000,
   "topics": {
@@ -256,6 +257,15 @@
       "last_update_utc": "2026-01-13T21:57:34+00:00",
       "last_short": "Trump floats opening China markets to US goods while warning Iran—reduces perceived trade-friction tail risk but adds geopolitics; supportiv",
       "last_long": "Mechanism (risk premia + sector dispersion). China-market-access rhetoric can be read as a de-escalatory/transactional trade stance, trimming perceived tariff/regulatory tail risk for China-exposed revenue streams (industrials, materials, select semis/mega-cap supply chains) and improving broad risk tone (ES/NQ) vs havens. In rates/FX, a modest risk-on impulse can lean toward slightly higher yields/softer USD on the margin if it reduces safe-haven demand, but magnitude is headline-dependent absent policy detail. Iran warnings push the other way by lifting geopolitical left-tail risk: keeps crude, defense, and volatility hedges “on watch,” raising cross-asset dispersion (risk indices up while energy/defense/oil risk premia remain supported). Why now: with Jan 27–28 FOMC approaching, geopolitics/trade headlines can quickly reprice equity risk premia and financial conditions even without a"
+    },
+    "t_64a4c77c4bf25e1f": {
+      "count": 1,
+      "message_ids": [
+        "1460989964366909480"
+      ],
+      "last_update_utc": "2026-01-14T13:33:06+00:00",
+      "last_short": "US Retail Sales MoM +0.6% vs +0.5% exp; core +0.5% vs +0.4% — modest upside that nudges a hawkish growth read, pressuring front-end Treasuri",
+      "last_long": "Jan 14 retail sales came in slightly stronger than expected: headline +0.6% m/m (0.5% est; 0.0% prior) and core +0.5% (0.4% est; 0.4% prior). The “why now” is front-end policy path sensitivity into the Jan 27–28 FOMC: better consumption momentum reduces the urgency for easier policy and can reprice near-term cuts lower. Mechanism: stronger demand → firmer growth/inflation risk distribution → higher front-end yields (ZT/ZF/ZN pressure) and potentially higher real rates → tighter financial conditions impulse for duration-heavy equities (NQ/tech) even if cyclicals/consumer-facing names get a fundamental growth tailwind. FX channel: higher relative US rates typically supports USD (DX) and can weigh on EUR (6E). What to watch next: whether this strength is broad-based vs volatile categories, whether revisions change the growth signal, and whether subsequent inflation prints (CPI/PCE) validate"
     }
   },
   "topic_index": {
