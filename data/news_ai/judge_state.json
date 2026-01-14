@@ -29,7 +29,8 @@
     "1460738323470356743",
     "1460754528831017041",
     "1460989964366909480",
-    "1461005167326658778"
+    "1461005167326658778",
+    "1461012827920797821"
   ],
   "seen_max": 2000,
   "topics": {
@@ -268,6 +269,15 @@
       "last_update_utc": "2026-01-14T13:33:06+00:00",
       "last_short": "US Retail Sales MoM +0.6% vs +0.5% exp; core +0.5% vs +0.4% — modest upside that nudges a hawkish growth read, pressuring front-end Treasuri",
       "last_long": "Jan 14 retail sales came in slightly stronger than expected: headline +0.6% m/m (0.5% est; 0.0% prior) and core +0.5% (0.4% est; 0.4% prior). The “why now” is front-end policy path sensitivity into the Jan 27–28 FOMC: better consumption momentum reduces the urgency for easier policy and can reprice near-term cuts lower. Mechanism: stronger demand → firmer growth/inflation risk distribution → higher front-end yields (ZT/ZF/ZN pressure) and potentially higher real rates → tighter financial conditions impulse for duration-heavy equities (NQ/tech) even if cyclicals/consumer-facing names get a fundamental growth tailwind. FX channel: higher relative US rates typically supports USD (DX) and can weigh on EUR (6E). What to watch next: whether this strength is broad-based vs volatile categories, whether revisions change the growth signal, and whether subsequent inflation prints (CPI/PCE) validate"
+    },
+    "t_b26a713fd1143bb6": {
+      "count": 1,
+      "message_ids": [
+        "1461012827920797821"
+      ],
+      "last_update_utc": "2026-01-14T15:04:07+00:00",
+      "last_short": "US existing-home sales 4.35M (vs 4.22M) and business inventories +0.3% (vs +0.1%) are upside growth signals. Bias: firmer risk tone, slightl",
+      "last_long": "What happened (Jan 14, 2026): Existing-home sales beat (4.35M vs 4.22M; +5.1% m/m vs +2.18%) alongside a firmer business inventories print (+0.3% m/m vs +0.1%).\n\nMechanism: (1) Housing activity strength typically lifts near-term growth expectations and can firm the “soft-landing” narrative; (2) higher inventories can be read as restocking/stronger activity, but also invites a quick check on whether sales are keeping pace (i.e., whether inventories are demand-driven or unwanted build).\n\nMarket linkage: The cleanest transmission is via rates. Better growth data can push front-end and belly yields higher and trim easing odds into the Jan 27–28 FOMC window; that supports cyclicals/financials more than long-duration/defensives in an index-futures tape. If yields rise meaningfully, equity upside can be capped even with ‘good’ macro.\n\nGeopolitics tag: The line about Secretary of War Hegseth hos"
     }
   },
   "topic_index": {
