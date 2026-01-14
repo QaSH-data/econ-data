@@ -30,7 +30,8 @@
     "1460754528831017041",
     "1460989964366909480",
     "1461005167326658778",
-    "1461012827920797821"
+    "1461012827920797821",
+    "1461020052936589312"
   ],
   "seen_max": 2000,
   "topics": {
@@ -278,6 +279,15 @@
       "last_update_utc": "2026-01-14T15:04:07+00:00",
       "last_short": "US existing-home sales 4.35M (vs 4.22M) and business inventories +0.3% (vs +0.1%) are upside growth signals. Bias: firmer risk tone, slightl",
       "last_long": "What happened (Jan 14, 2026): Existing-home sales beat (4.35M vs 4.22M; +5.1% m/m vs +2.18%) alongside a firmer business inventories print (+0.3% m/m vs +0.1%).\n\nMechanism: (1) Housing activity strength typically lifts near-term growth expectations and can firm the “soft-landing” narrative; (2) higher inventories can be read as restocking/stronger activity, but also invites a quick check on whether sales are keeping pace (i.e., whether inventories are demand-driven or unwanted build).\n\nMarket linkage: The cleanest transmission is via rates. Better growth data can push front-end and belly yields higher and trim easing odds into the Jan 27–28 FOMC window; that supports cyclicals/financials more than long-duration/defensives in an index-futures tape. If yields rise meaningfully, equity upside can be capped even with ‘good’ macro.\n\nGeopolitics tag: The line about Secretary of War Hegseth hos"
+    },
+    "t_76d7e478134ee1d6": {
+      "count": 1,
+      "message_ids": [
+        "1461020052936589312"
+      ],
+      "last_update_utc": "2026-01-14T15:32:28+00:00",
+      "last_short": "Claim: EIA CRUDE OIL INVENTORIES ACTUAL 3.391M (FORECAST -1.682M, PREVIOUS -3.832M) $MACRO EIA GASOLINE INVENTORIES ACTUAL 8.977M (FORECAST",
+      "last_long": "Claimed event: EIA CRUDE OIL INVENTORIES ACTUAL 3.391M (FORECAST -1.682M, PREVIOUS -3.832M) $MACRO EIA GASOLINE INVENTORIES ACTUAL 8.977M (FORECAST 2M, PREVIOUS 7.702M) $MACRO. The AI model failed. Check the original source."
     }
   },
   "topic_index": {
