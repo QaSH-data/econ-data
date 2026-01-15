@@ -36,7 +36,8 @@
     "1461097317309350124",
     "1461100842118676756",
     "1461145781032452206",
-    "1461247111780765738"
+    "1461247111780765738",
+    "1461254015429120143"
   ],
   "seen_max": 2000,
   "topics": {
@@ -330,6 +331,15 @@
       "last_update_utc": "2026-01-15T06:34:57+00:00",
       "last_short": "French CPI MoM 0.1% (in line with prior) — inflation steady; modest immediate impact on EUR FX and euro-area sovereign yields, with limited",
       "last_long": "French MoM CPI 0.1% (NSA), matching the prior print, signals no fresh acceleration in French monthly inflation. Primary market mechanism: rates expectations — a steady reading reduces near-term odds of surprise ECB tightening and eases front-end euro-area yield pressure intraday and over the next few sessions. Market channels most exposed: EUR/USD and EUR swaps/sovereign curves (OATs/Bunds) respond to repriced short-term policy risk; European bank and cyclically sensitive equities can see modest sentiment moves; cross-asset spill to US futures is likely limited but possible via risk premium/FX moves. Watchables that provide edge: harmonized/eurozone and German CPI prints, core measures, ECB speaker cadence/minutes, and wage or services inflation data to confirm persistence. Time-bounded: expect effects mainly intraday through the next several sessions unless followed by broader euro-area"
+    },
+    "t_d9b9955f94394b27": {
+      "count": 1,
+      "message_ids": [
+        "1461254015429120143"
+      ],
+      "last_update_utc": "2026-01-15T07:02:24+00:00",
+      "last_short": "UK 3m/3m GDP +0.1% vs -0.2% forecast — upside surprise; likely to lift GBP and push gilt yields higher, impacting rates-sensitive sectors (f",
+      "last_long": "UK 3m/3m GDP unexpectedly rose 0.1% vs a -0.2% forecast. Primary market mechanism: rates expectations. Intraday and over the next few sessions this upside should raise odds of the BoE delaying cuts or signalling a less-dovish stance, which puts upward pressure on gilt yields and supports GBP. Higher local yields tighten UK financial conditions, benefiting banks/financials (improved net interest narratives) while weighing on long-duration UK assets and RE-related sectors. Transmission to global markets is via a modest repricing of risk premia and cross-currency moves: stronger sterling and higher UK real yields can nudge global bond yields and FX pairs, creating a session bias rather than an across-the-board shock to US index futures. Watch short-dated gilts, GBP/USD, UK equities (banks) and EUR/GBP for follow-through; persistence depends on subsequent BoE communication and payroll/inflat"
     }
   },
   "topic_index": {
