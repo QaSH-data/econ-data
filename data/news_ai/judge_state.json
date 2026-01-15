@@ -46,7 +46,8 @@
     "1461367528814280832",
     "1461390684354515006",
     "1461437982274752573",
-    "1461463228575125649"
+    "1461463228575125649",
+    "1461465888380289109"
   ],
   "seen_max": 2000,
   "topics": {
@@ -422,6 +423,15 @@
       "last_update_utc": "2026-01-15T20:53:35+00:00",
       "last_short": "",
       "last_long": ""
+    },
+    "t_3cef8c1c333bc6d8": {
+      "count": 1,
+      "message_ids": [
+        "1461465888380289109"
+      ],
+      "last_update_utc": "2026-01-15T21:04:23+00:00",
+      "last_short": "TIC stock data: Japan UST holdings rose to $1.203T in Nov (vs $1.200T Oct); UK rose to $889B (vs $878B). Small month-on-month increases—mode",
+      "last_long": "This is a monthly TIC “holdings” update (stock, not flow): Japan’s US Treasury holdings edged up to $1.203T in November from $1.200T in October, and the UK’s rose to $889B from $878B. Mechanism: a higher foreign-held stock implies slightly more non-resident absorption of Treasury supply, which can (at the margin) soften term-premium pressure and reduce the amount dealers/domestic investors must intermediate; FX linkage is indirect via hedging and rate differentials rather than a clean “buy USD” signal. Why it matters now: into a late-January FOMC that is still broadly priced as a no-change baseline, these incremental foreign-demand datapoints are more of a background check on structural demand than a catalyst—impact is typically most visible when paired with (a) large month-to-month moves, (b) weak auction outcomes, or (c) funding/repo stress that makes balance-sheet capacity scarce. Wha"
     }
   },
   "topic_index": {
