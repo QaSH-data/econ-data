@@ -40,7 +40,8 @@
     "1461254015429120143",
     "1461254445617905828",
     "1461265385230831616",
-    "1461288460940869653"
+    "1461288460940869653",
+    "1461303506257576110"
   ],
   "seen_max": 2000,
   "topics": {
@@ -370,6 +371,15 @@
       "last_update_utc": "2026-01-15T09:19:14+00:00",
       "last_short": "BoJ seen paying more attention to a weak yen: read-through is higher odds of stronger jawboning and (at the margin) earlier policy/ops tweak",
       "last_long": "A shift toward “paying more attention” to a weak yen is a rates-and-credibility signal: it increases the market’s perceived probability of (1) more forceful verbal intervention (BoJ/MoF), and (2) incremental policy/operational adjustments that reduce yen depreciation pressure (e.g., tolerance for higher domestic yields, less dovish guidance). The first-order channel is FX via expectation management; the second-order channel is JGB yields/curve repricing, which can spill into global duration and risk through carry positioning.\n\nWhy it matters now (into late January): with the Jan 27–28 FOMC window approaching, any USD/JPY move driven by Japan-side policy expectations can be amplified by shifting US real-rate expectations; this raises the chance of choppy cross-asset reactions (JPY, JGBs, and equity-duration proxies) even without a change in the Fed base case.\n\nWhat to watch for confirmati"
+    },
+    "t_5dcc2a82237dec08": {
+      "count": 1,
+      "message_ids": [
+        "1461303506257576110"
+      ],
+      "last_update_utc": "2026-01-15T10:18:56+00:00",
+      "last_short": "Eurozone trade surplus narrowed to €11B (prev €14B). Mildly growth-negative at the margin: can lean EUR softer and support Bunds via lower g",
+      "last_long": "Eurozone trade balance printed a €11B surplus versus €14B prior, a clear narrowing of the external surplus. Mechanism: a smaller surplus typically implies less net-export contribution to near-term growth (and, indirectly, less pricing power if the move reflects weaker volumes rather than higher import prices). That mix can (1) slightly soften EUR via relative-growth/rate-expectations, and (2) modestly support core rates (Bunds) if investors read it as incremental disinflationary/growth-dampening.\n\nWhy it matters now: with markets focused on policy-path sensitivity into the Jan 27–28 FOMC meeting, any EUR move that strengthens USD (DX) can become the main transmission into US index futures (financial-conditions/tighter USD) rather than the data itself. Base case: localized EUR/rates reaction; spillover to ES/NQ is likely limited unless the print coincides with broader “Europe growth soft”"
     }
   },
   "topic_index": {
