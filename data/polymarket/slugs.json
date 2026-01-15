@@ -1,15 +1,15 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-15T23:27:25Z",
-    "notes": "Selection made based on available candidates that cover the essential rate outcomes for January 2026."
+    "last_audit_utc": "2026-01-15T23:35:02Z",
+    "notes": "Two events selected for January to ensure comprehensive coverage of rate decisions and dissent outcomes. All market slugs and ids are valid and exist in the data provided."
   },
   "meetings": {
     "2026-01": {
       "event_end_date_utc": "2026-01-28T00:00:00Z",
       "event_slug": "fed-decision-in-january",
-      "pinned_utc": "2026-01-15T23:27:25Z",
-      "selection_reason": "Best event for capturing the variety of outcomes including rate changes and keeping a 'no change' option.",
+      "pinned_utc": "2026-01-15T23:35:02Z",
+      "selection_reason": "This event offers direct outcomes related to rate changes for January, including 'No change', 'Cut 25bp', and 'Cut 50bp'.",
       "sub_markets": [
         {
           "label": "No change in Fed interest rates after January 2026 meeting?",
@@ -32,16 +32,6 @@
           "question": "Fed decreases interest rates by 25 bps after January 2026 meeting?"
         },
         {
-          "label": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
-          "market_id": "601700",
-          "market_slug": "fed-increases-interest-rates-by-25-bps-after-january-2026-meeting",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Fed increases interest rates by 25+ bps after January 2026 meeting?"
-        },
-        {
           "label": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
           "market_id": "601697",
           "market_slug": "fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting",
@@ -50,6 +40,16 @@
             "No"
           ],
           "question": "Fed decreases interest rates by 50+ bps after January 2026 meeting?"
+        },
+        {
+          "label": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+          "market_id": "601700",
+          "market_slug": "fed-increases-interest-rates-by-25-bps-after-january-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Fed increases interest rates by 25+ bps after January 2026 meeting?"
         }
       ],
       "warnings": []
