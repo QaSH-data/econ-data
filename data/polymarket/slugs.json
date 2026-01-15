@@ -1,0 +1,60 @@
+{
+  "audit": {
+    "changes": [],
+    "last_audit_utc": "2026-01-15T23:27:25Z",
+    "notes": "Selection made based on available candidates that cover the essential rate outcomes for January 2026."
+  },
+  "meetings": {
+    "2026-01": {
+      "event_end_date_utc": "2026-01-28T00:00:00Z",
+      "event_slug": "fed-decision-in-january",
+      "pinned_utc": "2026-01-15T23:27:25Z",
+      "selection_reason": "Best event for capturing the variety of outcomes including rate changes and keeping a 'no change' option.",
+      "sub_markets": [
+        {
+          "label": "No change in Fed interest rates after January 2026 meeting?",
+          "market_id": "601699",
+          "market_slug": "no-change-in-fed-interest-rates-after-january-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "No change in Fed interest rates after January 2026 meeting?"
+        },
+        {
+          "label": "Fed decreases interest rates by 25 bps after January 2026 meeting?",
+          "market_id": "601698",
+          "market_slug": "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Fed decreases interest rates by 25 bps after January 2026 meeting?"
+        },
+        {
+          "label": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+          "market_id": "601700",
+          "market_slug": "fed-increases-interest-rates-by-25-bps-after-january-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Fed increases interest rates by 25+ bps after January 2026 meeting?"
+        },
+        {
+          "label": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+          "market_id": "601697",
+          "market_slug": "fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Fed decreases interest rates by 50+ bps after January 2026 meeting?"
+        }
+      ],
+      "warnings": []
+    }
+  },
+  "updated_ym": "2026-01",
+  "version": 9
+}
