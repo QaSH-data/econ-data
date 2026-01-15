@@ -44,7 +44,8 @@
     "1461303506257576110",
     "1461352686505951243",
     "1461367528814280832",
-    "1461390684354515006"
+    "1461390684354515006",
+    "1461437982274752573"
   ],
   "seen_max": 2000,
   "topics": {
@@ -402,6 +403,15 @@
       "last_update_utc": "2026-01-15T16:05:28+00:00",
       "last_short": "UK GDP estimate YoY 1.4% (prev 1.1%) is a growth-positive surprise that can firm gilts/GBP and marginally improve global risk tone; US futur",
       "last_long": "Why-now: A higher UK GDP YoY estimate (1.4% vs 1.1% prior) is a clean growth signal that can reprice near-term Bank of England expectations and, by extension, UK rates/FX. Primary mechanism: stronger activity reduces urgency for BoE easing and can steepen/firm the front end of the gilt curve; GBP tends to benefit if rate differentials move in its favor. Spillovers to US index futures (ES/NQ) are typically indirect: (1) modest support to global risk sentiment via “Europe growth not as weak” framing, and (2) cross-market rate moves—if gilts back up, USTs can be tugged via relative-value flows, influencing USD and duration-sensitive equities. How it interacts with current rates context: into the Jan 27–28 FOMC, the US tape is still dominated by front-end policy expectations; this UK print is more likely to matter through USD/FX and global yields than as a standalone driver of US risk. Watch"
+    },
+    "t_28c2528fce15ed3b": {
+      "count": 1,
+      "message_ids": [
+        "1461437982274752573"
+      ],
+      "last_update_utc": "2026-01-15T19:13:10+00:00",
+      "last_short": "US and Taiwan set a quota system for future chip tariffs — reduces tariff shock and downside risk to chip exports; positive near-term for se",
+      "last_long": "What happened: a quota-based approach to future US-Taiwan chip tariffs replaces the threat of broad blanket tariffs. Primary market mechanism: risk premium — policy uncertainty that had been priced into semiconductor revenue and supply-chain risk should fall. Causal chain (intraday → next few sessions): quota rules lower the probability of large unilateral tariff hits on Taiwan-origin wafers and packaging, which reduces downside to foundry throughput and OEM margins; that lowers the policy-driven risk premium on semiconductor equities and related futures (SMH, SOX, TSM/TSMC, large US chip names) and should compress implied volatility in sector options. Secondary channels: earnings revisions risk is reduced (analysts may lift near-term revenue forecasts), flows could rotate back into semis and supply-chain suppliers, and index futures (NQ/ES) may see a modest bullish reweighting if tech l"
     }
   },
   "topic_index": {
