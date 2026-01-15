@@ -38,7 +38,8 @@
     "1461145781032452206",
     "1461247111780765738",
     "1461254015429120143",
-    "1461254445617905828"
+    "1461254445617905828",
+    "1461265385230831616"
   ],
   "seen_max": 2000,
   "topics": {
@@ -350,6 +351,15 @@
       "last_update_utc": "2026-01-15T07:04:15+00:00",
       "last_short": "UK activity beat (GDP m/m +0.3% vs +0.1% f/c; IP y/y +2.3% vs -0.4% f/c) is a near-term hawkish impulse for BoE pricing: GBP bid and gilts p",
       "last_long": "Why it matters now: in a market still highly sensitive to front-end policy paths into late-January central-bank events, a clean UK upside growth/production surprise is the type of catalyst that can reprice near-term BoE expectations quickly.\n\nMechanism (UK): stronger-than-expected monthly GDP and a large positive industrial production surprise reduce immediate recession/slowdown fears and increase the odds that the BoE can stay restrictive for longer (or lean less dovish). The first-order transmission is higher gilt yields (especially front-end/2–5y via OIS), firmer GBP (GBP/USD and EUR/GBP), and a relative bid to UK/European cyclicals versus duration-sensitive defensives. If gilts sell off meaningfully, the second-order channel is modest upward pressure on global duration (including USTs) via cross-market rates correlation and term-premium.\n\nMechanism (Germany/Euro area): the softer Ger"
+    },
+    "t_602262c3fa03b262": {
+      "count": 1,
+      "message_ids": [
+        "1461265385230831616"
+      ],
+      "last_update_utc": "2026-01-15T07:47:27+00:00",
+      "last_short": "France HICP MoM final +0.1% (vs +0.1% f/c, +0.1% prior) — a true “no-surprise” inflation confirmation; should keep EUR rates/FX reaction mut",
+      "last_long": "This print is fully in-line (+0.1% m/m final vs +0.1% expected and prior), so it does not add incremental pressure to reprice the ECB path. Mechanically: with no inflation surprise, front-end EUR money-market pricing and the euro swap curve should see little to no adjustment; any move is more likely micro (positioning/liquidity) than macro-driven. Cross-asset read-through is similarly limited: Bund/OAT yields shouldn’t need to re-anchor, EUR (6E) reaction should be muted, and European banks/cyclicals get no fresh tailwind/headwind from inflation expectations.\n\nWhy it matters anyway: even “no change” final prints help validate the prior inflation trajectory into upcoming euro-area data and ECB communication. The market sensitivity remains in whether broader eurozone core inflation shows persistence vs cooling; France alone (and final, not flash) typically isn’t a catalyst unless it surpri"
     }
   },
   "topic_index": {
