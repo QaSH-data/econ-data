@@ -43,7 +43,8 @@
     "1461288460940869653",
     "1461303506257576110",
     "1461352686505951243",
-    "1461367528814280832"
+    "1461367528814280832",
+    "1461390684354515006"
   ],
   "seen_max": 2000,
   "topics": {
@@ -392,6 +393,15 @@
       "last_update_utc": "2026-01-15T13:34:25+00:00",
       "last_short": "Initial claims 198k vs 215k est and continued 1.884M vs 1.897M est — labor softer-layoff signal than expected. Bias: modestly hawkish at the",
       "last_long": "What happened (Jan 15, 2026): Weekly initial jobless claims printed 198k (below 215k consensus; prior 208k) and continued claims 1.884M (below 1.897M consensus; prior 1.914M). Read-through: fewer new layoffs plus slightly less difficulty staying unemployed vs expected, consistent with a still-resilient labor market.\n\nTransmission: This is primarily a policy-path input. A firmer labor signal tends to push “higher for longer” probabilities at the margin, lifting front-end/real-rate sensitivity and nudging discount rates higher.\n\nWhy it matters now: With the Jan 27–28 FOMC approaching, even second-tier labor data can reweight the distribution around “no change but restrictive stance,” especially if the market has been leaning toward earlier easing. The immediate tell will be whether the move concentrates in front-end rates (ZT) vs a broader curve bear-steepening/flattening.\n\nLikely cross-as"
+    },
+    "t_7fc870d43e0637d6": {
+      "count": 1,
+      "message_ids": [
+        "1461390684354515006"
+      ],
+      "last_update_utc": "2026-01-15T16:05:28+00:00",
+      "last_short": "UK GDP estimate YoY 1.4% (prev 1.1%) is a growth-positive surprise that can firm gilts/GBP and marginally improve global risk tone; US futur",
+      "last_long": "Why-now: A higher UK GDP YoY estimate (1.4% vs 1.1% prior) is a clean growth signal that can reprice near-term Bank of England expectations and, by extension, UK rates/FX. Primary mechanism: stronger activity reduces urgency for BoE easing and can steepen/firm the front end of the gilt curve; GBP tends to benefit if rate differentials move in its favor. Spillovers to US index futures (ES/NQ) are typically indirect: (1) modest support to global risk sentiment via “Europe growth not as weak” framing, and (2) cross-market rate moves—if gilts back up, USTs can be tugged via relative-value flows, influencing USD and duration-sensitive equities. How it interacts with current rates context: into the Jan 27–28 FOMC, the US tape is still dominated by front-end policy expectations; this UK print is more likely to matter through USD/FX and global yields than as a standalone driver of US risk. Watch"
     }
   },
   "topic_index": {
