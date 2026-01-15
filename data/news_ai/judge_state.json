@@ -35,7 +35,8 @@
     "1461089562594906143",
     "1461097317309350124",
     "1461100842118676756",
-    "1461145781032452206"
+    "1461145781032452206",
+    "1461247111780765738"
   ],
   "seen_max": 2000,
   "topics": {
@@ -320,6 +321,15 @@
       "last_update_utc": "2026-01-14T23:52:13+00:00",
       "last_short": "Japan PPI MoM rose 0.1% vs 0.2% expected (prior 0.3%), a small downside inflation surprise that leans mildly dovish for BoJ expectations and",
       "last_long": "Japan PPI MoM at 0.1% (vs 0.2% consensus; prior 0.3%) is a modest cooling signal on upstream inflation. Mechanism: softer producer-price momentum marginally reduces urgency for additional BoJ tightening, which can ease upward pressure on JGB yields/real-rate expectations; that relative-rate channel can translate into a slightly softer JPY (USD/JPY firmer) and a better tone for duration-sensitive/rate-differential FX positioning. Why-now: with global markets still highly reactive to incremental inflation data into late-January central-bank windows, even small misses can matter at the margin via policy-path probabilities, but follow-through likely requires confirmation from CPI/wages or BoJ communication. Cross-asset read-through: most direct in JGBs and JPY; spillover to US index futures is usually second-order unless the FX move becomes large enough to tighten/loosen global financial con"
+    },
+    "t_34814f18bfee4a3f": {
+      "count": 1,
+      "message_ids": [
+        "1461247111780765738"
+      ],
+      "last_update_utc": "2026-01-15T06:34:57+00:00",
+      "last_short": "French CPI MoM 0.1% (in line with prior) — inflation steady; modest immediate impact on EUR FX and euro-area sovereign yields, with limited",
+      "last_long": "French MoM CPI 0.1% (NSA), matching the prior print, signals no fresh acceleration in French monthly inflation. Primary market mechanism: rates expectations — a steady reading reduces near-term odds of surprise ECB tightening and eases front-end euro-area yield pressure intraday and over the next few sessions. Market channels most exposed: EUR/USD and EUR swaps/sovereign curves (OATs/Bunds) respond to repriced short-term policy risk; European bank and cyclically sensitive equities can see modest sentiment moves; cross-asset spill to US futures is likely limited but possible via risk premium/FX moves. Watchables that provide edge: harmonized/eurozone and German CPI prints, core measures, ECB speaker cadence/minutes, and wage or services inflation data to confirm persistence. Time-bounded: expect effects mainly intraday through the next several sessions unless followed by broader euro-area"
     }
   },
   "topic_index": {
