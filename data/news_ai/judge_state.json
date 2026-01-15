@@ -37,7 +37,8 @@
     "1461100842118676756",
     "1461145781032452206",
     "1461247111780765738",
-    "1461254015429120143"
+    "1461254015429120143",
+    "1461254445617905828"
   ],
   "seen_max": 2000,
   "topics": {
@@ -340,6 +341,15 @@
       "last_update_utc": "2026-01-15T07:02:24+00:00",
       "last_short": "UK 3m/3m GDP +0.1% vs -0.2% forecast — upside surprise; likely to lift GBP and push gilt yields higher, impacting rates-sensitive sectors (f",
       "last_long": "UK 3m/3m GDP unexpectedly rose 0.1% vs a -0.2% forecast. Primary market mechanism: rates expectations. Intraday and over the next few sessions this upside should raise odds of the BoE delaying cuts or signalling a less-dovish stance, which puts upward pressure on gilt yields and supports GBP. Higher local yields tighten UK financial conditions, benefiting banks/financials (improved net interest narratives) while weighing on long-duration UK assets and RE-related sectors. Transmission to global markets is via a modest repricing of risk premia and cross-currency moves: stronger sterling and higher UK real yields can nudge global bond yields and FX pairs, creating a session bias rather than an across-the-board shock to US index futures. Watch short-dated gilts, GBP/USD, UK equities (banks) and EUR/GBP for follow-through; persistence depends on subsequent BoE communication and payroll/inflat"
+    },
+    "t_4b7daf74b61b9f10": {
+      "count": 1,
+      "message_ids": [
+        "1461254445617905828"
+      ],
+      "last_update_utc": "2026-01-15T07:04:15+00:00",
+      "last_short": "UK activity beat (GDP m/m +0.3% vs +0.1% f/c; IP y/y +2.3% vs -0.4% f/c) is a near-term hawkish impulse for BoE pricing: GBP bid and gilts p",
+      "last_long": "Why it matters now: in a market still highly sensitive to front-end policy paths into late-January central-bank events, a clean UK upside growth/production surprise is the type of catalyst that can reprice near-term BoE expectations quickly.\n\nMechanism (UK): stronger-than-expected monthly GDP and a large positive industrial production surprise reduce immediate recession/slowdown fears and increase the odds that the BoE can stay restrictive for longer (or lean less dovish). The first-order transmission is higher gilt yields (especially front-end/2–5y via OIS), firmer GBP (GBP/USD and EUR/GBP), and a relative bid to UK/European cyclicals versus duration-sensitive defensives. If gilts sell off meaningfully, the second-order channel is modest upward pressure on global duration (including USTs) via cross-market rates correlation and term-premium.\n\nMechanism (Germany/Euro area): the softer Ger"
     }
   },
   "topic_index": {
