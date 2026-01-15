@@ -45,7 +45,8 @@
     "1461352686505951243",
     "1461367528814280832",
     "1461390684354515006",
-    "1461437982274752573"
+    "1461437982274752573",
+    "1461463228575125649"
   ],
   "seen_max": 2000,
   "topics": {
@@ -412,6 +413,15 @@
       "last_update_utc": "2026-01-15T19:13:10+00:00",
       "last_short": "US and Taiwan set a quota system for future chip tariffs — reduces tariff shock and downside risk to chip exports; positive near-term for se",
       "last_long": "What happened: a quota-based approach to future US-Taiwan chip tariffs replaces the threat of broad blanket tariffs. Primary market mechanism: risk premium — policy uncertainty that had been priced into semiconductor revenue and supply-chain risk should fall. Causal chain (intraday → next few sessions): quota rules lower the probability of large unilateral tariff hits on Taiwan-origin wafers and packaging, which reduces downside to foundry throughput and OEM margins; that lowers the policy-driven risk premium on semiconductor equities and related futures (SMH, SOX, TSM/TSMC, large US chip names) and should compress implied volatility in sector options. Secondary channels: earnings revisions risk is reduced (analysts may lift near-term revenue forecasts), flows could rotate back into semis and supply-chain suppliers, and index futures (NQ/ES) may see a modest bullish reweighting if tech l"
+    },
+    "t_afc9a20cc240116c": {
+      "count": 1,
+      "message_ids": [
+        "1461463228575125649"
+      ],
+      "last_update_utc": "2026-01-15T20:53:35+00:00",
+      "last_short": "",
+      "last_long": ""
     }
   },
   "topic_index": {
