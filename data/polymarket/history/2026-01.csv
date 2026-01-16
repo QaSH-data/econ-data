@@ -45,3 +45,7 @@ TimestampUtc,MeetingMonth,EventSlug,SubMarketSlug,Label,Pct,EventEndDateUtc
 2026-01-16T10:50:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Fed decreases interest rates by 25 bps after January 2026 meeting?,4.1000,2026-01-28T00:00:00Z
 2026-01-16T10:50:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting,Fed decreases interest rates by 50+ bps after January 2026 meeting?,0.3500,2026-01-28T00:00:00Z
 2026-01-16T10:50:01Z,2026-01,fed-decision-in-january,fed-increases-interest-rates-by-25-bps-after-january-2026-meeting,Fed increases interest rates by 25+ bps after January 2026 meeting?,0.1500,2026-01-28T00:00:00Z
+2026-01-16T11:50:01Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change in Fed interest rates after January 2026 meeting?,95.5500,2026-01-28T00:00:00Z
+2026-01-16T11:50:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Fed decreases interest rates by 25 bps after January 2026 meeting?,4.1000,2026-01-28T00:00:00Z
+2026-01-16T11:50:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting,Fed decreases interest rates by 50+ bps after January 2026 meeting?,0.3500,2026-01-28T00:00:00Z
+2026-01-16T11:50:01Z,2026-01,fed-decision-in-january,fed-increases-interest-rates-by-25-bps-after-january-2026-meeting,Fed increases interest rates by 25+ bps after January 2026 meeting?,0.1500,2026-01-28T00:00:00Z
