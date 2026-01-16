@@ -51,7 +51,8 @@
     "1461467886185873530",
     "1461616379219280003",
     "1461616755603406903",
-    "1461725942392029346"
+    "1461725942392029346",
+    "1461730023940817012"
   ],
   "seen_max": 2000,
   "topics": {
@@ -101,15 +102,16 @@
       "last_long": "As of 2026-01-03 22:59 UTC, I cannot corroborate “Neizchum” as a real location, agency, asset, or recognized geopolitical theater via accessible public sources, nor can I find credible-wire/official reporting tied to this specific claim. That strongly points to either (a) a fabricated headline, (b) a mistranslation/misspelling, or (c) an in-network/internal codename that is not publicly indexable.\n\nMarket read: if desks briefly priced a “nuclear threat” off this rumor, a debunk (“no nuclear threat”) typically removes the most acute tail-risk bid—supporting a normalization impulse (risk premia/volatility compression) rather than creating a new macro impulse. However, given the entity ambiguity, the safer posture is to treat this item as non-actionable until a top-tier source (official government statement or major wire) confirms both the original claim and its retraction.\n\nWhat to monitor"
     },
     "t_4e9a016194f8d732": {
-      "count": 3,
+      "count": 4,
       "message_ids": [
         "1460280326831079575",
         "1461005167326658778",
-        "1461367528814280832"
+        "1461367528814280832",
+        "1461730023940817012"
       ],
-      "last_update_utc": "2026-01-15T14:33:11+00:00",
-      "last_short": "",
-      "last_long": ""
+      "last_update_utc": "2026-01-16T14:34:00+00:00",
+      "last_short": "Jan 16 MOO shows a large S&P 500 sell imbalance (-$462.8M) vs a small Nasdaq 100 buy (+$36.8M). Skews the cash open toward S&P-underperforma",
+      "last_long": "As of 2026-01-16 14:33 UTC, the market-on-open (MOO) imbalance is strongly negative in the S&P 500 (-$462.8M) while Nasdaq 100 is modestly positive (+$36.8M) and Dow is also negative (-$48.6M). Mechanism: MOO orders concentrate liquidity-taking at the opening auction; a large net sell can pressure the opening print, widen spreads, and force market makers/arbs to lean on ES or SPY to hedge, transmitting into index futures and sector ETFs. Why it matters now: (1) it’s a cross-index divergence (S&P-heavy selling vs Nasdaq small buy), which can express as factor/sector rotation at the open (value/financials/industrials vs growth/tech) rather than a uniform risk-on/off move; (2) the open is when depth is thinnest, so the same notional can create outsized gap/whipsaw risk; (3) if futures already reflect the imbalance pre-open, the main risk becomes a fast reversal once the auction clears. Watc"
     },
     "t_580e22849c685f56": {
       "count": 1,
