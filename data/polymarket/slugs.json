@@ -1,15 +1,15 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-16T00:05:01Z",
-    "notes": "The selection for January captures critical FOMC decisions and adheres to the guidelines provided."
+    "last_audit_utc": "2026-01-16T00:10:02Z",
+    "notes": "Selected the event 'next-three-fed-decisions' for January 2026 as it provides multiple relevant sub-markets."
   },
   "meetings": {
     "2026-01": {
       "event_end_date_utc": "2026-01-31T00:00:00Z",
       "event_slug": "next-three-fed-decisions",
-      "pinned_utc": "2026-01-16T00:05:01Z",
-      "selection_reason": "Captures broader perspectives over the next three FOMC meetings including January.",
+      "pinned_utc": "2026-01-16T00:10:02Z",
+      "selection_reason": "Captures broader perspectives over the next FOMC meetings including January.",
       "sub_markets": [
         {
           "label": "Will the Fed Cut\u2013Cut\u2013Cut in the next three decisions (Oct\u2013Dec\u2013Jan)?",
