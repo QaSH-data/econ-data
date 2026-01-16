@@ -30,3 +30,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-15T21:03:40.513000+00:00,1461465888380289109,1,t_3cef8c1c333bc6d8,2,TIC stock data: Japan UST holdings rose to $1.203T in Nov (vs $1.200T Oct); UK rose to $889B (vs $878B). Small month-on-month increases—mode
 2026-01-15T21:11:36.827000+00:00,1461467886185873530,1,t_13cc95e9233c1574,5,Fox reports US military assets moving to the Middle East; headline is a near-term geopolitics risk-on/risk-off swing factor—typically suppor
 2026-01-16T07:01:40.325000+00:00,1461616379219280003,1,t_6cb13e377521ebf8,2,"Germany final CPI YoY 1.8% (in line with forecast/prev) — no inflation surprise; limits near-term repricing in ECB path, modestly supportive"
+2026-01-16T07:03:10.062000+00:00,1461616755603406903,1,t_18a83b57647627fe,2,Germany final HICP matched at 2.0% y/y and 0.2% m/m — a confirmation print that should limit ECB-path repricing; impact mainly via Bunds/EUR

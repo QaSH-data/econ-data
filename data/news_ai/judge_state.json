@@ -49,7 +49,8 @@
     "1461463228575125649",
     "1461465888380289109",
     "1461467886185873530",
-    "1461616379219280003"
+    "1461616379219280003",
+    "1461616755603406903"
   ],
   "seen_max": 2000,
   "topics": {
@@ -452,6 +453,15 @@
       "last_update_utc": "2026-01-16T07:02:08+00:00",
       "last_short": "Germany final CPI YoY 1.8% (in line with forecast/prev) — no inflation surprise; limits near-term repricing in ECB path, modestly supportive",
       "last_long": "Germany final CPI YoY printed 1.8%, matching both forecast and the prior reading, so it’s primarily a “confirm/no-revision” release rather than a catalyst. Mechanism: with no upside inflation shock, the market has less reason to pull forward ECB tightening (or delay easing) expectations; that typically keeps Bund yields steady-to-slightly lower, compresses EUR rate-support marginally, and reduces volatility relative to a surprise print. Why now: with the broader Europe growth tone already soft (recent PMI messaging in your tape), a tame/steady inflation confirmation reinforces the growth-dominant narrative and keeps cross-market focus on relative real-rate spreads vs the US rather than a new Europe inflation impulse. Spillover to US index futures is second-order and mostly via FX and global rates correlation (risk duration sensitivity), not a direct US macro channel. Watch-outs: any revi"
+    },
+    "t_18a83b57647627fe": {
+      "count": 1,
+      "message_ids": [
+        "1461616755603406903"
+      ],
+      "last_update_utc": "2026-01-16T07:03:37+00:00",
+      "last_short": "Germany final HICP matched at 2.0% y/y and 0.2% m/m — a confirmation print that should limit ECB-path repricing; impact mainly via Bunds/EUR",
+      "last_long": "Germany’s final HICP simply confirmed the prior/consensus view (2.0% y/y; 0.2% m/m). Because it’s a final and not a surprise, the main mechanism is “no new information”: it should dampen the odds of an immediate ECB-rate-path repricing, keeping EUR rates and EUR/USD more anchored unless broader eurozone inflation data or ECB communication shifts the narrative. Cross-asset transmission is primarily through Bund yield drift (and related curve/real-rate moves), with second-order effects into global duration sentiment and rate-sensitive equities; it is less likely to be a stand-alone driver for US index futures. Why it matters now: it removes a potential volatility catalyst and leaves the next incremental drivers as eurozone-wide inflation prints (especially services/core) and ECB speaker guidance, with positioning/flows determining whether the market treats “steady inflation” as restrictive"
     }
   },
   "topic_index": {
