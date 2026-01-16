@@ -1,5 +1,8 @@
 TimestampUtc,MeetingMonth,EventSlug,SubMarketSlug,Label,Pct,EventEndDateUtc
-2026-01-16T02:05:02Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change in Fed interest rates after January 2026 meeting?,94.9500,2026-01-28T00:00:00Z
-2026-01-16T02:05:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Fed decreases interest rates by 25 bps after January 2026 meeting?,4.6500,2026-01-28T00:00:00Z
-2026-01-16T02:05:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting,Fed decreases interest rates by 50+ bps after January 2026 meeting?,0.3500,2026-01-28T00:00:00Z
-2026-01-16T02:05:02Z,2026-01,fed-decision-in-january,fed-increases-interest-rates-by-25-bps-after-january-2026-meeting,Fed increases interest rates by 25+ bps after January 2026 meeting?,0.1500,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change in Fed interest rates after January 2026 meeting?,94.9500,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Fed decreases interest rates by 25 bps after January 2026 meeting?,4.6500,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting,Fed decreases interest rates by 50+ bps after January 2026 meeting?,0.3500,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-01,fed-decision-in-january,fed-increases-interest-rates-by-25-bps-after-january-2026-meeting,Fed increases interest rates by 25+ bps after January 2026 meeting?,0.1500,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-02,fed-decision-dissent-combo-in-january,will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents-222,Will the January 2026 FOMC decision result in no change with 02 dissents?,34.0000,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-02,fed-decision-dissent-combo-in-january,will-the-january-2026-fomc-decision-result-in-a-25bp-cut-with-2-dissents-593,Will the January 2026 FOMC decision result in a 25bp cut with 02 dissents?,6.0000,2026-01-28T00:00:00Z
+2026-01-16T02:15:01Z,2026-02,fed-decision-dissent-combo-in-january,will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents,Will the January 2026 FOMC decision result in no change with <2 dissents?,65.0000,2026-01-28T00:00:00Z

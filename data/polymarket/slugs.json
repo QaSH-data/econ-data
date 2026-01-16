@@ -1,8 +1,8 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-16T00:39:13Z",
-    "notes": "All selected markets are valid and represent distinct outcomes."
+    "last_audit_utc": "2026-01-16T02:10:02Z",
+    "notes": "All selected meetings align with the guidelines provided. Each meeting has a clear selection reason and contains the necessary sub-markets."
   },
   "meetings": {
     "2026-01": {
@@ -50,6 +50,45 @@
             "No"
           ],
           "question": "Fed increases interest rates by 25+ bps after January 2026 meeting?"
+        }
+      ],
+      "warnings": []
+    },
+    "2026-02": {
+      "event_end_date_utc": "2026-01-28T00:00:00Z",
+      "event_slug": "fed-decision-dissent-combo-in-january",
+      "pinned_utc": "2026-01-16T02:10:02Z",
+      "selection_reason": "Includes direct outcomes about rate changes relevant to February's meeting.",
+      "sub_markets": [
+        {
+          "label": "Will the January 2026 FOMC decision result in no change with \u00060\u007f2 dissents?",
+          "market_id": "1179304",
+          "market_slug": "will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents-222",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will the January 2026 FOMC decision result in no change with \u22652 dissents?"
+        },
+        {
+          "label": "Will the January 2026 FOMC decision result in a 25bp cut with \u00060\u007f2 dissents?",
+          "market_id": "1179306",
+          "market_slug": "will-the-january-2026-fomc-decision-result-in-a-25bp-cut-with-2-dissents-593",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will the January 2026 FOMC decision result in a 25bp cut with \u22652 dissents?"
+        },
+        {
+          "label": "Will the January 2026 FOMC decision result in no change with <2 dissents?",
+          "market_id": "1179303",
+          "market_slug": "will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will the January 2026 FOMC decision result in no change with <2 dissents?"
         }
       ],
       "warnings": []
