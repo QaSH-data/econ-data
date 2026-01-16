@@ -53,7 +53,8 @@
     "1461616755603406903",
     "1461725942392029346",
     "1461730023940817012",
-    "1461825412458873187"
+    "1461825412458873187",
+    "1461830177419034685"
   ],
   "seen_max": 2000,
   "topics": {
@@ -476,6 +477,15 @@
       "last_update_utc": "2026-01-16T14:17:30+00:00",
       "last_short": "US Industrial Production +0.4% m/m vs +0.1% est — stronger output likely to lift UST yields and cyclicals (industrials/materials), nudging r",
       "last_long": "Stronger-than-expected US Industrial Production (+0.4% m/m vs +0.1% est) tightens the near-term growth/inflation narrative and primarily impacts rates expectations. Mechanism: a positive IP surprise raises the probability of firmer growth and marginally higher inflation, which lifts Treasury yields (ZF/ZN/ZT) and increases term/repricing pressure ahead of the Jan FOMC. Transmission to risk assets over the intraday/next few sessions: higher yields are a headwind for long-duration growth (NQ/tech) while supporting cyclical sectors (industrials, materials, cap goods) and can strengthen the USD. Market participants should watch sector-level IP details (manufacturing vs utilities), capacity utilization, subsequent PMI/ISM prints, and Fed-speak — plus the move in the 2s/10s curve — for confirmation and to gauge persistence of this repricing. Impact is meaningful for session bias but not defini"
+    },
+    "t_2e2b354b5b4cc8f8": {
+      "count": 1,
+      "message_ids": [
+        "1461830177419034685"
+      ],
+      "last_update_utc": "2026-01-16T21:11:52+00:00",
+      "last_short": "Treasury Sec. Bessent says a Fed chair decision is expected before Davos or right after—compresses the window for a leadership headline, lik",
+      "last_long": "Bessent flagging an imminent Fed chair decision (before Davos or upon return) pulls a political/appointment catalyst into the very near term, shifting attention from the known Jan 27–28 FOMC calendar toward leadership uncertainty that can move markets even without new macro data. Mechanism: chair/nominee clarity can change perceived policy continuity and the reaction function, which tends to reprice the front end first (Fed funds/OIS, then ZT/ZF), with second-order effects on curve shape/term premium (ZN/ZB) and USD (DX) via real-rate differentials and risk sentiment. For equities, the cleanest transmission is through real rates and volatility: duration-heavy indices (NQ > ES) are most sensitive; banks/financials can react to the implied path for policy and regulatory tone. Why-now: the comment narrows timing and increases the probability of a discrete headline in the next sessions, so w"
     }
   },
   "topic_index": {
