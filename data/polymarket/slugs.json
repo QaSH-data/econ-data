@@ -1,55 +1,35 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-15T23:45:02Z",
-    "notes": "All pinning slugs and selected markets for January are valid and correctly mapped."
+    "last_audit_utc": "2026-01-15T23:55:02Z",
+    "notes": "All pinned slugs are consistent with the selected candidates. The selections cover relevant decision outcomes for January."
   },
   "meetings": {
     "2026-01": {
-      "event_end_date_utc": "2026-01-28T00:00:00Z",
-      "event_slug": "fed-decision-in-january",
-      "pinned_utc": "2026-01-15T23:45:02Z",
-      "selection_reason": "This event captures the specific rate decision outcomes for January's meeting.",
+      "event_end_date_utc": "2026-01-31T00:00:00Z",
+      "event_slug": "next-three-fed-decisions",
+      "pinned_utc": "2026-01-15T23:55:02Z",
+      "selection_reason": "This event captures the next potential rate decisions over three meetings, including January.",
       "sub_markets": [
         {
-          "label": "No change in Fed interest rates after January 2026 meeting?",
-          "market_id": "601699",
-          "market_slug": "no-change-in-fed-interest-rates-after-january-2026-meeting",
+          "label": "Will the Fed Cut\u2013Cut\u2013Cut in the next three decisions (Oct\u2013Dec\u2013Jan)?",
+          "market_id": "618072",
+          "market_slug": "will-the-fed-cutcutcut-in-the-next-three-decisions-octdecjan",
           "outcomes": [
             "Yes",
             "No"
           ],
-          "question": "No change in Fed interest rates after January 2026 meeting?"
+          "question": "Will the Fed Cut\u2013Cut\u2013Cut in the next three decisions (Oct\u2013Dec\u2013Jan)?"
         },
         {
-          "label": "Fed decreases interest rates by 25 bps after January 2026 meeting?",
-          "market_id": "601698",
-          "market_slug": "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting",
+          "label": "Will the Fed Cut\u2013Cut\u2013Pause in the next three decisions (Oct\u2013Dec\u2013Jan)?",
+          "market_id": "618071",
+          "market_slug": "will-the-fed-cutcutpause-in-the-next-three-decisions-octdecjan",
           "outcomes": [
             "Yes",
             "No"
           ],
-          "question": "Fed decreases interest rates by 25 bps after January 2026 meeting?"
-        },
-        {
-          "label": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
-          "market_id": "601697",
-          "market_slug": "fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Fed decreases interest rates by 50+ bps after January 2026 meeting?"
-        },
-        {
-          "label": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
-          "market_id": "601700",
-          "market_slug": "fed-increases-interest-rates-by-25-bps-after-january-2026-meeting",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Fed increases interest rates by 25+ bps after January 2026 meeting?"
+          "question": "Will the Fed Cut\u2013Cut\u2013Pause in the next three decisions (Oct\u2013Dec\u2013Jan)?"
         }
       ],
       "warnings": []
