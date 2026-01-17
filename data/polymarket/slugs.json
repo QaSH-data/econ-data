@@ -1,20 +1,18 @@
 {
   "audit": {
-    "changes": [
-      "No changes needed. All pinned slugs and markets were correctly identified."
-    ],
-    "last_audit_utc": "2026-01-17T05:37:57Z",
-    "notes": "Markets selected follow the instructions considering the available sub-markets across the events."
+    "changes": [],
+    "last_audit_utc": "2026-01-17T14:48:23Z",
+    "notes": "Selection made based on available candidates for January 2026 meeting with clear outcomes."
   },
   "meetings": {
     "2026-01": {
       "event_end_date_utc": "2026-01-28T00:00:00Z",
       "event_slug": "fed-decision-in-january",
-      "pinned_utc": "2026-01-17T05:37:57Z",
-      "selection_reason": "Includes direct outcomes about rate changes relevant to January's meeting.",
+      "pinned_utc": "2026-01-17T14:48:23Z",
+      "selection_reason": "Best available event for January meeting decision with relevant outcomes.",
       "sub_markets": [
         {
-          "label": "No change in Fed interest rates after January 2026 meeting?",
+          "label": "No change",
           "market_id": "601699",
           "market_slug": "no-change-in-fed-interest-rates-after-january-2026-meeting",
           "outcomes": [
@@ -24,7 +22,7 @@
           "question": "No change in Fed interest rates after January 2026 meeting?"
         },
         {
-          "label": "Fed decreases interest rates by 25 bps after January 2026 meeting?",
+          "label": "Cut 25bps",
           "market_id": "601698",
           "market_slug": "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting",
           "outcomes": [
@@ -35,47 +33,8 @@
         }
       ],
       "warnings": []
-    },
-    "2026-02": {
-      "event_end_date_utc": "2026-01-28T00:00:00Z",
-      "event_slug": "fed-decision-dissent-combo-in-january",
-      "pinned_utc": "2026-01-16T02:10:02Z",
-      "selection_reason": "Includes direct outcomes about rate changes relevant to February's meeting.",
-      "sub_markets": [
-        {
-          "label": "Will the January 2026 FOMC decision result in no change with \u00060\u007f2 dissents?",
-          "market_id": "1179304",
-          "market_slug": "will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents-222",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Will the January 2026 FOMC decision result in no change with \u22652 dissents?"
-        },
-        {
-          "label": "Will the January 2026 FOMC decision result in a 25bp cut with \u00060\u007f2 dissents?",
-          "market_id": "1179306",
-          "market_slug": "will-the-january-2026-fomc-decision-result-in-a-25bp-cut-with-2-dissents-593",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Will the January 2026 FOMC decision result in a 25bp cut with \u22652 dissents?"
-        },
-        {
-          "label": "Will the January 2026 FOMC decision result in no change with <2 dissents?",
-          "market_id": "1179303",
-          "market_slug": "will-the-january-2026-fomc-decision-result-in-no-change-with-2-dissents",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "question": "Will the January 2026 FOMC decision result in no change with <2 dissents?"
-        }
-      ],
-      "warnings": []
     }
   },
   "updated_ym": "2026-01",
-  "version": 9
+  "version": 12
 }
