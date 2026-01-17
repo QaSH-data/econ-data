@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-16",
+  "date_utc": "2026-01-17",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -54,7 +54,8 @@
     "1461725942392029346",
     "1461730023940817012",
     "1461825412458873187",
-    "1461830177419034685"
+    "1461830177419034685",
+    "1462121209385976030"
   ],
   "seen_max": 2000,
   "topics": {
@@ -486,6 +487,15 @@
       "last_update_utc": "2026-01-16T21:11:52+00:00",
       "last_short": "Treasury Sec. Bessent says a Fed chair decision is expected before Davos or right after—compresses the window for a leadership headline, lik",
       "last_long": "Bessent flagging an imminent Fed chair decision (before Davos or upon return) pulls a political/appointment catalyst into the very near term, shifting attention from the known Jan 27–28 FOMC calendar toward leadership uncertainty that can move markets even without new macro data. Mechanism: chair/nominee clarity can change perceived policy continuity and the reaction function, which tends to reprice the front end first (Fed funds/OIS, then ZT/ZF), with second-order effects on curve shape/term premium (ZN/ZB) and USD (DX) via real-rate differentials and risk sentiment. For equities, the cleanest transmission is through real rates and volatility: duration-heavy indices (NQ > ES) are most sensitive; banks/financials can react to the implied path for policy and regulatory tone. Why-now: the comment narrows timing and increases the probability of a discrete headline in the next sessions, so w"
+    },
+    "t_84f5cf8c5b21b346": {
+      "count": 1,
+      "message_ids": [
+        "1462121209385976030"
+      ],
+      "last_update_utc": "2026-01-17T16:32:10+00:00",
+      "last_short": "US to levy 10% tariffs on multiple European countries from Feb 1 over Greenland dispute — boosts geopolitical risk, likely bearish for Europ",
+      "last_long": "Primary mechanism: risk premium. A US announcement of 10% tariffs on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands and Finland (effective Feb 1) raises near-term geopolitical/trade uncertainty and lifts risk premia across equity indices intraday and over the next few sessions. Causal chain: tariff news -> higher trade uncertainty + potential for retaliatory measures -> downward revisions to earnings for export-sensitive sectors (autos, industrials, shipping) and greater FX stress on EUR/Scandi/GBP -> bid for safe-haven US Treasuries (lower yields) and USD strength. Most exposed: European exporters, global autos/industrial supply chains, shipping/logistics, European equity indices (Stoxx, DAX, FTSE) and related single-stock names with large US exposure; index futures (ES/NQ) can gap/spread-adjust on risk-off. Information that provides edge: tariff scope by HTS codes, l"
     }
   },
   "topic_index": {
