@@ -58,7 +58,8 @@
     "1462121209385976030",
     "1462515604853493945",
     "1462516026766917868",
-    "1462595369811841226"
+    "1462595369811841226",
+    "1462595807000788993"
   ],
   "seen_max": 2000,
   "topics": {
@@ -526,6 +527,15 @@
       "last_update_utc": "2026-01-18T23:52:34+00:00",
       "last_short": "Japan core machinery orders sank -11.0% m/m vs -5.1% est — sharper capex downdraft; leans risk-off, supports JGBs and can favor a softer JPY",
       "last_long": "The -11.0% m/m print versus -5.1% expected (and following +7.0%) is a clear negative surprise for Japan capex momentum. Why it matters now: it nudges market priors toward a more cautious BOJ reaction function (less urgency to tighten), which tends to (1) support JGB duration (lower yields), (2) weaken JPY via rate-differential/carry dynamics, and (3) weigh on cyclicals/risk sentiment in Asia, with potential spillover to global index futures via a softer growth impulse. Primary transmission channels to watch: JGB curve rally/flattening, USDJPY upside pressure (or reduced downside follow-through), and a weaker tone in Japan/Asia cyclicals (machinery, exporters, industrials). Second-order: if risk sentiment softens, it can modestly support USTs and pressure duration-sensitive equities (NQ/ES) via lower global growth expectations rather than direct Fed repricing."
+    },
+    "t_c585c1b5b534de2d": {
+      "count": 1,
+      "message_ids": [
+        "1462595807000788993"
+      ],
+      "last_update_utc": "2026-01-18T23:54:28+00:00",
+      "last_short": "Japan core machinery orders -6.4% YoY (vs +4.9% est) is a major capex-growth downside shock; leans risk-off, supportive duration, and can sp",
+      "last_long": "Why it matters now: the gap vs consensus is large and flips the narrative from “recovering capex” to “stalling investment,” which tends to reprice growth-sensitive risk quickly. Core machinery orders are a key proxy for Japanese private capex; a negative YoY print after a strong prior reading implies weaker pipeline demand for capital goods and softer earnings visibility for industrials/capital goods. Transmission to markets: (1) Growth/risk channel—Asia/Europe risk tone can soften, with knock-on pressure to global cyclicals and duration-sensitive equity indices (ES/NQ) if investors mark down global growth momentum. (2) Rates channel—risk-off and weaker growth expectations are typically supportive for sovereign duration (JGBs first, with potential sympathy bid in USTs, especially belly/long end). (3) FX channel—JPY can strengthen on risk-off/repats even if the growth impulse is negative,"
     }
   },
   "topic_index": {
