@@ -56,7 +56,8 @@
     "1461825412458873187",
     "1461830177419034685",
     "1462121209385976030",
-    "1462515604853493945"
+    "1462515604853493945",
+    "1462516026766917868"
   ],
   "seen_max": 2000,
   "topics": {
@@ -506,6 +507,15 @@
       "last_update_utc": "2026-01-18T18:35:09+00:00",
       "last_short": "EU readies €93bn retaliatory tariffs vs US after Greenland spat — lifts risk premium on US multinationals and trade-exposed sectors; FX (EUR",
       "last_long": "EU plan for €93bn in retaliatory tariffs creates an abrupt rise in geopolitical trade risk that will lift risk premia across asset markets intraday and into the next few sessions. Primary market mechanism involved: risk premium. Causal chain: tariff threat -> increased probability of cross-border restrictions -> higher earnings risk for US firms with EU exposure and disrupted supply chains -> equity risk premium rises and index futures (ES/NQ) skew lower; FX flows could boost USD and pressure EUR (6E); safe-haven demand may weigh on cyclical assets and flatten/pressure UST term premium via volatility. Most exposed: US multinationals with significant EU revenue, export-sensitive sectors and supply-chain reliant industrials, and European exporters facing countermeasures. Edge-driving info: the exact tariff list (sectors/products), timing and legal route, whether measures target corporate a"
+    },
+    "t_d806cc7b40e57b21": {
+      "count": 1,
+      "message_ids": [
+        "1462516026766917868"
+      ],
+      "last_update_utc": "2026-01-18T18:37:03+00:00",
+      "last_short": "FT: EU weighs €93bn tariffs / curbs on US firms after Trump threats—revives trade-war risk premium; negative for ES/NQ (cyclicals/multinatio",
+      "last_long": "Why now: FT reports EU capitals are discussing a sizable retaliation package (€93bn) and even market-access restrictions on US companies in response to Trump threats—this elevates perceived probability of an EU–US trade escalation rather than a contained headline cycle.\n\nMechanism: (1) Higher policy uncertainty and tail-risk → higher equity risk premium, pressuring US index futures (ES/NQ) via multiple compression and earnings uncertainty for large-cap multinationals with meaningful EU exposure. (2) Risk-off impulse can support Treasuries (especially belly/long-end) as a hedge bid; front-end reaction is more conditional on Fed communication but broader uncertainty typically favors duration at the margin. (3) FX channel: escalation risk often supports USD on safe-haven/relative-growth dynamics while weighing EUR, particularly with already-soft EU growth optics in the background.\n\nWhat to"
     }
   },
   "topic_index": {
