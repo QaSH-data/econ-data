@@ -1,149 +1,150 @@
 {
-  "asof_utc": "2026-01-03T17:27:54+00:00",
+  "asof_utc": "2026-01-19T23:43:09+00:00",
   "active_contexts": [
     {
-      "context_id": "fomc_jan_meeting_pricing_no_change_basecase",
-      "priority": 5,
-      "theme": "rates",
-      "statement": "Jan 27-28 FOMC: Polymarket snapshot implies no-change as base case (combined 88.5% asof Jan 3).",
-      "market_link": "Near-term policy odds are a key driver for front-end UST (ZT/ZF) and duration-sensitive equities (ES/NQ); shifts often move USD (DX) and EUR (6E).",
-      "contracts": [
-        "ZT",
-        "ZF",
-        "ZN",
-        "ES",
-        "NQ",
-        "DX",
-        "6E"
-      ],
-      "directional_pressure": "mixed",
-      "confidence": 0.62,
-      "valid_until_utc": "2026-01-10T00:00:00Z",
-      "sources": [
-        "LOCAL 2026-01-03"
-      ],
-      "notes": "Pricing proxy only; watch data/speaker catalysts that reweight tails."
-    },
-    {
-      "context_id": "fomc_jan_2026_official_timing",
-      "priority": 5,
-      "theme": "rates",
-      "statement": "Fed calendar: Jan 28 decision 2:00pm ET; press conference 2:30pm ET (Jan 27-28 meeting).",
-      "market_link": "Known timing tends to concentrate intraday volatility around statement/presser across ES/NQ and the Treasury complex; USD can react via real-rate moves.",
-      "contracts": [
-        "ES",
-        "NQ",
-        "ZT",
-        "ZF",
-        "ZN",
-        "ZB",
-        "DX",
-        "6E"
-      ],
-      "directional_pressure": "none",
-      "confidence": 0.86,
-      "valid_until_utc": "2026-01-29T00:00:00Z",
-      "sources": [
-        "Federal Reserve 2025-06-24",
-        "Federal Reserve 2024-08-09"
-      ],
-      "notes": "Calendar anchor; market impact depends on policy/communication content."
-    },
-    {
-      "context_id": "nyfed_standing_repo_record_yearend_2025_12_31",
+      "context_id": "china_q4_gdp_meets_target_but_demand_soft",
       "priority": 4,
-      "theme": "liquidity",
-      "statement": "NY Fed standing repo operation take-up hit record $74.6B on Dec 31 amid year-end funding needs (Reuters).",
-      "market_link": "Turn-of-year funding dynamics can affect front-end rate pricing and liquidity tone; key question is normalization in early January operations.",
+      "theme": "growth",
+      "statement": "China Q4 GDP 4.5% y/y; Dec retail sales 0.9% y/y while industrial output 5.2% y/y.",
+      "market_link": "China demand vs supply mix is a global risk-tone input; can spill into ES/NQ and USD via growth expectations and commodity-linked channels.",
       "contracts": [
-        "ZT",
-        "ZF",
-        "ZN",
         "ES",
         "NQ",
-        "DX"
+        "YM",
+        "RTY",
+        "ZN",
+        "DX",
+        "6E",
+        "CL"
       ],
       "directional_pressure": "mixed",
-      "confidence": 0.72,
-      "valid_until_utc": "2026-01-06T21:00:00Z",
+      "confidence": 0.64,
+      "valid_until_utc": "2026-01-20T08:00:00Z",
       "sources": [
-        "Reuters 2025-12-31"
+        "Reuters 2026-01-19",
+        "China State Council 2026-01-19",
+        "LOCAL 2026-01-19"
       ],
-      "notes": "Reuters framed as calendar-driven rather than a stress signal."
+      "notes": "Headline beat/meet vs forecast, but consumption/investment weak."
     },
     {
-      "context_id": "eurozone_mfg_pmi_final_soft_dec2025",
+      "context_id": "china_investment_contraction_property_drag",
       "priority": 3,
       "theme": "growth",
-      "statement": "Eurozone Dec final mfg PMI 48.8 (9-mo low); Germany final 47.0 with export sales cited as a drag (Reuters).",
-      "market_link": "EU growth softness can weigh global risk tone and support UST duration in risk-off tapes; also relevant for EUR (6E) and USD (DX).",
+      "statement": "China 2025 fixed-asset investment -3.8% y/y; property investment -17.2%; property sales area -8.7%.",
+      "market_link": "China property/investment softness is a medium-term global growth and risk-sentiment overhang; relevant for US equities and cyclicals.",
       "contracts": [
         "ES",
         "NQ",
-        "ZN",
-        "ZB",
-        "6E",
+        "YM",
+        "RTY",
+        "CL",
         "DX"
       ],
       "directional_pressure": "risk_off",
-      "confidence": 0.66,
-      "valid_until_utc": "2026-01-05T15:00:00Z",
+      "confidence": 0.6,
+      "valid_until_utc": "2026-01-21T00:00:00Z",
       "sources": [
-        "Reuters 2026-01-02",
-        "Reuters 2026-01-02"
+        "China State Council 2026-01-19",
+        "Reuters 2026-01-19",
+        "LOCAL 2026-01-19"
       ],
-      "notes": "Final prints; primary transmission is via sentiment/FX rather than direct US macro."
-    }
-  ],
-  "watchlist": [
-    {
-      "context_id": "fomc_speaker_paulson_tape_risk",
-      "priority": 3,
-      "theme": "rates",
-      "statement": "FOMC member Paulson scheduled to speak Jan 3 and Jan 4 (local calendar); details not confirmed here.",
-      "market_link": "Without topic text, risk is tape sensitivity in ZT/ZN and equity duration (ES/NQ) via reaction-function framing; USD (DX) can follow.",
-      "contracts": [
-        "NQ",
-        "ES",
-        "ZT",
-        "ZN",
-        "6E",
-        "DX"
-      ],
-      "directional_pressure": "mixed",
-      "confidence": 0.33,
-      "valid_until_utc": "2026-01-04T06:00:00Z",
-      "sources": [
-        "LOCAL 2026-01-03"
-      ],
-      "notes": "Low confidence until agenda/remarks are confirmed."
+      "notes": "Annual prints typically carry multi-session narrative weight."
     },
     {
-      "context_id": "us_cash_imbalances_fast_decay",
+      "context_id": "eurozone_cpi_final_below_2pct",
+      "priority": 3,
+      "theme": "inflation",
+      "statement": "Eurozone CPI final 1.9% y/y (prev 2.0%); core 2.3% y/y unchanged (final).",
+      "market_link": "EU disinflation framing can influence global rates/FX via relative policy paths; affects UST duration (ZN/ZB) and EUR (6E).",
+      "contracts": [
+        "ZN",
+        "ZB",
+        "6E",
+        "DX",
+        "ES",
+        "NQ"
+      ],
+      "directional_pressure": "rates_down",
+      "confidence": 0.55,
+      "valid_until_utc": "2026-01-20T16:00:00Z",
+      "sources": [
+        "LOCAL 2026-01-19"
+      ],
+      "notes": "Final print; usually lower incremental impact than flash."
+    },
+    {
+      "context_id": "canada_cpi_surprise_firming_headline",
+      "priority": 3,
+      "theme": "inflation",
+      "statement": "Canada Dec CPI 2.4% y/y (Nov 2.2%); CPI m/m -0.2%; ex-gasoline CPI 3.0% y/y.",
+      "market_link": "Canada inflation surprises can move CAD rates/FX and spill into broader rates risk appetite; indirect relevance to UST complex and ES/NQ.",
+      "contracts": [
+        "ZN",
+        "ZT",
+        "DX",
+        "ES",
+        "NQ",
+        "6E"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.58,
+      "valid_until_utc": "2026-01-20T20:00:00Z",
+      "sources": [
+        "Statistics Canada 2026-01-19",
+        "LOCAL 2026-01-19"
+      ],
+      "notes": "StatCan flagged GST/HST-base effects in y/y comparison."
+    },
+    {
+      "context_id": "us_cash_open_imbalance_sell_skew",
       "priority": 2,
       "theme": "market_structure",
-      "statement": "Prior US cash close imbalances (Jan 2) were large on the buy side (local feed).",
-      "market_link": "Closing-imbalance effects decay quickly; useful for contextualizing late-day ES/NQ volatility and next-session gap sensitivity.",
+      "statement": "US MOO imbalance: S&P 500 -$1.10B; Nasdaq 100 -$0.41B; Dow -$0.42B; Mag7 -$0.19B.",
+      "market_link": "Large open/close imbalance prints can help explain late-day/into-open index-futures volatility; effect typically short-lived.",
       "contracts": [
         "ES",
         "NQ",
         "YM",
         "RTY"
       ],
-      "directional_pressure": "mixed",
-      "confidence": 0.4,
-      "valid_until_utc": "2026-01-03T20:00:00Z",
+      "directional_pressure": "risk_off",
+      "confidence": 0.52,
+      "valid_until_utc": "2026-01-20T02:00:00Z",
       "sources": [
-        "LOCAL 2026-01-02"
+        "LOCAL 2026-01-19"
       ],
-      "notes": "Short TTL; structural color only."
+      "notes": "Fast-decay market-structure color."
     },
     {
-      "context_id": "fred_baseline_inflation_near_3pct_yoy",
+      "context_id": "jan_fomc_pricing_no_change_polymarket",
+      "priority": 4,
+      "theme": "rates",
+      "statement": "Polymarket (asof Jan 19): Jan FOMC no-change 96.45%; cut 25bp 3.45% (event end Jan 28).",
+      "market_link": "Near-term policy odds are a key driver for ZT/ZF and duration-sensitive equities (ES/NQ); USD often follows real-rate repricing.",
+      "contracts": [
+        "ZT",
+        "ZF",
+        "ZN",
+        "ES",
+        "NQ",
+        "DX",
+        "6E"
+      ],
+      "directional_pressure": "none",
+      "confidence": 0.67,
+      "valid_until_utc": "2026-01-20T12:00:00Z",
+      "sources": [
+        "LOCAL 2026-01-19"
+      ],
+      "notes": "Odds proxy; tails can reprice on data/speakers."
+    },
+    {
+      "context_id": "fred_us_inflation_baseline_core_near_3",
       "priority": 2,
       "theme": "inflation",
-      "statement": "Baseline: CPI core y/y ~3.03% (Sep 2025) and PCE core y/y ~2.83% (Sep 2025) in local FRED snapshot.",
-      "market_link": "Inflation baseline anchors real-rate sensitivity in ES/NQ and front-end UST (ZT) when new inflation prints shift the policy path.",
+      "statement": "FRED snapshot: CPI core y/y 2.86% (Dec 2025); CPI headline y/y 3.03% (Dec 2025).",
+      "market_link": "Inflation baseline anchors sensitivity of ZT/ZN and equity duration (ES/NQ) into PCE/CPI releases and Fed communication.",
       "contracts": [
         "ES",
         "NQ",
@@ -152,136 +153,220 @@
         "DX"
       ],
       "directional_pressure": "none",
-      "confidence": 0.48,
-      "valid_until_utc": "2026-01-08T00:00:00Z",
+      "confidence": 0.5,
+      "valid_until_utc": "2026-01-21T00:00:00Z",
       "sources": [
-        "LOCAL 2026-01-03"
+        "LOCAL_FRED 2026-01-19"
       ],
-      "notes": "Timestamped Sep 2025; update when newer CPI/PCE prints are in the snapshot."
+      "notes": "PCE series in snapshot appears lagged (latest Sep 2025)."
+    }
+  ],
+  "watchlist": [
+    {
+      "context_id": "us_holiday_liquidity_thin",
+      "priority": 2,
+      "theme": "liquidity",
+      "statement": "US calendar shows a Bank Holiday on Jan 19 (today), which can thin liquidity in some sessions/venues.",
+      "market_link": "Holiday conditions can amplify headline-driven moves and widen intraday swings across ES/NQ and Treasury futures due to reduced depth.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZF",
+        "ZN",
+        "DX"
+      ],
+      "directional_pressure": "mixed",
+      "confidence": 0.45,
+      "valid_until_utc": "2026-01-20T03:00:00Z",
+      "sources": [
+        "LOCAL 2026-01-19"
+      ],
+      "notes": "Treat as microstructure context; not a fundamental driver."
     }
   ],
   "headline_memory": [
     {
-      "headline_id": "nyfed_srf_record_2025_12_31",
-      "ts_utc": "2025-12-31T14:26:00Z",
-      "headline": "NY Fed standing repo operation take-up hit a record $74.6B on Dec 31 (year-end), per Reuters.",
+      "headline_id": "china_q4_gdp_4p5_meets_target_2025_growth_5p0",
+      "ts_utc": "2026-01-19T02:01:43Z",
+      "headline": "China Q4 GDP 4.5% y/y; 2025 GDP 5.0% y/y; retail sales 0.9% y/y and investment -3.8% highlight demand lag.",
       "priority": 4,
-      "why_sticky": "Liquidity/funding context for front-end rate headlines; useful until post-turn normalization is clear.",
-      "valid_until_utc": "2026-01-10T00:00:00Z",
+      "why_sticky": "Keeps China growth/demand mix in mind for global risk tone beyond the initial print.",
+      "valid_until_utc": "2026-01-26T00:00:00Z",
       "sources": [
-        "Reuters 2025-12-31"
+        "Reuters 2026-01-19",
+        "China State Council 2026-01-19",
+        "LOCAL 2026-01-19"
       ]
     },
     {
-      "headline_id": "eu_mfg_pmi_final_2025_12",
-      "ts_utc": "2026-01-02T08:56:41Z",
-      "headline": "Eurozone Dec final manufacturing PMI 48.8; Germany final 47.0 with export sales weakness highlighted (Reuters).",
+      "headline_id": "canada_cpi_dec2025_2p4yoy",
+      "ts_utc": "2026-01-19T13:31:56Z",
+      "headline": "Canada Dec CPI rose 2.4% y/y (Nov 2.2%); CPI m/m -0.2%; StatCan cited GST/HST-base effects in y/y change.",
       "priority": 3,
-      "why_sticky": "EU growth softness remains a background risk-tone/FX input for US duration and equity index futures.",
-      "valid_until_utc": "2026-01-12T00:00:00Z",
+      "why_sticky": "Inflation surprise context for North American rates narratives into next key US inflation prints.",
+      "valid_until_utc": "2026-01-23T18:00:00Z",
       "sources": [
-        "Reuters 2026-01-02"
+        "Statistics Canada 2026-01-19",
+        "LOCAL 2026-01-19"
       ]
     }
   ],
   "upcoming_catalysts": [
     {
-      "event_id": "fomc_speaker_paulson_2026_01_03",
-      "event_utc": "2026-01-03T23:15:00Z",
-      "event_local_ny": "2026-01-03T18:15:00-05:00",
-      "name": "FOMC Member Paulson Speaks",
-      "expected_market_channel": "rates",
-      "why_it_matters": "Any reaction-function framing (inflation vs growth, patience, financial conditions) can shift front-end pricing and spill into ES/NQ and USD.",
+      "event_id": "us_adp_weekly_employment_change_2026_01_20",
+      "event_utc": "2026-01-20T21:20:00Z",
+      "event_local_ny": "2026-01-20T16:20:00-05:00",
+      "name": "ADP Weekly Employment Change",
+      "expected_market_channel": "growth",
+      "why_it_matters": "Labor-growth signal can shift front-end rates pricing and spill into equity index futures via policy-path sensitivity.",
       "contracts": [
-        "NQ",
         "ES",
+        "NQ",
         "ZT",
         "ZN",
+        "DX"
+      ],
+      "confidence": 0.45,
+      "sources": [
+        "LOCAL 2026-01-19"
+      ]
+    },
+    {
+      "event_id": "president_trump_speaks_2026_01_21",
+      "event_utc": "2026-01-21T21:30:00Z",
+      "event_local_ny": "2026-01-21T16:30:00-05:00",
+      "name": "President Trump Speaks",
+      "expected_market_channel": "risk",
+      "why_it_matters": "Policy/trade/fiscal signals can reprice risk premia, USD, and rates expectations; impact depends on topic and Q&A.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZN",
+        "DX",
         "6E"
+      ],
+      "confidence": 0.38,
+      "sources": [
+        "LOCAL 2026-01-19"
+      ]
+    },
+    {
+      "event_id": "us_final_gdp_qoq_2026_01_22",
+      "event_utc": "2026-01-22T21:30:00Z",
+      "event_local_ny": "2026-01-22T16:30:00-05:00",
+      "name": "Final GDP q/q",
+      "expected_market_channel": "growth",
+      "why_it_matters": "Revisions can affect growth narrative and rate expectations, though final releases often have smaller incremental impact than advance prints.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "DX"
       ],
       "confidence": 0.4,
       "sources": [
-        "LOCAL 2026-01-03"
+        "LOCAL 2026-01-19"
       ]
     },
     {
-      "event_id": "fomc_speaker_paulson_2026_01_04",
-      "event_utc": "2026-01-04T03:30:00Z",
-      "event_local_ny": "2026-01-03T22:30:00-05:00",
-      "name": "FOMC Member Paulson Speaks",
-      "expected_market_channel": "rates",
-      "why_it_matters": "Follow-up remarks can clarify nuance; market impact depends on whether commentary differs from recent Fed messaging into the Jan meeting.",
+      "event_id": "us_core_pce_mm_2026_01_22",
+      "event_utc": "2026-01-22T23:00:00Z",
+      "event_local_ny": "2026-01-22T18:00:00-05:00",
+      "name": "Core PCE Price Index m/m",
+      "expected_market_channel": "inflation",
+      "why_it_matters": "Core PCE is the Fed’s preferred inflation gauge; surprises tend to move ZT/ZF and spill into ES/NQ via real-rate repricing.",
       "contracts": [
-        "NQ",
         "ES",
+        "NQ",
         "ZT",
         "ZN",
-        "6E"
-      ],
-      "confidence": 0.35,
-      "sources": [
-        "LOCAL 2026-01-04"
-      ]
-    },
-    {
-      "event_id": "fomc_meeting_jan_27_28_2026",
-      "event_utc": "2026-01-28T19:00:00Z",
-      "event_local_ny": "2026-01-28T14:00:00-05:00",
-      "name": "FOMC Meeting (Decision/Statement; press conference 2:30pm ET)",
-      "expected_market_channel": "rates",
-      "why_it_matters": "Scheduled policy decision; reprices front-end expectations and transmits to equities and USD via real-rate and term-premium changes.",
-      "contracts": [
-        "NQ",
-        "ES",
-        "ZT",
-        "ZN",
+        "DX",
         "6E"
       ],
       "confidence": 0.6,
       "sources": [
-        "Federal Reserve 2024-08-09",
-        "Federal Reserve 2025-06-24"
+        "LOCAL 2026-01-19"
+      ]
+    },
+    {
+      "event_id": "us_flash_pmi_mfg_srv_2026_01_23",
+      "event_utc": "2026-01-23T22:45:00Z",
+      "event_local_ny": "2026-01-23T17:45:00-05:00",
+      "name": "Flash Manufacturing & Services PMI",
+      "expected_market_channel": "growth",
+      "why_it_matters": "High-frequency read on activity/prices can shift growth vs inflation balance, moving rates and risk simultaneously.",
+      "contracts": [
+        "ES",
+        "NQ",
+        "ZT",
+        "ZN",
+        "DX"
+      ],
+      "confidence": 0.5,
+      "sources": [
+        "LOCAL 2026-01-19"
       ]
     }
   ],
   "polymarket_fed_odds": {
     "available": true,
-    "asof_utc": "2026-01-03T17:27:54+00:00",
-    "datetime_utc": "2026-01-03T17:25:02Z",
-    "odds_a_pct": null,
-    "odds_b_pct": null,
-    "combined_pct": 88.5,
-    "end_date_utc": "10.5000",
-    "source": "99.0000"
+    "asof_utc": "2026-01-19T23:43:08+00:00",
+    "last_snapshot_utc": "2026-01-19T22:00:02Z",
+    "meetings": {
+      "2026-01": [
+        {
+          "label": "No change",
+          "pct": 96.45,
+          "sub_market_slug": "no-change-in-fed-interest-rates-after-january-2026-meeting",
+          "event_slug": "fed-decision-in-january",
+          "event_end_utc": "2026-01-28T00:00:00Z"
+        },
+        {
+          "label": "Cut 25bps",
+          "pct": 3.45,
+          "sub_market_slug": "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting",
+          "event_slug": "fed-decision-in-january",
+          "event_end_utc": "2026-01-28T00:00:00Z"
+        }
+      ]
+    },
+    "source": "LOCAL polymarket fed_odds_latest.csv",
+    "path": "/home/tyarick/econ-data/data/polymarket/fed_odds_latest.csv"
+  },
+  "polymarket_recent_moves": {
+    "available": false,
+    "note": "(polymarket moves file missing)"
   },
   "macro_snapshot_fred": {
-    "asof_utc": "2026-01-03T17:27:54+00:00",
+    "asof_utc": "2026-01-19T23:43:08+00:00",
     "source": "LOCAL_FRED",
-    "cpi_headline_latest_date": "2025-09-01",
-    "cpi_headline_latest": 324.368,
-    "cpi_headline_yoy_pct": 3.022699626172387,
-    "cpi_core_latest_date": "2025-09-01",
-    "cpi_core_latest": 330.542,
-    "cpi_core_yoy_pct": 3.0255427244533672,
+    "cpi_headline_latest_date": "2025-12-01",
+    "cpi_headline_latest": 326.03,
+    "cpi_headline_yoy_pct": 3.0276600652869634,
+    "cpi_core_latest_date": "2025-12-01",
+    "cpi_core_latest": 331.86,
+    "cpi_core_yoy_pct": 2.8643694264751884,
     "pce_headline_latest_date": "2025-09-01",
     "pce_headline_latest": 127.625,
     "pce_headline_yoy_pct": 2.7874424148706556,
     "pce_core_latest_date": "2025-09-01",
     "pce_core_latest": 126.954,
     "pce_core_yoy_pct": 2.825069249833967,
-    "nfp_payems_latest_date": "2025-09-01",
-    "nfp_payems_latest": 159626.0,
-    "nfp_payems_1m_change": 119.0,
-    "nfp_payems_3m_avg_change": 62.333333333333336,
-    "jolts_latest_date": "2025-10-01",
-    "jolts_latest": 7670.0,
-    "jolts_3m_change": 462.0,
+    "nfp_payems_latest_date": "2025-12-01",
+    "nfp_payems_latest": 159526.0,
+    "nfp_payems_1m_change": -26.0,
+    "nfp_payems_3m_avg_change": -33.333333333333336,
+    "jolts_latest_date": "2025-11-01",
+    "jolts_latest": 7146.0,
+    "jolts_3m_change": -81.0,
     "ust2y_latest_date": "2019-12-27",
     "ust2y_latest": 1.59,
     "ust2y_change_7d": -0.039999999999999813,
     "ust2y_change_30d": -0.039999999999999813,
-    "fedfunds_latest_date": "2025-11-01",
-    "fedfunds_latest": 3.88,
+    "fedfunds_latest_date": "2025-12-01",
+    "fedfunds_latest": 3.72,
     "ffr_target_lower_latest_date": "2022-08-24",
     "ffr_target_lower": 2.25,
     "ffr_target_upper_latest_date": "2022-08-24",
@@ -289,24 +374,44 @@
   },
   "change_log": [
     {
-      "action": "updated",
+      "action": "removed",
       "context_id": "nyfed_standing_repo_record_yearend_2025_12_31",
-      "reason": "Refreshed with Reuters record take-up details; kept short TTL focused on post-turn normalization window."
+      "reason": "Expired (prior TTL ended 2026-01-06); year-end funding context is now stale for Jan 19 tape."
     },
     {
-      "action": "updated",
+      "action": "removed",
       "context_id": "eurozone_mfg_pmi_final_soft_dec2025",
-      "reason": "Confirmed Eurozone final 48.8 and Germany final 47.0 via Reuters; kept as mid-priority risk-tone input."
+      "reason": "Expired (prior TTL ended 2026-01-05); replaced by newer EU inflation context."
+    },
+    {
+      "action": "added",
+      "context_id": "china_q4_gdp_meets_target_but_demand_soft",
+      "reason": "Adds fresh China macro mix from Jan 19 releases (GDP/retail/industry) relevant to global risk tone."
+    },
+    {
+      "action": "added",
+      "context_id": "china_investment_contraction_property_drag",
+      "reason": "Annual FAI/property downturn adds medium-term growth/risk context beyond the GDP headline."
+    },
+    {
+      "action": "added",
+      "context_id": "canada_cpi_surprise_firming_headline",
+      "reason": "StatCan Dec CPI release is a same-day inflation catalyst with potential cross-market rates narrative impact."
+    },
+    {
+      "action": "added",
+      "context_id": "eurozone_cpi_final_below_2pct",
+      "reason": "Eurozone CPI final print provides updated disinflation context for rates/FX comparisons."
     },
     {
       "action": "updated",
-      "context_id": "fomc_jan_2026_official_timing",
-      "reason": "Reconfirmed FOMC Jan 27-28 schedule and 2:00pm ET statement / 2:30pm ET presser via Fed calendar/press release."
+      "context_id": "jan_fomc_pricing_no_change_polymarket",
+      "reason": "Updated Polymarket snapshot: no-change probability now 96.45% asof 2026-01-19T23:43Z."
     },
     {
       "action": "updated",
-      "context_id": "fomc_jan_meeting_pricing_no_change_basecase",
-      "reason": "Updated Polymarket snapshot metadata (asof Jan 3 17:27Z) while maintaining base-case no-change framing."
+      "context_id": "fred_us_inflation_baseline_core_near_3",
+      "reason": "Refreshed FRED CPI y/y baseline with latest snapshot (Dec 2025)."
     }
   ]
 }
