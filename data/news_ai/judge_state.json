@@ -60,7 +60,8 @@
     "1462516026766917868",
     "1462595369811841226",
     "1462595807000788993",
-    "1462628057184469163"
+    "1462628057184469163",
+    "1462628506369265764"
   ],
   "seen_max": 2000,
   "topics": {
@@ -546,6 +547,15 @@
       "last_update_utc": "2026-01-19T02:02:14+00:00",
       "last_short": "China GDP y/y 4.5% (in line; slower vs 4.8% prior) — modest global risk-off impulse; mild headwind for cyclicals/commodities, slight support",
       "last_long": "China GDP y/y printed 4.5% (matching consensus, down from 4.8%), a “no-surprise” headline with a softer momentum signal. Why it matters now: even in-line China growth can shift global risk premia because it is a demand anchor for commodities and EM supply chains.\n\nMechanism: (1) Risk tone—slower China momentum typically pressures global cyclicals (materials/industrials/energy) and EM beta, and can tighten financial conditions via wider credit/risk premia. (2) Rates/FX—if markets read it as incremental global growth drag, it can add mild support to UST duration (ZN/ZB) via safe-haven/term-premium channels; USD can firm at the margin in a risk-off tape, though front-end UST (ZT) is usually less sensitive unless US data/Fed communication corroborates a broader slowdown.\n\nWhat to watch: persistence hinges on the accompanying China activity details (IP/retail/FAI), trade/export momentum, and"
+    },
+    "t_707436b657d20f18": {
+      "count": 1,
+      "message_ids": [
+        "1462628506369265764"
+      ],
+      "last_update_utc": "2026-01-19T02:04:01+00:00",
+      "last_short": "China data mixed: GDP q/q & industrial output beat, but retail miss and property/FAI remain weak—leans risk-off for EM/commodities, mild sup",
+      "last_long": "Why-now: the release re-anchors the China growth mix into the Monday Asia/early Europe session (2026-01-19), shaping the first risk impulse for the week. Signal: supply-side activity looks stable-to-better (industrial output 5.2% vs 5.0% est; GDP q/q SA 1.2% vs 1.1% est), but demand and the property complex remain a drag (retail sales 0.9% vs 1.0% est and down from 1.3% prior; 2025 FAI -3.8% y/y; 2025 property sales by floor area -8.7% y/y; developer fundraising -13.4% y/y). Mechanism: weaker consumption + still-deleveraging property → higher China credit/property risk premia → softer EM risk tone and pressure on China/HK cyclical and property-linked exposures; commodities can fade if the market reads the beat as inventory/production-led rather than demand-led. Cross-asset spillover: risk-off impulses tend to modestly support UST duration (ZN/ZB) and weigh equity-duration beta (NQ>ES), w"
     }
   },
   "topic_index": {
