@@ -62,7 +62,8 @@
     "1462595807000788993",
     "1462628057184469163",
     "1462628506369265764",
-    "1462748871825428542"
+    "1462748871825428542",
+    "1462749290391801992"
   ],
   "seen_max": 2000,
   "topics": {
@@ -566,6 +567,15 @@
       "last_update_utc": "2026-01-19T10:02:12+00:00",
       "last_short": "EZ CPI final: headline 1.9% y/y (vs 2.0% f/c) with core unchanged at 2.3% — marginally dovish at the margin for ECB expectations; modest EUR",
       "last_long": "Final Eurozone CPI printed a small downside surprise on the headline (1.9% y/y vs 2.0% expected; prior 2.0%), while core held at 2.3% (in line). Why it matters now: it trims the “inflation pressure” narrative at the margin without changing the stickier core backdrop, so it’s more of a small nudge than a regime shift. Likely transmission: slightly lower implied ECB path/term premium → downward pressure on euro front-end rates and Bund yields, with a mild negative bias for EUR (6E) versus USD if relative-rate differentials widen. Cross-asset spillover to US: via FX and global duration (a softer EUR can be a mild headwind for US multinationals’ translation, while lower European yields can support global duration bids), but the core stability should cap the move. What to watch to judge persistence: whether the miss is energy/food-driven (less persistent) vs services; follow-through in front-"
+    },
+    "t_96ce907421036158": {
+      "count": 1,
+      "message_ids": [
+        "1462749290391801992"
+      ],
+      "last_update_utc": "2026-01-19T10:03:55+00:00",
+      "last_short": "Eurozone CPI MoM final +0.2% (in line; prior -0.3%) — sequential rebound but not a surprise; modestly firmer EUR/Bunds at the margin, limite",
+      "last_long": "Eurozone CPI MoM final printed +0.2%, matching consensus and reversing the prior month’s -0.3% drop. Because it’s a *final* print and in-line, the direct “surprise” impulse is small; the market impact is mainly through confirmation of the near-term inflation trajectory rather than a fresh repricing catalyst. Mechanism: a sequential rebound can keep ECB easing expectations a touch more cautious at the margin, supporting slightly higher front-end EUR rates/Bund yields and a mildly firmer EUR (6E) vs USD (DX) if cross-market rate differentials widen. For US index futures (ES/NQ), the transmission is second-order: only meaningful if it contributes to a broader global-duration selloff or tighter financial-conditions narrative into the Jan 27–28 FOMC window. Watch what matters most for follow-through: whether the move is services/core-led vs energy/base effects, and how EUR OIS reacts (that’s"
     }
   },
   "topic_index": {
