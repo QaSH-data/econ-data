@@ -1,0 +1,12 @@
+{
+  "anchors": {
+    "no-change-in-fed-interest-rates-after-january-2026-meeting||No change": {
+      "ts_utc": "2026-01-19T20:40:02Z",
+      "prob": 0.9634999999999999
+    },
+    "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting||Cut 25bps": {
+      "ts_utc": "2026-01-19T20:40:02Z",
+      "prob": 0.0345
+    }
+  }
+}
