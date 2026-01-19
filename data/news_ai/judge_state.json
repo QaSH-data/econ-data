@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-18",
+  "date_utc": "2026-01-19",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -61,7 +61,8 @@
     "1462595369811841226",
     "1462595807000788993",
     "1462628057184469163",
-    "1462628506369265764"
+    "1462628506369265764",
+    "1462748871825428542"
   ],
   "seen_max": 2000,
   "topics": {
@@ -556,6 +557,15 @@
       "last_update_utc": "2026-01-19T02:04:01+00:00",
       "last_short": "China data mixed: GDP q/q & industrial output beat, but retail miss and property/FAI remain weak—leans risk-off for EM/commodities, mild sup",
       "last_long": "Why-now: the release re-anchors the China growth mix into the Monday Asia/early Europe session (2026-01-19), shaping the first risk impulse for the week. Signal: supply-side activity looks stable-to-better (industrial output 5.2% vs 5.0% est; GDP q/q SA 1.2% vs 1.1% est), but demand and the property complex remain a drag (retail sales 0.9% vs 1.0% est and down from 1.3% prior; 2025 FAI -3.8% y/y; 2025 property sales by floor area -8.7% y/y; developer fundraising -13.4% y/y). Mechanism: weaker consumption + still-deleveraging property → higher China credit/property risk premia → softer EM risk tone and pressure on China/HK cyclical and property-linked exposures; commodities can fade if the market reads the beat as inventory/production-led rather than demand-led. Cross-asset spillover: risk-off impulses tend to modestly support UST duration (ZN/ZB) and weigh equity-duration beta (NQ>ES), w"
+    },
+    "t_c9a7ae7287bf45e2": {
+      "count": 1,
+      "message_ids": [
+        "1462748871825428542"
+      ],
+      "last_update_utc": "2026-01-19T10:02:12+00:00",
+      "last_short": "EZ CPI final: headline 1.9% y/y (vs 2.0% f/c) with core unchanged at 2.3% — marginally dovish at the margin for ECB expectations; modest EUR",
+      "last_long": "Final Eurozone CPI printed a small downside surprise on the headline (1.9% y/y vs 2.0% expected; prior 2.0%), while core held at 2.3% (in line). Why it matters now: it trims the “inflation pressure” narrative at the margin without changing the stickier core backdrop, so it’s more of a small nudge than a regime shift. Likely transmission: slightly lower implied ECB path/term premium → downward pressure on euro front-end rates and Bund yields, with a mild negative bias for EUR (6E) versus USD if relative-rate differentials widen. Cross-asset spillover to US: via FX and global duration (a softer EUR can be a mild headwind for US multinationals’ translation, while lower European yields can support global duration bids), but the core stability should cap the move. What to watch to judge persistence: whether the miss is energy/food-driven (less persistent) vs services; follow-through in front-"
     }
   },
   "topic_index": {
