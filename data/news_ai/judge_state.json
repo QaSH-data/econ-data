@@ -69,7 +69,8 @@
     "1462975399217860644",
     "1463065802847686759",
     "1463066218003960015",
-    "1463111242624270372"
+    "1463111242624270372",
+    "1463111676449656966"
   ],
   "seen_max": 2000,
   "topics": {
@@ -628,6 +629,15 @@
       "last_update_utc": "2026-01-20T10:02:09+00:00",
       "last_short": "German ZEW sentiment jumped to 59.6 (vs 50 f/c), a material risk‑tone beat — bullish for European equities and EUR, likely upward pressure o",
       "last_long": "Primary mechanism: risk premium and rates expectations. Intraday/next few sessions, a large upside surprise in German ZEW raises growth/confidence expectations for the euro area, which lowers risk premia and lifts demand for risk assets (DAX/STOXX) while reducing safe‑haven bids into Bunds. That should push Bund yields higher and support EUR vs USD (6E), and can compress Bund‑UST spreads—nudging global rates and repricing duration-sensitive assets (UST futures/ZN) via changed rates expectations. Thin holiday liquidity today can amplify moves; persistence beyond a session depends on follow‑through from ECB comments, German hard data (IP/orders) and bund yield action. Useful edge: real‑time bund yields, DAX moves, EURFX flow, and ECB/surveys in next 24–72h."
+    },
+    "t_8b8d47d961d64e05": {
+      "count": 1,
+      "message_ids": [
+        "1463111676449656966"
+      ],
+      "last_update_utc": "2026-01-20T10:04:03+00:00",
+      "last_short": "Germany ZEW current conditions less negative (-72.7 vs -76 f’cast) = modest EU gloom-relief; Japan FM “bond-market stability” talk is a vola",
+      "last_long": "Germany’s ZEW current-conditions index printed less negative than expected (-72.7 vs -76; prior -81), a small “less-bad” signal on the Euro-area cycle. That typically trims near-term Europe risk premium at the margin (supportive for European equities/credit) and can keep Bund moves orderly rather than forcing a fresh growth-scare bid.\n\nMore market-relevant is Japan: the finance minister’s “confident we can offer stability in the bond market” is explicit jawboning toward containing JGB yield/volatility. Mechanism: (1) verbal backstop raises the perceived probability of operational follow-through (BOJ/MOF actions via purchase operations, liquidity tools, or coordination), (2) compresses JGB term premium and dampens rate-vol, (3) cross-market channel—if JGB volatility is capped, global duration risk can feel less “unanchored,” modestly easing pressure on other long-end sovereign yields, and"
     }
   },
   "topic_index": {
