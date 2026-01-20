@@ -75,7 +75,8 @@
     "1463179593501642939",
     "1463183218525343919",
     "1463188879627653195",
-    "1463220581838225440"
+    "1463220581838225440",
+    "1463275085875118358"
   ],
   "seen_max": 2000,
   "topics": {
@@ -184,16 +185,17 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 4,
+      "count": 5,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
         "1461100842118676756",
-        "1461825412458873187"
+        "1461825412458873187",
+        "1463275085875118358"
       ],
-      "last_update_utc": "2026-01-16T20:53:05+00:00",
-      "last_short": "Large split MOC: S&P 500 and Dow show sizable net buy; Nasdaq 100 and MAG7 sizable net sell—signals late-day rotation away from mega-cap/gro",
-      "last_long": "This close featured a meaningful, opposing MOC imbalance: broad large-cap (S&P 500) and Dow skewed to net buy, while Nasdaq 100 and MAG7 skewed to net sell. Mechanically, MOC imbalances concentrate liquidity at the closing auction, impacting official closes and forcing index/ETF arbitrage and dealer hedging (cash baskets vs futures), which can spill into post-close re-hedging and next-session open dynamics. The cross-index divergence matters more than the absolute numbers: it’s consistent with a late-day factor rotation (away from mega-cap/growth concentration toward broader/old-economy leadership) rather than a uniform risk-on/risk-off impulse. Near-term read-through: relative support for ES/YM versus NQ, with the highest sensitivity in mega-cap complex and Nasdaq-linked ETFs via closing prints, residual hedges, and any follow-through in options skew/realized volatility. Persistence che"
+      "last_update_utc": "2026-01-20T20:53:12+00:00",
+      "last_short": "",
+      "last_long": ""
     },
     "t_e6be6b33661c274a": {
       "count": 1,
