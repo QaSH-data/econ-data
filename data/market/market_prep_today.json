@@ -1,28 +1,81 @@
 {
-  "asof_utc": "2026-01-20T23:32:47Z",
+  "asof_utc": "2026-01-20T23:43:45Z",
   "since_last_update": [
-    "AI generation failed; output is a stub. Check logs and inputs."
+    "Dominant driver crystallized: US equity risk-off tied to President Trump’s threat of new tariffs on eight European countries linked to the Greenland dispute; narrative broadened into a trade-policy/geopolitical risk-premium shock vs Europe/NATO (AP, Washington Post, MarketWatch).",
+    "Cross-asset “risk-off but not classic duration bid”: safe-haven demand lifted precious metals while US long-end yields rose (bond selloff) alongside equities, implying inflation/tariff-risk or term-premium repricing rather than growth-scare-only (MarketWatch, AP).",
+    "USD weakened materially alongside the risk-off impulse, consistent with a ‘Sell America’ framing rather than the usual flight-to-quality USD bid (MarketWatch, CNN).",
+    "Energy complex supported by weaker USD and geopolitics/trade-risk headlines; oil firm despite higher yields, suggesting headline-beta and FX channel dominated macro-rate drag (DTN)."
   ],
   "today_focus": [
-    "Web driver probe not available due to engine error."
+    "Primary session lens: trade-policy shock premium (tariffs on European allies) and whether it de-escalates/gets reframed as negotiating leverage; this is the key risk asset driver over conventional macro data sensitivity today (AP, Washington Post).",
+    "Watch the rates-equities correlation: rising long-end yields alongside equity selloff flags a potentially destabilizing mix (risk-off + higher discount rates), which is typically more punitive for duration-heavy Nasdaq leadership (MarketWatch, AP).",
+    "Safe-haven bid quality check: gold strength appears headline-driven (tariffs/geopolitics + USD down) rather than purely real-rate down; if yields continue rising, gold resilience would imply strong risk-premium demand (Reuters).",
+    "Oil: monitor whether FX weakness continues to support commodities or whether higher yields/global growth fears reassert; headline sensitivity elevated (DTN)."
   ],
-  "market_pricing": {},
+  "market_pricing": {
+    "equities": {
+      "inference": "Markets are pricing a higher geopolitical/trade-policy risk premium and higher volatility, with a particular penalty to mega-cap/tech beta.",
+      "evidence": "Broad US index selloff with tech among hardest hit and volatility spike reported (AP, MarketWatch)."
+    },
+    "rates": {
+      "inference": "Curve repricing is not a clean growth-slowdown bid; instead it reflects higher term premium and/or tariff-linked inflation uncertainty and supply/positioning effects.",
+      "evidence": "Long-term Treasury yields rose on the same day as equities fell (AP, MarketWatch)."
+    },
+    "fx": {
+      "inference": "USD downside indicates the market is partially pricing US policy unpredictability as a confidence/flow headwind, not just global risk-off.",
+      "evidence": "‘Sell America’ framing with dollar sliding alongside equities (MarketWatch, CNN)."
+    },
+    "gold": {
+      "inference": "Gold is pricing elevated tail-risk and policy uncertainty; safe-haven demand outweighs the headwind from higher yields (for now).",
+      "evidence": "Gold jumped to record highs on tariff threats and soured sentiment (Reuters, MarketWatch)."
+    },
+    "oil": {
+      "inference": "Oil is pricing a mix of geopolitical risk and USD support, temporarily dominating the higher-yield macro drag.",
+      "evidence": "Crude described as supported by dollar slide and Greenland/tariff-linked geopolitical risk (DTN)."
+    }
+  },
   "risk_register": [
     {
-      "risk": "Engine error: OPENAI_API_KEY not set",
-      "timeframe": "immediate",
-      "confidence": 0.2
+      "risk": "Trade-policy escalation/retaliation cycle with Europe (tariffs, countermeasures, broader restrictions) extending risk-off and pressuring global growth expectations; also raises inflation uncertainty (tariff pass-through).",
+      "timeframe": "This week into February tariff start window",
+      "confidence": 0.7
+    },
+    {
+      "risk": "Adverse regime for equities if bond yields keep rising during equity drawdowns (tightening financial conditions + valuation compression), especially for duration-heavy sectors.",
+      "timeframe": "This week",
+      "confidence": 0.6
+    },
+    {
+      "risk": "USD weakening alongside risk-off can amplify cross-asset volatility (EM/commodities/hedging flows) and complicate the typical hedging playbook.",
+      "timeframe": "This week",
+      "confidence": 0.5
+    },
+    {
+      "risk": "Headline-driven gaps/liquidity air-pockets: policy/geopolitical tape bombs (tariff specifics, NATO/EU responses, Greenland developments) dominate systematic re-risking/de-risking.",
+      "timeframe": "Overnight and cash open/close windows through this week",
+      "confidence": 0.55
+    },
+    {
+      "risk": "Macro data catalyst risk: core PCE and labor data can reprice front-end expectations; if inflation surprises higher, it can reinforce the ‘bad mix’ of higher yields + weaker equities.",
+      "timeframe": "Jan 22–23",
+      "confidence": 0.55
     }
   ],
-  "event_warnings": [],
-  "confidence": 0.2,
+  "event_warnings": [
+    "Jan 21: Pending Home Sales and other housing/activity prints—secondary unless they shift the rates narrative amid elevated tariff/geopolitical risk premium (ForexFactory).",
+    "Jan 21: President Trump speaks—high headline risk for tariffs/Greenland/EU response framing; can move equity risk premium, USD, and rates simultaneously (ForexFactory, AP/Washington Post context).",
+    "Jan 22: US Final GDP + Claims + Core PCE—cluster risk for rates repricing; core PCE is the highest sensitivity node for equity duration and USD in this week’s calendar (ForexFactory).",
+    "Jan 22–23: API/EIA-related energy inventory cadence—can add noise to oil on top of geopolitics/FX drivers (ForexFactory).",
+    "Jan 23: Flash PMIs + UoM sentiment/inflation expectations—can swing growth vs inflation balance; with policy uncertainty already elevated, reactions may be nonlinear (ForexFactory)."
+  ],
+  "confidence": 0.72,
   "meta": {
     "model": "gpt-5.2",
     "web_search": true,
-    "last_run_utc": null,
-    "delta_hash": "d244bebf48454f47",
+    "last_run_utc": "2026-01-20T23:32:47Z",
+    "delta_hash": "a82675b0259c1a8b",
     "counts": {
-      "headlines": 38,
+      "headlines": 0,
       "polymarket_moves": 0,
       "upcoming_events": 21
     }

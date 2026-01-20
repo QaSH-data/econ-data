@@ -1,7 +1,11 @@
 {
-  "last_run_utc": "2026-01-20T23:32:47Z",
-  "last_delta_hash": "d244bebf48454f47",
+  "last_run_utc": "2026-01-20T23:43:45Z",
+  "last_delta_hash": "a82675b0259c1a8b",
   "open_risks": [
-    "Engine error: OPENAI_API_KEY not set"
+    "Trade-policy escalation/retaliation cycle with Europe (tariffs, countermeasures, broader restrictions) extending risk-off and pressuring global growth expectations; also raises inflation uncertainty (tariff pass-through).",
+    "Adverse regime for equities if bond yields keep rising during equity drawdowns (tightening financial conditions + valuation compression), especially for duration-heavy sectors.",
+    "USD weakening alongside risk-off can amplify cross-asset volatility (EM/commodities/hedging flows) and complicate the typical hedging playbook.",
+    "Headline-driven gaps/liquidity air-pockets: policy/geopolitical tape bombs (tariff specifics, NATO/EU responses, Greenland developments) dominate systematic re-risking/de-risking.",
+    "Macro data catalyst risk: core PCE and labor data can reprice front-end expectations; if inflation surprises higher, it can reinforce the ‘bad mix’ of higher yields + weaker equities."
   ]
 }
