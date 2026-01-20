@@ -1,0 +1,30 @@
+{
+  "asof_utc": "2026-01-20T23:32:47Z",
+  "since_last_update": [
+    "AI generation failed; output is a stub. Check logs and inputs."
+  ],
+  "today_focus": [
+    "Web driver probe not available due to engine error."
+  ],
+  "market_pricing": {},
+  "risk_register": [
+    {
+      "risk": "Engine error: OPENAI_API_KEY not set",
+      "timeframe": "immediate",
+      "confidence": 0.2
+    }
+  ],
+  "event_warnings": [],
+  "confidence": 0.2,
+  "meta": {
+    "model": "gpt-5.2",
+    "web_search": true,
+    "last_run_utc": null,
+    "delta_hash": "d244bebf48454f47",
+    "counts": {
+      "headlines": 38,
+      "polymarket_moves": 0,
+      "upcoming_events": 21
+    }
+  }
+}
