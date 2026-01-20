@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-19",
+  "date_utc": "2026-01-20",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -68,7 +68,8 @@
     "1462818320213344339",
     "1462975399217860644",
     "1463065802847686759",
-    "1463066218003960015"
+    "1463066218003960015",
+    "1463111242624270372"
   ],
   "seen_max": 2000,
   "topics": {
@@ -618,6 +619,15 @@
       "last_update_utc": "2026-01-20T07:03:32+00:00",
       "last_short": "UK labour data stable with wages a touch firmer; German PPI continues to cool. Biggest sensitivity is Europe rates/FX (gilts/GBP vs Bunds/EU",
       "last_long": "Print quality: UK unemployment matched (5.1% vs 5.1%) and wage growth slightly beat (AWE 4.7% vs 4.6%), keeping “sticky services/labour cost” risk alive at the margin. Germany PPI stayed soft (y/y -2.5% vs -2.4%; m/m -0.2% in line), reinforcing the producer-level disinflation story in the euro area.\n\nMechanism: This is primarily a relative policy-path input. Firmer UK wages can lean expectations modestly less dovish for the BoE at the front/mid curve (2–5y gilts, SONIA OIS), which tends to be GBP-supportive on the crosses. Softer German PPI nudges the opposite direction for the ECB narrative (Bund-supportive, EUR more prone to underperform vs higher-carry peers).\n\nWhy it matters now (Jan 20, 2026 session): with global markets already balancing China “headline growth OK / demand soft” context, incremental Europe disinflation vs UK wage firmness can create a divergence trade in rates/FX th"
+    },
+    "t_d0b8a10d786e6dc9": {
+      "count": 1,
+      "message_ids": [
+        "1463111242624270372"
+      ],
+      "last_update_utc": "2026-01-20T10:02:09+00:00",
+      "last_short": "German ZEW sentiment jumped to 59.6 (vs 50 f/c), a material risk‑tone beat — bullish for European equities and EUR, likely upward pressure o",
+      "last_long": "Primary mechanism: risk premium and rates expectations. Intraday/next few sessions, a large upside surprise in German ZEW raises growth/confidence expectations for the euro area, which lowers risk premia and lifts demand for risk assets (DAX/STOXX) while reducing safe‑haven bids into Bunds. That should push Bund yields higher and support EUR vs USD (6E), and can compress Bund‑UST spreads—nudging global rates and repricing duration-sensitive assets (UST futures/ZN) via changed rates expectations. Thin holiday liquidity today can amplify moves; persistence beyond a session depends on follow‑through from ECB comments, German hard data (IP/orders) and bund yield action. Useful edge: real‑time bund yields, DAX moves, EURFX flow, and ECB/surveys in next 24–72h."
     }
   },
   "topic_index": {
