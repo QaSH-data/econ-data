@@ -67,7 +67,8 @@
     "1462801755351023647",
     "1462818320213344339",
     "1462975399217860644",
-    "1463065802847686759"
+    "1463065802847686759",
+    "1463066218003960015"
   ],
   "seen_max": 2000,
   "topics": {
@@ -608,6 +609,15 @@
       "last_update_utc": "2026-01-20T07:01:43+00:00",
       "last_short": "UK unemployment change +17.9k vs +18.8k f/c: marginally firmer labor backdrop; modestly hawkish for BoE path, nudging gilts/GBP slightly hig",
       "last_long": "What changed: Unemployment rose by 17.9k, a touch smaller than the 18.8k expected (and below the prior 20.1k), signaling slightly less labor-market cooling than priced. Mechanism: a firmer labor signal can (at the margin) reduce near-term easing probability and keep wage/second-round inflation concerns a bit “stickier,” pressuring front-end/mid-curve gilt yields higher and offering modest support to GBP. Cross-asset spillover: typically limited for US index futures unless it meaningfully shifts global rates tone; the more direct channel is via global duration (USTs) and the USD if UK/EU rates move in sympathy. Why now: with markets already sensitive to the growth-vs-inflation mix (China demand softness; Eurozone disinflation backdrop), incremental labor firmness in the UK slightly offsets the broader disinflation narrative and can matter most in thin/liquidity-light windows. What to watc"
+    },
+    "t_03e41e1cc693a4ed": {
+      "count": 1,
+      "message_ids": [
+        "1463066218003960015"
+      ],
+      "last_update_utc": "2026-01-20T07:03:32+00:00",
+      "last_short": "UK labour data stable with wages a touch firmer; German PPI continues to cool. Biggest sensitivity is Europe rates/FX (gilts/GBP vs Bunds/EU",
+      "last_long": "Print quality: UK unemployment matched (5.1% vs 5.1%) and wage growth slightly beat (AWE 4.7% vs 4.6%), keeping “sticky services/labour cost” risk alive at the margin. Germany PPI stayed soft (y/y -2.5% vs -2.4%; m/m -0.2% in line), reinforcing the producer-level disinflation story in the euro area.\n\nMechanism: This is primarily a relative policy-path input. Firmer UK wages can lean expectations modestly less dovish for the BoE at the front/mid curve (2–5y gilts, SONIA OIS), which tends to be GBP-supportive on the crosses. Softer German PPI nudges the opposite direction for the ECB narrative (Bund-supportive, EUR more prone to underperform vs higher-carry peers).\n\nWhy it matters now (Jan 20, 2026 session): with global markets already balancing China “headline growth OK / demand soft” context, incremental Europe disinflation vs UK wage firmness can create a divergence trade in rates/FX th"
     }
   },
   "topic_index": {
