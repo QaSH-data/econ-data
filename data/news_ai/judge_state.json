@@ -65,7 +65,8 @@
     "1462748871825428542",
     "1462749290391801992",
     "1462801755351023647",
-    "1462818320213344339"
+    "1462818320213344339",
+    "1462975399217860644"
   ],
   "seen_max": 2000,
   "topics": {
@@ -588,6 +589,15 @@
       "last_update_utc": "2026-01-19T13:32:25+00:00",
       "last_short": "Canada CPI y/y 2.4% vs 2.2%E: mild upside surprise; core mix (trim in-line, median cooler) tempers hawkish read. Supports CAD and front-end",
       "last_long": "Canada’s January 19 CPI print is a modest headline upside surprise (2.4% y/y vs 2.2% expected; prior 2.2%). The core signals are mixed: CPI-trim matched expectations (2.7%), while CPI-median undershot (2.5% vs 2.7% expected) and improved vs prior (2.8%). Mechanism: the headline miss lifts near-term inflation risk premia and can firm short-dated Canada rates and CAD, but the softer median reduces the likelihood of a sustained repricing toward a more restrictive BoC path. Net effect is typically: (1) CAD bid and USD/CAD lower on relative-rate expectations; (2) Canada front-end yields higher with a smaller move in the long end if growth expectations don’t change; (3) modest cross-asset spillover into US duration/risk via global rates sentiment, but usually second-order unless it coincides with broader North American inflation re-acceleration. Why-now: this is close enough to target that mar"
+    },
+    "t_d8a619d615a245fb": {
+      "count": 1,
+      "message_ids": [
+        "1462975399217860644"
+      ],
+      "last_update_utc": "2026-01-20T01:02:34+00:00",
+      "last_short": "PBOC holds 1-yr LPR at 3.00% (unchanged). Reinforces a cautious easing stance—limits near-term China-demand impulse; mild risk-off/commoditi",
+      "last_long": "China’s PBOC kept the 1-year loan prime rate at 3.00% (unchanged vs prior and in line with consensus). Mechanism: an unchanged policy lending benchmark reduces the probability of near-term credit-price relief for corporates/households, which matters given the recent “OK headline growth but soft demand” mix (weak retail and ongoing property/investment drag). With no fresh easing signal, the market can infer (i) less incremental policy put for China cyclicals and (ii) less near-term support for commodity demand, which can bleed into global risk tone. For US index futures, the spillover is typically second-order and channelled via commodities/EM risk appetite and USD (DX) rather than a direct US rates repricing. Why now: this decision lands immediately after closely watched China activity prints, so ‘no cut’ can be read as policy patience rather than urgency. Watch next: any shift in medium"
     }
   },
   "topic_index": {
