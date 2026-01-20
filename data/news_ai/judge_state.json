@@ -70,7 +70,8 @@
     "1463065802847686759",
     "1463066218003960015",
     "1463111242624270372",
-    "1463111676449656966"
+    "1463111676449656966",
+    "1463175121551364229"
   ],
   "seen_max": 2000,
   "topics": {
@@ -638,6 +639,15 @@
       "last_update_utc": "2026-01-20T10:04:03+00:00",
       "last_short": "Germany ZEW current conditions less negative (-72.7 vs -76 f’cast) = modest EU gloom-relief; Japan FM “bond-market stability” talk is a vola",
       "last_long": "Germany’s ZEW current-conditions index printed less negative than expected (-72.7 vs -76; prior -81), a small “less-bad” signal on the Euro-area cycle. That typically trims near-term Europe risk premium at the margin (supportive for European equities/credit) and can keep Bund moves orderly rather than forcing a fresh growth-scare bid.\n\nMore market-relevant is Japan: the finance minister’s “confident we can offer stability in the bond market” is explicit jawboning toward containing JGB yield/volatility. Mechanism: (1) verbal backstop raises the perceived probability of operational follow-through (BOJ/MOF actions via purchase operations, liquidity tools, or coordination), (2) compresses JGB term premium and dampens rate-vol, (3) cross-market channel—if JGB volatility is capped, global duration risk can feel less “unanchored,” modestly easing pressure on other long-end sovereign yields, and"
+    },
+    "t_8fe8f52ffac6ec7d": {
+      "count": 1,
+      "message_ids": [
+        "1463175121551364229"
+      ],
+      "last_update_utc": "2026-01-20T14:16:24+00:00",
+      "last_short": "Japan FM Katayama strikes a calming tone: no expansionary fiscal stance and deficit framed as best-in-G7; aims to steady JPY/JGB volatility",
+      "last_long": "Why-now: “calm down” language is classic MOF risk-management—meant to lean against disorderly price action and a widening Japan risk premium when positioning is likely sensitive.\n\nMechanism: By asserting (1) no expansionary fiscal policy and (2) smallest G7 deficit, the MOF is trying to cap fears of fiscal slippage/extra issuance. If believed, that can (a) compress Japan sovereign/fiscal risk premia, (b) reduce FX volatility and speculative momentum, and (c) support domestic risk assets via improved macro credibility.\n\nCross-asset read-through: Near term this is most relevant for USD/JPY (verbal jawboning tends to target volatility more than direction) and JGBs (fiscal stance messaging can modestly anchor term-premium fears). For US index futures, the spillover is second-order: calmer Japan rates/FX conditions can modestly reduce global “risk-off via higher vol” impulses, but this compet"
     }
   },
   "topic_index": {
