@@ -66,7 +66,8 @@
     "1462749290391801992",
     "1462801755351023647",
     "1462818320213344339",
-    "1462975399217860644"
+    "1462975399217860644",
+    "1463065802847686759"
   ],
   "seen_max": 2000,
   "topics": {
@@ -598,6 +599,15 @@
       "last_update_utc": "2026-01-20T01:02:34+00:00",
       "last_short": "PBOC holds 1-yr LPR at 3.00% (unchanged). Reinforces a cautious easing stance—limits near-term China-demand impulse; mild risk-off/commoditi",
       "last_long": "China’s PBOC kept the 1-year loan prime rate at 3.00% (unchanged vs prior and in line with consensus). Mechanism: an unchanged policy lending benchmark reduces the probability of near-term credit-price relief for corporates/households, which matters given the recent “OK headline growth but soft demand” mix (weak retail and ongoing property/investment drag). With no fresh easing signal, the market can infer (i) less incremental policy put for China cyclicals and (ii) less near-term support for commodity demand, which can bleed into global risk tone. For US index futures, the spillover is typically second-order and channelled via commodities/EM risk appetite and USD (DX) rather than a direct US rates repricing. Why now: this decision lands immediately after closely watched China activity prints, so ‘no cut’ can be read as policy patience rather than urgency. Watch next: any shift in medium"
+    },
+    "t_02b8329aac9b0ae0": {
+      "count": 1,
+      "message_ids": [
+        "1463065802847686759"
+      ],
+      "last_update_utc": "2026-01-20T07:01:43+00:00",
+      "last_short": "UK unemployment change +17.9k vs +18.8k f/c: marginally firmer labor backdrop; modestly hawkish for BoE path, nudging gilts/GBP slightly hig",
+      "last_long": "What changed: Unemployment rose by 17.9k, a touch smaller than the 18.8k expected (and below the prior 20.1k), signaling slightly less labor-market cooling than priced. Mechanism: a firmer labor signal can (at the margin) reduce near-term easing probability and keep wage/second-round inflation concerns a bit “stickier,” pressuring front-end/mid-curve gilt yields higher and offering modest support to GBP. Cross-asset spillover: typically limited for US index futures unless it meaningfully shifts global rates tone; the more direct channel is via global duration (USTs) and the USD if UK/EU rates move in sympathy. Why now: with markets already sensitive to the growth-vs-inflation mix (China demand softness; Eurozone disinflation backdrop), incremental labor firmness in the UK slightly offsets the broader disinflation narrative and can matter most in thin/liquidity-light windows. What to watc"
     }
   },
   "topic_index": {
