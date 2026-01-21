@@ -81,7 +81,8 @@
     "1463536956372680716",
     "1463542457647239310",
     "1463573109343916054",
-    "1463577934122975273"
+    "1463577934122975273",
+    "1463616867091480699"
   ],
   "seen_max": 2000,
   "topics": {
@@ -732,6 +733,15 @@
       "last_update_utc": "2026-01-21T16:56:37+00:00",
       "last_short": "SCOTUS likely to deny Trump’s bid to immediately remove Fed Governor Lisa Cook — reduces political risk to Fed independence; likely supporti",
       "last_long": "Primary market mechanism involved: risk premium. Causal chain (intraday → next few sessions): a likely SCOTUS denial of an immediate removal lowers near-term political risk to Fed governance, preserving policy continuity expectations. That reduces policy-tail risk premium and idiosyncratic volatility tied to US central-bank politicization, which should lower demand for safe-haven Treasuries and USD while supporting risk assets (ES/NQ, cyclical sectors, financials). Why now: the court action is an immediate legal check on an executive move, so markets can reprice political risk quickly; thin holiday liquidity and an upcoming Trump speech and core PCE release can amplify or sequence the reaction. Parts of the market most exposed: US equity futures (ES/NQ), Treasury futures (ZN/2s/10s), USD (DX), bank stocks and other Fed-sensitive sectors. Edge signals to watch: real-time moves in front-en"
+    },
+    "t_d6dbde128dfc48d7": {
+      "count": 1,
+      "message_ids": [
+        "1463616867091480699"
+      ],
+      "last_update_utc": "2026-01-21T19:31:24+00:00",
+      "last_short": "Trump claims a “framework” for a future Greenland deal; mostly headline-driven geopolitics—can add a modest risk premium into ES/NQ and nudg",
+      "last_long": "Event: Trump posted that a framework for a future “deal” regarding Greenland has been formed. Market mechanism: (1) geopolitical/sovereign uncertainty raises a near-term risk premium (equities/credit softer, vols bid); (2) FX channel via Europe-facing political risk (EUR/DKK sensitivity) and marginal USD safe-haven demand; (3) sector lens—defense, Arctic logistics, and any resource/critical-minerals narrative can see idiosyncratic spillovers, but broad-index impact requires official follow-through. Why it matters now: timing is close to a scheduled Trump speaking slot later today, so traders may treat the post as a teaser and price higher headline sensitivity into the next 24–48h. Persistence test: without confirmation from Denmark/Greenland authorities or concrete scope (security basing, commercial/resource rights, or governance/sovereignty terms), this is likely a fast-decay sentiment"
     }
   },
   "topic_index": {
