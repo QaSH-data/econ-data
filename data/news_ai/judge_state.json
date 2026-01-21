@@ -80,7 +80,8 @@
     "1463428220673065075",
     "1463536956372680716",
     "1463542457647239310",
-    "1463573109343916054"
+    "1463573109343916054",
+    "1463577934122975273"
   ],
   "seen_max": 2000,
   "topics": {
@@ -722,6 +723,15 @@
       "last_update_utc": "2026-01-21T16:37:38+00:00",
       "last_short": "Denmark rejects US talks on Greenland takeover—adds geopolitical risk premium, mildly pressuring equities and supporting Treasuries/USD.",
       "last_long": "Denmark’s public refusal to negotiate a US “takeover” of Greenland is primarily a risk-premium story: it raises geopolitical/diplomatic uncertainty with potential NATO/alliance optics, which can modestly lift volatility and nudge positioning toward defensives. Transmission: (1) risk assets—slight headwind to ES/NQ via higher uncertainty/volatility premium; (2) rates—supportive for safe-haven duration (ZN/ZB) if headlines escalate; (3) FX—typically modest USD support vs pro-cyclical FX on risk-off impulses, though magnitude depends on follow-through. Why now: timing sits near a scheduled President Trump speaking slot later today (2026-01-21), increasing headline sensitivity and the chance of iterative comments/clarifications. What to watch: confirmation/tonality from the US administration, Denmark, and NATO/EU officials; any linkage to broader trade/security posture would be the catalyst"
+    },
+    "t_9265b909f2b8f354": {
+      "count": 1,
+      "message_ids": [
+        "1463577934122975273"
+      ],
+      "last_update_utc": "2026-01-21T16:56:37+00:00",
+      "last_short": "SCOTUS likely to deny Trump’s bid to immediately remove Fed Governor Lisa Cook — reduces political risk to Fed independence; likely supporti",
+      "last_long": "Primary market mechanism involved: risk premium. Causal chain (intraday → next few sessions): a likely SCOTUS denial of an immediate removal lowers near-term political risk to Fed governance, preserving policy continuity expectations. That reduces policy-tail risk premium and idiosyncratic volatility tied to US central-bank politicization, which should lower demand for safe-haven Treasuries and USD while supporting risk assets (ES/NQ, cyclical sectors, financials). Why now: the court action is an immediate legal check on an executive move, so markets can reprice political risk quickly; thin holiday liquidity and an upcoming Trump speech and core PCE release can amplify or sequence the reaction. Parts of the market most exposed: US equity futures (ES/NQ), Treasury futures (ZN/2s/10s), USD (DX), bank stocks and other Fed-sensitive sectors. Edge signals to watch: real-time moves in front-en"
     }
   },
   "topic_index": {
