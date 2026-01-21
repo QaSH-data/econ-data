@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-20T23:43:45Z",
+  "last_run_utc": "2026-01-21T00:12:25Z",
   "last_delta_hash": "a82675b0259c1a8b",
   "open_risks": [
-    "Trade-policy escalation/retaliation cycle with Europe (tariffs, countermeasures, broader restrictions) extending risk-off and pressuring global growth expectations; also raises inflation uncertainty (tariff pass-through).",
-    "Adverse regime for equities if bond yields keep rising during equity drawdowns (tightening financial conditions + valuation compression), especially for duration-heavy sectors.",
-    "USD weakening alongside risk-off can amplify cross-asset volatility (EM/commodities/hedging flows) and complicate the typical hedging playbook.",
-    "Headline-driven gaps/liquidity air-pockets: policy/geopolitical tape bombs (tariff specifics, NATO/EU responses, Greenland developments) dominate systematic re-risking/de-risking.",
-    "Macro data catalyst risk: core PCE and labor data can reprice front-end expectations; if inflation surprises higher, it can reinforce the ‘bad mix’ of higher yields + weaker equities."
+    "Escalation/retaliation cycle: concrete tariff timetable (10% from Feb with potential escalation later) increases likelihood of European countermeasures, prolonging risk-off and complicating inflation expectations.",
+    "Adverse cross-asset regime: equities draw down while long-end yields rise, causing valuation compression (esp. Nasdaq) and tightening financial conditions.",
+    "Headline-gap / liquidity air-pocket risk around political statements and Davos-related soundbites; systematic flows may amplify whipsaws.",
+    "Gold whipsaw risk: safe-haven premium vulnerable to sudden détente headlines; alternatively can extend if trade risk morphs into stagflation narrative.",
+    "Macro data reprice risk: core PCE and PMI could override tariffs narrative temporarily by moving real rates; upside inflation surprise would be particularly toxic for NQ and supportive for gold via uncertainty channel."
   ]
 }
