@@ -85,7 +85,8 @@
     "1463616867091480699",
     "1463617550385545258",
     "1463629907257987229",
-    "1463637575171571764"
+    "1463637575171571764",
+    "1463682613653934121"
   ],
   "seen_max": 2000,
   "topics": {
@@ -764,6 +765,15 @@
       "last_update_utc": "2026-01-21T20:23:12+00:00",
       "last_short": "Trump says he likes keeping Hassett in place—marginally reduces economic-team turnover risk; modestly risk-supportive (ES/NQ), slightly less",
       "last_long": "Trump’s remark that he “likes keeping Hassett where he is” reads as a continuity signal for the administration’s economic-policy team rather than a new policy announcement. Why now: late-day political/staffing headlines can quickly widen or compress the near-term policy-risk premium, especially ahead of scheduled Trump remarks later today (Jan 21, 2026, 21:30 UTC) and the next macro prints (Core PCE on Jan 22).\n\nTransmission to markets: (1) Risk premium channel—reduced perceived turnover/infighting risk is modestly supportive for US equity index futures (ES/NQ) and tends to lean against safe-haven demand. (2) Rates channel—if risk tone firms, Treasuries can see mild selling pressure (higher yields), but the effect should be small unless followed by concrete fiscal/tax/trade guidance. (3) FX channel—USD impact is likely second-order and conditional on whether the follow-up message shifts"
+    },
+    "t_53c4072e92373d5a": {
+      "count": 1,
+      "message_ids": [
+        "1463682613653934121"
+      ],
+      "last_update_utc": "2026-01-21T23:52:36+00:00",
+      "last_short": "Japan imports +5.3% YoY; large foreign selling of JGBs (-361.4B) while equities still net-bought. Likely lifts JGB yields and pressures USD/",
+      "last_long": "Stronger-than-expected imports (+5.3% YoY) signals firmer domestic demand and raises near-term inflation/BoJ-path sensitivity. At the same time large foreign net sales of Japanese bonds (-361.4B) removes external bid for JGBs, putting upward pressure on JGB yields and steepening the curve. Primary market mechanism: rates expectations. Over the intraday to next few sessions this combination tends to: 1) push USD/JPY higher (yen depreciation) as yield differentials widen; 2) raise volatility in JGB futures and pressure Japanese sovereign bond ETFs; 3) bias Japanese equity sectors—exporters/large caps may benefit from weaker yen while import-heavy sectors could underperform. Relevant cross-market links: JGB-to-UST spread moves, swap/DFS positioning, and FX option skews. Edge will come from real-time JGB yield moves (2y/10y), spot and vols in USD/JPY, BOJ/Finance Ministry statements, and set"
     }
   },
   "topic_index": {
