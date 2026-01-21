@@ -82,7 +82,8 @@
     "1463542457647239310",
     "1463573109343916054",
     "1463577934122975273",
-    "1463616867091480699"
+    "1463616867091480699",
+    "1463617550385545258"
   ],
   "seen_max": 2000,
   "topics": {
@@ -742,6 +743,15 @@
       "last_update_utc": "2026-01-21T19:31:24+00:00",
       "last_short": "Trump claims a “framework” for a future Greenland deal; mostly headline-driven geopolitics—can add a modest risk premium into ES/NQ and nudg",
       "last_long": "Event: Trump posted that a framework for a future “deal” regarding Greenland has been formed. Market mechanism: (1) geopolitical/sovereign uncertainty raises a near-term risk premium (equities/credit softer, vols bid); (2) FX channel via Europe-facing political risk (EUR/DKK sensitivity) and marginal USD safe-haven demand; (3) sector lens—defense, Arctic logistics, and any resource/critical-minerals narrative can see idiosyncratic spillovers, but broad-index impact requires official follow-through. Why it matters now: timing is close to a scheduled Trump speaking slot later today, so traders may treat the post as a teaser and price higher headline sensitivity into the next 24–48h. Persistence test: without confirmation from Denmark/Greenland authorities or concrete scope (security basing, commercial/resource rights, or governance/sovereignty terms), this is likely a fast-decay sentiment"
+    },
+    "t_2fa1a7b9693f5f33": {
+      "count": 1,
+      "message_ids": [
+        "1463617550385545258"
+      ],
+      "last_update_utc": "2026-01-21T19:33:55+00:00",
+      "last_short": "Trump says a framework deal on Greenland and Feb 1 tariffs will not be imposed—reduces near-term trade risk; positive for equities, material",
+      "last_long": "What happened: President Trump announced a framework for a future Greenland deal and said tariffs scheduled for Feb 1 will not be imposed. Mechanism: primary channel is risk premium (with secondary volatility compression). Why it matters now: cancelling a near-term tariff removes an imminent policy shock that would have raised trade uncertainty and option-implied vols; in thin holiday liquidity this can produce a noticeable intraday risk-on bias. Market causal chain (next few sessions): headline lowers perceived geopolitical/trade risk → immediate drop in equity risk premia and option vols → S&P/Nasdaq futures (ES/NQ) likely biased higher intraday; cyclicals and trade-exposed sectors (materials/miners, industrials, shipping, semiconductors/export-oriented tech) gain relative strength. FX/commodities: reduced safe-haven flows could weigh modestly on USD and lift commodity-linked FX and ba"
     }
   },
   "topic_index": {
