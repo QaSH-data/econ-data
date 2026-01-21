@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-21T00:12:25Z",
-  "last_delta_hash": "a82675b0259c1a8b",
+  "last_run_utc": "2026-01-21T14:00:42Z",
+  "last_delta_hash": "ff5ae768989406be",
   "open_risks": [
-    "Escalation/retaliation cycle: concrete tariff timetable (10% from Feb with potential escalation later) increases likelihood of European countermeasures, prolonging risk-off and complicating inflation expectations.",
-    "Adverse cross-asset regime: equities draw down while long-end yields rise, causing valuation compression (esp. Nasdaq) and tightening financial conditions.",
-    "Headline-gap / liquidity air-pocket risk around political statements and Davos-related soundbites; systematic flows may amplify whipsaws.",
-    "Gold whipsaw risk: safe-haven premium vulnerable to sudden détente headlines; alternatively can extend if trade risk morphs into stagflation narrative.",
-    "Macro data reprice risk: core PCE and PMI could override tariffs narrative temporarily by moving real rates; upside inflation surprise would be particularly toxic for NQ and supportive for gold via uncertainty channel."
+    "Headline-gap risk around Trump/Davos remarks: tariff scope/timing, EU retaliation rhetoric, or Greenland framing driving abrupt risk-on/risk-off swings (Reuters, AP).",
+    "Adverse cross-asset regime: equities weaken while long-end yields rise (valuation compression, tighter financial conditions), disproportionately impacting Nasdaq/long-duration equities (AP).",
+    "Gold reversal risk if de-escalation headlines emerge; alternatively further extension if narrative shifts to stagflation/trade-war escalation (AP, Reuters).",
+    "Macro override risk: upcoming US inflation/activity data (Core PCE, PMIs) re-anchor real rates and overwhelm politics-driven tape (calendar; consistent with prior-state sensitivity).",
+    "Earnings-guidance uncertainty amplifies macro shock (index-level dispersion and factor rotations), especially if companies cite trade policy or cost uncertainty (Barron's, AP)."
   ]
 }
