@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-20",
+  "date_utc": "2026-01-21",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -77,7 +77,8 @@
     "1463188879627653195",
     "1463220581838225440",
     "1463275085875118358",
-    "1463428220673065075"
+    "1463428220673065075",
+    "1463536956372680716"
   ],
   "seen_max": 2000,
   "topics": {
@@ -692,6 +693,15 @@
       "last_update_utc": "2026-01-21T07:01:57+00:00",
       "last_short": "UK core CPI y/y 3.2% vs 3.3% f/cast (prev 3.2%) — marginal downside that lightly leans to easier BoE pricing; supportive for gilts, mildly n",
       "last_long": "UK core CPI came in at 3.2% y/y versus 3.3% expected, unchanged versus the prior 3.2% (released 2026-01-21 07:01 UTC). The miss is small, but it reinforces the “disinflation is grinding on” narrative rather than re-accelerating. Mechanism: a softer core print typically nudges BoE path expectations down (or reduces tightening tail-risk), which tends to (1) support front/mid gilts via lower expected policy rates, and (2) modestly weigh GBP via rate-differential channels. Second-order: UK equities can see a mild positive duration impulse (lower discount rates), though index-level impact depends on global risk tone and sector mix. For US index futures, this is usually a low-beta input; spillover to ES/NQ/USTs should be limited unless the UK rates move is large enough to pull broader global duration lower and reprice the “higher-for-longer” narrative. What to watch for confirmation: SONIA/OIS"
+    },
+    "t_40187f7deb61f56a": {
+      "count": 1,
+      "message_ids": [
+        "1463536956372680716"
+      ],
+      "last_update_utc": "2026-01-21T14:14:03+00:00",
+      "last_short": "Trump’s Greenland/NATO remarks add geopolitical/policy uncertainty; can lift risk premium—supporting USTs/USD while pressuring ES/NQ on head",
+      "last_long": "What happened: Trump reiterated provocative framing around Greenland and NATO and said he would not use “excessive force.” Mechanism: geopolitical/policy rhetoric primarily transmits through risk premia and volatility—raising tail-risk perception rather than changing near-term cashflows. Likely chain: sharper foreign-policy rhetoric → higher uncertainty/volatility → rotation toward defensives and safe havens (UST duration bid; USD supported on risk-off/flight-to-liquidity) and away from high-beta/earnings-duration equities (NQ > ES), with potential relative support for defense/security-linked exposures. Why now: remarks land ahead of a scheduled Trump appearance (2026-01-21 21:30Z) and into a market already sensitive to macro catalysts later this week (Core PCE 2026-01-22; Flash PMIs 2026-01-23), so incremental political risk can amplify intraday swings and option hedging flows. What to"
     }
   },
   "topic_index": {
