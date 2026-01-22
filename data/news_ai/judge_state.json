@@ -95,7 +95,8 @@
     "1463912414654234801",
     "1463913153468567697",
     "1463941842646204560",
-    "1464000000915931247"
+    "1464000000915931247",
+    "1464013495774220288"
   ],
   "seen_max": 2000,
   "topics": {
@@ -848,6 +849,15 @@
       "last_update_utc": "2026-01-22T17:02:33+00:00",
       "last_short": "EIA shows massive surprise crude (+3.602M bbl) and distillate (+5.977M) builds, Cushing +1.478M — bearish for crude futures and energy equit",
       "last_long": "Large, unexpected weekly builds (crude +3.602M bbl, distillates +5.977M, Cushing +1.478M) mechanically increase available oil supply and reduce the marginal scarcity premium. Primary market mechanism: risk premium — higher inventories compress forward risk premia for prompt crude and product contracts. Why now: the print is a fresh, objectively large supply/demand signal that compounds existing China demand softness and thin holiday liquidity, so price moves can be amplified intraday and may persist into the next few sessions. Parts of market most exposed: prompt WTI/Brent (CL), product markets (ULSD/RBOB) and prompt spreads, energy equities and ETFs (XLE), and volatility/skew in energy options; weaker oil prices can modestly lower headline inflation risk and thus slightly ease short-end rates sensitivity. Edge comes from watching: prompt calendar spreads (backwardation/contango), refine"
+    },
+    "t_1b957fd4b40c63e1": {
+      "count": 1,
+      "message_ids": [
+        "1464013495774220288"
+      ],
+      "last_update_utc": "2026-01-22T21:47:25+00:00",
+      "last_short": "NZ CPI q/q 0.6% vs 0.5% est: mild upside surprise. Near-term hawkish tilt for RBNZ pricing; supports NZD and NZ front-end yields, limited di",
+      "last_long": "New Zealand CPI printed 0.6% q/q vs 0.5% forecast (prior 1.0%), a modest upside miss that mainly matters through the RBNZ reaction function. Mechanism: a firmer CPI reduces urgency for near-term easing and can reprice NZ front-end rates (OIS/2y swaps) higher while supporting NZD on the margins (especially vs AUD). The “prior downshift” (1.0% -> 0.6%) still signals cooling, so the takeaway is less “re-acceleration” and more “disinflation not fast enough to validate aggressive cuts.” Global impact: usually second-order for US ES/NQ; the most plausible channel is a small nudge toward higher global term premium/rates sensitivity in Asia/overnight risk tone, but this can be overwhelmed quickly by US catalysts (Final GDP and Core PCE later on Jan 22, 2026). What to watch for persistence: NZ 2y/5y swap repricing and NZD follow-through—if both fade quickly, it’s a one-session impulse; if they ho"
     }
   },
   "topic_index": {
