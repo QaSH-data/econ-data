@@ -92,7 +92,8 @@
     "1463889027550806088",
     "1463904203339726923",
     "1463911692953190517",
-    "1463912414654234801"
+    "1463912414654234801",
+    "1463913153468567697"
   ],
   "seen_max": 2000,
   "topics": {
@@ -826,6 +827,15 @@
       "last_update_utc": "2026-01-22T15:05:47+00:00",
       "last_short": "US consumer spending +0.5% MoM (in line); reinforces steady demand and is unlikely to shift Fed pricing on its own ahead of Core PCE.",
       "last_long": "US consumer spending rose +0.5% m/m, matching consensus and a touch above the prior +0.4%. Because it is an “in-line” growth print, the main channel is confirmation rather than repricing: it supports the soft-landing/resilient-demand narrative but should not, by itself, materially move front-end Fed expectations or Treasury yields. Where it can matter is at the margin for equity risk tone—helping cyclicals/consumer-linked groups if the market was worried about demand rollover—while also keeping attention on whether resilient spending collides with inflation progress. Why now: with Core PCE and other late-week activity gauges ahead, this print acts as a baseline; a surprise in inflation (or a meaningful GDP revision) is more likely than this report to drive cross-asset moves (rates, USD, and index futures)."
+    },
+    "t_e2759a0197b6f33f": {
+      "count": 1,
+      "message_ids": [
+        "1463913153468567697"
+      ],
+      "last_update_utc": "2026-01-22T15:08:41+00:00",
+      "last_short": "US Oct PCE inflation matched estimates (2.7% y/y, 0.2% m/m) — low surprise, limiting near-term rates/FX repricing; focus shifts to core deta",
+      "last_long": "The US October PCE price index came in exactly at consensus (2.7% y/y; 0.2% m/m), which is a classic “low-information” inflation print for markets. Mechanism: absent a surprise, front-end rate expectations and real-rate pricing typically move less, so spillover into equity duration (NQ > ES) and USD (DX) should be more muted than on a miss/beat. The incremental value is in the composition and interpretation: whether services inflation remains sticky, how any revisions alter the recent trend, and whether the BEA’s methodology note (CPI geometric-mean inputs) reinforces the view that the month’s inflation impulse is not accelerating. Why now: with January policy odds already heavily skewed to no-change in the provided context, an in-line PCE mainly keeps the bar high for a near-term repricing; attention rotates to the next catalysts (core PCE, GDP revisions, and high-frequency activity/PMI"
     }
   },
   "topic_index": {
