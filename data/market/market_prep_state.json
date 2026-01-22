@@ -1,11 +1,10 @@
 {
-  "last_run_utc": "2026-01-21T14:00:42Z",
-  "last_delta_hash": "ff5ae768989406be",
+  "last_run_utc": "2026-01-22T14:00:37Z",
+  "last_delta_hash": "64abc65be685c05a",
   "open_risks": [
-    "Headline-gap risk around Trump/Davos remarks: tariff scope/timing, EU retaliation rhetoric, or Greenland framing driving abrupt risk-on/risk-off swings (Reuters, AP).",
-    "Adverse cross-asset regime: equities weaken while long-end yields rise (valuation compression, tighter financial conditions), disproportionately impacting Nasdaq/long-duration equities (AP).",
-    "Gold reversal risk if de-escalation headlines emerge; alternatively further extension if narrative shifts to stagflation/trade-war escalation (AP, Reuters).",
-    "Macro override risk: upcoming US inflation/activity data (Core PCE, PMIs) re-anchor real rates and overwhelm politics-driven tape (calendar; consistent with prior-state sensitivity).",
-    "Earnings-guidance uncertainty amplifies macro shock (index-level dispersion and factor rotations), especially if companies cite trade policy or cost uncertainty (Barron's, AP)."
+    "Core PCE (and any inflation-adjacent components) triggers a real-rate shock that dominates any headline relief; NQ duration sensitivity highest",
+    "Policy headline gap risk persists despite tariff walkback: Greenland/NATO/framing could re-escalate, re-widening risk premia and lifting gold",
+    "Fed independence/governance tail: Cook case developments or Fed-chair nomination chatter reprice term premium and rates vol abruptly",
+    "Cross-asset adverse mix: equities weaken while yields rise (or gold up with yields up), indicating tighter financial conditions + hedging demand simultaneously"
   ]
 }
