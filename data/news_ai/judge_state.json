@@ -93,7 +93,8 @@
     "1463904203339726923",
     "1463911692953190517",
     "1463912414654234801",
-    "1463913153468567697"
+    "1463913153468567697",
+    "1463941842646204560"
   ],
   "seen_max": 2000,
   "topics": {
@@ -836,6 +837,15 @@
       "last_update_utc": "2026-01-22T15:08:41+00:00",
       "last_short": "US Oct PCE inflation matched estimates (2.7% y/y, 0.2% m/m) — low surprise, limiting near-term rates/FX repricing; focus shifts to core deta",
       "last_long": "The US October PCE price index came in exactly at consensus (2.7% y/y; 0.2% m/m), which is a classic “low-information” inflation print for markets. Mechanism: absent a surprise, front-end rate expectations and real-rate pricing typically move less, so spillover into equity duration (NQ > ES) and USD (DX) should be more muted than on a miss/beat. The incremental value is in the composition and interpretation: whether services inflation remains sticky, how any revisions alter the recent trend, and whether the BEA’s methodology note (CPI geometric-mean inputs) reinforces the view that the month’s inflation impulse is not accelerating. Why now: with January policy odds already heavily skewed to no-change in the provided context, an in-line PCE mainly keeps the bar high for a near-term repricing; attention rotates to the next catalysts (core PCE, GDP revisions, and high-frequency activity/PMI"
+    },
+    "t_ccbe4d6fbc751378": {
+      "count": 1,
+      "message_ids": [
+        "1463941842646204560"
+      ],
+      "last_update_utc": "2026-01-22T17:02:33+00:00",
+      "last_short": "EIA shows massive surprise crude (+3.602M bbl) and distillate (+5.977M) builds, Cushing +1.478M — bearish for crude futures and energy equit",
+      "last_long": "Large, unexpected weekly builds (crude +3.602M bbl, distillates +5.977M, Cushing +1.478M) mechanically increase available oil supply and reduce the marginal scarcity premium. Primary market mechanism: risk premium — higher inventories compress forward risk premia for prompt crude and product contracts. Why now: the print is a fresh, objectively large supply/demand signal that compounds existing China demand softness and thin holiday liquidity, so price moves can be amplified intraday and may persist into the next few sessions. Parts of market most exposed: prompt WTI/Brent (CL), product markets (ULSD/RBOB) and prompt spreads, energy equities and ETFs (XLE), and volatility/skew in energy options; weaker oil prices can modestly lower headline inflation risk and thus slightly ease short-end rates sensitivity. Edge comes from watching: prompt calendar spreads (backwardation/contango), refine"
     }
   },
   "topic_index": {

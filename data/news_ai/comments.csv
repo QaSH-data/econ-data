@@ -69,3 +69,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-22T15:02:25.764000+00:00,1463911692953190517,1,t_eb06d0882439e81d,2,US PCE m/m 0.2% (in line; prev 0.3%) — modest cooling at the margin. Should be mildly supportive for Treasuries and duration-sensitive equit
 2026-01-22T15:05:17.831000+00:00,1463912414654234801,1,t_d9e32f5280611c13,2,US consumer spending +0.5% MoM (in line); reinforces steady demand and is unlikely to shift Fed pricing on its own ahead of Core PCE.
 2026-01-22T15:08:13.978000+00:00,1463913153468567697,1,t_e2759a0197b6f33f,2,"US Oct PCE inflation matched estimates (2.7% y/y, 0.2% m/m) — low surprise, limiting near-term rates/FX repricing; focus shifts to core deta"
+2026-01-22T17:02:14.011000+00:00,1463941842646204560,1,t_ccbe4d6fbc751378,4,"EIA shows massive surprise crude (+3.602M bbl) and distillate (+5.977M) builds, Cushing +1.478M — bearish for crude futures and energy equit"
