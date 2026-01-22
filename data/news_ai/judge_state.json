@@ -87,7 +87,8 @@
     "1463629907257987229",
     "1463637575171571764",
     "1463682613653934121",
-    "1463692636262109418"
+    "1463692636262109418",
+    "1463693086269112425"
   ],
   "seen_max": 2000,
   "topics": {
@@ -784,6 +785,15 @@
       "last_update_utc": "2026-01-22T00:32:28+00:00",
       "last_short": "Australia unemployment 4.1% vs 4.3% forecast — labor tightness tilts RBA toward patience; supports AUD and lifts AU front-end yields; mild g",
       "last_long": "Australia’s jobless rate at 4.1% (vs 4.3% expected, 4.3% prior) reads as incremental labor-market tightening. Mechanism: tighter labor conditions can sustain wage pressure and keep the RBA less willing to ease quickly, nudging AU front-end rates/hike-or-delay-cut pricing higher and lending near-term support to AUD. Cross-market spillover to US index futures is second-order: firmer AUD/Asia risk tone can be a modest risk tailwind, while higher global term-rate sensitivity is a mild headwind for duration equities if it feeds into broader yields. What to watch for persistence: participation rate/underemployment, full-time vs part-time mix, hours worked, and any immediate RBA communication that validates “higher-for-longer/patient” framing."
+    },
+    "t_2cd6f11be3268eea": {
+      "count": 1,
+      "message_ids": [
+        "1463693086269112425"
+      ],
+      "last_update_utc": "2026-01-22T00:34:08+00:00",
+      "last_short": "Australia payrolls +65.2k vs 27k est — big upside likely lifts RBA tightening odds. AUD and Australian gov’t yields (ACGB) up; miners/commod",
+      "last_long": "Primary mechanism: rates expectations (with liquidity amplification intraday). Intraday/next few sessions: a +65.2k jobs surprise tightens the labor-market story, increasing the chance investors price a firmer near-term RBA path. That should push up short-end ACGB yields and the AUD vs USD/EUR, compressing local risk premia and favoring commodity/cyclical sectors (miners, energy, materials) that are AUD/commodity-linked. Effects on US index futures are likely second-order — a re-risking into cyclicals or a modest tightening of global rate curves — but thin liquidity (holiday conditions) can amplify initial moves and volatility. Watch Australian OIS/IRS repricing, ACGB 2y/10y moves, AUD spot & swaps, commodity prices (iron ore, copper), and RBA commentary/minutes for persistence. China demand softness could cap commodity gains, so monitor Chinese activity prints and cross-asset flows to a"
     }
   },
   "topic_index": {
