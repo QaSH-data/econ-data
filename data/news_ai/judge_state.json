@@ -86,7 +86,8 @@
     "1463617550385545258",
     "1463629907257987229",
     "1463637575171571764",
-    "1463682613653934121"
+    "1463682613653934121",
+    "1463692636262109418"
   ],
   "seen_max": 2000,
   "topics": {
@@ -774,6 +775,15 @@
       "last_update_utc": "2026-01-21T23:52:36+00:00",
       "last_short": "Japan imports +5.3% YoY; large foreign selling of JGBs (-361.4B) while equities still net-bought. Likely lifts JGB yields and pressures USD/",
       "last_long": "Stronger-than-expected imports (+5.3% YoY) signals firmer domestic demand and raises near-term inflation/BoJ-path sensitivity. At the same time large foreign net sales of Japanese bonds (-361.4B) removes external bid for JGBs, putting upward pressure on JGB yields and steepening the curve. Primary market mechanism: rates expectations. Over the intraday to next few sessions this combination tends to: 1) push USD/JPY higher (yen depreciation) as yield differentials widen; 2) raise volatility in JGB futures and pressure Japanese sovereign bond ETFs; 3) bias Japanese equity sectors—exporters/large caps may benefit from weaker yen while import-heavy sectors could underperform. Relevant cross-market links: JGB-to-UST spread moves, swap/DFS positioning, and FX option skews. Edge will come from real-time JGB yield moves (2y/10y), spot and vols in USD/JPY, BOJ/Finance Ministry statements, and set"
+    },
+    "t_1300c7f758e41515": {
+      "count": 1,
+      "message_ids": [
+        "1463692636262109418"
+      ],
+      "last_update_utc": "2026-01-22T00:32:28+00:00",
+      "last_short": "Australia unemployment 4.1% vs 4.3% forecast — labor tightness tilts RBA toward patience; supports AUD and lifts AU front-end yields; mild g",
+      "last_long": "Australia’s jobless rate at 4.1% (vs 4.3% expected, 4.3% prior) reads as incremental labor-market tightening. Mechanism: tighter labor conditions can sustain wage pressure and keep the RBA less willing to ease quickly, nudging AU front-end rates/hike-or-delay-cut pricing higher and lending near-term support to AUD. Cross-market spillover to US index futures is second-order: firmer AUD/Asia risk tone can be a modest risk tailwind, while higher global term-rate sensitivity is a mild headwind for duration equities if it feeds into broader yields. What to watch for persistence: participation rate/underemployment, full-time vs part-time mix, hours worked, and any immediate RBA communication that validates “higher-for-longer/patient” framing."
     }
   },
   "topic_index": {
