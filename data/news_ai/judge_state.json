@@ -108,7 +108,8 @@
     "1464266646666608661",
     "1464270446613627044",
     "1464274204881846538",
-    "1464337759509549087"
+    "1464337759509549087",
+    "1464342074458509565"
   ],
   "seen_max": 2000,
   "topics": {
@@ -970,6 +971,15 @@
       "last_update_utc": "2026-01-23T19:16:12+00:00",
       "last_short": "Politico: Trump admin weighs naval blockade to halt Cuban oil imports—geopolitical escalation can lift crude risk premium and nudge index fu",
       "last_long": "What happened (Jan 23, 2026): Politico reports the Trump Administration is weighing a naval blockade to halt Cuban oil imports.\n\nMarket mechanism (intraday → 1–3 sessions): (1) Geopolitical escalation risk widens the crude/energy risk premium (shipping, insurance, sanctions/enforcement uncertainty). (2) If crude/refs price higher, equities face a mild “tax” via input-cost uncertainty and tighter financial conditions at the margin; ES/NQ typically lean slightly risk-off while energy equities can be relative outperformers. (3) Risk-off impulse can add a modest bid to USTs and the USD in classic flight-to-quality setups, but the rates reaction depends on whether markets treat this as a narrow regional action versus broader sanctions/maritime enforcement precedent.\n\nWhy it matters now: a blockade is a discrete step beyond rhetoric/sanctions and raises tail-risk of miscalculation at sea; head"
+    },
+    "t_31bcbf9d508c1cf5": {
+      "count": 1,
+      "message_ids": [
+        "1464342074458509565"
+      ],
+      "last_update_utc": "2026-01-23T19:33:03+00:00",
+      "last_short": "Mexico reviewing Cuba oil shipments amid US reprisal risk; mostly a geopolitics/sanctions-risk story that can lift crude/MXN volatility more",
+      "last_long": "Mexico weighing whether to keep sending oil to Cuba due to fear of US reprisal is primarily a sanctions/political-risk headline rather than a meaningful global supply shock. The likely transmission is via risk premia: (1) higher perceived US–Mexico policy friction risk can pressure MXN and Mexico risk assets; (2) energy complex can see a volatility bid on “sanctions enforcement” narratives even if physical balances barely move; (3) limited index-futures impact unless it escalates into broader trade/energy policy action or triggers material risk-off positioning. What to watch for persistence: any on-the-record US/Mexican statements (especially around enforcement tools), evidence of shipment/contract changes, and whether MXN and Mexico rates/credit widen beyond the initial headline impulse."
     }
   },
   "topic_index": {
