@@ -77,3 +77,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-23T08:31:47.134000+00:00,1464175772079227051,1,t_0a4a262cc35a373b,4,German flash services PMI 53.3 vs 52.5 forecast: firmer activity tone; modest EUR support and mild upward pressure on Bund yields; small pos
 2026-01-23T09:02:00.312000+00:00,1464183377098707034,1,t_1c04050dd6e9f471,4,"Eurozone flash PMIs: manufacturing still sub-50 but improved; services and composite missed — modest EUR-negative / rates-bid, mild drag on"
 2026-01-23T09:31:53.483000+00:00,1464190898203267083,1,t_4d724a34f48b5503,4,UK flash composite PMI 53.9 vs 51.5 est: clear upside growth surprise. Supports GBP and pushes gilt yields up; modestly reduces USD/UST safe
+2026-01-23T09:54:24.069000+00:00,1464196562971398184,1,t_02a5db8f5c263f02,3,"Traders cut BoE easing bets, now price a single 25bp cut in 2026 — lifts gilt yields and GBP; pressures rates-sensitive assets (gilts, UK ba"
