@@ -97,7 +97,8 @@
     "1463941842646204560",
     "1464000000915931247",
     "1464013495774220288",
-    "1464039969780662544"
+    "1464039969780662544",
+    "1464153052717125755"
   ],
   "seen_max": 2000,
   "topics": {
@@ -868,6 +869,15 @@
       "last_update_utc": "2026-01-22T23:32:44+00:00",
       "last_short": "Japan nationwide CPI 2.1% vs 2.2% (prev 2.9%) — softer inflation leans dovish for BoJ, typically weighing JPY and pulling JGB yields lower;",
       "last_long": "Japan’s nationwide headline CPI slowed to 2.1% y/y vs 2.2% expected (prior 2.9%), reinforcing a disinflation trend. Primary channel is policy-path repricing: a softer CPI print reduces urgency for additional BoJ tightening (or increases tolerance for patience), which tends to (1) cap/lower JGB yields and (2) weaken JPY via a wider rate-differential/carry narrative. Spillovers are usually second-order but can matter via global duration and risk premia: lower Japanese yields can add marginal “rates-down” pressure to global curves (USTs at the margin) and, if JPY weakens, can modestly ease global financial conditions, which can be modestly supportive for equity index futures. Why-now sensitivity: the prior was 2.9%, so the step-down is directionally important even if the miss is small; reaction function will hinge on whether this is corroborated by core/services components and wage/consumpt"
+    },
+    "t_c0d55ada433991f3": {
+      "count": 1,
+      "message_ids": [
+        "1464153052717125755"
+      ],
+      "last_update_utc": "2026-01-23T07:02:01+00:00",
+      "last_short": "UK retail sales +0.4% m/m vs 0.0% expected (prior -0.1%) — modest UK growth-positive; tends to support GBP and lean gilt yields higher on a",
+      "last_long": "UK retail sales rose +0.4% m/m vs 0.0% consensus (prior -0.1%), a clear upside surprise for near-term demand. Mechanism: firmer activity data can (1) reduce near-term easing expectations and lift front-end UK rates, (2) support GBP via rate-differential/relative-growth channels, and (3) create a mild headwind for rate-sensitive UK equities if yields rise, even as domestically-oriented cyclicals/retail sentiment improves. Spillover to US index futures is typically second-order unless it meaningfully shifts global risk tone; the more direct cross-asset touchpoints are USD (via DXY composition) and global duration (if gilts drag other DM yields). Why now: in an overnight/low-liquidity window, the first move often comes from GBP and short-sterling/gilt repricing; whether it sticks depends on the details (volumes vs prices, ex-fuel/ex-autos) and whether OIS forwards reprice the BoE path beyon"
     }
   },
   "topic_index": {
