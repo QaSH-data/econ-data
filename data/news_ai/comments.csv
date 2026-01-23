@@ -73,3 +73,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-22T21:46:57.448000+00:00,1464013495774220288,1,t_1b957fd4b40c63e1,3,"NZ CPI q/q 0.6% vs 0.5% est: mild upside surprise. Near-term hawkish tilt for RBNZ pricing; supports NZD and NZ front-end yields, limited di"
 2026-01-22T23:32:09.343000+00:00,1464039969780662544,1,t_e4d9ca25f1607809,2,"Japan nationwide CPI 2.1% vs 2.2% (prev 2.9%) — softer inflation leans dovish for BoJ, typically weighing JPY and pulling JGB yields lower;"
 2026-01-23T07:01:30.416000+00:00,1464153052717125755,1,t_c0d55ada433991f3,3,UK retail sales +0.4% m/m vs 0.0% expected (prior -0.1%) — modest UK growth-positive; tends to support GBP and lean gilt yields higher on a
+2026-01-23T08:17:00.045000+00:00,1464172051358290095,1,t_bb3db98e27a227a6,3,"France flash PMI: Mfg 51 (beat) but Comp 48.6 (miss) — mixed growth read; EUR, EU equities and core rates most sensitive."

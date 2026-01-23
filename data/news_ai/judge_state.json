@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-22",
+  "date_utc": "2026-01-23",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -98,7 +98,8 @@
     "1464000000915931247",
     "1464013495774220288",
     "1464039969780662544",
-    "1464153052717125755"
+    "1464153052717125755",
+    "1464172051358290095"
   ],
   "seen_max": 2000,
   "topics": {
@@ -878,6 +879,15 @@
       "last_update_utc": "2026-01-23T07:02:01+00:00",
       "last_short": "UK retail sales +0.4% m/m vs 0.0% expected (prior -0.1%) — modest UK growth-positive; tends to support GBP and lean gilt yields higher on a",
       "last_long": "UK retail sales rose +0.4% m/m vs 0.0% consensus (prior -0.1%), a clear upside surprise for near-term demand. Mechanism: firmer activity data can (1) reduce near-term easing expectations and lift front-end UK rates, (2) support GBP via rate-differential/relative-growth channels, and (3) create a mild headwind for rate-sensitive UK equities if yields rise, even as domestically-oriented cyclicals/retail sentiment improves. Spillover to US index futures is typically second-order unless it meaningfully shifts global risk tone; the more direct cross-asset touchpoints are USD (via DXY composition) and global duration (if gilts drag other DM yields). Why now: in an overnight/low-liquidity window, the first move often comes from GBP and short-sterling/gilt repricing; whether it sticks depends on the details (volumes vs prices, ex-fuel/ex-autos) and whether OIS forwards reprice the BoE path beyon"
+    },
+    "t_bb3db98e27a227a6": {
+      "count": 1,
+      "message_ids": [
+        "1464172051358290095"
+      ],
+      "last_update_utc": "2026-01-23T08:17:37+00:00",
+      "last_short": "France flash PMI: Mfg 51 (beat) but Comp 48.6 (miss) — mixed growth read; EUR, EU equities and core rates most sensitive.",
+      "last_long": "Mechanism (growth vs rates): January France flash PMIs split—manufacturing improved to 51 (above 50.5 consensus), but the composite slipped to 48.6 (below 50 consensus), implying aggregate activity still contracting despite a factory-pocket stabilization. The market usually weights the composite more for near-term GDP momentum, so the miss modestly trims European growth expectations and can lean EUR and French/European yields lower at the margin, while keeping cyclicals from fully rolling over given the manufacturing beat. Cross-asset linkage: softer EU growth impulse can nudge global risk tone (ES/NQ) and support duration (ZN) via lower global term-premium pressure, but spillover is typically second-order unless broader euro-area PMIs confirm a synchronized slowdown. Why now: flash PMIs are one of the first high-frequency reads for the month and are often quickly repriced into ECB-path"
     }
   },
   "topic_index": {
