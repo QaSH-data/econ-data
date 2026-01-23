@@ -105,7 +105,8 @@
     "1464190898203267083",
     "1464196562971398184",
     "1464251433380483265",
-    "1464266646666608661"
+    "1464266646666608661",
+    "1464270446613627044"
   ],
   "seen_max": 2000,
   "topics": {
@@ -940,6 +941,15 @@
       "last_update_utc": "2026-01-23T13:32:57+00:00",
       "last_short": "Canada retail sales +1.3% m/m vs +1.2% (prev -0.2%) is a mild demand-positive that can lean CAD firmer and front-end Canada yields higher at",
       "last_long": "Mechanism: stronger retail spending marginally tightens the Canada growth/inflation mix, nudging BoC “higher-for-longer” risk and lifting the front end of the Canada curve; that typically supports CAD via yield differentials. Equity read-through is mixed: better demand helps consumer-facing names, but any rates-up impulse can be a mild headwind for duration-sensitive risk assets; net impact should be modest.\n\nWhy it matters now: coming after a firmer Canada CPI narrative in the recent backdrop, the upside retail print reinforces that demand hasn’t rolled over, making it slightly more relevant to near-term BoC pricing than a one-off beat would be in isolation.\n\nFutures impact: direct sensitivity is highest in CAD FX and Canada rates; for ES/NQ, the effect is second-order (risk tone and North America rates correlation) and likely to fade unless rates reprice meaningfully or other data conf"
+    },
+    "t_f199e650c50aee4c": {
+      "count": 1,
+      "message_ids": [
+        "1464270446613627044"
+      ],
+      "last_update_utc": "2026-01-23T14:48:29+00:00",
+      "last_short": "US S&P Services PMI flash 52.5 (miss vs 52.9, unchanged vs prior) = small growth-negative surprise; marginally supportive for USTs, mildly r",
+      "last_long": "US S&P Services PMI (flash) printed 52.5 vs 52.9 consensus and 52.5 prior: still in expansion, but a minor downside surprise that leans toward a slightly softer near-term activity narrative. The main transmission is via rates expectations—less upside growth pressure can temper front-end/ belly yield backup and reduce the odds of a hawkish repricing, offering modest support to UST duration and long-duration equity factors. For index futures, the signal is mildly risk-negative at the margin (especially for domestically oriented/smaller caps and services/consumer cyclicals), but the unchanged vs prior limits the shock value and argues for a contained, data-dependent reaction. Persistence will hinge on whether the PMI miss is corroborated by subsequent high-frequency growth/inflation inputs (notably core PCE and any revisions in GDP) and whether markets read it as demand cooling vs noise wit"
     }
   },
   "topic_index": {
