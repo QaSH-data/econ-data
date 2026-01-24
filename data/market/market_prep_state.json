@@ -1,11 +1,10 @@
 {
-  "last_run_utc": "2026-01-23T14:00:43Z",
-  "last_delta_hash": "553ad94f6c24bea5",
+  "last_run_utc": "2026-01-24T14:00:38Z",
+  "last_delta_hash": "8dd2543e58d97a95",
   "open_risks": [
-    "US flash PMIs deliver 'hot prices/firm activity' mix -> yields/real rates up -> NQ underperforms via duration channel",
-    "Greenland/tariff headline gap re-opens (weekend or off-hours), re-widening risk premia and supporting gold while pressuring ES/NQ",
-    "Earnings landmines broaden beyond Intel (AI/semis guidance, mega-cap read-through) causing index-level de-risking",
-    "Cross-asset adverse mix: equities soften while yields rise (tightening financial conditions) rather than the 'risk-off = yields down' cushion",
-    "Energy shock variant: persistent inventory builds -> oil down -> energy equities/credit underperform -> broader cyclicals sentiment drag"
+    "Weekend/off-hours geopolitical or trade-policy headline causes a gap move (risk premia widen; gold up; ES/NQ down) with limited liquidity to absorb it.",
+    "Earnings-driven factor rotation: AI/mega-cap guidance triggers sharp NQ vs ES divergence; index-level move dominated by a few prints.",
+    "Fed communication reprices the real-rate path (hawkish hold): duration shock that compresses equity multiples and pressures gold if real yields rise (or lifts gold if risk-off dominates).",
+    "US fiscal/shutdown risk returns: partial funding bill reduces near-term risk, but the next deadline can reintroduce policy uncertainty quickly."
   ]
 }
