@@ -1,27 +1,25 @@
 ts_utc,title,impact,forecast,previous,url
-2026-01-19T21:00:00+00:00,Bank Holiday,Holiday,,,https://www.forexfactory.com/calendar/370-us-bank-holiday
-2026-01-20T21:15:00+00:00,ADP Weekly Employment Change,Low,,11.8K,https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change
-2026-01-21T02:00:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-2026-01-21T21:30:00+00:00,President Trump Speaks,High,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-2026-01-21T22:59:00+00:00,Construction Spending m/m,Low,,0.2%,https://www.forexfactory.com/calendar/205-us-construction-spending-mm
-2026-01-21T23:00:00+00:00,Pending Home Sales m/m,Medium,-0.3%,3.3%,https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm
-2026-01-21T23:00:00+00:00,Construction Spending m/m,Low,0.1%,-0.6%,https://www.forexfactory.com/calendar/205-us-construction-spending-mm
-2026-01-22T02:00:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-2026-01-22T05:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
-2026-01-22T21:30:00+00:00,Final GDP q/q,High,4.3%,4.3%,https://www.forexfactory.com/calendar/28-us-final-gdp-qq
-2026-01-22T21:30:00+00:00,Unemployment Claims,High,209K,198K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
-2026-01-22T21:30:00+00:00,Final GDP Price Index q/q,Medium,3.8%,3.8%,https://www.forexfactory.com/calendar/46-us-final-gdp-price-index-qq
-2026-01-22T22:59:00+00:00,Core PCE Price Index m/m,Medium,,0.2%,https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
-2026-01-22T22:59:00+00:00,Personal Income m/m,Low,,0.4%,https://www.forexfactory.com/calendar/360-us-personal-income-mm
-2026-01-22T22:59:00+00:00,Personal Spending m/m,Low,,0.3%,https://www.forexfactory.com/calendar/356-us-personal-spending-mm
-2026-01-22T23:00:00+00:00,Core PCE Price Index m/m,High,0.2%,0.2%,https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
-2026-01-22T23:00:00+00:00,Personal Income m/m,Low,0.4%,0.1%,https://www.forexfactory.com/calendar/360-us-personal-income-mm
-2026-01-22T23:00:00+00:00,Personal Spending m/m,Low,0.5%,0.5%,https://www.forexfactory.com/calendar/356-us-personal-spending-mm
-2026-01-22T23:30:00+00:00,Natural Gas Storage,Low,-90B,-71B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
-2026-01-23T01:00:00+00:00,Crude Oil Inventories,Low,-1.0M,3.4M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
-2026-01-23T22:45:00+00:00,Flash Manufacturing PMI,High,51.9,51.8,https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi
-2026-01-23T22:45:00+00:00,Flash Services PMI,High,52.9,52.9,https://www.forexfactory.com/calendar/583-us-flash-services-pmi
-2026-01-23T23:00:00+00:00,Revised UoM Consumer Sentiment,Medium,54.0,54.0,https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentiment
-2026-01-23T23:00:00+00:00,Revised UoM Inflation Expectations,Low,,4.2%,https://www.forexfactory.com/calendar/238-us-revised-uom-inflation-expectations
-2026-01-23T23:53:00+00:00,CB Leading Index m/m,Low,,-0.3%,https://www.forexfactory.com/calendar/297-us-cb-leading-index-mm
-2026-01-23T23:54:00+00:00,CB Leading Index m/m,Low,-0.2%,-0.1%,https://www.forexfactory.com/calendar/297-us-cb-leading-index-mm
+2026-01-26T21:30:00+00:00,Core Durable Goods Orders m/m,Medium,0.3%,0.2%,https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm
+2026-01-26T21:30:00+00:00,Durable Goods Orders m/m,Medium,3.1%,-2.2%,https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
+2026-01-27T21:20:00+00:00,ADP Weekly Employment Change,Low,,8.0K,https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change
+2026-01-27T21:30:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
+2026-01-27T22:00:00+00:00,HPI m/m,Low,0.3%,0.4%,https://www.forexfactory.com/calendar/239-us-hpi-mm
+2026-01-27T22:00:00+00:00,S&P/CS Composite-20 HPI y/y,Low,1.2%,1.3%,https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
+2026-01-27T23:00:00+00:00,CB Consumer Confidence,Medium,90.1,89.1,https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
+2026-01-27T23:00:00+00:00,Richmond Manufacturing Index,Medium,-5,-7,https://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index
+2026-01-28T05:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
+2026-01-28T23:30:00+00:00,Crude Oil Inventories,Low,,3.6M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
+2026-01-29T03:00:00+00:00,Federal Funds Rate,High,3.75%,3.75%,https://www.forexfactory.com/calendar/1-us-federal-funds-rate
+2026-01-29T03:00:00+00:00,FOMC Statement,High,,,https://www.forexfactory.com/calendar/4-us-fomc-statement
+2026-01-29T03:30:00+00:00,FOMC Press Conference,High,,,https://www.forexfactory.com/calendar/512-us-fomc-press-conference
+2026-01-29T21:30:00+00:00,Unemployment Claims,High,202K,200K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
+2026-01-29T21:30:00+00:00,Revised Nonfarm Productivity q/q,Low,4.9%,4.9%,https://www.forexfactory.com/calendar/156-us-revised-nonfarm-productivity-qq
+2026-01-29T21:30:00+00:00,Revised Unit Labor Costs q/q,Low,-1.9%,-1.9%,https://www.forexfactory.com/calendar/178-us-revised-unit-labor-costs-qq
+2026-01-29T21:30:00+00:00,Trade Balance,Low,-44.5B,-29.4B,https://www.forexfactory.com/calendar/117-us-trade-balance
+2026-01-29T23:00:00+00:00,Factory Orders m/m,Low,0.5%,-1.3%,https://www.forexfactory.com/calendar/351-us-factory-orders-mm
+2026-01-29T23:00:00+00:00,Final Wholesale Inventories m/m,Low,0.2%,0.2%,https://www.forexfactory.com/calendar/154-us-final-wholesale-inventories-mm
+2026-01-29T23:30:00+00:00,Natural Gas Storage,Low,,-120B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
+2026-01-30T21:30:00+00:00,Core PPI m/m,High,0.3%,0.0%,https://www.forexfactory.com/calendar/87-us-core-ppi-mm
+2026-01-30T21:30:00+00:00,PPI m/m,High,0.2%,0.2%,https://www.forexfactory.com/calendar/86-us-ppi-mm
+2026-01-30T22:45:00+00:00,Chicago PMI,Low,43.3,43.5,https://www.forexfactory.com/calendar/189-us-chicago-pmi
+2026-01-31T01:30:00+00:00,FOMC Member Musalem Speaks,Low,,,https://www.forexfactory.com/calendar/911-us-fomc-member-musalem-speaks
