@@ -1,10 +1,11 @@
 {
-  "last_run_utc": "2026-01-24T14:00:38Z",
-  "last_delta_hash": "8dd2543e58d97a95",
+  "last_run_utc": "2026-01-25T14:00:33Z",
+  "last_delta_hash": "cf1898bbea00c24f",
   "open_risks": [
-    "Weekend/off-hours geopolitical or trade-policy headline causes a gap move (risk premia widen; gold up; ES/NQ down) with limited liquidity to absorb it.",
-    "Earnings-driven factor rotation: AI/mega-cap guidance triggers sharp NQ vs ES divergence; index-level move dominated by a few prints.",
-    "Fed communication reprices the real-rate path (hawkish hold): duration shock that compresses equity multiples and pressures gold if real yields rise (or lifts gold if risk-off dominates).",
-    "US fiscal/shutdown risk returns: partial funding bill reduces near-term risk, but the next deadline can reintroduce policy uncertainty quickly."
+    "Trade-policy escalation (Trump 100% tariff threat vs Canada) triggers risk-off repricing; potential spillover into inflation expectations and rates volatility.",
+    "Government funding/shutdown brinkmanship creates late-week volatility and gap risk into the Jan 30 deadline.",
+    "Fed communication surprises (hawkish hold / inflation caution) lift real yields and pressure equity duration; alternatively, dovish tilt boosts duration but may weaken USD and support gold.",
+    "Mega-cap earnings/guidance drives factor rotation and NQ vs ES divergence; single-name shocks propagate to index level.",
+    "Gold whipsaw risk if policy headlines push risk-off while real yields move the other direction; short-horizon correlation instability."
   ]
 }
