@@ -117,7 +117,8 @@
     "1465338462956814419",
     "1465354571806146620",
     "1465376386624524338",
-    "1465449754434605249"
+    "1465449754434605249",
+    "1465466993586208851"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1044,6 +1045,15 @@
       "last_update_utc": "2026-01-26T16:03:11+00:00",
       "last_short": "Microsoft unveils an AI chip to reduce reliance on Nvidia — shifts competitive dynamics for datacenter GPUs. Equities (NVDA/MSFT), chip supp",
       "last_long": "What happened: Microsoft revealed a proprietary AI accelerator aimed at lowering dependence on Nvidia GPUs. Why it matters now (intraday/next few sessions): this directly challenges Nvidia’s incumbent position in datacenter AI hardware, forcing immediate reassessment of sector exposure. Primary market mechanism: positioning. Causal chain: headline -> rapid repricing of crowded NVDA positioning and related derivative flows -> rotation into perceived beneficiaries (MSFT, cloud providers) and re-rating of chip suppliers (AMD, INTC, SMH) -> higher idiosyncratic volatility for NVDA and correlated moves in NQ/tech-heavy indices. Amplifiers: thin holiday liquidity can exaggerate moves and option skews; headline timing before/after market hours will affect speed of flow-based moves. Info that provides edge: Microsoft chip performance vs Nvidia benchmarks, availability/timing (scale, volume commi"
+    },
+    "t_f0e537be81063b69": {
+      "count": 1,
+      "message_ids": [
+        "1465466993586208851"
+      ],
+      "last_update_utc": "2026-01-26T22:03:05+00:00",
+      "last_short": "Trump raises South Korea reciprocal tariffs from 15% to 25% on autos, lumber and pharma — lifts risk premium; bearish for autos/materials eq",
+      "last_long": "What happened: A unilateral tariff jump (15%→25%) on South Korean reciprocal tariffs for autos, lumber, pharma and others creates an immediate policy shock. Primary mechanism: risk premium — the announcement increases policy/regulatory risk and lowers willingness to hold cross-border exposures. Causal chain (intraday → next few sessions): higher tariffs raise costs and margin uncertainty for importers/exporters, hit earnings visibility for autos/materials/pharma supply chains, and prompt sudden de-risking in equity index futures (ES/NQ) and Korea-linked names. FX and funding channels amplify the move: expect KRW pressure and short-term USD strength as capital rebalances; safe-haven bid may push UST yields down intra-session. Liquidity is thin (holiday conditions), so moves can be exaggerated. Most exposed: US autos and materials sectors, Korean exporters (autos/tech), regional banks/fina"
     }
   },
   "topic_index": {
