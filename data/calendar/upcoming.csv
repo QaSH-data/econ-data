@@ -1,25 +1,25 @@
 ts_utc,title,impact,forecast,previous,url
-2026-01-26T21:30:00+00:00,Core Durable Goods Orders m/m,Medium,0.3%,0.2%,https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm
-2026-01-26T21:30:00+00:00,Durable Goods Orders m/m,Medium,3.1%,-2.2%,https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
-2026-01-27T21:20:00+00:00,ADP Weekly Employment Change,Low,,8.0K,https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change
-2026-01-27T21:30:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-2026-01-27T22:00:00+00:00,HPI m/m,Low,0.3%,0.4%,https://www.forexfactory.com/calendar/239-us-hpi-mm
-2026-01-27T22:00:00+00:00,S&P/CS Composite-20 HPI y/y,Low,1.2%,1.3%,https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
-2026-01-27T23:00:00+00:00,CB Consumer Confidence,Medium,90.1,89.1,https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
-2026-01-27T23:00:00+00:00,Richmond Manufacturing Index,Medium,-5,-7,https://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index
-2026-01-28T05:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
-2026-01-28T23:30:00+00:00,Crude Oil Inventories,Low,,3.6M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
-2026-01-29T03:00:00+00:00,Federal Funds Rate,High,3.75%,3.75%,https://www.forexfactory.com/calendar/1-us-federal-funds-rate
-2026-01-29T03:00:00+00:00,FOMC Statement,High,,,https://www.forexfactory.com/calendar/4-us-fomc-statement
-2026-01-29T03:30:00+00:00,FOMC Press Conference,High,,,https://www.forexfactory.com/calendar/512-us-fomc-press-conference
-2026-01-29T21:30:00+00:00,Unemployment Claims,High,202K,200K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
-2026-01-29T21:30:00+00:00,Revised Nonfarm Productivity q/q,Low,4.9%,4.9%,https://www.forexfactory.com/calendar/156-us-revised-nonfarm-productivity-qq
-2026-01-29T21:30:00+00:00,Revised Unit Labor Costs q/q,Low,-1.9%,-1.9%,https://www.forexfactory.com/calendar/178-us-revised-unit-labor-costs-qq
-2026-01-29T21:30:00+00:00,Trade Balance,Low,-44.5B,-29.4B,https://www.forexfactory.com/calendar/117-us-trade-balance
-2026-01-29T23:00:00+00:00,Factory Orders m/m,Low,0.5%,-1.3%,https://www.forexfactory.com/calendar/351-us-factory-orders-mm
-2026-01-29T23:00:00+00:00,Final Wholesale Inventories m/m,Low,0.2%,0.2%,https://www.forexfactory.com/calendar/154-us-final-wholesale-inventories-mm
-2026-01-29T23:30:00+00:00,Natural Gas Storage,Low,,-120B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
-2026-01-30T21:30:00+00:00,Core PPI m/m,High,0.3%,0.0%,https://www.forexfactory.com/calendar/87-us-core-ppi-mm
-2026-01-30T21:30:00+00:00,PPI m/m,High,0.2%,0.2%,https://www.forexfactory.com/calendar/86-us-ppi-mm
-2026-01-30T22:45:00+00:00,Chicago PMI,Low,43.3,43.5,https://www.forexfactory.com/calendar/189-us-chicago-pmi
-2026-01-31T01:30:00+00:00,FOMC Member Musalem Speaks,Low,,,https://www.forexfactory.com/calendar/911-us-fomc-member-musalem-speaks
+2026-01-26T13:30:00+00:00,Core Durable Goods Orders m/m,Medium,0.3%,0.2%,https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm
+2026-01-26T13:30:00+00:00,Durable Goods Orders m/m,Medium,3.1%,-2.2%,https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
+2026-01-27T13:20:00+00:00,ADP Weekly Employment Change,Low,,8.0K,https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change
+2026-01-27T13:30:00+00:00,President Trump Speaks,Medium,,,https://www.forexfactory.com/calendar/645-us-president-trump-speaks
+2026-01-27T14:00:00+00:00,HPI m/m,Low,0.3%,0.4%,https://www.forexfactory.com/calendar/239-us-hpi-mm
+2026-01-27T14:00:00+00:00,S&P/CS Composite-20 HPI y/y,Low,1.2%,1.3%,https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
+2026-01-27T15:00:00+00:00,CB Consumer Confidence,Medium,90.1,89.1,https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
+2026-01-27T15:00:00+00:00,Richmond Manufacturing Index,Medium,-5,-7,https://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index
+2026-01-27T21:30:00+00:00,API Weekly Statistical Bulletin,Low,,,https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin
+2026-01-28T15:30:00+00:00,Crude Oil Inventories,Low,,3.6M,https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
+2026-01-28T19:00:00+00:00,Federal Funds Rate,High,3.75%,3.75%,https://www.forexfactory.com/calendar/1-us-federal-funds-rate
+2026-01-28T19:00:00+00:00,FOMC Statement,High,,,https://www.forexfactory.com/calendar/4-us-fomc-statement
+2026-01-28T19:30:00+00:00,FOMC Press Conference,High,,,https://www.forexfactory.com/calendar/512-us-fomc-press-conference
+2026-01-29T13:30:00+00:00,Unemployment Claims,High,202K,200K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
+2026-01-29T13:30:00+00:00,Revised Nonfarm Productivity q/q,Low,4.9%,4.9%,https://www.forexfactory.com/calendar/156-us-revised-nonfarm-productivity-qq
+2026-01-29T13:30:00+00:00,Revised Unit Labor Costs q/q,Low,-1.9%,-1.9%,https://www.forexfactory.com/calendar/178-us-revised-unit-labor-costs-qq
+2026-01-29T13:30:00+00:00,Trade Balance,Low,-44.5B,-29.4B,https://www.forexfactory.com/calendar/117-us-trade-balance
+2026-01-29T15:00:00+00:00,Factory Orders m/m,Low,0.5%,-1.3%,https://www.forexfactory.com/calendar/351-us-factory-orders-mm
+2026-01-29T15:00:00+00:00,Final Wholesale Inventories m/m,Low,0.2%,0.2%,https://www.forexfactory.com/calendar/154-us-final-wholesale-inventories-mm
+2026-01-29T15:30:00+00:00,Natural Gas Storage,Low,,-120B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
+2026-01-30T13:30:00+00:00,Core PPI m/m,High,0.3%,0.0%,https://www.forexfactory.com/calendar/87-us-core-ppi-mm
+2026-01-30T13:30:00+00:00,PPI m/m,High,0.2%,0.2%,https://www.forexfactory.com/calendar/86-us-ppi-mm
+2026-01-30T14:45:00+00:00,Chicago PMI,Low,43.3,43.5,https://www.forexfactory.com/calendar/189-us-chicago-pmi
+2026-01-30T17:30:00+00:00,FOMC Member Musalem Speaks,Low,,,https://www.forexfactory.com/calendar/911-us-fomc-member-musalem-speaks
