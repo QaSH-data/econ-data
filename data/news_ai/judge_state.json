@@ -112,7 +112,8 @@
     "1464342074458509565",
     "1464363189562114133",
     "1465226175596073083",
-    "1465270564489924639"
+    "1465270564489924639",
+    "1465270966652243978"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1010,6 +1011,15 @@
       "last_update_utc": "2026-01-26T09:02:37+00:00",
       "last_short": "Germany IFO Business Climate 87.6 vs 88.2 exp (unchanged vs prior) — mild growth disappointment; modest EUR/European cyclicals headwind, sli",
       "last_long": "Germany’s IFO Business Climate at 87.6 vs 88.2 expected is a small negative surprise, and the unchanged print vs the prior month reinforces a “stalled, not improving” narrative for German activity. The main transmission is via European rates/FX rather than a large equity impulse: softer sentiment reduces near-term growth momentum expectations, which can tilt ECB path expectations marginally more dovish at the margin and put slight downward pressure on Bund yields; that in turn can weigh on EUR. For risk assets, the signal is a mild headwind to European cyclicals/industrials, with limited but potentially negative spillover to US index futures through global risk tone—especially given broader recent disinflation framing in Europe. Net: incremental risk-off/growth-softening read, but magnitude looks modest given the miss is small and the level is flat."
+    },
+    "t_ecdefe9d27782ab1": {
+      "count": 1,
+      "message_ids": [
+        "1465270966652243978"
+      ],
+      "last_update_utc": "2026-01-26T09:04:15+00:00",
+      "last_short": "Germany IFO current conditions 85.7 vs 86 est (85.6 prior): marginal growth softness; mild support to bunds and mild headwind to EUR/risk cy",
+      "last_long": "The IFO Current Conditions print (85.7 vs 86 consensus; 85.6 prior) is a small downside surprise that marginally reinforces a “soft growth/late-cycle” European backdrop rather than signaling a discrete shock. Mechanism: a slightly weaker conditions read can tilt near-term ECB expectations a touch more dovish at the margin, nudging bund yields lower and leaning on EUR via rate differentials. For index futures, the spillover is typically second-order: softer EUR growth tends to weigh more on European cyclicals (industrials/autos) than on US megacap tech, and any ES/NQ impact is usually through global risk tone and USD/EUR moves. Because the miss is only 0.3 pts and the prior was nearly unchanged, follow-through likely depends on whether the broader IFO release (esp. expectations/new orders proxy) and upcoming PMIs/industrial data confirm a cooling trend; absent that clustering, markets oft"
     }
   },
   "topic_index": {
