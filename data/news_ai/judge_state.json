@@ -113,7 +113,8 @@
     "1464363189562114133",
     "1465226175596073083",
     "1465270564489924639",
-    "1465270966652243978"
+    "1465270966652243978",
+    "1465338462956814419"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1020,6 +1021,15 @@
       "last_update_utc": "2026-01-26T09:04:15+00:00",
       "last_short": "Germany IFO current conditions 85.7 vs 86 est (85.6 prior): marginal growth softness; mild support to bunds and mild headwind to EUR/risk cy",
       "last_long": "The IFO Current Conditions print (85.7 vs 86 consensus; 85.6 prior) is a small downside surprise that marginally reinforces a “soft growth/late-cycle” European backdrop rather than signaling a discrete shock. Mechanism: a slightly weaker conditions read can tilt near-term ECB expectations a touch more dovish at the margin, nudging bund yields lower and leaning on EUR via rate differentials. For index futures, the spillover is typically second-order: softer EUR growth tends to weigh more on European cyclicals (industrials/autos) than on US megacap tech, and any ES/NQ impact is usually through global risk tone and USD/EUR moves. Because the miss is only 0.3 pts and the prior was nearly unchanged, follow-through likely depends on whether the broader IFO release (esp. expectations/new orders proxy) and upcoming PMIs/industrial data confirm a cooling trend; absent that clustering, markets oft"
+    },
+    "t_77085cd7e68f7a2c": {
+      "count": 1,
+      "message_ids": [
+        "1465338462956814419"
+      ],
+      "last_update_utc": "2026-01-26T13:32:24+00:00",
+      "last_short": "US durable goods orders +5.3% (core +0.5%) vs forecasts — big upside signals firmer capex/demand; likely to lift Treasury yields and pressur",
+      "last_long": "Event: January durable goods orders surged (+5.3% headline, core +0.5%) vs forecasts after a prior drop. Primary market mechanism involved: rates expectations. Causal chain (intraday → next few sessions): a large beat implies stronger near-term demand and capex, which raises growth and inflation expectations and reduces odds of near-term Fed easing. That reprices front-end Treasury yields higher (2s/5s and ZT/ZF/ZN move), increases real-rate/risk-free rates and can widen risk premia. Equity impact is two-fold: rate-sensitive long-duration names (Nasdaq/tech) tend to underperform while cyclicals/capital-goods/industrial sectors lean positive. FX may see modest USD support as rate differentials shift. Why now: print is sizable versus the prior -2.2% release and arrives ahead of core PCE and the Jan FOMC window, so it can materially alter near-term policy expectations. Market-state notes: t"
     }
   },
   "topic_index": {
