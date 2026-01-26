@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-25T14:00:33Z",
-  "last_delta_hash": "cf1898bbea00c24f",
+  "last_run_utc": "2026-01-26T14:00:54Z",
+  "last_delta_hash": "a91af5b84e501b72",
   "open_risks": [
-    "Trade-policy escalation (Trump 100% tariff threat vs Canada) triggers risk-off repricing; potential spillover into inflation expectations and rates volatility.",
-    "Government funding/shutdown brinkmanship creates late-week volatility and gap risk into the Jan 30 deadline.",
-    "Fed communication surprises (hawkish hold / inflation caution) lift real yields and pressure equity duration; alternatively, dovish tilt boosts duration but may weaken USD and support gold.",
-    "Mega-cap earnings/guidance drives factor rotation and NQ vs ES divergence; single-name shocks propagate to index level.",
-    "Gold whipsaw risk if policy headlines push risk-off while real yields move the other direction; short-horizon correlation instability."
+    "Policy shock: Trump tariff escalation vs Canada (and broader trade spillover) reignites inflation-risk premium and risk-off simultaneously (worst case: equities down while yields up).",
+    "US government funding/shutdown brinkmanship into the Jan 30 deadline creates headline gap risk and safe-haven flows; could distort USD/gold correlations.",
+    "FOMC communication risk: a ‘hawkish hold’ tone after firm activity data lifts real yields and pressures Nasdaq-duration; alternatively a dovish surprise can reflate duration but may amplify USD/gold volatility.",
+    "Mega-cap earnings/guidance concentration: index moves dominated by a few names; NQ vs ES divergence and post-close gap risk.",
+    "Europe growth softness becomes a broader global-growth catalyst (Ifo miss as an early hint); could reinforce defensive factor moves if PMIs confirm."
   ]
 }
