@@ -1,8 +1,8 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-17T14:48:23Z",
-    "notes": "Selection made based on available candidates for January 2026 meeting with clear outcomes."
+    "last_audit_utc": "2026-01-26T18:20:02Z",
+    "notes": "No invalid market slugs detected. All relevant markets are correctly referenced."
   },
   "meetings": {
     "2026-01": {
@@ -30,6 +30,35 @@
             "No"
           ],
           "question": "Fed decreases interest rates by 25 bps after January 2026 meeting?"
+        }
+      ],
+      "warnings": []
+    },
+    "2026-03": {
+      "event_end_date_utc": "2026-03-18T00:00:00Z",
+      "event_slug": "fed-decision-in-march-885",
+      "pinned_utc": "2026-01-26T18:20:02Z",
+      "selection_reason": "Best available event for March meeting decision with relevant outcomes.",
+      "sub_markets": [
+        {
+          "label": "No change",
+          "market_id": "654414",
+          "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will there be no change in Fed interest rates after the March 2026 meeting?"
+        },
+        {
+          "label": "Cut 25bps",
+          "market_id": "654413",
+          "market_slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?"
         }
       ],
       "warnings": []

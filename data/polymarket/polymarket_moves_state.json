@@ -7,6 +7,14 @@
     "fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting||Cut 25bps": {
       "ts_utc": "2026-01-19T20:40:02Z",
       "prob": 0.0345
+    },
+    "will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting||No change": {
+      "ts_utc": "2026-01-26T18:20:02Z",
+      "prob": 0.825
+    },
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting||Cut 25bps": {
+      "ts_utc": "2026-01-26T18:20:02Z",
+      "prob": 0.145
     }
   }
 }
