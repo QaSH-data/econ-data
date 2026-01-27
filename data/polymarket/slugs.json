@@ -1,8 +1,8 @@
 {
   "audit": {
     "changes": [],
-    "last_audit_utc": "2026-01-26T18:20:02Z",
-    "notes": "No invalid market slugs detected. All relevant markets are correctly referenced."
+    "last_audit_utc": "2026-01-27T00:35:01Z",
+    "notes": "All known pinned slugs have valid slugs and correct market selections."
   },
   "meetings": {
     "2026-01": {
@@ -59,6 +59,35 @@
             "No"
           ],
           "question": "Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?"
+        }
+      ],
+      "warnings": []
+    },
+    "2026-04": {
+      "event_end_date_utc": "2026-04-29T00:00:00Z",
+      "event_slug": "fed-decision-in-april",
+      "pinned_utc": "2026-01-27T00:35:01Z",
+      "selection_reason": "Best available event for April meeting decision with relevant outcomes.",
+      "sub_markets": [
+        {
+          "label": "No change",
+          "market_id": "669662",
+          "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will there be no change in Fed interest rates after the April 2026 meeting?"
+        },
+        {
+          "label": "Cut 25bps",
+          "market_id": "669661",
+          "market_slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "question": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?"
         }
       ],
       "warnings": []
