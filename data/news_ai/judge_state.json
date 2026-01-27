@@ -122,7 +122,8 @@
     "1465716224645271573",
     "1465723713352892656",
     "1465772010570383484",
-    "1465811518997139508"
+    "1465811518997139508",
+    "1465812396131221708"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1086,6 +1087,15 @@
       "last_update_utc": "2026-01-27T20:52:18+00:00",
       "last_short": "Trump downplays USD decline; Saudi crown prince says KSA won’t allow air/land to be used for action vs Iran — de-escalation signal that can",
       "last_long": "Two channels here: FX narrative + geopolitics. (1) Trump saying the dollar “hasn’t declined too much” is mild pushback on a weakening-USD storyline; by itself it’s usually second-order unless it foreshadows policy rhetoric on FX/trade. Near-term, it can slightly slow USD-bearish positioning (DX less pressured; 6E/EM FX rallies less one-way) rather than reverse it. (2) The Saudi message to Iran that it will not allow its airspace/land to be used for military action against Tehran is a discrete de-escalation / non-participation signal. Mechanically, that reduces perceived probability of a broader regional conflict and should lean toward: lower crude geopolitical risk premium (CL/Brent), softer safe-haven demand (USTs, JPY), and marginally better risk tone (ES/NQ) via lower tail-risk/vol. Why now: de-escalation headlines can reprice quickly in thin liquidity and feed directly into energy, F"
+    },
+    "t_d51f4a97d92badca": {
+      "count": 1,
+      "message_ids": [
+        "1465812396131221708"
+      ],
+      "last_update_utc": "2026-01-27T20:55:45+00:00",
+      "last_short": "Heavy MOC sell imbalances (S&P -$1.63B, NQ -$0.86B, Mag7 -$0.36B) into Trump 4pm ET remarks: late-day downside/vol risk for ES/NQ, esp. mega",
+      "last_long": "Why-now is the overlap of (1) close-auction supply and (2) an event-risk headline sitting on the tape. The MOC sell imbalances (S&P -$1.63B; Nasdaq 100 -$860.8M; Dow -$107.3M; Mag7 -$364.4M) are a microstructure signal: concentrated sell orders forced through the closing auction can mechanically pressure index levels and widen intraday ranges when liquidity is marginal. That pressure tends to be most visible in ES/NQ and in the largest index weights (Mag7) because they dominate close-auction volume and index tracking.\n\nThe separate risk layer is Trump’s scheduled 4pm ET remarks, which can add a “wait and see” bid to volatility into the close and keep futures reactive in the after-hours if policy/trade/fiscal themes appear. Net: near-term bias is for heavier tape/softer closes and higher close-to-open volatility; whether the move persists beyond the auction depends on whether the speech i"
     }
   },
   "topic_index": {
