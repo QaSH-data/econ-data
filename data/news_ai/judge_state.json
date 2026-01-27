@@ -119,7 +119,8 @@
     "1465376386624524338",
     "1465449754434605249",
     "1465466993586208851",
-    "1465716224645271573"
+    "1465716224645271573",
+    "1465723713352892656"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1056,6 +1057,15 @@
       "last_update_utc": "2026-01-26T22:03:05+00:00",
       "last_short": "Trump raises South Korea reciprocal tariffs from 15% to 25% on autos, lumber and pharma — lifts risk premium; bearish for autos/materials eq",
       "last_long": "What happened: A unilateral tariff jump (15%→25%) on South Korean reciprocal tariffs for autos, lumber, pharma and others creates an immediate policy shock. Primary mechanism: risk premium — the announcement increases policy/regulatory risk and lowers willingness to hold cross-border exposures. Causal chain (intraday → next few sessions): higher tariffs raise costs and margin uncertainty for importers/exporters, hit earnings visibility for autos/materials/pharma supply chains, and prompt sudden de-risking in equity index futures (ES/NQ) and Korea-linked names. FX and funding channels amplify the move: expect KRW pressure and short-term USD strength as capital rebalances; safe-haven bid may push UST yields down intra-session. Liquidity is thin (holiday conditions), so moves can be exaggerated. Most exposed: US autos and materials sectors, Korean exporters (autos/tech), regional banks/fina"
+    },
+    "t_bbb9825288ab5bdf": {
+      "count": 1,
+      "message_ids": [
+        "1465723713352892656"
+      ],
+      "last_update_utc": "2026-01-27T15:03:22+00:00",
+      "last_short": "US CB Consumer Confidence 84.5 vs 91 est (prev 89.1): sharp demand-sentiment miss, tilts growth/risk lower; supportive for Treasuries, headw",
+      "last_long": "What happened: Conference Board Consumer Confidence printed 84.5 vs 91 expected (prev 89.1) at 15:02:45 UTC on Jan 27, 2026 — a clear downside surprise.\n\nPrimary market mechanism: growth expectations + risk premium. A confidence drop is read as a near-term drag on discretionary spending and broader demand, pushing investors to fade cyclical earnings sensitivity and pay up for defensives/quality. Intraday, this typically shows up as ES/RTY underperformance vs more defensive equity factors, with NQ sensitivity depending on whether rates rally enough to offset risk-off.\n\nRates/FX channel: the cleanest first-order offset is a bid for duration as the market marks down the growth impulse; that can ease real-rate pressure on long-duration equities, but the initial impulse is usually risk-off. USD reaction is often mixed: growth-down can weaken USD via lower yields, while risk-off can support US"
     }
   },
   "topic_index": {
