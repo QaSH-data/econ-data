@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-26T14:00:54Z",
-  "last_delta_hash": "a91af5b84e501b72",
+  "last_run_utc": "2026-01-27T14:00:34Z",
+  "last_delta_hash": "77763169deba78d3",
   "open_risks": [
-    "Policy shock: Trump tariff escalation vs Canada (and broader trade spillover) reignites inflation-risk premium and risk-off simultaneously (worst case: equities down while yields up).",
-    "US government funding/shutdown brinkmanship into the Jan 30 deadline creates headline gap risk and safe-haven flows; could distort USD/gold correlations.",
-    "FOMC communication risk: a ‘hawkish hold’ tone after firm activity data lifts real yields and pressures Nasdaq-duration; alternatively a dovish surprise can reflate duration but may amplify USD/gold volatility.",
-    "Mega-cap earnings/guidance concentration: index moves dominated by a few names; NQ vs ES divergence and post-close gap risk.",
-    "Europe growth softness becomes a broader global-growth catalyst (Ifo miss as an early hint); could reinforce defensive factor moves if PMIs confirm."
+    "FOMC communication shock (hawkish-hold lifts real yields -> pressures Nasdaq-duration; dovish-hold can reflate duration but destabilize USD/gold correlations).",
+    "Trade-policy escalation/contagion from South Korea tariff threat into broader tariff actions, raising stagflation-style risk (equities down while yields up) or abrupt risk-off with safe-haven bid.",
+    "Mega-cap earnings concentration risk (index-level gaps driven by a handful of tech names; NQ vs ES divergence and overnight headline gaps).",
+    "Gold positioning air-pocket risk: if Fed messaging or data lifts real yields/USD quickly, gold could see mechanical profit-taking despite elevated geopolitical/policy uncertainty.",
+    "Late-day liquidity/auction sensitivity (imbalance-driven moves and gamma effects) amplifying otherwise modest macro impulses."
   ]
 }
