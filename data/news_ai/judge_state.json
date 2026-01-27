@@ -121,7 +121,8 @@
     "1465466993586208851",
     "1465716224645271573",
     "1465723713352892656",
-    "1465772010570383484"
+    "1465772010570383484",
+    "1465811518997139508"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1076,6 +1077,15 @@
       "last_update_utc": "2026-01-27T18:15:12+00:00",
       "last_short": "France govt survives no-confidence vote, removing a near-term political tail-risk; mildly supportive for EUR and French assets via lower ris",
       "last_long": "What happened: the French government survived a no-confidence vote (tally resolved), avoiding an immediate collapse. Why it matters now: this is a binary event that can quickly reprice sovereign/political risk; clearing it typically compresses the “France risk” embedded in OAT/Bund spreads and reduces headline-driven volatility over the next few sessions. Market mechanism: risk premium and funding conditions. Lower perceived political instability can (1) tighten OAT spreads vs Bunds, (2) support French equities—especially banks sensitive to sovereign spreads and confidence, and (3) offer a modest EUR tailwind as euro-area fragmentation risk eases at the margin. Cross-asset read-through for US index futures is second-order: most impact is via global risk sentiment and the USD/EUR channel rather than US growth/inflation. Watch next: follow-on confidence motions/coalition discipline, budget"
+    },
+    "t_dc1ef8cbc3885dcb": {
+      "count": 1,
+      "message_ids": [
+        "1465811518997139508"
+      ],
+      "last_update_utc": "2026-01-27T20:52:18+00:00",
+      "last_short": "Trump downplays USD decline; Saudi crown prince says KSA won’t allow air/land to be used for action vs Iran — de-escalation signal that can",
+      "last_long": "Two channels here: FX narrative + geopolitics. (1) Trump saying the dollar “hasn’t declined too much” is mild pushback on a weakening-USD storyline; by itself it’s usually second-order unless it foreshadows policy rhetoric on FX/trade. Near-term, it can slightly slow USD-bearish positioning (DX less pressured; 6E/EM FX rallies less one-way) rather than reverse it. (2) The Saudi message to Iran that it will not allow its airspace/land to be used for military action against Tehran is a discrete de-escalation / non-participation signal. Mechanically, that reduces perceived probability of a broader regional conflict and should lean toward: lower crude geopolitical risk premium (CL/Brent), softer safe-haven demand (USTs, JPY), and marginally better risk tone (ES/NQ) via lower tail-risk/vol. Why now: de-escalation headlines can reprice quickly in thin liquidity and feed directly into energy, F"
     }
   },
   "topic_index": {
