@@ -120,7 +120,8 @@
     "1465449754434605249",
     "1465466993586208851",
     "1465716224645271573",
-    "1465723713352892656"
+    "1465723713352892656",
+    "1465772010570383484"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1066,6 +1067,15 @@
       "last_update_utc": "2026-01-27T15:03:22+00:00",
       "last_short": "US CB Consumer Confidence 84.5 vs 91 est (prev 89.1): sharp demand-sentiment miss, tilts growth/risk lower; supportive for Treasuries, headw",
       "last_long": "What happened: Conference Board Consumer Confidence printed 84.5 vs 91 expected (prev 89.1) at 15:02:45 UTC on Jan 27, 2026 — a clear downside surprise.\n\nPrimary market mechanism: growth expectations + risk premium. A confidence drop is read as a near-term drag on discretionary spending and broader demand, pushing investors to fade cyclical earnings sensitivity and pay up for defensives/quality. Intraday, this typically shows up as ES/RTY underperformance vs more defensive equity factors, with NQ sensitivity depending on whether rates rally enough to offset risk-off.\n\nRates/FX channel: the cleanest first-order offset is a bid for duration as the market marks down the growth impulse; that can ease real-rate pressure on long-duration equities, but the initial impulse is usually risk-off. USD reaction is often mixed: growth-down can weaken USD via lower yields, while risk-off can support US"
+    },
+    "t_bb090dee0bc4655d": {
+      "count": 1,
+      "message_ids": [
+        "1465772010570383484"
+      ],
+      "last_update_utc": "2026-01-27T18:15:12+00:00",
+      "last_short": "France govt survives no-confidence vote, removing a near-term political tail-risk; mildly supportive for EUR and French assets via lower ris",
+      "last_long": "What happened: the French government survived a no-confidence vote (tally resolved), avoiding an immediate collapse. Why it matters now: this is a binary event that can quickly reprice sovereign/political risk; clearing it typically compresses the “France risk” embedded in OAT/Bund spreads and reduces headline-driven volatility over the next few sessions. Market mechanism: risk premium and funding conditions. Lower perceived political instability can (1) tighten OAT spreads vs Bunds, (2) support French equities—especially banks sensitive to sovereign spreads and confidence, and (3) offer a modest EUR tailwind as euro-area fragmentation risk eases at the margin. Cross-asset read-through for US index futures is second-order: most impact is via global risk sentiment and the USD/EUR channel rather than US growth/inflation. Watch next: follow-on confidence motions/coalition discipline, budget"
     }
   },
   "topic_index": {
