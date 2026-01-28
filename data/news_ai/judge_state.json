@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-27",
+  "date_utc": "2026-01-28",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -126,7 +126,8 @@
     "1465812396131221708",
     "1465867065532350599",
     "1465867486967758868",
-    "1465867888572367082"
+    "1465867888572367082",
+    "1466043755667783792"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1126,6 +1127,15 @@
       "last_update_utc": "2026-01-28T00:36:01+00:00",
       "last_short": "Australia Q4 CPI +0.6% QoQ (in line) and +3.6% YoY (prev 3.2%) — faster y/y inflation lifts rates expectations; AUD and Australian governmen",
       "last_long": "Primary mechanism: rates expectations. Q4 print shows annual inflation accelerating to 3.6% (from 3.2%) despite QoQ matching forecasts, implying disinflation has slowed. Near-term causal chain: a higher y/y CPI makes the RBA less likely to pivot quickly, which raises pricing in short- and medium-term ACGB yields and OIS swaps; that widens rate differentials vs. the US, tending to firm AUD. Market impacts should show up intraday and through the next few sessions: ACGB yields repricing, AUD strength, relative out/underperformance in rate-sensitive sectors (banks) and commodity-linked sectors (miners) as FX and yield moves feed risk premia. Why now: the y/y acceleration is a clear signal vs the prior print and is fresh data for market pricing ahead of RBA commentary and upcoming domestic auctions. Edge: watch core vs tradables/services breakdown, wage and rents components, RBA minutes/speec"
+    },
+    "t_6a7f84161dd421d7": {
+      "count": 1,
+      "message_ids": [
+        "1466043755667783792"
+      ],
+      "last_update_utc": "2026-01-28T12:14:59+00:00",
+      "last_short": "Trump says 'time is running out' for Iran — raises geopolitical tail-risk; modest risk-off bias for ES/NQ, bid for Treasuries; oil risk prem",
+      "last_long": "The headline (2026-01-28 12:14 UTC) is a rhetoric-driven escalation signal that can lift near-term geopolitical risk premia even without immediate policy action. Mechanism: tougher language increases perceived probability of coercive steps/sanctions tightening or kinetic escalation/retaliation, which tends to (1) widen equity risk premia and raise intraday vol in ES/NQ, (2) support duration as a flight-to-quality bid (ZN/ZB) unless inflation/oil dominates, and (3) re-price crude with an optionality premium tied to Middle East supply and shipping-risk narratives. Cross-asset nuance: if the market reads this as materially increasing disruption risk (shipping/Strait of Hormuz, regional strikes), oil up can become a headwind for risk assets and can cap Treasury rallies via inflation-risk; if it stays as political signaling, rates may still catch a safety bid and equities fade less. What woul"
     }
   },
   "topic_index": {
