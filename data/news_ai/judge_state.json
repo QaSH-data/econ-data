@@ -134,7 +134,8 @@
     "1466088353140052029",
     "1466089515549593818",
     "1466093404571308194",
-    "1466146370606862487"
+    "1466146370606862487",
+    "1466147011446313061"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1190,6 +1191,15 @@
       "last_update_utc": "2026-01-28T19:02:56+00:00",
       "last_short": "Fed holds policy rate at 3.75% (in line with forecast/prev) — no rate surprise. Immediate impulse to front-end rates and USD is limited; mar",
       "last_long": "The policy rate was held at 3.75%, matching both consensus and the prior setting, so this is a “no-surprise” decision on the rate level itself. The first-order mechanism is expectations: with the outcome already priced, the baseline reaction is muted in the front end (ZT/ZF) and a smaller, secondary spillover into intermediate duration (ZN) and USD (DX) unless the statement/press conference alters the expected path. For equity index futures (ES/NQ), the key channel is the discount-rate/real-yield narrative: absent a guidance shift, the decision mainly removes an immediate tail risk rather than creating a fresh directional catalyst.\n\nWhat matters now is the *reaction function* embedded in communication—any adjustment in language around inflation progress, labor-market balance, and how restrictive policy is deemed to be. If messaging is interpreted as “higher for longer,” that tends to lea"
+    },
+    "t_25361bed28981074": {
+      "count": 1,
+      "message_ids": [
+        "1466147011446313061"
+      ],
+      "last_update_utc": "2026-01-28T19:05:12+00:00",
+      "last_short": "FOMC voted 10-2; Miran and Waller dissented in favor of a 25bp cut — signals some Fed appetite to ease, pressuring short-term yields and aff",
+      "last_long": "What happened (causal chain, intraday->next few sessions): the published vote split (10-2) with Miran and Waller favoring a 25bp cut embeds an intra-Fed division that directly alters market pricing of near-term policy. Primary market mechanism: rates expectations. How it works: visible dissents raise the perceived probability that easing is under active consideration, prompting front-end instruments (Fed funds futures/OIS, 2y UST, ZT/ZF/ZN) to modestly reprice lower yields, which can weaken the dollar and compress equity risk premia, giving a short-term tailwind to equities and credit. Why it matters now: the vote is concrete, time-stamped evidence of policy divergence ahead of upcoming Fed commentary and key US releases (Core PCE, payrolls) that together set the path for cuts or continued status quo. Most exposed: front-end rates and Fed funds markets, 2y yields, USD, interest-rate sens"
     }
   },
   "topic_index": {
