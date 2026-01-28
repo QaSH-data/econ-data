@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-27T14:00:34Z",
-  "last_delta_hash": "77763169deba78d3",
+  "last_run_utc": "2026-01-28T14:00:46Z",
+  "last_delta_hash": "8171ab79897daeaf",
   "open_risks": [
-    "FOMC communication shock (hawkish-hold lifts real yields -> pressures Nasdaq-duration; dovish-hold can reflate duration but destabilize USD/gold correlations).",
-    "Trade-policy escalation/contagion from South Korea tariff threat into broader tariff actions, raising stagflation-style risk (equities down while yields up) or abrupt risk-off with safe-haven bid.",
-    "Mega-cap earnings concentration risk (index-level gaps driven by a handful of tech names; NQ vs ES divergence and overnight headline gaps).",
-    "Gold positioning air-pocket risk: if Fed messaging or data lifts real yields/USD quickly, gold could see mechanical profit-taking despite elevated geopolitical/policy uncertainty.",
-    "Late-day liquidity/auction sensitivity (imbalance-driven moves and gamma effects) amplifying otherwise modest macro impulses."
+    "FOMC communication shock: market expecting a hold; asymmetric risk is a hawkish hold (higher real yields) compressing equity duration and pressuring NQ; dovish hold could weaken USD and extend gold bid but risks ‘bad growth’ framing for cyclicals.",
+    "Geopolitical escalation premium (Iran rhetoric) resurfaces: could lift crude risk premium and raise inflation-risk tails, complicating the post-FOMC rates/equity reaction.",
+    "Mega-cap concentration/breadth fragility: index resilience masking sector drawdowns; earnings or guidance misses in a few large names can gap ES/NQ despite benign macro.",
+    "Gold positioning vulnerability: if the Fed outcome re-prices real yields higher or stabilizes USD, gold could see fast deleveraging even if geopolitical risk remains.",
+    "Late-day liquidity + auction sensitivity: prior MOC sell imbalance and event-day hedging can amplify otherwise modest headlines into outsized index moves."
   ]
 }

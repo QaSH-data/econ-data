@@ -127,7 +127,8 @@
     "1465867065532350599",
     "1465867486967758868",
     "1465867888572367082",
-    "1466043755667783792"
+    "1466043755667783792",
+    "1466071333329965210"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1136,6 +1137,15 @@
       "last_update_utc": "2026-01-28T12:14:59+00:00",
       "last_short": "Trump says 'time is running out' for Iran — raises geopolitical tail-risk; modest risk-off bias for ES/NQ, bid for Treasuries; oil risk prem",
       "last_long": "The headline (2026-01-28 12:14 UTC) is a rhetoric-driven escalation signal that can lift near-term geopolitical risk premia even without immediate policy action. Mechanism: tougher language increases perceived probability of coercive steps/sanctions tightening or kinetic escalation/retaliation, which tends to (1) widen equity risk premia and raise intraday vol in ES/NQ, (2) support duration as a flight-to-quality bid (ZN/ZB) unless inflation/oil dominates, and (3) re-price crude with an optionality premium tied to Middle East supply and shipping-risk narratives. Cross-asset nuance: if the market reads this as materially increasing disruption risk (shipping/Strait of Hormuz, regional strikes), oil up can become a headwind for risk assets and can cap Treasury rallies via inflation-risk; if it stays as political signaling, rates may still catch a safety bid and equities fade less. What woul"
+    },
+    "t_98be5fef2499783d": {
+      "count": 1,
+      "message_ids": [
+        "1466071333329965210"
+      ],
+      "last_update_utc": "2026-01-28T14:04:37+00:00",
+      "last_short": "Iran says it’s ready for dialogue at UN — mild de-escalation signal that can trim geopolitical risk premium (oil/safe havens) and modestly s",
+      "last_long": "Market read-through is primarily via the geopolitical risk premium rather than macro fundamentals. A UN-linked statement that Iran “stands ready for dialogue” is a marginal de-escalation cue: it can (1) compress crude’s tail-risk premium if it reduces perceived odds of near-term disruption, (2) soften safe-haven demand (Treasuries/gold) at the margin, and (3) tilt index-futures tone slightly risk-on (ES/NQ) if no contradictory headlines hit. Persistence is usually low unless followed quickly by concrete items (announced meeting dates/venues, reciprocal US/EU/region responses, verified operational de-escalation such as reduced military posture or calmer shipping-lane incident flow). Watch for headline sequencing: any subsequent hardening language, sanctions actions, or incident reports can reverse the initial premium compression intraday."
     }
   },
   "topic_index": {
