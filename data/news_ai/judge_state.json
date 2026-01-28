@@ -123,7 +123,8 @@
     "1465723713352892656",
     "1465772010570383484",
     "1465811518997139508",
-    "1465812396131221708"
+    "1465812396131221708",
+    "1465867065532350599"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1096,6 +1097,15 @@
       "last_update_utc": "2026-01-27T20:55:45+00:00",
       "last_short": "Heavy MOC sell imbalances (S&P -$1.63B, NQ -$0.86B, Mag7 -$0.36B) into Trump 4pm ET remarks: late-day downside/vol risk for ES/NQ, esp. mega",
       "last_long": "Why-now is the overlap of (1) close-auction supply and (2) an event-risk headline sitting on the tape. The MOC sell imbalances (S&P -$1.63B; Nasdaq 100 -$860.8M; Dow -$107.3M; Mag7 -$364.4M) are a microstructure signal: concentrated sell orders forced through the closing auction can mechanically pressure index levels and widen intraday ranges when liquidity is marginal. That pressure tends to be most visible in ES/NQ and in the largest index weights (Mag7) because they dominate close-auction volume and index tracking.\n\nThe separate risk layer is Trump’s scheduled 4pm ET remarks, which can add a “wait and see” bid to volatility into the close and keep futures reactive in the after-hours if policy/trade/fiscal themes appear. Net: near-term bias is for heavier tape/softer closes and higher close-to-open volatility; whether the move persists beyond the auction depends on whether the speech i"
+    },
+    "t_4755506bac34827a": {
+      "count": 1,
+      "message_ids": [
+        "1465867065532350599"
+      ],
+      "last_update_utc": "2026-01-28T00:33:08+00:00",
+      "last_short": "Australia CPI 3.8% y/y (vs 3.6% est; prior 3.4%) with trimmed mean +0.2% m/m — pushes AUD and AU front-end yields up; modestly hawkish for R",
+      "last_long": "Why it matters now: The Australia CPI beat (3.8% y/y vs 3.6% expected; 3.4% prior) keeps the disinflation narrative from cleanly improving and leans against near-term easing expectations. The trimmed-mean +0.2% m/m is the key “persistence” signal markets tend to map into the RBA reaction function.\n\nPrimary mechanism (rates → FX → risk): firmer inflation prints typically reprice the front end of Australian curves (bills/OIS/swap) toward a higher-for-longer RBA path, lifting ACGB yields and supporting AUD. In turn, a firmer AUD and higher local yields can slightly tighten regional financial conditions and nudge Asia risk tone, particularly for rate-sensitive segments.\n\nGlobal relevance (ES/NQ/USTs): impact is usually second-order, but a hawkish inflation surprise in a developed market can add a small upward bias to global yields via cross-market positioning/relative-value flows, which is m"
     }
   },
   "topic_index": {
