@@ -125,7 +125,8 @@
     "1465811518997139508",
     "1465812396131221708",
     "1465867065532350599",
-    "1465867486967758868"
+    "1465867486967758868",
+    "1465867888572367082"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1116,6 +1117,15 @@
       "last_update_utc": "2026-01-28T00:34:42+00:00",
       "last_short": "Australia Q4 trimmed-mean CPI +0.9% q/q (in line; prior 1.0%) reinforces gradual disinflation — supports an RBA hold bias; AUD/ACGBs most di",
       "last_long": "Australia’s core inflation pulse came in exactly as expected: trimmed-mean CPI +0.9% q/q (vs 0.9% forecast), easing from +1.0% prior. That combination (in-line level + lower momentum) is mildly dovish at the margin: it reduces urgency for renewed RBA tightening and tilts the near-term reaction function toward “hold and observe,” unless other inputs (wages/services persistence) re-accelerate.\n\nTransmission is primarily through rates differentials and local duration: softer core momentum → lower expected terminal/next-move odds → ACGB yields drift lower and AUD can soften on spread compression. Equity/risk effects are second-order: easier financial-conditions impulse can support rate-sensitive domestic sectors, while a weaker AUD can be a mixed input (earnings translation vs imported inflation).\n\nFor US index futures, the linkage is indirect: if the print contributes to a broader “global d"
+    },
+    "t_56c8b3d7803719f0": {
+      "count": 1,
+      "message_ids": [
+        "1465867888572367082"
+      ],
+      "last_update_utc": "2026-01-28T00:36:01+00:00",
+      "last_short": "Australia Q4 CPI +0.6% QoQ (in line) and +3.6% YoY (prev 3.2%) — faster y/y inflation lifts rates expectations; AUD and Australian governmen",
+      "last_long": "Primary mechanism: rates expectations. Q4 print shows annual inflation accelerating to 3.6% (from 3.2%) despite QoQ matching forecasts, implying disinflation has slowed. Near-term causal chain: a higher y/y CPI makes the RBA less likely to pivot quickly, which raises pricing in short- and medium-term ACGB yields and OIS swaps; that widens rate differentials vs. the US, tending to firm AUD. Market impacts should show up intraday and through the next few sessions: ACGB yields repricing, AUD strength, relative out/underperformance in rate-sensitive sectors (banks) and commodity-linked sectors (miners) as FX and yield moves feed risk premia. Why now: the y/y acceleration is a clear signal vs the prior print and is fresh data for market pricing ahead of RBA commentary and upcoming domestic auctions. Edge: watch core vs tradables/services breakdown, wage and rents components, RBA minutes/speec"
     }
   },
   "topic_index": {
