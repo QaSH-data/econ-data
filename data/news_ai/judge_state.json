@@ -129,7 +129,8 @@
     "1465867888572367082",
     "1466043755667783792",
     "1466071333329965210",
-    "1466078604617322639"
+    "1466078604617322639",
+    "1466082465838797016"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1148,6 +1149,15 @@
       "last_update_utc": "2026-01-28T14:04:37+00:00",
       "last_short": "Iran says it’s ready for dialogue at UN — mild de-escalation signal that can trim geopolitical risk premium (oil/safe havens) and modestly s",
       "last_long": "Market read-through is primarily via the geopolitical risk premium rather than macro fundamentals. A UN-linked statement that Iran “stands ready for dialogue” is a marginal de-escalation cue: it can (1) compress crude’s tail-risk premium if it reduces perceived odds of near-term disruption, (2) soften safe-haven demand (Treasuries/gold) at the margin, and (3) tilt index-futures tone slightly risk-on (ES/NQ) if no contradictory headlines hit. Persistence is usually low unless followed quickly by concrete items (announced meeting dates/venues, reciprocal US/EU/region responses, verified operational de-escalation such as reduced military posture or calmer shipping-lane incident flow). Watch for headline sequencing: any subsequent hardening language, sanctions actions, or incident reports can reverse the initial premium compression intraday."
+    },
+    "t_0495967622bdaa5b": {
+      "count": 1,
+      "message_ids": [
+        "1466082465838797016"
+      ],
+      "last_update_utc": "2026-01-28T14:48:55+00:00",
+      "last_short": "BoC holds 2.25% as expected; “heightened uncertainty” keeps policy-path optionality, supporting CAD/rates vol rather than a clean directiona",
+      "last_long": "Bank of Canada left the policy rate unchanged at 2.25% (in line with forecast/previous) and leaned on risk-management language (“uncertainty is heightened… prepared to respond”). With no rate surprise, the first-order effect is muted for broad risk, but the communication keeps the distribution of outcomes wide, which can lift Canadian front-end and FX volatility and keep term-premia from compressing. Mechanism: (1) CAD reprices mostly via expectations for the next 1–3 meetings; (2) Canadian rates volatility can spill into USTs at the margin via cross-market RV and risk-parity duration adjustments; (3) equities feel it through discount-rate uncertainty (banks/financials) and CAD sensitivity (resources/energy). Why now: after recent firmer Canada CPI context, markets are more message-sensitive; a hold paired with “optional” language reinforces a data-dependent stance rather than confirming"
     }
   },
   "topic_index": {
