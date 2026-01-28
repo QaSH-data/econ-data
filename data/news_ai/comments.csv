@@ -106,3 +106,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-28T15:31:46.348000+00:00,1466093404571308194,1,t_76d7e478134ee1d6,4,EIA: crude -2.296M vs +1.95M exp (big surprise draw); gasoline +0.223M vs +2.55M exp (tighter). Supports crude/energy; modest inflation/brea
 2026-01-28T19:02:14.435000+00:00,1466146370606862487,1,t_2a2bd5849841cebb,2,Fed holds policy rate at 3.75% (in line with forecast/prev) — no rate surprise. Immediate impulse to front-end rates and USD is limited; mar
 2026-01-28T19:04:47.223000+00:00,1466147011446313061,1,t_25361bed28981074,4,"FOMC voted 10-2; Miran and Waller dissented in favor of a 25bp cut — signals some Fed appetite to ease, pressuring short-term yields and aff"
+2026-01-28T20:53:17.113000+00:00,1466174315904110658,1,t_e42390b46bafaf85,4,"Large late-day MOC sell imbalances: S&P -$1.114B, Nasdaq100 -$1.138B, Dow -$64.9M, MAG7 -$761.5M — close-auction sell skew, biggest sensitiv"
