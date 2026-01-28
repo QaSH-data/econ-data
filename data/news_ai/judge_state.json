@@ -133,7 +133,8 @@
     "1466082465838797016",
     "1466088353140052029",
     "1466089515549593818",
-    "1466093404571308194"
+    "1466093404571308194",
+    "1466146370606862487"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1180,6 +1181,15 @@
       "last_update_utc": "2026-01-28T15:16:55+00:00",
       "last_short": "Bessent hints Miron could stay Fed chair; White House discussed shortlist — reduces leadership-tail risk, dampening front-end vol; Korea rat",
       "last_long": "What happened (Jan 28, 2026): Treasury Sec. Bessent said Miron’s term as Fed chair could continue and noted he discussed the chair decision with President Trump; he also said there are “4 great candidates” and the list is not narrowed/expanded. Separately, he said there is no South Korea trade deal until ratification.\n\nWhy it matters now: With the market already leaning toward policy continuity into the imminent FOMC window, explicit continuity signaling shifts the distribution of outcomes mainly by trimming leadership/independence tail-risk rather than changing the base-case rate path.\n\nMechanism (rates → risk): (1) Lower perceived probability of a surprise chair transition or abrupt policy pivot reduces the governance/credibility risk premium embedded in front-end rates and vol (fed-funds/2Y complex). (2) Less rate-path uncertainty can stabilize duration-sensitive equity multiples (esp"
+    },
+    "t_2a2bd5849841cebb": {
+      "count": 1,
+      "message_ids": [
+        "1466146370606862487"
+      ],
+      "last_update_utc": "2026-01-28T19:02:56+00:00",
+      "last_short": "Fed holds policy rate at 3.75% (in line with forecast/prev) — no rate surprise. Immediate impulse to front-end rates and USD is limited; mar",
+      "last_long": "The policy rate was held at 3.75%, matching both consensus and the prior setting, so this is a “no-surprise” decision on the rate level itself. The first-order mechanism is expectations: with the outcome already priced, the baseline reaction is muted in the front end (ZT/ZF) and a smaller, secondary spillover into intermediate duration (ZN) and USD (DX) unless the statement/press conference alters the expected path. For equity index futures (ES/NQ), the key channel is the discount-rate/real-yield narrative: absent a guidance shift, the decision mainly removes an immediate tail risk rather than creating a fresh directional catalyst.\n\nWhat matters now is the *reaction function* embedded in communication—any adjustment in language around inflation progress, labor-market balance, and how restrictive policy is deemed to be. If messaging is interpreted as “higher for longer,” that tends to lea"
     }
   },
   "topic_index": {
