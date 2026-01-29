@@ -144,7 +144,8 @@
     "1466482889414676687",
     "1466532715192127652",
     "1466536761583997046",
-    "1466577213833875631"
+    "1466577213833875631",
+    "1466581768445493400"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1266,6 +1267,15 @@
       "last_update_utc": "2026-01-29T23:34:40+00:00",
       "last_short": "Tokyo-area Jan core CPI and jobs-applicants ratio beat slightly — signals stickier underlying inflation; lifts rates expectations, pressurin",
       "last_long": "Tokyo-area January data: core CPI measures (core +2.0% y/y; excl. fresh food & energy +2.4% y/y) and a small rise in the jobs-applicants ratio to 1.19 point to persistent domestic price pressure alongside a firm labor market. Primary mechanism: rates expectations. Causal chain (intraday → next few sessions): stickier regional CPI increases the probability that BOJ policy will normalize sooner or remain less accommodative, prompting repricing in JGB yields and a stronger JPY; that in turn adjusts risk premia for Japan-focused assets (Japanese banks/financials sensitive to yield curves; exporters sensitive to JPY appreciation) and can feed into broader Asia/FX moves. Why now: Tokyo-area prints are an early high-frequency read ahead of national CPI and any BOJ commentary, so market participants may front-run policy expectations. Edges to watch: national CPI releases and revisions, monthly w"
+    },
+    "t_6c5894a8a3612ef2": {
+      "count": 1,
+      "message_ids": [
+        "1466581768445493400"
+      ],
+      "last_update_utc": "2026-01-29T23:52:55+00:00",
+      "last_short": "Japan Dec industrial output -0.1% m/m (vs -0.4% est, prior -2.7%); retail sales -0.9% y/y (vs +0.7% est) is the bigger shock — mild risk-off",
+      "last_long": "Japan’s December data are a split signal: industrial output was essentially flat (-0.1% m/m, better than -0.4% expected and far less weak than the prior -2.7%), but retail sales -0.9% y/y versus +0.7% expected is a clear domestic-demand disappointment. Mechanism: the retail miss leans toward softer consumption and potentially weaker near-term revenue momentum for Japan/Asia cyclicals, which can marginally pressure regional risk tone and spill into global index futures via the “Asia growth” channel. Offsetting that, the smaller output decline reduces immediate fears of a sharper manufacturing downdraft. Rates/FX read-through: softer demand tends to cap Japan yield pressure and can support a modest defensive bid in duration globally at the margin; JPY reaction depends on whether markets frame this as BoJ-dovish (JPY softer) versus risk-off (JPY firmer). Why now: this print updates the Asia"
     }
   },
   "topic_index": {
