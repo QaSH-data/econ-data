@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-28",
+  "date_utc": "2026-01-29",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -136,7 +136,8 @@
     "1466093404571308194",
     "1466146370606862487",
     "1466147011446313061",
-    "1466174315904110658"
+    "1466174315904110658",
+    "1466425608111390823"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1202,6 +1203,15 @@
       "last_update_utc": "2026-01-28T19:05:12+00:00",
       "last_short": "FOMC voted 10-2; Miran and Waller dissented in favor of a 25bp cut — signals some Fed appetite to ease, pressuring short-term yields and aff",
       "last_long": "What happened (causal chain, intraday->next few sessions): the published vote split (10-2) with Miran and Waller favoring a 25bp cut embeds an intra-Fed division that directly alters market pricing of near-term policy. Primary market mechanism: rates expectations. How it works: visible dissents raise the perceived probability that easing is under active consideration, prompting front-end instruments (Fed funds futures/OIS, 2y UST, ZT/ZF/ZN) to modestly reprice lower yields, which can weaken the dollar and compress equity risk premia, giving a short-term tailwind to equities and credit. Why it matters now: the vote is concrete, time-stamped evidence of policy divergence ahead of upcoming Fed commentary and key US releases (Core PCE, payrolls) that together set the path for cuts or continued status quo. Most exposed: front-end rates and Fed funds markets, 2y yields, USD, interest-rate sens"
+    },
+    "t_6ac5a10c519098ea": {
+      "count": 1,
+      "message_ids": [
+        "1466425608111390823"
+      ],
+      "last_update_utc": "2026-01-29T13:32:27+00:00",
+      "last_short": "US trade balance printed -$56.8B vs -$44B est (prior -$29.4B): a big widening that leans hawkish at the margin (demand/import-heavy), pressu",
+      "last_long": "The -$56.8B trade balance (vs -$44B expected, prior -$29.4B) is a sizeable negative surprise that typically reads as stronger relative import demand and/or weaker export momentum. Macro transmission is mainly via rates: a demand/import-led widening can be interpreted as firmer activity and potentially less disinflationary impulse near term, nudging Treasury yields higher (bearish ZN/ZB; watch whether the move concentrates in the front end vs belly to gauge “policy-path” vs “term-premium” repricing). For equities, the first-order effect is usually through higher real rates/discount rates (headwind for duration-sensitive NQ/quality growth), while cyclicals can be mixed depending on whether the market frames it as demand strength or competitiveness drag. FX tends to be USD-supportive on relative-growth and yield-differential channels, but follow-through depends on how much the print feeds i"
     }
   },
   "topic_index": {
