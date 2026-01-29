@@ -141,7 +141,8 @@
     "1466426038539255822",
     "1466441113437999259",
     "1466448351087034521",
-    "1466482889414676687"
+    "1466482889414676687",
+    "1466532715192127652"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1244,6 +1245,15 @@
       "last_update_utc": "2026-01-29T17:19:55+00:00",
       "last_short": "Trump says he’ll announce the next Fed Chair “next week,” adding near-term policy-path uncertainty: supportive for UST duration (ZN) but lif",
       "last_long": "Why it matters now (Jan 29, 2026): a time-boxed Fed leadership announcement is a discrete catalyst that can reprice the expected policy reaction function before any actual Fed meeting. Mechanism: (1) Rates—markets will handicap the nominee’s inflation tolerance/neutral-rate bias and independence; uncertainty alone tends to steepen implied volatility across front-end/belly (ZT/ZF/ZN) until the name/stance is clearer. (2) USD—direction depends on perceived hawk/dove tilt, but FX typically reacts via expected real-rate differentials; near-term effect is more volatility than level. (3) Equities—higher policy uncertainty raises the equity risk premium, often pressuring duration-heavy growth (NQ) and rate-sensitive multiples; financials can trade both ways depending on expected path for rates/regulation. What to watch: leaks/shortlists ahead of the announcement, any language about prioritizing"
+    },
+    "t_8b882a76e0a5a7a5": {
+      "count": 1,
+      "message_ids": [
+        "1466532715192127652"
+      ],
+      "last_update_utc": "2026-01-29T20:38:00+00:00",
+      "last_short": "Amazon in talks to invest up to $50B in OpenAI — boosts AI growth narrative; likely positive for mega‑cap tech and AI/computing names, could",
+      "last_long": "Primary mechanism: positioning. Amazon signaling a large (up to $50B) OpenAI stake resets investor expectations about which platform/cloud players will monetize advanced AI. Near term (intraday → next few sessions) that should compress risk premia on AMZN shares and other AI-exposed mega caps, draw flows into AI/compute/software names and lift Nasdaq (NQ) more than broad market (ES). Amplifying factors: holiday-thin liquidity can magnify moves; market reaction will depend on deal structure (equity vs. preferred/convertible), governance terms, and any regulatory flags. Watchables that provide edge: official deal terms/filings, AMZN guidance/earnings language, options/IV and block trade flow in AMZN/peer names, sector ETF flows, and competitor responses (MSFT/OpenAI disclosures)."
     }
   },
   "topic_index": {
