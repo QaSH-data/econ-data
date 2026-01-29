@@ -140,7 +140,8 @@
     "1466425608111390823",
     "1466426038539255822",
     "1466441113437999259",
-    "1466448351087034521"
+    "1466448351087034521",
+    "1466482889414676687"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1234,6 +1235,15 @@
       "last_update_utc": "2026-01-29T15:02:38+00:00",
       "last_short": "US factory orders +2.7% and wholesale sales +1.3% surprise; signals stronger demand — bullish for cyclicals/commodities, bearish for Treasur",
       "last_long": "Stronger-than-expected US activity: factory orders +2.7%, wholesale sales +1.3% and durable-goods revision intact suggest firmer demand and capex momentum. Primary market mechanism: rates expectations. Causal chain (intraday → next few sessions): upside activity surprise raises odds of more persistent growth/inflation, prompting repricing of the near-term rate path and higher real yields; that should pressure UST futures (ZN/ZB/ZT) and lift the dollar. Equity impact will be sectorized—cyclicals (industrials, materials, energy) and commodity-linked names most exposed to positive demand re-rating, while duration-sensitive mega-cap/growth faces headwinds from higher rates. Wholesale inventories steady vs sales implies demand-led restocking, reinforcing the signal. With thin holiday liquidity and existing positioning, expect amplified moves; watch 2s/10s, front-end yields, swap pricing, USD,"
+    },
+    "t_fa272aef2ad93b1c": {
+      "count": 1,
+      "message_ids": [
+        "1466482889414676687"
+      ],
+      "last_update_utc": "2026-01-29T17:19:55+00:00",
+      "last_short": "Trump says he’ll announce the next Fed Chair “next week,” adding near-term policy-path uncertainty: supportive for UST duration (ZN) but lif",
+      "last_long": "Why it matters now (Jan 29, 2026): a time-boxed Fed leadership announcement is a discrete catalyst that can reprice the expected policy reaction function before any actual Fed meeting. Mechanism: (1) Rates—markets will handicap the nominee’s inflation tolerance/neutral-rate bias and independence; uncertainty alone tends to steepen implied volatility across front-end/belly (ZT/ZF/ZN) until the name/stance is clearer. (2) USD—direction depends on perceived hawk/dove tilt, but FX typically reacts via expected real-rate differentials; near-term effect is more volatility than level. (3) Equities—higher policy uncertainty raises the equity risk premium, often pressuring duration-heavy growth (NQ) and rate-sensitive multiples; financials can trade both ways depending on expected path for rates/regulation. What to watch: leaks/shortlists ahead of the announcement, any language about prioritizing"
     }
   },
   "topic_index": {
