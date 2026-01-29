@@ -142,7 +142,8 @@
     "1466441113437999259",
     "1466448351087034521",
     "1466482889414676687",
-    "1466532715192127652"
+    "1466532715192127652",
+    "1466536761583997046"
   ],
   "seen_max": 2000,
   "topics": {
@@ -257,7 +258,7 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 9,
+      "count": 10,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
@@ -267,11 +268,12 @@
         "1463637575171571764",
         "1464000000915931247",
         "1465449754434605249",
-        "1466174315904110658"
+        "1466174315904110658",
+        "1466536761583997046"
       ],
-      "last_update_utc": "2026-01-28T20:53:51+00:00",
-      "last_short": "Large late-day MOC sell imbalances: S&P -$1.114B, Nasdaq100 -$1.138B, Dow -$64.9M, MAG7 -$761.5M — close-auction sell skew, biggest sensitiv",
-      "last_long": "What it is: sizable Market-on-Close (MOC) sell imbalances flagged into the closing auction across S&P 500 (-$1.114B), Nasdaq 100 (-$1.138B), Dow 30 (-$64.9M) and MAG7 (-$761.5M). Mechanism: a net sell queue into the close forces liquidity providers/arbs to pre-hedge (often via ES/NQ futures and index/sector ETFs) and then unwind post-print, which can steepen the final-30min down-move, widen spreads, and create a snap-back risk after the auction if the flow is the only driver. Why it matters now: the imbalance is disproportionately concentrated in Nasdaq 100 and MAG7, so beta-to-mega-cap-tech is the key transmission channel (NQ/QQQ and tech-heavy S&P constituents) rather than broad industrial/Dow exposure. What to watch to judge persistence: (1) whether imbalance updates grow vs fade into 15:50–15:58 ET, (2) closing print size vs typical, (3) any concurrent ETF rebalance/creation-redempti"
+      "last_update_utc": "2026-01-29T20:53:57+00:00",
+      "last_short": "",
+      "last_long": ""
     },
     "t_e6be6b33661c274a": {
       "count": 1,
