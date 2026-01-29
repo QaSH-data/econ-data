@@ -109,3 +109,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-28T20:53:17.113000+00:00,1466174315904110658,1,t_e42390b46bafaf85,4,"Large late-day MOC sell imbalances: S&P -$1.114B, Nasdaq100 -$1.138B, Dow -$64.9M, MAG7 -$761.5M — close-auction sell skew, biggest sensitiv"
 2026-01-29T13:31:49.844000+00:00,1466425608111390823,1,t_6ac5a10c519098ea,2,"US trade balance printed -$56.8B vs -$44B est (prior -$29.4B): a big widening that leans hawkish at the margin (demand/import-heavy), pressu"
 2026-01-29T13:33:32.466000+00:00,1466426038539255822,1,t_f74e5bbe53fe3d36,4,"US initial claims ticked up to 209k (vs 205k), while Nov trade deficit widened sharply — marginally softer growth tone that can lean rates l"
+2026-01-29T15:02:12.192000+00:00,1466448351087034521,1,t_fd123f559c204c38,5,"US factory orders +2.7% and wholesale sales +1.3% surprise; signals stronger demand — bullish for cyclicals/commodities, bearish for Treasur"
