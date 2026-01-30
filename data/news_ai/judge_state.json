@@ -156,7 +156,8 @@
     "1466780911423983747",
     "1466787989458784367",
     "1466803567078936778",
-    "1466842030000046142"
+    "1466842030000046142",
+    "1466845153733116206"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1378,6 +1379,15 @@
       "last_update_utc": "2026-01-30T17:06:59+00:00",
       "last_short": "Trump says US is sending ships to Iran; raises geopolitical risk — likely risk-off for equities, safe-haven Treasury demand, and upside pres",
       "last_long": "Headline increases perceived probability of naval/military escalation, lifting the geopolitical risk premium. Mechanism: risk premium (near-term). Causal chain: comment → higher odds of confrontation → immediate demand for safe havens (USTs, gold, USD) and mark-up to energy/insurance/supply-risk assets → equity risk-off bias, especially cyclicals, EM FX and credit spreads. Why now: statement is an explicit operational signal that can trigger near-immediate positioning changes, and holiday-thinned liquidity can amplify intraday moves. Most exposed: ES/NQ (index futures), ZN/ZB and short-end bills (Treasuries), crude oil (CL), gold, USD, defense and shipping/insurers, EM sovereign credit. Info flow that gives edge over the next few sessions: Defense Dept./Pentagon confirmations, Iran official response, maritime incident reports (AIS/strait disruptions), insurance/premia moves, oil flows an"
+    },
+    "t_07348378d99d85e9": {
+      "count": 1,
+      "message_ids": [
+        "1466845153733116206"
+      ],
+      "last_update_utc": "2026-01-30T17:19:54+00:00",
+      "last_short": "Trump says Warsh “wants/will cut rates” and that it won’t require WH pressure — political color that can tug short-end rate expectations; wa",
+      "last_long": "This headline is primarily a rates-expectations catalyst rather than a growth/inflation datapoint. Even without an explicit policy action, Trump framing “Warsh wants to cut rates” and “will cut rates without White House pressure” can (i) increase perceived odds of an easier policy path and (ii) raise sensitivity to any confirmation/denial from the Fed ecosystem. If markets interpret it as credible influence/appointment signaling, the first reaction tends to be supportive for duration: front-end Treasury yields lower (ZT/ZF/2s), USD softer (DX down, 6E up), and rate-sensitive equities bid (ES/NQ via discount-rate channel). The offsetting risk is credibility/backlash: if investors see it as political jawboning or threatening Fed independence, it can add risk premium and create a ‘rates down / risk off’ mix, especially if it spooks term premium. Why now: late-cycle pricing is often finely b"
     }
   },
   "topic_index": {
