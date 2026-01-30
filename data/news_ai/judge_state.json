@@ -155,7 +155,8 @@
     "1466770032657956955",
     "1466780911423983747",
     "1466787989458784367",
-    "1466803567078936778"
+    "1466803567078936778",
+    "1466842030000046142"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1368,6 +1369,15 @@
       "last_update_utc": "2026-01-30T13:32:15+00:00",
       "last_short": "Canada GDP m/m 0% (vs 0.1% f/c) — softer growth impulse; modestly CAD-negative, supportive for Canada rates; minor spillover to US risk via",
       "last_long": "Canada monthly GDP printed flat (0% m/m) versus a small +0.1% consensus, reinforcing a near-term \"growth losing momentum\" narrative. Primary transmission is via Bank of Canada path: weaker activity reduces urgency for further tightening and can support Canadian government bonds/lower front-end rate expectations; FX is typically the second leg, with CAD modestly softer on relative-growth differentials. Equity impact is usually second-order and sectoral (more sensitivity in domestic cyclicals and rate-sensitive financials), and the macro spillover to US index futures (ES/NQ) is generally limited unless it compounds a broader North American slowdown narrative or triggers a notable CAD/UST rates move. Why now: this is a clean growth miss arriving after a firmer prior Canada CPI backdrop, so the market focus shifts to whether inflation keeps the BoC constrained even as growth cools—next data"
+    },
+    "t_d9f82045b1da8fb7": {
+      "count": 1,
+      "message_ids": [
+        "1466842030000046142"
+      ],
+      "last_update_utc": "2026-01-30T17:06:59+00:00",
+      "last_short": "Trump says US is sending ships to Iran; raises geopolitical risk — likely risk-off for equities, safe-haven Treasury demand, and upside pres",
+      "last_long": "Headline increases perceived probability of naval/military escalation, lifting the geopolitical risk premium. Mechanism: risk premium (near-term). Causal chain: comment → higher odds of confrontation → immediate demand for safe havens (USTs, gold, USD) and mark-up to energy/insurance/supply-risk assets → equity risk-off bias, especially cyclicals, EM FX and credit spreads. Why now: statement is an explicit operational signal that can trigger near-immediate positioning changes, and holiday-thinned liquidity can amplify intraday moves. Most exposed: ES/NQ (index futures), ZN/ZB and short-end bills (Treasuries), crude oil (CL), gold, USD, defense and shipping/insurers, EM sovereign credit. Info flow that gives edge over the next few sessions: Defense Dept./Pentagon confirmations, Iran official response, maritime incident reports (AIS/strait disruptions), insurance/premia moves, oil flows an"
     }
   },
   "topic_index": {
