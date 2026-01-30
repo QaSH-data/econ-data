@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-29T14:00:38Z",
-  "last_delta_hash": "9a9e67cb7d551d83",
+  "last_run_utc": "2026-01-30T14:00:46Z",
+  "last_delta_hash": "65458489cfd87f77",
   "open_risks": [
-    "Inflation re-acceleration/tails reprice via PPI/Core PPI: could push real yields higher, pressure NQ duration and force gold/weak-USD narratives to unwind",
-    "Megacap earnings concentration/breadth shock: a small number of large names can gap ES/NQ regardless of macro; dispersion increases hedging demand and intraday reversals",
-    "USD-policy headline risk: rhetoric interpreted as endorsing a weaker dollar can accelerate gold/commodity moves and destabilize cross-asset correlations",
-    "Geopolitical headline reversal (Iran): dialogue signals can fade quickly; any escalation can reinsert oil/safe-haven bid and tighten financial conditions abruptly",
-    "Market-on-close imbalance / liquidity air pockets: late-day flow can dominate tape and exaggerate headline reactions, especially after large earnings moves"
+    "Policy-regime repricing whipsaw: Warsh nomination interpreted as (a) hawkish -> cuts priced out, USD/real yields up, NQ pressured; or (b) reduces Fed-independence tail fears -> vol compresses; two-way risk is elevated until more details/confirmation path is clear.",
+    "Positioning/technical liquidation in precious metals spills into broader risk: the gold/silver reversal could trigger margin/VAR-driven de-leveraging across risk assets if volatility persists.",
+    "Earnings concentration/breadth shock: megacap-driven index moves remain outsized; a single large print can dominate ES/NQ regardless of macro.",
+    "Europe inflation surprise (Germany prelim CPI hotter) complicates global duration relief; if bund yields rise meaningfully it can tighten global financial conditions and cap US equity multiples.",
+    "Geopolitical headline reversal (Iran/oil): can quickly reintroduce inflation-risk framing and risk-off correlations, conflicting with the current Fed-cuts narrative."
   ]
 }
