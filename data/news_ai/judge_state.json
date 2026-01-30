@@ -147,7 +147,8 @@
     "1466577213833875631",
     "1466581768445493400",
     "1466682261486436510",
-    "1466718777939857430"
+    "1466718777939857430",
+    "1466720317098430620"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1296,6 +1297,15 @@
       "last_update_utc": "2026-01-30T08:57:25+00:00",
       "last_short": "Germany SA unemployment change 0k (vs +3k exp); NSA unemployed jumped to 3.085M (prev 2.910M) — mixed but slightly dovish for EUR/rates.",
       "last_long": "Germany’s Jan labor print is directionally “softer” at the margin: the SA unemployment change was flat (0k) versus a small expected rise (+3k), but the NSA unemployed level rose sharply to 3.085M from 2.910M. Market channel is mainly rates/FX: the mixed headline (flat SA but higher raw level) leans toward reduced near-term domestic demand/inflation pressure, which can modestly cap Bund yields and tilt EUR slightly lower versus USD on relative policy-path expectations. Second-order read-through: mild support for duration-sensitive risk (via lower rates), but equity impact should be limited unless confirmed by the unemployment rate, vacancies, or wage/PMI follow-through. Watch immediate confirmation in EUR OIS/ECB terminal pricing, 2Y/10Y Bund moves, and whether the unemployment rate (and seasonal adjustment factors) corroborate the NSA jump."
+    },
+    "t_19fb55e0fdb2d7b2": {
+      "count": 1,
+      "message_ids": [
+        "1466720317098430620"
+      ],
+      "last_update_utc": "2026-01-30T09:03:39+00:00",
+      "last_short": "Germany flash GDP q/q +0.3% vs +0.2f (prev 0.0%) — small growth beat; modestly supportive for EUR and eurozone yields, mild risk-on for EU c",
+      "last_long": "Germany’s flash GDP beat (+0.3% q/q vs +0.2% expected; prior 0.0%) is a modest upside growth surprise that can slightly lean the ECB reaction function more “patient” on cuts (or less dovish at the margin) if corroborated by other activity data. Main transmission is via rates: firmer growth → higher Bund yields / lower Bund prices → EUR support vs USD; second-order effect is mildly better tone for European cyclicals/financials, with limited direct read-through to US index futures unless it materially shifts global rates. This matters most intraday and over the next 1–3 sessions through Bund moves, EUR, and relative US–EU yield differentials. Watch for the composition (consumption/investment/net exports) and any price/deflator signal: a demand-led beat is more durable and more rates-relevant than a trade/inventory-driven pop. Context: with eurozone inflation already near ~2% in recent prin"
     }
   },
   "topic_index": {
