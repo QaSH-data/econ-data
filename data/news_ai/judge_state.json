@@ -151,7 +151,8 @@
     "1466720317098430620",
     "1466735124862472285",
     "1466762708761448560",
-    "1466764605413130375"
+    "1466764605413130375",
+    "1466770032657956955"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1336,6 +1337,15 @@
       "last_update_utc": "2026-01-30T11:59:14+00:00",
       "last_short": "Markets are pricing two Fed cuts this year — front-end yields to fall and USD to soften; bullish for long-duration equities (tech/NQ) and Tr",
       "last_long": "Primary mechanism: rates expectations. Traders moving to price two cuts lowers implied Fed funds futures/OIS rates, pressuring front-end Treasury yields (2s/5s) and shrinking real yields. That transmission raises valuations for duration-sensitive equities (NQ/tech, REITs), weakens the dollar, and compresses Treasury futures (ZT/ZF/ZN) term premia in the intraday to next few sessions as positioning and option skews adjust. Why now: evolving macro signals and market positioning have repriced policy path; the move will be tested and refined ahead of near-term data/Fed touchpoints (Core PCE on Jan 22, ADP/payrolls, Fed speakers). Useful edge: monitor Fed funds futures/OIS, 2y yields, front-end vols/put-call skew, USD flows, and Fed communication for persistence of the cut narrative."
+    },
+    "t_37c2f765a87ca626": {
+      "count": 1,
+      "message_ids": [
+        "1466770032657956955"
+      ],
+      "last_update_utc": "2026-01-30T12:20:53+00:00",
+      "last_short": "Money markets price > two 25bp Fed cuts this year, repricing rates expectations and pressuring front-end Treasuries; impacts USD and rate-se",
+      "last_long": "What happened: money-market instruments have repriced to imply more than two 25bp Fed cuts this year. Primary mechanism: rates expectations. Causal chain (next few sessions): front-end implied policy rates fall -> 2Y/5Y Treasury yields drop and short-end futures (ZT/ZF) rally -> real-term rates decline, reducing discount rates and supporting duration-sensitive equities (NQ/ES) and long-duration tech. USD tends to weaken as carry/real-rate differentials compress, while banks/financials face margin/risk-premium pressure from lower front-end yields. Why now: recent disinflation signals (eurozone CPI <2%), soft China demand, and incoming US datapoints (Core PCE, GDP, ADP) give markets cover to push cuts out; thin holiday liquidity can amplify moves intraday. Edge signals to watch: Fed funds futures/OIS swaps, 2s/10s moves, swap spreads, Treasury bill yields, Fed speakers and next Core PCE pr"
     }
   },
   "topic_index": {
