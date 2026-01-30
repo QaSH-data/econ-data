@@ -153,7 +153,8 @@
     "1466762708761448560",
     "1466764605413130375",
     "1466770032657956955",
-    "1466780911423983747"
+    "1466780911423983747",
+    "1466787989458784367"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1356,6 +1357,15 @@
       "last_update_utc": "2026-01-30T13:04:20+00:00",
       "last_short": "Germany Jan prelim CPI 2.1% y/y vs 1.9% est; HICP m/m -0.1%. Firmer inflation impulse nudges ECB easing expectations less dovish, weighing B",
       "last_long": "German preliminary CPI at 2.1% y/y versus 1.9% expected is a clean upside inflation surprise that matters because Germany is a large weight in the Eurozone inflation narrative. Even with HICP m/m at -0.1% (close to expectations), the y/y overshoot tends to push near-term EUR rates pricing toward a “less certain/less aggressive easing” path. Mechanism: higher expected policy/terminal path -> higher euro front-end and Bund yields (Bund futures pressure) -> tighter financial conditions and a higher discount-rate backdrop for equities; simultaneously, relative-rate support typically favors EUR vs USD. For US index futures (ES/NQ), the main channel is cross-asset risk tone (higher global duration yields / tighter conditions) rather than a direct US macro read-through; the spillover is usually modest unless it’s reinforced by broader Eurozone prints or ECB messaging. What to monitor next: whet"
+    },
+    "t_1f140f9cfb25408f": {
+      "count": 1,
+      "message_ids": [
+        "1466787989458784367"
+      ],
+      "last_update_utc": "2026-01-30T13:32:15+00:00",
+      "last_short": "Canada GDP m/m 0% (vs 0.1% f/c) — softer growth impulse; modestly CAD-negative, supportive for Canada rates; minor spillover to US risk via",
+      "last_long": "Canada monthly GDP printed flat (0% m/m) versus a small +0.1% consensus, reinforcing a near-term \"growth losing momentum\" narrative. Primary transmission is via Bank of Canada path: weaker activity reduces urgency for further tightening and can support Canadian government bonds/lower front-end rate expectations; FX is typically the second leg, with CAD modestly softer on relative-growth differentials. Equity impact is usually second-order and sectoral (more sensitivity in domestic cyclicals and rate-sensitive financials), and the macro spillover to US index futures (ES/NQ) is generally limited unless it compounds a broader North American slowdown narrative or triggers a notable CAD/UST rates move. Why now: this is a clean growth miss arriving after a firmer prior Canada CPI backdrop, so the market focus shifts to whether inflation keeps the BoC constrained even as growth cools—next data"
     }
   },
   "topic_index": {
