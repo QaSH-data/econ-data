@@ -145,7 +145,8 @@
     "1466532715192127652",
     "1466536761583997046",
     "1466577213833875631",
-    "1466581768445493400"
+    "1466581768445493400",
+    "1466682261486436510"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1276,6 +1277,15 @@
       "last_update_utc": "2026-01-29T23:52:55+00:00",
       "last_short": "Japan Dec industrial output -0.1% m/m (vs -0.4% est, prior -2.7%); retail sales -0.9% y/y (vs +0.7% est) is the bigger shock — mild risk-off",
       "last_long": "Japan’s December data are a split signal: industrial output was essentially flat (-0.1% m/m, better than -0.4% expected and far less weak than the prior -2.7%), but retail sales -0.9% y/y versus +0.7% expected is a clear domestic-demand disappointment. Mechanism: the retail miss leans toward softer consumption and potentially weaker near-term revenue momentum for Japan/Asia cyclicals, which can marginally pressure regional risk tone and spill into global index futures via the “Asia growth” channel. Offsetting that, the smaller output decline reduces immediate fears of a sharper manufacturing downdraft. Rates/FX read-through: softer demand tends to cap Japan yield pressure and can support a modest defensive bid in duration globally at the margin; JPY reaction depends on whether markets frame this as BoJ-dovish (JPY softer) versus risk-off (JPY firmer). Why now: this print updates the Asia"
+    },
+    "t_d39cb5dac272d5b4": {
+      "count": 1,
+      "message_ids": [
+        "1466682261486436510"
+      ],
+      "last_update_utc": "2026-01-30T06:32:09+00:00",
+      "last_short": "France prelim GDP Q/Q 0.2% (in line) vs 0.5% prior: slower momentum; mild EUR-negative and supportive for lower euro-area yields, limited ri",
+      "last_long": "France’s preliminary Q/Q GDP at 0.2% matched consensus but decelerated from 0.5%, reinforcing a “slower growth, less tightening pressure” euro-area macro mix. Mechanism is mainly rates: softer activity at the margin tends to pull down near-term ECB hawkishness risk, supporting lower OAT/Bund yields and modestly weighing on EUR via widening rate differentials vs USD. For US index futures (ES/NQ), the direct channel is second-order; the more relevant transmission is through global rates (lower core Europe yields can be mildly duration-supportive for global equities) versus the risk-tone channel (a growth slowdown headline can tilt sentiment slightly risk-off for euro-cyclicals). Given the print was in line, expect the market to treat it as confirmatory rather than catalytic unless it aligns with weak Germany/eurozone GDP or prompts a noticeable move in EUR rates."
     }
   },
   "topic_index": {
