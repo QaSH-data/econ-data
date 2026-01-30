@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-29",
+  "date_utc": "2026-01-30",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -146,7 +146,8 @@
     "1466536761583997046",
     "1466577213833875631",
     "1466581768445493400",
-    "1466682261486436510"
+    "1466682261486436510",
+    "1466718777939857430"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1286,6 +1287,15 @@
       "last_update_utc": "2026-01-30T06:32:09+00:00",
       "last_short": "France prelim GDP Q/Q 0.2% (in line) vs 0.5% prior: slower momentum; mild EUR-negative and supportive for lower euro-area yields, limited ri",
       "last_long": "France’s preliminary Q/Q GDP at 0.2% matched consensus but decelerated from 0.5%, reinforcing a “slower growth, less tightening pressure” euro-area macro mix. Mechanism is mainly rates: softer activity at the margin tends to pull down near-term ECB hawkishness risk, supporting lower OAT/Bund yields and modestly weighing on EUR via widening rate differentials vs USD. For US index futures (ES/NQ), the direct channel is second-order; the more relevant transmission is through global rates (lower core Europe yields can be mildly duration-supportive for global equities) versus the risk-tone channel (a growth slowdown headline can tilt sentiment slightly risk-off for euro-cyclicals). Given the print was in line, expect the market to treat it as confirmatory rather than catalytic unless it aligns with weak Germany/eurozone GDP or prompts a noticeable move in EUR rates."
+    },
+    "t_bd14829ea8946bd3": {
+      "count": 1,
+      "message_ids": [
+        "1466718777939857430"
+      ],
+      "last_update_utc": "2026-01-30T08:57:25+00:00",
+      "last_short": "Germany SA unemployment change 0k (vs +3k exp); NSA unemployed jumped to 3.085M (prev 2.910M) — mixed but slightly dovish for EUR/rates.",
+      "last_long": "Germany’s Jan labor print is directionally “softer” at the margin: the SA unemployment change was flat (0k) versus a small expected rise (+3k), but the NSA unemployed level rose sharply to 3.085M from 2.910M. Market channel is mainly rates/FX: the mixed headline (flat SA but higher raw level) leans toward reduced near-term domestic demand/inflation pressure, which can modestly cap Bund yields and tilt EUR slightly lower versus USD on relative policy-path expectations. Second-order read-through: mild support for duration-sensitive risk (via lower rates), but equity impact should be limited unless confirmed by the unemployment rate, vacancies, or wage/PMI follow-through. Watch immediate confirmation in EUR OIS/ECB terminal pricing, 2Y/10Y Bund moves, and whether the unemployment rate (and seasonal adjustment factors) corroborate the NSA jump."
     }
   },
   "topic_index": {
