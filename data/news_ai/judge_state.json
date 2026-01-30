@@ -157,7 +157,8 @@
     "1466787989458784367",
     "1466803567078936778",
     "1466842030000046142",
-    "1466845153733116206"
+    "1466845153733116206",
+    "1466864063601574001"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1388,6 +1389,15 @@
       "last_update_utc": "2026-01-30T17:19:54+00:00",
       "last_short": "Trump says Warsh “wants/will cut rates” and that it won’t require WH pressure — political color that can tug short-end rate expectations; wa",
       "last_long": "This headline is primarily a rates-expectations catalyst rather than a growth/inflation datapoint. Even without an explicit policy action, Trump framing “Warsh wants to cut rates” and “will cut rates without White House pressure” can (i) increase perceived odds of an easier policy path and (ii) raise sensitivity to any confirmation/denial from the Fed ecosystem. If markets interpret it as credible influence/appointment signaling, the first reaction tends to be supportive for duration: front-end Treasury yields lower (ZT/ZF/2s), USD softer (DX down, 6E up), and rate-sensitive equities bid (ES/NQ via discount-rate channel). The offsetting risk is credibility/backlash: if investors see it as political jawboning or threatening Fed independence, it can add risk premium and create a ‘rates down / risk off’ mix, especially if it spooks term premium. Why now: late-cycle pricing is often finely b"
+    },
+    "t_66cf08e99d8d5622": {
+      "count": 1,
+      "message_ids": [
+        "1466864063601574001"
+      ],
+      "last_update_utc": "2026-01-30T18:34:31+00:00",
+      "last_short": "Fed's Musalem says policy is neutral and cuts aren't warranted; reduces near-term easing odds — ups pressure on front-end rates, USD and dur",
+      "last_long": "What happened: Fed Governor Musalem signaled policy is neutral and further rate cuts are not advisable absent a deterioration in the labor market or clear disinflation. Primary mechanism: rates expectations. Causal chain (next few sessions): his comments lower the probability of near-term Fed easing, which should lift front-end Treasury yields and the USD as markets trim cut odds. That repricing raises term premia and compresses valuations on long-duration assets (tech/large cap growth, NQ) while improving FX-linked and banking sector dynamics. Why now: markets were already watching mixed inflation and growth prints (core CPI still above 2.5–2.8% on FRED snapshot, Eurozone CPI just below 2%), and Fed-speak ahead of upcoming US PCE, ADP, and final GDP can move short-end pricing. Most exposed: short-dated UST futures (ZT/ZF), 2s/5s/10s swap curves, USD/FX (DX, 6E), and equity index futures"
     }
   },
   "topic_index": {
