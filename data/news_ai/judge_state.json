@@ -148,7 +148,8 @@
     "1466581768445493400",
     "1466682261486436510",
     "1466718777939857430",
-    "1466720317098430620"
+    "1466720317098430620",
+    "1466735124862472285"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1306,6 +1307,15 @@
       "last_update_utc": "2026-01-30T09:03:39+00:00",
       "last_short": "Germany flash GDP q/q +0.3% vs +0.2f (prev 0.0%) — small growth beat; modestly supportive for EUR and eurozone yields, mild risk-on for EU c",
       "last_long": "Germany’s flash GDP beat (+0.3% q/q vs +0.2% expected; prior 0.0%) is a modest upside growth surprise that can slightly lean the ECB reaction function more “patient” on cuts (or less dovish at the margin) if corroborated by other activity data. Main transmission is via rates: firmer growth → higher Bund yields / lower Bund prices → EUR support vs USD; second-order effect is mildly better tone for European cyclicals/financials, with limited direct read-through to US index futures unless it materially shifts global rates. This matters most intraday and over the next 1–3 sessions through Bund moves, EUR, and relative US–EU yield differentials. Watch for the composition (consumption/investment/net exports) and any price/deflator signal: a demand-led beat is more durable and more rates-relevant than a trade/inventory-driven pop. Context: with eurozone inflation already near ~2% in recent prin"
+    },
+    "t_6870c56310069370": {
+      "count": 1,
+      "message_ids": [
+        "1466735124862472285"
+      ],
+      "last_update_utc": "2026-01-30T10:02:17+00:00",
+      "last_short": "Eurozone Q4 flash GDP +0.3% q/q vs +0.2% est (prev +0.3%) — small growth beat; modest EUR/bund-yield support, limited global spillover absen",
+      "last_long": "Eurozone flash GDP at +0.3% q/q is a marginal upside surprise versus consensus (+0.2%) and unchanged versus the prior pace (+0.3%), so it signals resilience rather than acceleration. The immediate transmission is via relative rates: a slightly firmer activity read can lean ECB expectations a touch less dovish at the margin, supporting front-end EUR rates and the euro. Offsetting that, the beat is small and the level is consistent with a steady/low-growth regime, so the net effect should be contained unless follow-through comes from details (broad-based domestic demand vs inventory/export noise) or a meaningful move in EUR OIS/Bund curve. For US index futures, the channel is second-order: mildly improved European growth tone can help risk sentiment, but any lift can be capped if higher European yields tighten financial conditions or if the market is primarily focused on upcoming US inflat"
     }
   },
   "topic_index": {
