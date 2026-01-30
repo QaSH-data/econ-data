@@ -149,7 +149,8 @@
     "1466682261486436510",
     "1466718777939857430",
     "1466720317098430620",
-    "1466735124862472285"
+    "1466735124862472285",
+    "1466762708761448560"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1316,6 +1317,15 @@
       "last_update_utc": "2026-01-30T10:02:17+00:00",
       "last_short": "Eurozone Q4 flash GDP +0.3% q/q vs +0.2% est (prev +0.3%) — small growth beat; modest EUR/bund-yield support, limited global spillover absen",
       "last_long": "Eurozone flash GDP at +0.3% q/q is a marginal upside surprise versus consensus (+0.2%) and unchanged versus the prior pace (+0.3%), so it signals resilience rather than acceleration. The immediate transmission is via relative rates: a slightly firmer activity read can lean ECB expectations a touch less dovish at the margin, supporting front-end EUR rates and the euro. Offsetting that, the beat is small and the level is consistent with a steady/low-growth regime, so the net effect should be contained unless follow-through comes from details (broad-based domestic demand vs inventory/export noise) or a meaningful move in EUR OIS/Bund curve. For US index futures, the channel is second-order: mildly improved European growth tone can help risk sentiment, but any lift can be capped if higher European yields tighten financial conditions or if the market is primarily focused on upcoming US inflat"
+    },
+    "t_59dc09d3d180f517": {
+      "count": 1,
+      "message_ids": [
+        "1466762708761448560"
+      ],
+      "last_update_utc": "2026-01-30T11:51:55+00:00",
+      "last_short": "Trump says he will nominate Kevin Warsh for Fed Chair — chair-change risk can reprice rate-cut odds, term premium, USD and equity duration q",
+      "last_long": "What happened: President Trump said he is nominating Kevin Warsh to be Chair of the Federal Reserve’s Board of Governors.\n\nWhy it matters now (Jan 30, 2026): A chair nomination is a direct policy-regime signal even before confirmation. Markets will immediately handicap (1) the likely reaction function under a Warsh-led Fed, and (2) confirmation/timing risk that can keep risk premia elevated into the next major data prints.\n\nPrimary transmission (rates first): The fastest repricing channel is front-end and belly USTs (ZT/ZF/ZN) via implied path of the policy rate and uncertainty premium. If Warsh is perceived as more inflation-focused (hawkish) vs the current expected path, yields can back up and curves can re-steepen/flatten depending on how term premium moves; if perceived as more growth/market-supportive (dovish), the opposite.\n\nCross-asset read-through:\n- USD (DX): tends to track rela"
     }
   },
   "topic_index": {
