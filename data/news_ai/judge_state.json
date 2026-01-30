@@ -150,7 +150,8 @@
     "1466718777939857430",
     "1466720317098430620",
     "1466735124862472285",
-    "1466762708761448560"
+    "1466762708761448560",
+    "1466764605413130375"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1326,6 +1327,15 @@
       "last_update_utc": "2026-01-30T11:51:55+00:00",
       "last_short": "Trump says he will nominate Kevin Warsh for Fed Chair — chair-change risk can reprice rate-cut odds, term premium, USD and equity duration q",
       "last_long": "What happened: President Trump said he is nominating Kevin Warsh to be Chair of the Federal Reserve’s Board of Governors.\n\nWhy it matters now (Jan 30, 2026): A chair nomination is a direct policy-regime signal even before confirmation. Markets will immediately handicap (1) the likely reaction function under a Warsh-led Fed, and (2) confirmation/timing risk that can keep risk premia elevated into the next major data prints.\n\nPrimary transmission (rates first): The fastest repricing channel is front-end and belly USTs (ZT/ZF/ZN) via implied path of the policy rate and uncertainty premium. If Warsh is perceived as more inflation-focused (hawkish) vs the current expected path, yields can back up and curves can re-steepen/flatten depending on how term premium moves; if perceived as more growth/market-supportive (dovish), the opposite.\n\nCross-asset read-through:\n- USD (DX): tends to track rela"
+    },
+    "t_7a93134a7b03fad0": {
+      "count": 1,
+      "message_ids": [
+        "1466764605413130375"
+      ],
+      "last_update_utc": "2026-01-30T11:59:14+00:00",
+      "last_short": "Markets are pricing two Fed cuts this year — front-end yields to fall and USD to soften; bullish for long-duration equities (tech/NQ) and Tr",
+      "last_long": "Primary mechanism: rates expectations. Traders moving to price two cuts lowers implied Fed funds futures/OIS rates, pressuring front-end Treasury yields (2s/5s) and shrinking real yields. That transmission raises valuations for duration-sensitive equities (NQ/tech, REITs), weakens the dollar, and compresses Treasury futures (ZT/ZF/ZN) term premia in the intraday to next few sessions as positioning and option skews adjust. Why now: evolving macro signals and market positioning have repriced policy path; the move will be tested and refined ahead of near-term data/Fed touchpoints (Core PCE on Jan 22, ADP/payrolls, Fed speakers). Useful edge: monitor Fed funds futures/OIS, 2y yields, front-end vols/put-call skew, USD flows, and Fed communication for persistence of the cut narrative."
     }
   },
   "topic_index": {
