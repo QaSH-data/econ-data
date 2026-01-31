@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-30T14:00:46Z",
-  "last_delta_hash": "65458489cfd87f77",
+  "last_run_utc": "2026-01-31T14:00:45Z",
+  "last_delta_hash": "bcc29ab734a28f39",
   "open_risks": [
-    "Policy-regime repricing whipsaw: Warsh nomination interpreted as (a) hawkish -> cuts priced out, USD/real yields up, NQ pressured; or (b) reduces Fed-independence tail fears -> vol compresses; two-way risk is elevated until more details/confirmation path is clear.",
-    "Positioning/technical liquidation in precious metals spills into broader risk: the gold/silver reversal could trigger margin/VAR-driven de-leveraging across risk assets if volatility persists.",
-    "Earnings concentration/breadth shock: megacap-driven index moves remain outsized; a single large print can dominate ES/NQ regardless of macro.",
-    "Europe inflation surprise (Germany prelim CPI hotter) complicates global duration relief; if bund yields rise meaningfully it can tighten global financial conditions and cap US equity multiples.",
-    "Geopolitical headline reversal (Iran/oil): can quickly reintroduce inflation-risk framing and risk-off correlations, conflicting with the current Fed-cuts narrative."
+    "Fed-chair nomination path creates prolonged regime-uncertainty premium (confirmation timing, Senate optics, perceived independence) -> volatile repricing of real yields/USD and duration equity multiples.",
+    "Precious-metals deleveraging spills into broader risk via margin/VAR (systematic de-grossing) rather than fundamentals.",
+    "Partial government shutdown extends beyond the weekend and begins to disrupt data releases / agency functions, increasing macro-data uncertainty and policy headline risk.",
+    "China slowdown signal deepens (PMIs <50) -> global growth scare, cyclicals/commodities down, safety bid in duration; can conflict with any geopolitics-driven oil/inflation impulse.",
+    "Iran escalation headlines over the weekend reprice oil risk premium and revive inflation-risk framing (risk-off + energy up + long-end volatility)."
   ]
 }
