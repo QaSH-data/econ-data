@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-01-31T14:00:45Z",
-  "last_delta_hash": "bcc29ab734a28f39",
+  "last_run_utc": "2026-02-01T14:00:44Z",
+  "last_delta_hash": "85eba2b3cf0c3204",
   "open_risks": [
-    "Fed-chair nomination path creates prolonged regime-uncertainty premium (confirmation timing, Senate optics, perceived independence) -> volatile repricing of real yields/USD and duration equity multiples.",
-    "Precious-metals deleveraging spills into broader risk via margin/VAR (systematic de-grossing) rather than fundamentals.",
-    "Partial government shutdown extends beyond the weekend and begins to disrupt data releases / agency functions, increasing macro-data uncertainty and policy headline risk.",
-    "China slowdown signal deepens (PMIs <50) -> global growth scare, cyclicals/commodities down, safety bid in duration; can conflict with any geopolitics-driven oil/inflation impulse.",
-    "Iran escalation headlines over the weekend reprice oil risk premium and revive inflation-risk framing (risk-off + energy up + long-end volatility)."
+    "Fed independence / policy-path uncertainty persists beyond the nomination headline (confirmation timing, Powell role, political/legal rhetoric) leading to elevated rate-vol and multiple compression risk for duration equities (NQ > ES).",
+    "Shutdown extends longer than expected or meaningfully disrupts key data releases, increasing 'macro signal noise' and raising whipsaw risk around ISM/JOLTS/ADP.",
+    "Metals-driven deleveraging: higher margins + recent drawdowns trigger forced selling and cross-asset VAR shocks (gold, miners, broader risk).",
+    "Iran escalation tail: oil spikes further, forcing inflation expectations/real yields higher and tightening financial conditions into a fragile risk backdrop.",
+    "Earnings concentration risk: a small set of mega-cap/AI-adjacent prints drives index-level moves; disappointment could amplify downside via crowded positioning and vol-control de-risking."
   ]
 }
