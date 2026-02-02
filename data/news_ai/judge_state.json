@@ -165,7 +165,8 @@
     "1467804674618036372",
     "1467805850079854740",
     "1467807167481512031",
-    "1467814751248711709"
+    "1467814751248711709",
+    "1467852506938740931"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1460,6 +1461,15 @@
       "last_update_utc": "2026-02-02T09:32:21+00:00",
       "last_short": "UK Manufacturing PMI final 51.8 vs 51.6 — marginal beat; modestly supportive for GBP/UK cyclicals, small upward bias to gilts; limited globa",
       "last_long": "UK Manufacturing PMI (final) at 51.8 vs 51.6 consensus/prev is a small upside surprise that reinforces a “still-expanding” signal (above 50) but with low incremental information because it’s a final revision. Primary transmission is via UK rates: a slightly firmer activity read can tilt near-term BoE expectations a touch less dovish, nudging gilt yields higher at the margin and providing mild support to GBP. For risk assets, it’s modestly positive for UK domestic cyclicals/sentiment, but the global read-through to US index futures should be limited given (1) the tiny beat, (2) the print is UK-specific, and (3) broader macro drivers (US rates/inflation, global growth—incl. China demand mix) typically dominate. Why now: it can matter for the London morning tone and GBP/gilt micro-moves, but persistence depends on forward-looking PMI details (new orders, employment) and prices components (i"
+    },
+    "t_24b348602be4626e": {
+      "count": 1,
+      "message_ids": [
+        "1467852506938740931"
+      ],
+      "last_update_utc": "2026-02-02T12:02:26+00:00",
+      "last_short": "Trump launches $12B minerals stockpile to counter China — raises risk premium on critical minerals; bullish for miners/materials and defense",
+      "last_long": "Policy announcement: a $12bn US strategic stockpile increases government demand for critical minerals (rare earths, battery metals etc.) and aims to reduce China's supply leverage. Causal chain (intraday → next few sessions): the stockpile announcement raises the risk premium on supply of targeted minerals, prompting repricing in miners/materials equities and related commodity bids as market anticipates government procurement and higher near-term demand. Primary mechanism involved: risk premium. Secondary market effects include higher commodity volatility, increased flows into mining/industrial names and ETFs, and potential short-term supply-chain hedging by tech and defense procurement teams. Markets to watch for edge: specific mineral list/tenders, procurement timeline, domestic mining capacity/permit status, announced offtake winners, and any Chinese export/price response. Also monito"
     }
   },
   "topic_index": {
