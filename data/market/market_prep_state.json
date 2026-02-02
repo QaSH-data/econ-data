@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-01T14:00:44Z",
-  "last_delta_hash": "85eba2b3cf0c3204",
+  "last_run_utc": "2026-02-02T14:00:45Z",
+  "last_delta_hash": "878359ab9ea23a05",
   "open_risks": [
-    "Fed independence / policy-path uncertainty persists beyond the nomination headline (confirmation timing, Powell role, political/legal rhetoric) leading to elevated rate-vol and multiple compression risk for duration equities (NQ > ES).",
-    "Shutdown extends longer than expected or meaningfully disrupts key data releases, increasing 'macro signal noise' and raising whipsaw risk around ISM/JOLTS/ADP.",
-    "Metals-driven deleveraging: higher margins + recent drawdowns trigger forced selling and cross-asset VAR shocks (gold, miners, broader risk).",
-    "Iran escalation tail: oil spikes further, forcing inflation expectations/real yields higher and tightening financial conditions into a fragile risk backdrop.",
-    "Earnings concentration risk: a small set of mega-cap/AI-adjacent prints drives index-level moves; disappointment could amplify downside via crowded positioning and vol-control de-risking."
+    "Deleveraging spillover: precious-metals margin/forced liquidation propagates into equities/credit/FX via VAR shocks and de-grossing",
+    "Fed reaction-function/independence uncertainty (Warsh nomination narrative) sustains elevated real-rate vol and compresses equity duration multiples",
+    "Data whipsaw: ISM (incl. prices paid) and subsequent labor prints drive rapid rotation between growth-scare and sticky-inflation regimes",
+    "Commodity complex instability: continued disorderly moves in gold/silver and miners amplify risk via liquidity and sentiment channels",
+    "Policy/China response risk: strategic minerals stockpile rhetoric triggers retaliation/export controls or supply-chain repricing beyond niche names"
   ]
 }
