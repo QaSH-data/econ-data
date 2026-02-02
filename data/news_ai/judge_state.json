@@ -171,7 +171,8 @@
     "1467894540928159849",
     "1467897881162944532",
     "1467915836512796979",
-    "1467928316022358087"
+    "1467928316022358087",
+    "1467931240433848421"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1520,6 +1521,15 @@
       "last_update_utc": "2026-02-02T17:03:54+00:00",
       "last_short": "Trump claims Modi will halt Russian oil buys, ramp US (and maybe Venezuela) purchases and cut tariffs — potentially bullish risk but high ex",
       "last_long": "Mechanism (most immediate): headline-driven repricing of trade-risk and energy-flow expectations. If India were to materially reduce Russian crude intake, incremental demand likely shifts toward alternative barrels (Middle East/US, with Venezuela only if sanctions/licensing allow), affecting Brent/WTI spreads, freight, and the Russia-discount complex. Separately, the “tariffs/non-tariff barriers to zero” + “reduced reciprocal tariff 25%→18%” + $500B+ purchase pledge reads as de-escalation in bilateral trade friction, which can compress risk premia (supporting ES/NQ) while leaning USD firmer via improved US trade/earnings optics—BUT credibility hinges on official Indian confirmation, legal text, timelines, and procurement capacity. Why now: a large, politically sourced claim can move markets in thin/uncertain liquidity, but follow-through risk is high until corroborated by India/governmen"
+    },
+    "t_f1368b54132973e5": {
+      "count": 1,
+      "message_ids": [
+        "1467931240433848421"
+      ],
+      "last_update_utc": "2026-02-02T17:15:19+00:00",
+      "last_short": "BLS delays January jobs report due to government shutdown — removes a key Fed-sensitive data point, extending uncertainty and potentially li",
+      "last_long": "What happened: Barron’s reports the Bureau of Labor Statistics will not release the January U.S. employment report on the scheduled Friday due to a government shutdown.\n\nWhy markets care (mechanism): Payrolls + unemployment + hourly earnings are among the highest-beta inputs into near-term Fed-path pricing. When the print is pulled, markets lose a major “information event,” so front-end rates can become more driven by (1) jobless claims, (2) private payroll proxies (e.g., ADP), and (3) Fed communication. That substitution typically raises model error/dispersion and can increase volatility risk premia rather than produce a clean directional move.\n\nNear-term implications (next sessions):\n- Rates (ZT/ZF/ZN): less scheduled catalyst can reduce one-day event risk, but increases the window where smaller surprises reprice the curve.\n- Equities (ES/NQ): removes a binary macro hurdle, yet can inc"
     }
   },
   "topic_index": {
