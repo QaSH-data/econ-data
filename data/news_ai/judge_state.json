@@ -175,7 +175,8 @@
     "1467931240433848421",
     "1467933190407585935",
     "1467936152089657355",
-    "1467955016198525102"
+    "1467955016198525102",
+    "1467973667677012019"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1560,6 +1561,15 @@
       "last_update_utc": "2026-02-02T18:49:32+00:00",
       "last_short": "France adopts budget after premier survives no-confidence votes; lowers political risk for French gov bonds, French banks and European equit",
       "last_long": "Primary market mechanism: risk premium. Causal chain (next few sessions): the premier surviving no-confidence votes removes an immediate political-tail-risk that could have derailed the budget, reducing policy uncertainty. That should compress France-Bund spreads and modestly lower OAT yields as investors trim political risk premia; French bank equities and the CAC may outperform regional peers on improved balance-sheet/fiscal visibility; EUR could firm versus safe-havens. Information to watch for edge: moves in OAT yields and OAT-Bund CDS/spreads, French sovereign auction demand, French bank CDS/stock flows, and intraday EUR liquidity. This is likely to shift sector and sovereign positioning rather than trigger a broad global risk rewrite intraday; monitor follow-through over the next few sessions."
+    },
+    "t_53c4a95b8d88bc83": {
+      "count": 1,
+      "message_ids": [
+        "1467973667677012019"
+      ],
+      "last_update_utc": "2026-02-02T20:03:58+00:00",
+      "last_short": "Treasury plans $109B Q2 net borrowing and a $900B end-quarter cash (TGA) goal — signals heavier front-end funding/cash-drain risk; watch bil",
+      "last_long": "What happened: The U.S. Treasury said it expects to borrow $109B in Q2 and aims to finish the quarter with about $900B in its cash balance (TGA).\n\nWhy it matters (mechanism): A higher targeted TGA typically implies Treasury will run primary-market funding in excess of near-term outflows, i.e., pulling cash from the private sector into the government’s account. That cash drain can tighten money-market conditions at the margin, particularly via increased bill supply and more competition for front-end liquidity. The most direct transmission is through bill yields, repo financing conditions, and front-end Treasury pricing (very front curve / 1–2y area), which can then spill into broader risk via higher discount-rate sensitivity and reduced liquidity.\n\nWhy now (timing): Quarterly borrowing/cash guidance shapes issuance cadence immediately and becomes a near-term input for dealers/MMFs positio"
     }
   },
   "topic_index": {
