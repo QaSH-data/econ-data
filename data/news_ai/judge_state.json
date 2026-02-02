@@ -162,7 +162,8 @@
     "1466899241715630100",
     "1466969848444747980",
     "1467697713230385267",
-    "1467804674618036372"
+    "1467804674618036372",
+    "1467805850079854740"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1430,6 +1431,15 @@
       "last_update_utc": "2026-02-02T08:52:26+00:00",
       "last_short": "France manufacturing PMI 51.2 vs 51.0 exp — small beat, still mild expansion; modestly supportive for EUR and eurozone cyclical risk, limite",
       "last_long": "France manufacturing PMI at 51.2 (vs 51.0 expected, 51.0 prior) is a marginal upside surprise and remains above 50, reinforcing a “slow expansion” signal rather than a re-acceleration. The cleanest transmission is via relative growth momentum: slightly better activity data can nudge eurozone rates a touch firmer (Bund/OAT yields up at the margin) and provide small support to EUR, particularly if broader euro-area PMI details (new orders/prices paid) also firm.\n\nWhy it matters now: this is an early-month high-frequency growth print, so it can modestly influence the balance of narratives between euro-area disinflation (which leans dovish) and activity stabilization (which leans less dovish). Cross-asset spillover to US index futures is typically second-order unless it shifts EURUSD meaningfully or coincides with a broader risk-on tape.\n\nWhat to watch for confirmation/negation: (1) Germany/"
+    },
+    "t_9a339d6508a80889": {
+      "count": 1,
+      "message_ids": [
+        "1467805850079854740"
+      ],
+      "last_update_utc": "2026-02-02T08:56:57+00:00",
+      "last_short": "Germany final Manufacturing PMI 49.1 vs 48.7 exp — still contraction (<50) but less-bad; mild risk-positive for Europe, marginally EUR-suppo",
+      "last_long": "Germany’s final manufacturing PMI printed 49.1 versus 48.7 expected (and 48.7 prior). The signal is “less negative,” not “strong”: activity remains in contraction (below 50), but the upside revision trims near-term recession/tail-risk pricing at the margin. Mechanism: (1) Growth-risk premium eases → marginal lift to European cyclicals/sentiment; (2) safe-haven demand for core duration can soften → modest upward pressure on Bund yields vs what was priced; (3) a slightly firmer Europe growth impulse can be mildly supportive for EUR at the margin, though FX typically still takes its lead from relative rate expectations vs the US.\nWhy now: despite being a final print (usually lower incremental impact than flash), the beat versus consensus can matter in a market that’s sensitive to “hard-landing vs muddle-through” narratives. Cross-asset spillover to US index futures is typically second-order"
     }
   },
   "topic_index": {

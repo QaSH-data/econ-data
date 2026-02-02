@@ -130,3 +130,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-01-31T01:34:26.851000+00:00,1466969848444747980,1,t_dcaa8100205bd89c,4,"China NBS Manufacturing PMI fell to 49.3 vs 50.1 expected (prior 50.1), back into contraction — near-term risk-off impulse for global cyclic"
 2026-02-02T01:46:43.339000+00:00,1467697713230385267,1,t_8ee38c58bb54688b,2,"China Manufacturing PMI 50.3 (vs 50.0, 50.1 prev) is a modest pro-growth/risk-on input; supports cyclicals/commodities, mildly negative for"
 2026-02-02T08:51:44.921000+00:00,1467804674618036372,1,t_58717893f5751401,2,"France manufacturing PMI 51.2 vs 51.0 exp — small beat, still mild expansion; modestly supportive for EUR and eurozone cyclical risk, limite"
+2026-02-02T08:56:25.173000+00:00,1467805850079854740,1,t_9a339d6508a80889,3,"Germany final Manufacturing PMI 49.1 vs 48.7 exp — still contraction (<50) but less-bad; mild risk-positive for Europe, marginally EUR-suppo"
