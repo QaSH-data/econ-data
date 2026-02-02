@@ -132,3 +132,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-02-02T08:51:44.921000+00:00,1467804674618036372,1,t_58717893f5751401,2,"France manufacturing PMI 51.2 vs 51.0 exp — small beat, still mild expansion; modestly supportive for EUR and eurozone cyclical risk, limite"
 2026-02-02T08:56:25.173000+00:00,1467805850079854740,1,t_9a339d6508a80889,3,"Germany final Manufacturing PMI 49.1 vs 48.7 exp — still contraction (<50) but less-bad; mild risk-positive for Europe, marginally EUR-suppo"
 2026-02-02T09:01:39.266000+00:00,1467807167481512031,1,t_4780650e51376978,2,"Eurozone mfg PMI final 49.5 (49.4 f/c) — tiny beat but still contraction; modestly dovish ECB impulse, mildly negative EUR/risk cyclicals, s"
+2026-02-02T09:31:47.377000+00:00,1467814751248711709,1,t_771c933878720337,3,"UK Manufacturing PMI final 51.8 vs 51.6 — marginal beat; modestly supportive for GBP/UK cyclicals, small upward bias to gilts; limited globa"
