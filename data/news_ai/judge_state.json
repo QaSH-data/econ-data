@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-01-30",
+  "date_utc": "2026-02-01",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -160,7 +160,8 @@
     "1466845153733116206",
     "1466864063601574001",
     "1466899241715630100",
-    "1466969848444747980"
+    "1466969848444747980",
+    "1467697713230385267"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1410,6 +1411,15 @@
       "last_update_utc": "2026-01-31T01:35:09+00:00",
       "last_short": "China NBS Manufacturing PMI fell to 49.3 vs 50.1 expected (prior 50.1), back into contraction — near-term risk-off impulse for global cyclic",
       "last_long": "China’s official NBS Manufacturing PMI printed 49.3 (forecast 50.1, prior 50.1), a clear downside surprise that pushes the headline back below 50 and reopens “growth scare” framing. Mechanism: weaker China factory momentum → softer global demand expectations (industrials/materials/energy sensitivity) and wider equity risk premia → pressure on risk assets and commodity-linked exposures; in parallel, it can pull global yields lower at the margin via safer-duration demand and lower inflation/commodity-demand expectations. Why now: this miss lands on top of already-soft China demand/investment context, so it’s more likely to be treated as confirmation rather than noise, especially if follow-through shows up in commodities/Asia equity tone. What to watch for persistence: whether the risk impulse is validated by services/non-manufacturing PMI, Caixin PMIs, and any near-term policy signaling (P"
+    },
+    "t_8ee38c58bb54688b": {
+      "count": 1,
+      "message_ids": [
+        "1467697713230385267"
+      ],
+      "last_update_utc": "2026-02-02T01:47:15+00:00",
+      "last_short": "China Manufacturing PMI 50.3 (vs 50.0, 50.1 prev) is a modest pro-growth/risk-on input; supports cyclicals/commodities, mildly negative for",
+      "last_long": "China’s Manufacturing PMI at 50.3 (forecast 50.0, prior 50.1) is a small upside surprise and stays in expansion territory (>50). Mechanism: a marginally firmer activity read can (1) lean toward slightly better global demand assumptions, (2) nudge commodity and cyclical sentiment up, and (3) reduce the immediate bid for safe havens (UST duration, USD) at the margin. Why it matters now: it partially offsets the recent narrative that China met headline growth targets but demand/consumption and property-linked investment remain soft; this print is incremental rather than regime-changing. Cross-asset sensitivity: most relevant for commodity-linked channels (energy/industrial metals), Asia/EM risk tone and FX proxies, and second-order spillover to US index futures via global growth sentiment (ES/YM more than NQ). Persistence risk: without corroboration (services PMIs/Caixin, new orders/export"
     }
   },
   "topic_index": {
