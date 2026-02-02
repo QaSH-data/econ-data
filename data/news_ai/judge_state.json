@@ -167,7 +167,8 @@
     "1467807167481512031",
     "1467814751248711709",
     "1467852506938740931",
-    "1467891064210853941"
+    "1467891064210853941",
+    "1467894540928159849"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1480,6 +1481,15 @@
       "last_update_utc": "2026-02-02T14:35:38+00:00",
       "last_short": "",
       "last_long": ""
+    },
+    "t_13bf0b300864969d": {
+      "count": 1,
+      "message_ids": [
+        "1467894540928159849"
+      ],
+      "last_update_utc": "2026-02-02T14:49:32+00:00",
+      "last_short": "US S&P Manufacturing PMI (final) rises to 52.4 vs 51.9 expected — small growth-positive surprise; modest risk-on/cyclical tilt, slight upwar",
+      "last_long": "January US S&P Manufacturing PMI (final) printed 52.4 vs 51.9 expected/51.9 prior—an incremental upside surprise and still in expansion (>50). The cleanest transmission is via the growth/rates channel: firmer activity prints can modestly reduce near-term “growth scare” pricing, nudging Treasury yields higher (bearish for duration) and marginally supporting cyclicals (industrials/materials/energy) vs long-duration defensives. For index futures, the impulse is mildly supportive for ES; for NQ it’s more ambiguous because a growth-positive PMI can come with a rates headwind. Impact should be contained because (1) it’s a final print (lower incremental information than flash), and (2) the surprise size is small; follow-through typically depends on whether new orders and input/output prices confirm a re-acceleration vs a one-off revision. The key watch is whether rates markets treat this as add"
     }
   },
   "topic_index": {
