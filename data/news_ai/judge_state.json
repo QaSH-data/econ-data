@@ -168,7 +168,8 @@
     "1467814751248711709",
     "1467852506938740931",
     "1467891064210853941",
-    "1467894540928159849"
+    "1467894540928159849",
+    "1467897881162944532"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1490,6 +1491,15 @@
       "last_update_utc": "2026-02-02T14:49:32+00:00",
       "last_short": "US S&P Manufacturing PMI (final) rises to 52.4 vs 51.9 expected — small growth-positive surprise; modest risk-on/cyclical tilt, slight upwar",
       "last_long": "January US S&P Manufacturing PMI (final) printed 52.4 vs 51.9 expected/51.9 prior—an incremental upside surprise and still in expansion (>50). The cleanest transmission is via the growth/rates channel: firmer activity prints can modestly reduce near-term “growth scare” pricing, nudging Treasury yields higher (bearish for duration) and marginally supporting cyclicals (industrials/materials/energy) vs long-duration defensives. For index futures, the impulse is mildly supportive for ES; for NQ it’s more ambiguous because a growth-positive PMI can come with a rates headwind. Impact should be contained because (1) it’s a final print (lower incremental information than flash), and (2) the surprise size is small; follow-through typically depends on whether new orders and input/output prices confirm a re-acceleration vs a one-off revision. The key watch is whether rates markets treat this as add"
+    },
+    "t_0cd77cbc1c21ec93": {
+      "count": 1,
+      "message_ids": [
+        "1467897881162944532"
+      ],
+      "last_update_utc": "2026-02-02T15:02:47+00:00",
+      "last_short": "US ISM Manufacturing 52.6 vs 48.5 forecast (Prices Paid 59 ~ exp). Strong PMI surprise lifts growth tone — bullish for cyclicals (industrial",
+      "last_long": "ISM Manufacturing (52.6 actual vs 48.5 forecast) is a clear upside growth surprise while Prices Paid (~59) is roughly in line. Primary mechanism: rates expectations. Causal chain (intraday → next few sessions): stronger PMI implies firmer near-term activity → pushes market to mark up growth and inflation risk → upward pressure on Treasury yields and front-end rate odds → tightens financial conditions and compresses valuations on duration-sensitive names while favoring cyclicals (industrials, materials, energy) and commodity-linked assets. Most exposed: ZN/ZB (UST yields), DX/6E (USD), ES/NQ and sector groups tied to manufacturing, and small caps. Edge signals to watch: ISM internals (new orders, employment, backlog), UST yield moves and real yields, Fed-funds futures repricing, and subsequent regional Fed/manufacturing prints."
     }
   },
   "topic_index": {
