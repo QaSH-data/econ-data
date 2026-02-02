@@ -174,7 +174,8 @@
     "1467928316022358087",
     "1467931240433848421",
     "1467933190407585935",
-    "1467936152089657355"
+    "1467936152089657355",
+    "1467955016198525102"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1550,6 +1551,15 @@
       "last_update_utc": "2026-02-02T17:34:53+00:00",
       "last_short": "BLS says Jan payrolls won't be released Friday due to partial government shutdown — raises data uncertainty, pressuring Treasury futures (ZN",
       "last_long": "What happened: BLS says the January employment report will not be published Friday because of the partial federal shutdown. Why it matters now: the monthly payrolls report is a high-frequency anchor for near-term Fed-rate pricing and risk sentiment; removing it ahead of other key prints (and ahead of the next FOMC window) leaves rates markets and equity risk premia to reprice on weaker secondary signals. Primary market mechanism: rates expectations. Causal chain (intraday → next few sessions): missing NFP increases uncertainty about the timing/magnitude of incoming labor info → front-end and belly Treasury futures (ZT/ZF/ZN) lose a major datapoint used to set Fed odds, so implied policy probability bands and short-term yields can drift or become more reactive to smaller data/speaker moves → equity index futures (ES/NQ) face wider realized and implied volatility as positioning hedges get"
+    },
+    "t_21b4b4fd29f690aa": {
+      "count": 1,
+      "message_ids": [
+        "1467955016198525102"
+      ],
+      "last_update_utc": "2026-02-02T18:49:32+00:00",
+      "last_short": "France adopts budget after premier survives no-confidence votes; lowers political risk for French gov bonds, French banks and European equit",
+      "last_long": "Primary market mechanism: risk premium. Causal chain (next few sessions): the premier surviving no-confidence votes removes an immediate political-tail-risk that could have derailed the budget, reducing policy uncertainty. That should compress France-Bund spreads and modestly lower OAT yields as investors trim political risk premia; French bank equities and the CAC may outperform regional peers on improved balance-sheet/fiscal visibility; EUR could firm versus safe-havens. Information to watch for edge: moves in OAT yields and OAT-Bund CDS/spreads, French sovereign auction demand, French bank CDS/stock flows, and intraday EUR liquidity. This is likely to shift sector and sovereign positioning rather than trigger a broad global risk rewrite intraday; monitor follow-through over the next few sessions."
     }
   },
   "topic_index": {
