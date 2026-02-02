@@ -169,7 +169,8 @@
     "1467852506938740931",
     "1467891064210853941",
     "1467894540928159849",
-    "1467897881162944532"
+    "1467897881162944532",
+    "1467915836512796979"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1500,6 +1501,15 @@
       "last_update_utc": "2026-02-02T15:02:47+00:00",
       "last_short": "US ISM Manufacturing 52.6 vs 48.5 forecast (Prices Paid 59 ~ exp). Strong PMI surprise lifts growth tone — bullish for cyclicals (industrial",
       "last_long": "ISM Manufacturing (52.6 actual vs 48.5 forecast) is a clear upside growth surprise while Prices Paid (~59) is roughly in line. Primary mechanism: rates expectations. Causal chain (intraday → next few sessions): stronger PMI implies firmer near-term activity → pushes market to mark up growth and inflation risk → upward pressure on Treasury yields and front-end rate odds → tightens financial conditions and compresses valuations on duration-sensitive names while favoring cyclicals (industrials, materials, energy) and commodity-linked assets. Most exposed: ZN/ZB (UST yields), DX/6E (USD), ES/NQ and sector groups tied to manufacturing, and small caps. Edge signals to watch: ISM internals (new orders, employment, backlog), UST yield moves and real yields, Fed-funds futures repricing, and subsequent regional Fed/manufacturing prints."
+    },
+    "t_12fbde1b30c8a158": {
+      "count": 1,
+      "message_ids": [
+        "1467915836512796979"
+      ],
+      "last_update_utc": "2026-02-02T16:14:20+00:00",
+      "last_short": "Axios: US envoy Witkoff to meet Iran FM Araghchi Friday in Istanbul on a possible nuclear deal — headline leans risk-on via lower ME tail-ri",
+      "last_long": "This is a classic geopolitical risk‑premium headline: a scheduled US–Iran meeting (Friday in Istanbul) modestly lowers near‑term escalation odds and can compress the Middle East tail‑risk premium. Market mapping: (1) Crude (CL) risk premium can fade on “talks/roadmap” language—most direct channel. (2) Safe havens (gold, long duration Treasuries) can see a softer bid if markets treat it as de‑escalatory. (3) Equities (ES/NQ) can benefit at the margin via lower energy‑shock probability and improved risk sentiment, though the effect is usually small unless there is credible progress on sanctions/exports. Why now: calendarized diplomacy creates an information window (pre‑meeting leaks, expectations setting, and post‑meeting readouts) that markets can reprice quickly; absent concrete concessions, the reaction often mean‑reverts. Key tells to monitor in subsequent headlines: any mention of san"
     }
   },
   "topic_index": {
