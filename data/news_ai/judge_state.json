@@ -176,7 +176,8 @@
     "1467933190407585935",
     "1467936152089657355",
     "1467955016198525102",
-    "1467973667677012019"
+    "1467973667677012019",
+    "1467986361356255356"
   ],
   "seen_max": 2000,
   "topics": {
@@ -292,7 +293,7 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 11,
+      "count": 12,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
@@ -304,11 +305,12 @@
         "1465449754434605249",
         "1466174315904110658",
         "1466536761583997046",
-        "1466899241715630100"
+        "1466899241715630100",
+        "1467986361356255356"
       ],
-      "last_update_utc": "2026-01-30T20:54:35+00:00",
-      "last_short": "Large MOC buy skew: S&P +$1.86B, NDX +$522M, MAG7 +$336M vs Dow -$194M — supportive for ES/NQ into the auction; late-day squeeze risk if liq",
-      "last_long": "Why now: a sizable net MOC buy imbalance concentrates price-insensitive demand into the closing auction (S&P +$1.86B, NDX +$522M, MAG7 +$336M) while the Dow shows a modest sell (-$194M), implying relative support to tech/megacap-heavy indices vs old-economy baskets.\n\nMechanism: as imbalance feeds update into the close, arb/dealer desks often pre-hedge expected auction flow via baskets/ETFs and index futures. A buy skew tends to pull bids higher late day (ES/NQ more exposed than YM), can compress intraday vol into the auction, and can create a brief upside air-pocket reversal risk if the imbalance fades on later updates.\n\nWhat to watch: (1) whether the imbalance persists or flips in the final updates; (2) divergence ES/NQ vs YM consistent with the MAG7/Dow split; (3) auction clearing prints vs pre-auction levels—large dislocations can leave residual hedges that matter into the next sessio"
+      "last_update_utc": "2026-02-02T20:54:13+00:00",
+      "last_short": "",
+      "last_long": ""
     },
     "t_e6be6b33661c274a": {
       "count": 1,
