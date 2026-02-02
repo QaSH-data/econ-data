@@ -166,7 +166,8 @@
     "1467805850079854740",
     "1467807167481512031",
     "1467814751248711709",
-    "1467852506938740931"
+    "1467852506938740931",
+    "1467891064210853941"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1470,6 +1471,15 @@
       "last_update_utc": "2026-02-02T12:02:26+00:00",
       "last_short": "Trump launches $12B minerals stockpile to counter China — raises risk premium on critical minerals; bullish for miners/materials and defense",
       "last_long": "Policy announcement: a $12bn US strategic stockpile increases government demand for critical minerals (rare earths, battery metals etc.) and aims to reduce China's supply leverage. Causal chain (intraday → next few sessions): the stockpile announcement raises the risk premium on supply of targeted minerals, prompting repricing in miners/materials equities and related commodity bids as market anticipates government procurement and higher near-term demand. Primary mechanism involved: risk premium. Secondary market effects include higher commodity volatility, increased flows into mining/industrial names and ETFs, and potential short-term supply-chain hedging by tech and defense procurement teams. Markets to watch for edge: specific mineral list/tenders, procurement timeline, domestic mining capacity/permit status, announced offtake winners, and any Chinese export/price response. Also monito"
+    },
+    "t_cbc65c2f8a59350e": {
+      "count": 1,
+      "message_ids": [
+        "1467891064210853941"
+      ],
+      "last_update_utc": "2026-02-02T14:35:38+00:00",
+      "last_short": "",
+      "last_long": ""
     }
   },
   "topic_index": {
