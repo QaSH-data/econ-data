@@ -177,7 +177,8 @@
     "1467936152089657355",
     "1467955016198525102",
     "1467973667677012019",
-    "1467986361356255356"
+    "1467986361356255356",
+    "1467990250323443848"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1572,6 +1573,15 @@
       "last_update_utc": "2026-02-02T20:03:58+00:00",
       "last_short": "Treasury plans $109B Q2 net borrowing and a $900B end-quarter cash (TGA) goal — signals heavier front-end funding/cash-drain risk; watch bil",
       "last_long": "What happened: The U.S. Treasury said it expects to borrow $109B in Q2 and aims to finish the quarter with about $900B in its cash balance (TGA).\n\nWhy it matters (mechanism): A higher targeted TGA typically implies Treasury will run primary-market funding in excess of near-term outflows, i.e., pulling cash from the private sector into the government’s account. That cash drain can tighten money-market conditions at the margin, particularly via increased bill supply and more competition for front-end liquidity. The most direct transmission is through bill yields, repo financing conditions, and front-end Treasury pricing (very front curve / 1–2y area), which can then spill into broader risk via higher discount-rate sensitivity and reduced liquidity.\n\nWhy now (timing): Quarterly borrowing/cash guidance shapes issuance cadence immediately and becomes a near-term input for dealers/MMFs positio"
+    },
+    "t_8e3534c043012111": {
+      "count": 1,
+      "message_ids": [
+        "1467990250323443848"
+      ],
+      "last_update_utc": "2026-02-02T21:09:41+00:00",
+      "last_short": "Report OpenAI is seeking alternatives to NVIDIA’s newest GPUs adds downside uncertainty to NVDA data-center demand and can weigh on semis/NQ",
+      "last_long": "Transmission is primarily through earnings/visibility, not macro: if OpenAI meaningfully shifts incremental compute spend away from NVIDIA’s latest GPUs (or delays upgrade cycles), investors may haircut near-term data-center revenue confidence and “latest-gen” pricing/mix assumptions for NVDA. Even if overall AI compute demand remains strong, a buyer mix shift toward custom silicon/other accelerators increases competitive framing and raises the risk of guidance conservatism, sell-side estimate cuts, and multiple compression across AI semis. Why now: the “since last year” detail suggests this is not a one-off test but an ongoing procurement strategy, which can prompt faster reassessment of customer concentration and capex-to-revenue conversion. Cross-asset: initial pressure is most likely in NVDA/semis and NQ via concentration; second-order read-through is to hyperscaler capex narratives"
     }
   },
   "topic_index": {
