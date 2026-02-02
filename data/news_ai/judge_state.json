@@ -173,7 +173,8 @@
     "1467915836512796979",
     "1467928316022358087",
     "1467931240433848421",
-    "1467933190407585935"
+    "1467933190407585935",
+    "1467936152089657355"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1540,6 +1541,15 @@
       "last_update_utc": "2026-02-02T17:23:07+00:00",
       "last_short": "CNBC/source: Nvidia – OpenAI deal still possible; lifts NVDA idiosyncratic vol and can tug NQ/ES via megacap weight; watch for denial/filing",
       "last_long": "A CNBC “source” note that an Nvidia–OpenAI deal remains “on the table” is primarily a volatility catalyst, not a macro one. Mechanism: deal probability gets repriced → NVDA’s M&A/speculation premium and options IV/skew can widen → given NVDA’s index weight, any sharp single-name move can mechanically pull Nasdaq (NQ) and, to a lesser extent, S&P (ES), with sympathetic moves in semis/AI complex via correlation. Why-now: rumor-quality headlines can trigger fast repositioning (deal-arb/spec vol, dealers adjusting hedges) even without new fundamentals, making intraday-to-1–3 session impact plausible.\n\nKey persistence checks: (1) any official comment/denial, (2) SEC filings/8-K or credible reporting upgrades, (3) unusually large equity/options blocks and sustained IV elevation, (4) emerging antitrust/regulatory framing (a major limiter on deal probability). Base case: treat as headline-driven"
+    },
+    "t_065307e688e2ab7e": {
+      "count": 1,
+      "message_ids": [
+        "1467936152089657355"
+      ],
+      "last_update_utc": "2026-02-02T17:34:53+00:00",
+      "last_short": "BLS says Jan payrolls won't be released Friday due to partial government shutdown — raises data uncertainty, pressuring Treasury futures (ZN",
+      "last_long": "What happened: BLS says the January employment report will not be published Friday because of the partial federal shutdown. Why it matters now: the monthly payrolls report is a high-frequency anchor for near-term Fed-rate pricing and risk sentiment; removing it ahead of other key prints (and ahead of the next FOMC window) leaves rates markets and equity risk premia to reprice on weaker secondary signals. Primary market mechanism: rates expectations. Causal chain (intraday → next few sessions): missing NFP increases uncertainty about the timing/magnitude of incoming labor info → front-end and belly Treasury futures (ZT/ZF/ZN) lose a major datapoint used to set Fed odds, so implied policy probability bands and short-term yields can drift or become more reactive to smaller data/speaker moves → equity index futures (ES/NQ) face wider realized and implied volatility as positioning hedges get"
     }
   },
   "topic_index": {
