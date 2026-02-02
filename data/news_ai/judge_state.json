@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-02-01",
+  "date_utc": "2026-02-02",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -161,7 +161,8 @@
     "1466864063601574001",
     "1466899241715630100",
     "1466969848444747980",
-    "1467697713230385267"
+    "1467697713230385267",
+    "1467804674618036372"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1420,6 +1421,15 @@
       "last_update_utc": "2026-02-02T01:47:15+00:00",
       "last_short": "China Manufacturing PMI 50.3 (vs 50.0, 50.1 prev) is a modest pro-growth/risk-on input; supports cyclicals/commodities, mildly negative for",
       "last_long": "China’s Manufacturing PMI at 50.3 (forecast 50.0, prior 50.1) is a small upside surprise and stays in expansion territory (>50). Mechanism: a marginally firmer activity read can (1) lean toward slightly better global demand assumptions, (2) nudge commodity and cyclical sentiment up, and (3) reduce the immediate bid for safe havens (UST duration, USD) at the margin. Why it matters now: it partially offsets the recent narrative that China met headline growth targets but demand/consumption and property-linked investment remain soft; this print is incremental rather than regime-changing. Cross-asset sensitivity: most relevant for commodity-linked channels (energy/industrial metals), Asia/EM risk tone and FX proxies, and second-order spillover to US index futures via global growth sentiment (ES/YM more than NQ). Persistence risk: without corroboration (services PMIs/Caixin, new orders/export"
+    },
+    "t_58717893f5751401": {
+      "count": 1,
+      "message_ids": [
+        "1467804674618036372"
+      ],
+      "last_update_utc": "2026-02-02T08:52:26+00:00",
+      "last_short": "France manufacturing PMI 51.2 vs 51.0 exp — small beat, still mild expansion; modestly supportive for EUR and eurozone cyclical risk, limite",
+      "last_long": "France manufacturing PMI at 51.2 (vs 51.0 expected, 51.0 prior) is a marginal upside surprise and remains above 50, reinforcing a “slow expansion” signal rather than a re-acceleration. The cleanest transmission is via relative growth momentum: slightly better activity data can nudge eurozone rates a touch firmer (Bund/OAT yields up at the margin) and provide small support to EUR, particularly if broader euro-area PMI details (new orders/prices paid) also firm.\n\nWhy it matters now: this is an early-month high-frequency growth print, so it can modestly influence the balance of narratives between euro-area disinflation (which leans dovish) and activity stabilization (which leans less dovish). Cross-asset spillover to US index futures is typically second-order unless it shifts EURUSD meaningfully or coincides with a broader risk-on tape.\n\nWhat to watch for confirmation/negation: (1) Germany/"
     }
   },
   "topic_index": {
