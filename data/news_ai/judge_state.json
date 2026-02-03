@@ -189,7 +189,8 @@
     "1468306175878627552",
     "1468323288710381570",
     "1468348597522403532",
-    "1468361462648148210"
+    "1468361462648148210",
+    "1468362246169297109"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1676,6 +1677,15 @@
       "last_update_utc": "2026-02-03T21:44:45+00:00",
       "last_short": "Trump says US is negotiating with Iran and wants to avoid a “Midnight Hammer” repeat — diplomacy tone trims near-term geo risk premium; watc",
       "last_long": "What happened: At 2026-02-03 21:44 UTC, Trump said the US is negotiating with Iran, referenced avoiding a repeat of “Midnight Hammer,” and noted more than one meeting—language that leans toward de-escalation/diplomacy rather than imminent kinetic escalation.\n\nWhy it matters now: Iran headlines are a fast repricer of tail-risk, especially for energy and cross-asset volatility. A credible negotiation track can quickly compress the geopolitical risk premium that had been embedded as an “insurance” bid in crude and havens.\n\nMechanism / expected market linkages (next hours → sessions):\n- Crude (CL): Reduced disruption probability can pressure any geopolitical premium lower; sensitivity rises if the market was already stretched on supply-risk narratives.\n- Rates (ZN / broader UST): Less safe-haven demand can mean modest duration headwinds (yields a touch higher) if risk tone improves; magnitud"
+    },
+    "t_61c3546d893f6e1d": {
+      "count": 1,
+      "message_ids": [
+        "1468362246169297109"
+      ],
+      "last_update_utc": "2026-02-03T21:47:55+00:00",
+      "last_short": "NZ labor: job growth/participation beat but unemployment ticked up; modest NZD/rates impulse. US API: big gasoline build adds near-term pres",
+      "last_long": "New Zealand labor data is a mixed signal for rates: unemployment rose to 5.4% vs 5.3% expected (dovish at the margin), but participation increased to 70.5% and q/q job growth beat (0.5% vs 0.3%), which can be read as underlying labor supply/demand staying firmer than the headline jobless rate alone. Net effect is likely a modest, two-sided reaction in NZD and NZ rates/OCR pricing: the upside in participation/jobs may slow the pace of any easing narrative, while the higher unemployment print limits hawkish follow-through.\n\nIn the US, API gasoline inventories posted a large +4.7M build (vs prior small draw), a near-term bearish input for gasoline cracks and front-end refined product sentiment, with potential spillover into broader energy risk tone (and thus energy equity beta) if confirmed. The “why now” is confirmation risk: the market typically treats API as a setup for the official EIA"
     }
   },
   "topic_index": {
