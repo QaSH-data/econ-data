@@ -186,7 +186,8 @@
     "1468253039038300379",
     "1468263439309738108",
     "1468294119985254442",
-    "1468306175878627552"
+    "1468306175878627552",
+    "1468323288710381570"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1654,6 +1655,15 @@
       "last_update_utc": "2026-02-03T18:05:17+00:00",
       "last_short": "Intel CEO says the US is now behind China on open‑source AI — headline adds geopolitical/competitiveness risk premium to AI semis and hypers",
       "last_long": "What happened: At a Cisco AI Summit (headline timestamp 2026-02-03 18:04 UTC), Intel’s CEO said “knowledgeable people” told him the US is now behind China in open‑source AI.\n\nWhy it matters (mechanism): This is a narrative shock rather than a hard data point, but it can still move index futures via (1) higher geopolitical/tech‑race risk premia, (2) uncertainty around future export controls / onshoring subsidies / procurement preferences, and (3) expectations for where the open‑source ecosystem (models, tooling, developer mindshare) will concentrate—affecting monetization paths for chips, cloud, and enterprise AI.\n\nWho is most sensitive: \n- Semis (SOX complex): sentiment hit to “AI leadership” framing can raise volatility; simultaneously, it can support segments positioned for sovereign/regulated demand (defense, gov cloud, domestic foundry/packaging narratives), creating cross‑currents w"
+    },
+    "t_2adb7f8ac8dd3f6f": {
+      "count": 1,
+      "message_ids": [
+        "1468323288710381570"
+      ],
+      "last_update_utc": "2026-02-03T19:12:56+00:00",
+      "last_short": "US House approved funding to end the shutdown; sent to Trump. Lowers political tail risk — bullish for equities (ES/NQ/RTY), likely to press",
+      "last_long": "What happened: Congress approved funding to end the US government shutdown and sent the measure to the President. Causal chain & timing: immediate removal of a fiscal/political tail risk lowers the incremental risk premium investors demand for holding risk assets, so in the intraday to next few sessions expect a positive bias in equity futures (ES/NQ/RTY) and reduced safe-haven flows into Treasury futures (ZN/ZB) and USD. Primary market mechanism: risk premium (with a secondary channel via rates expectations as demand for Treasuries eases). Why it matters now: the announcement resolves an acute, tradeable source of policy uncertainty that had been supporting bid for duration and suppressing risk appetite; with US holiday-thinner liquidity, initial moves could be amplified intraday. Most exposed: US index futures, small-cap/cyclical sectors and discretionary travel/defense contractors tha"
     }
   },
   "topic_index": {
