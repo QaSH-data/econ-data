@@ -147,3 +147,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-02-02T21:11:01.424000+00:00,1467990719275733013,1,t_6488f3e4732385e1,5,Report: OpenAI unhappy with Nvidia inference speed for complex ChatGPT queries; could hit NVDA/semis sentiment and weigh NQ on concentrated-
 2026-02-03T00:33:04.272000+00:00,1468041566185853090,1,t_f1265c62141ce543,3,Australia Dec building approvals plunged 14.9% m/m (vs -6.4% forecast); private house approvals +0.4%. Dovish for rates expectations and bea
 2026-02-03T03:32:24.245000+00:00,1468086696783642708,1,t_005757c78aac6f56,2,RBA hikes cash rate to 3.85% (as forecast; prev 3.60%). In-line hike should concentrate impact in AUD and AU front-end rates; global spillov
+2026-02-03T07:46:32.462000+00:00,1468150652440936512,1,t_35bb47de25089e8a,3,"France flash CPI -0.3% m/m vs -0.1% exp: a clear downside inflation surprise, biasing EUR softer and euro rates lower; limited but mildly su"
