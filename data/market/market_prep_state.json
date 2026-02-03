@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-02T14:00:45Z",
-  "last_delta_hash": "878359ab9ea23a05",
+  "last_run_utc": "2026-02-03T14:00:45Z",
+  "last_delta_hash": "25bc55db603713db",
   "open_risks": [
-    "Deleveraging spillover: precious-metals margin/forced liquidation propagates into equities/credit/FX via VAR shocks and de-grossing",
-    "Fed reaction-function/independence uncertainty (Warsh nomination narrative) sustains elevated real-rate vol and compresses equity duration multiples",
-    "Data whipsaw: ISM (incl. prices paid) and subsequent labor prints drive rapid rotation between growth-scare and sticky-inflation regimes",
-    "Commodity complex instability: continued disorderly moves in gold/silver and miners amplify risk via liquidity and sentiment channels",
-    "Policy/China response risk: strategic minerals stockpile rhetoric triggers retaliation/export controls or supply-chain repricing beyond niche names"
+    "Residual forced deleveraging from gold/silver volatility reappears (margin calls / higher margins / liquidity gaps), spilling into equities (esp. high-beta) and credit via VAR-driven de-grossing.",
+    "Rates re-acceleration regime: strong ISM keeps upward pressure on yields/real yields, compressing equity duration multiples (NQ vulnerability) even if headline indices look stable.",
+    "Data-gap / policy uncertainty from shutdown: delayed NFP and other BLS releases raise dispersion in Fed-path expectations; smaller data and speakers can create outsized curve moves.",
+    "AI concentration/idiosyncratic shock: NVDA sentiment hit from OpenAI inference-chip alternative search broadens into semis/AI complex and drags NQ via index concentration.",
+    "Front-end liquidity/cash-drain optics: higher targeted TGA and refunding/issuance details tighten money-market conditions at the margin (bills/repo), indirectly pressuring risk assets if financial conditions re-tighten."
   ]
 }
