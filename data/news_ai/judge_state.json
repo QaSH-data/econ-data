@@ -179,7 +179,8 @@
     "1467973667677012019",
     "1467986361356255356",
     "1467990250323443848",
-    "1467990719275733013"
+    "1467990719275733013",
+    "1468041566185853090"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1592,6 +1593,15 @@
       "last_update_utc": "2026-02-02T21:11:50+00:00",
       "last_short": "Report: OpenAI unhappy with Nvidia inference speed for complex ChatGPT queries; could hit NVDA/semis sentiment and weigh NQ on concentrated-",
       "last_long": "Market mechanism is primarily expectations/positioning rather than immediate fundamentals: a credible “latency/throughput” complaint from a marquee AI customer challenges the narrative that current-gen GPU stacks are a clean, linear path to ever-higher user-facing performance at scale. That can (1) raise doubt around near-term utilization/throughput assumptions used in capex and revenue narratives, (2) increase uncertainty about product-mix and rollout cadence (software optimization vs different configs vs waiting for next-gen), and (3) widen NVDA-specific risk premia (options vol/skew) that can spill into the broader semi complex and NDX because of index concentration. Why now: inference is the user-facing bottleneck (not training), so any “too slow for complex queries” framing lands directly on experience/retention and unit-economics headlines—making it more sentiment-sensitive than a"
+    },
+    "t_f1265c62141ce543": {
+      "count": 1,
+      "message_ids": [
+        "1468041566185853090"
+      ],
+      "last_update_utc": "2026-02-03T00:33:28+00:00",
+      "last_short": "Australia Dec building approvals plunged 14.9% m/m (vs -6.4% forecast); private house approvals +0.4%. Dovish for rates expectations and bea",
+      "last_long": "Crash in Australia’s Dec building approvals (-14.9% m/m vs -6.4% f/cast) implies a near-term slowdown in construction activity and residential demand. Primary market mechanism involved: rates expectations — weaker activity reduces near-term inflation/growth upside and should lower odds of further RBA tightening, pressuring short-end yields and the AUD over the next few sessions. Sectoral exposure: construction firms, building materials, residential developers and mortgage lenders (banks) are most sensitive; ASX cyclical sectors could widen risk premia. Why now: the miss is large vs consensus and arrives against existing China demand softness, amplifying commodity/exports channels for Australia. Edge signals to monitor intraday/next few sessions: 3y/2y AU futures and cash bond flows, AUD spot and offshore flows, housing permits/dwelling approvals, mortgage/loan approvals, RBA commentary a"
     }
   },
   "topic_index": {
