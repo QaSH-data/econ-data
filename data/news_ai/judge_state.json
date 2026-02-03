@@ -188,7 +188,8 @@
     "1468294119985254442",
     "1468306175878627552",
     "1468323288710381570",
-    "1468348597522403532"
+    "1468348597522403532",
+    "1468361462648148210"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1666,6 +1667,15 @@
       "last_update_utc": "2026-02-03T19:12:56+00:00",
       "last_short": "US House approved funding to end the shutdown; sent to Trump. Lowers political tail risk — bullish for equities (ES/NQ/RTY), likely to press",
       "last_long": "What happened: Congress approved funding to end the US government shutdown and sent the measure to the President. Causal chain & timing: immediate removal of a fiscal/political tail risk lowers the incremental risk premium investors demand for holding risk assets, so in the intraday to next few sessions expect a positive bias in equity futures (ES/NQ/RTY) and reduced safe-haven flows into Treasury futures (ZN/ZB) and USD. Primary market mechanism: risk premium (with a secondary channel via rates expectations as demand for Treasuries eases). Why it matters now: the announcement resolves an acute, tradeable source of policy uncertainty that had been supporting bid for duration and suppressing risk appetite; with US holiday-thinner liquidity, initial moves could be amplified intraday. Most exposed: US index futures, small-cap/cyclical sectors and discretionary travel/defense contractors tha"
+    },
+    "t_3bcb83c2222380db": {
+      "count": 1,
+      "message_ids": [
+        "1468361462648148210"
+      ],
+      "last_update_utc": "2026-02-03T21:44:45+00:00",
+      "last_short": "Trump says US is negotiating with Iran and wants to avoid a “Midnight Hammer” repeat — diplomacy tone trims near-term geo risk premium; watc",
+      "last_long": "What happened: At 2026-02-03 21:44 UTC, Trump said the US is negotiating with Iran, referenced avoiding a repeat of “Midnight Hammer,” and noted more than one meeting—language that leans toward de-escalation/diplomacy rather than imminent kinetic escalation.\n\nWhy it matters now: Iran headlines are a fast repricer of tail-risk, especially for energy and cross-asset volatility. A credible negotiation track can quickly compress the geopolitical risk premium that had been embedded as an “insurance” bid in crude and havens.\n\nMechanism / expected market linkages (next hours → sessions):\n- Crude (CL): Reduced disruption probability can pressure any geopolitical premium lower; sensitivity rises if the market was already stretched on supply-risk narratives.\n- Rates (ZN / broader UST): Less safe-haven demand can mean modest duration headwinds (yields a touch higher) if risk tone improves; magnitud"
     }
   },
   "topic_index": {
