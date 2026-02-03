@@ -180,7 +180,8 @@
     "1467986361356255356",
     "1467990250323443848",
     "1467990719275733013",
-    "1468041566185853090"
+    "1468041566185853090",
+    "1468086696783642708"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1602,6 +1603,15 @@
       "last_update_utc": "2026-02-03T00:33:28+00:00",
       "last_short": "Australia Dec building approvals plunged 14.9% m/m (vs -6.4% forecast); private house approvals +0.4%. Dovish for rates expectations and bea",
       "last_long": "Crash in Australia’s Dec building approvals (-14.9% m/m vs -6.4% f/cast) implies a near-term slowdown in construction activity and residential demand. Primary market mechanism involved: rates expectations — weaker activity reduces near-term inflation/growth upside and should lower odds of further RBA tightening, pressuring short-end yields and the AUD over the next few sessions. Sectoral exposure: construction firms, building materials, residential developers and mortgage lenders (banks) are most sensitive; ASX cyclical sectors could widen risk premia. Why now: the miss is large vs consensus and arrives against existing China demand softness, amplifying commodity/exports channels for Australia. Edge signals to monitor intraday/next few sessions: 3y/2y AU futures and cash bond flows, AUD spot and offshore flows, housing permits/dwelling approvals, mortgage/loan approvals, RBA commentary a"
+    },
+    "t_005757c78aac6f56": {
+      "count": 1,
+      "message_ids": [
+        "1468086696783642708"
+      ],
+      "last_update_utc": "2026-02-03T03:32:58+00:00",
+      "last_short": "RBA hikes cash rate to 3.85% (as forecast; prev 3.60%). In-line hike should concentrate impact in AUD and AU front-end rates; global spillov",
+      "last_long": "Event: At 2026-02-03 03:32 UTC, the RBA raised the cash rate to 3.85% from 3.60%, matching consensus. Mechanism is primarily relative-rate repricing: AU front-end yields and OIS/swap curves should shift higher, supporting AUD via wider rate differentials while pressuring rate-sensitive domestic equities/credit at the margin.\n\nBecause the hike was fully forecast, the first-order move is likely to be smaller than a surprise and more dependent on the statement/press guidance (terminal rate language, inflation persistence, labor-market balance, and any explicit nod to financial conditions). A hawkish hold-the-line signal can extend AUD strength and deepen front-end selloff; a “close to peak” tone can fade the impulse even with the hike delivered.\n\nUS index-futures linkage (ES/NQ) is second-order: (1) risk sentiment via global rates/financial-conditions channel and (2) commodity/China sensiti"
     }
   },
   "topic_index": {
