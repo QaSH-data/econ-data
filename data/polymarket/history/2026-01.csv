@@ -269,3 +269,5 @@ TimestampUtc,MeetingMonth,EventSlug,SubMarketSlug,Label,Pct,EventEndDateUtc
 2026-01-27T02:15:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Cut 25bps,0.7500,2026-01-28T00:00:00Z
 2026-01-27T02:20:02Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change,99.0500,2026-01-28T00:00:00Z
 2026-01-27T02:20:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Cut 25bps,0.7500,2026-01-28T00:00:00Z
+2026-01-27T06:40:02Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change,98.9500,2026-01-28T00:00:00Z
+2026-01-27T06:40:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Cut 25bps,0.6500,2026-01-28T00:00:00Z
