@@ -184,7 +184,8 @@
     "1468086696783642708",
     "1468150652440936512",
     "1468253039038300379",
-    "1468263439309738108"
+    "1468263439309738108",
+    "1468294119985254442"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1634,6 +1635,15 @@
       "last_update_utc": "2026-02-03T15:15:20+00:00",
       "last_short": "US plans licences for firms to pump Venezuelan oil — eases sanctions risk premium, adds supply optionality; bearish tilt for crude/energy, m",
       "last_long": "What happened: The US plans to issue licences allowing companies to pump Venezuelan oil.\n\nWhy it matters now: Licensing is a direct policy lever on the sanctions/risk premium embedded in crude. Even before physical flows rise, the market can reprice “available supply” and tail-risk around disruptions.\n\nMechanism / likely channels:\n- Crude (CL): Headline is supply-positive (or supply-optionality-positive), which typically pressures front-month crude and compresses geopolitical risk premia.\n- Equities: Energy sector and upstream names can lag if crude softens; broader indices may see a small support via lower input-cost/inflation expectations, but effects are usually second-order vs overall risk tone.\n- Rates/inflation: If it translates into lower gasoline/fuel costs, it’s marginally disinflationary and can lean duration-friendly (small move unless confirmed by realized price declines).\n\nW"
+    },
+    "t_ff027c4a1e6143cf": {
+      "count": 1,
+      "message_ids": [
+        "1468294119985254442"
+      ],
+      "last_update_utc": "2026-02-03T17:17:25+00:00",
+      "last_short": "US forces reportedly downed an Iranian drone near a US carrier in the Arabian Sea — adds geo risk premium; modest near-term risk-off bias (E",
+      "last_long": "Event/mechanism: A reported US shoot-down of an Iranian drone near a US Navy aircraft carrier is a kinetic escalation signal around a high-value asset. Markets typically respond by widening near-term risk premia and lifting volatility: equity index futures (ES/NQ) face downside pressure, while Treasuries (ZT/ZF/ZN) can catch safe-haven bids. Oil can firm on perceived tail risk to regional flows and shipping/insurance costs even absent immediate supply loss.\n\nWhy it matters now: Proximity to a carrier increases perceived probability of follow-on incidents (retaliation, miscalculation, tighter rules-of-engagement), which is what markets price first—uncertainty and event-risk—before any confirmed macro impact.\n\nWhat to watch (next hours/sessions): (1) confirmation/attribution details from US/partner statements; (2) any Iranian response or proxy activity; (3) maritime advisories (routing/ins"
     }
   },
   "topic_index": {
