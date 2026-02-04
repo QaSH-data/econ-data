@@ -162,3 +162,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-02-04T14:47:45.992000+00:00,1468619045174771886,1,t_3a04e5ac51c3a1fd,3,US S&P Services PMI (final) 52.7 vs 52.5 — marginally firmer services tone; slight support for ES/NQ and mild upward bias to yields.
 2026-02-04T15:02:05.283000+00:00,1468622649302450241,1,t_11e323cd936fa732,2,"US ISM Services 53.8 vs 53.5 (prev 54.4): small beat but cooler vs prior — supports soft-landing tone; modestly firmer front-end rates, mute"
 2026-02-04T15:32:31.220000+00:00,1468630307837186102,1,t_4226ff6d9b2aea43,3,"EIA crude stocks fell 3.455M bbl vs -0.639M expected — a larger-than-expected draw; supportive for crude futures and energy equities (CL, XL"
+2026-02-04T17:31:10.380000+00:00,1468660167758450728,1,t_a77b84631db1a7ba,2,"US – Iran nuclear talks reportedly canceled Friday: geopolitical risk premium up — near-term risk-off tilt for ES/NQ, bid to USTs, and suppo"
