@@ -194,7 +194,8 @@
     "1468422540241408003",
     "1468530664176484467",
     "1468539519128043696",
-    "1468547209611051049"
+    "1468547209611051049",
+    "1468596159454122045"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1726,6 +1727,15 @@
       "last_update_utc": "2026-02-04T10:02:51+00:00",
       "last_short": "Eurozone flash core CPI eased to 2.2% y/y (vs 2.3% exp/prev) — modest disinflation signal that should lean Bund yields and EUR lower on ECB-",
       "last_long": "The Feb 4 flash core CPI undershot by 0.1pp (2.2% y/y vs 2.3% expected and prior), a small but clean “less-sticky core” datapoint. Primary transmission is ECB reaction-function: a softer core print trims the probability of additional hawkish follow-through (or shortens the expected duration of restrictive policy), typically pulling Eurozone front-end and belly yields lower and weighing on EUR via rate differentials. Cross-asset spillover: lower Bund yields can nudge global duration bid (supportive for USTs at the margin), while a softer EUR can modestly tighten financial conditions less than otherwise, mildly supportive for European risk; banks/financials are most sensitive through curve/term-premia moves. What to watch next: the immediate OIS/swap repricing, whether services-led components are cooling (vs one-off goods effects), and ECB speakers’ willingness to validate “core is rolling"
+    },
+    "t_437eb95be570272d": {
+      "count": 1,
+      "message_ids": [
+        "1468596159454122045"
+      ],
+      "last_update_utc": "2026-02-04T13:17:23+00:00",
+      "last_short": "ADP private payrolls +22k vs +45k expected: a downside labor-growth surprise that typically nudges near-term Fed pricing dovish (rates down)",
+      "last_long": "ADP’s +22k vs +45k consensus (and +41k prior) is a clean downside surprise for private hiring momentum. First-order channel is policy-path repricing: softer labor reduces urgency for restrictive policy → front-end yields/fed funds strip can ease → Treasury futures bid. For equities, the impulse is usually supportive via lower discount rates (ES/NQ), but watch the “growth scare” crossover: if the tape treats it as demand deterioration rather than benign cooling, cyclicals/small caps can lag even as duration rallies. FX: bias is modest USD-softening if US rate differentials compress. Why it matters now: it lands as a pre-NFP tone-setter; traders will sanity-check with jobless claims, participation/wage signals, and any Fed pushback to decide whether the ADP miss is noise or the start of a softer-labor sequence."
     }
   },
   "topic_index": {
