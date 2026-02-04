@@ -190,7 +190,8 @@
     "1468323288710381570",
     "1468348597522403532",
     "1468361462648148210",
-    "1468362246169297109"
+    "1468362246169297109",
+    "1468422540241408003"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1686,6 +1687,15 @@
       "last_update_utc": "2026-02-03T21:47:55+00:00",
       "last_short": "NZ labor: job growth/participation beat but unemployment ticked up; modest NZD/rates impulse. US API: big gasoline build adds near-term pres",
       "last_long": "New Zealand labor data is a mixed signal for rates: unemployment rose to 5.4% vs 5.3% expected (dovish at the margin), but participation increased to 70.5% and q/q job growth beat (0.5% vs 0.3%), which can be read as underlying labor supply/demand staying firmer than the headline jobless rate alone. Net effect is likely a modest, two-sided reaction in NZD and NZ rates/OCR pricing: the upside in participation/jobs may slow the pace of any easing narrative, while the higher unemployment print limits hawkish follow-through.\n\nIn the US, API gasoline inventories posted a large +4.7M build (vs prior small draw), a near-term bearish input for gasoline cracks and front-end refined product sentiment, with potential spillover into broader energy risk tone (and thus energy equity beta) if confirmed. The “why now” is confirmation risk: the market typically treats API as a setup for the official EIA"
+    },
+    "t_b0792f7ef8c9049e": {
+      "count": 1,
+      "message_ids": [
+        "1468422540241408003"
+      ],
+      "last_update_utc": "2026-02-04T01:47:27+00:00",
+      "last_short": "China services PMI 52.3 vs 52.0 prior (slight beat) — modest risk-on impulse, but unlikely to outweigh ongoing China demand/property drag.",
+      "last_long": "China services PMI printed 52.3 for January versus 52.0 in December (and slightly above 52.0 consensus), signaling continued expansion and a small upside surprise. Mechanism: it trims near-term global growth downside tails, which can marginally support risk assets (Asia/EM first, then ES/NQ via sentiment) and lean against duration bid at the margin (light upward pressure on global yields/real rates). Why impact is likely contained: the beat is small and sits against a still-soft China domestic-demand backdrop highlighted by recent weak consumption/investment/property metrics in the broader narrative. What to watch for confirmation versus noise: next China activity/credit prints and private/flash PMIs (for breadth), plus CNY and China rates reaction; if those don’t corroborate, the PMI surprise should fade quickly in cross-asset pricing."
     }
   },
   "topic_index": {
