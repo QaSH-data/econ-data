@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-03T14:00:45Z",
-  "last_delta_hash": "25bc55db603713db",
+  "last_run_utc": "2026-02-04T14:00:46Z",
+  "last_delta_hash": "512afaaedb83ad07",
   "open_risks": [
-    "Residual forced deleveraging from gold/silver volatility reappears (margin calls / higher margins / liquidity gaps), spilling into equities (esp. high-beta) and credit via VAR-driven de-grossing.",
-    "Rates re-acceleration regime: strong ISM keeps upward pressure on yields/real yields, compressing equity duration multiples (NQ vulnerability) even if headline indices look stable.",
-    "Data-gap / policy uncertainty from shutdown: delayed NFP and other BLS releases raise dispersion in Fed-path expectations; smaller data and speakers can create outsized curve moves.",
-    "AI concentration/idiosyncratic shock: NVDA sentiment hit from OpenAI inference-chip alternative search broadens into semis/AI complex and drags NQ via index concentration.",
-    "Front-end liquidity/cash-drain optics: higher targeted TGA and refunding/issuance details tighten money-market conditions at the margin (bills/repo), indirectly pressuring risk assets if financial conditions re-tighten."
+    "Tech-duration de-rating continues (AI disruption narrative broadens beyond ‘AI winners’ into software/analytics incumbents), dragging NQ and spilling into ES via concentration and risk-parity deleveraging",
+    "Rates re-acceleration on a strong ISM Services (and/or higher prices-paid), lifting real yields and compressing equity multiples; gold may not hedge cleanly if USD/real yields dominate",
+    "Gold/silver volatility triggers margin/VAR shocks → forced selling across equities/credit (correlations spike, intraday liquidity gaps)",
+    "U.S.–Iran incident follow-through (retaliation, shipping disruption headlines) lifts risk premia; oil up / equities down / gold up pattern, but highly headline-dependent",
+    "Shutdown ‘ended’ but DHS funding cliff around Feb 13 reintroduces political/policy uncertainty; risk premium can reappear quickly as the deadline approaches"
   ]
 }
