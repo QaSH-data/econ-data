@@ -201,7 +201,8 @@
     "1468622649302450241",
     "1468630307837186102",
     "1468660167758450728",
-    "1468660938734309597"
+    "1468660938734309597",
+    "1468661388841975980"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1788,6 +1789,15 @@
       "last_update_utc": "2026-02-04T17:34:43+00:00",
       "last_short": "Axios: Iran nuclear talks may be collapsing — raises ME tail-risk; supports oil/energy + havens, pressures ES/NQ via higher risk premium.",
       "last_long": "Market read-through (Feb 4, 2026): Reports that plans for Iran nuclear talks are collapsing reduce the perceived diplomatic “off-ramp,” increasing geopolitical tail-risk. The fastest transmission is via a higher equity risk premium (risk-off), plus an oil risk premium if markets price greater disruption/sanctions risk. Likely beneficiaries: crude/energy sensitivity and classic havens (USTs, USD, gold); likely laggards: broad equities (ES/NQ) and higher-beta/EM risk. Rates impact is typically flight-to-quality (ZN/ZB bid / yields lower) unless oil strength feeds an inflation-risk narrative, in which case the curve response can be mixed. Why it matters now: this is a discrete headline catalyst that can reprice tails quickly even without immediate kinetic escalation, especially if positioning is risk-on and liquidity is thinner. What to watch to judge persistence: sustained move in front-mo"
+    },
+    "t_ea247fdcd87b9829": {
+      "count": 1,
+      "message_ids": [
+        "1468661388841975980"
+      ],
+      "last_update_utc": "2026-02-04T17:36:46+00:00",
+      "last_short": "Axios: US won’t change venue/format for Friday Iran talks, adding friction into the meeting and nudging near-term geopolitics (oil/risk prem",
+      "last_long": "Why it matters now: with talks scheduled for Friday, a US refusal to change venue/format reduces procedural flexibility and raises the odds of a strained setup (or lower-quality engagement), which can lift a near-term geopolitical risk premium even without any policy outcome yet. Market mechanism: (1) crude tends to be the first transmission channel via perceived tail risks around the region; (2) risk assets can see a modest risk-off tilt (ES/NQ softer) if headlines suggest talks are deteriorating; (3) safe-haven bid can show up in USTs (ZN) and, secondarily, USD (DX) if escalation risk rises; (4) sector rotation favors energy/defense relative to broad indices. What to monitor into Friday: follow-on confirmation from State/White House and Iranian officials, whether Iran still attends under the stated terms (attendance/level of delegation), any language implying preconditions, plus any co"
     }
   },
   "topic_index": {
