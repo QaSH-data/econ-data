@@ -208,7 +208,8 @@
     "1468695783560974462",
     "1468710953578401915",
     "1468766061703856241",
-    "1468939677980426373"
+    "1468939677980426373",
+    "1468942242311049367"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1850,6 +1851,15 @@
       "last_update_utc": "2026-02-05T12:02:26+00:00",
       "last_short": "BoE holds Bank Rate at 3.75% as expected; headline is non-event, so GBP/gilt reaction should hinge on vote split and guidance tone, with lim",
       "last_long": "The BoE kept Bank Rate at 3.75%, matching both forecast and prior, so the first-order takeaway is “no new information” on the policy path. That typically dampens UK front-end repricing (less impulse for a sharp move in short gilts/SONIA) and limits spillover into broad US index futures because global rates expectations are not being forced to reset on the headline.\n\nWhere price action can still come from: (1) the MPC vote split (any surprise tilt toward cuts or hikes changes the near-term distribution), (2) the guidance/inflation narrative (how restrictive policy is described relative to progress on services inflation/wages), and (3) any shifts in the balance-of-risks language that alter UK–US/EU rate differentials, feeding into GBP and, secondarily, European financials.\n\nCross-asset mapping: biggest sensitivity is GBP and short-to-belly gilts; second-order effects are via relative rates"
+    },
+    "t_1b220362f51b4436": {
+      "count": 1,
+      "message_ids": [
+        "1468942242311049367"
+      ],
+      "last_update_utc": "2026-02-05T12:12:33+00:00",
+      "last_short": "Money markets now price 50bp of BoE cuts by year-end (up from 35bp), pressuring UK front-end yields and GBP; gilts, sterling FX and UK banks",
+      "last_long": "BoE statement triggered a money-market repricing: cumulative cuts priced to ~50bp by year-end (from 35bp). Primary mechanism: rates expectations. Causal chain (intraday → next few sessions): dovish/less-hawkish BoE tone increases odds of easing → OIS and short-end gilts fall as front-end yields drop → GBP tends to weaken on easier policy → UK banks/financials face margin and earnings-pressure via lower short rates; gilt-swap basis and cross-currency funding may move as well. Why now: the statement served as the catalyst; thin holiday liquidity can amplify immediate moves. Edge comes from tracking OIS/gilt curve moves, GBP crosses, BoE minutes/MPR, UK CPI/wages, and positioning/flow indicators to judge persistence."
     }
   },
   "topic_index": {
