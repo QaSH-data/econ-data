@@ -174,3 +174,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-02-05T12:35:18.023000+00:00,1468948096841941226,1,t_2af3a033e22b693f,4,Europe data split: Germany industrial orders +7.8% m/m (likely volatile) offsets softer France output (-0.7%) and weaker EZ construction PMI
 2026-02-05T13:16:37.998000+00:00,1468958498611007688,1,t_5c0bcf5f30ee6c30,1,"ECB holds 2.15% as expected; minimal rates shock. Immediate focus shifts to guidance — EUR (6E) and Bund/UST spreads likely do the work, not"
 2026-02-05T13:33:31.174000+00:00,1468962748179284019,1,t_a2feb49766b6abaa,5,Initial claims 231k vs 212k est (209k prior) is a clear softer-labor surprise; supportive for Treasuries (esp front-end) and a mild headwind
+2026-02-05T15:02:32.088000+00:00,1468985149596242016,1,t_2d7172922c3c688f,2,"US JOLTS openings 6.542M vs 7.25M est (prev 7.146M) — sharp downside surprise, pointing to cooler labor demand; leans rates/lower USD, mixed"
