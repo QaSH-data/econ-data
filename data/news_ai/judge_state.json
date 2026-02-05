@@ -211,7 +211,8 @@
     "1468939677980426373",
     "1468942242311049367",
     "1468948096841941226",
-    "1468958498611007688"
+    "1468958498611007688",
+    "1468962748179284019"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1880,6 +1881,15 @@
       "last_update_utc": "2026-02-05T13:17:14+00:00",
       "last_short": "ECB holds 2.15% as expected; minimal rates shock. Immediate focus shifts to guidance — EUR (6E) and Bund/UST spreads likely do the work, not",
       "last_long": "ECB’s policy rate decision at 2.15% matched forecast and prior, so the headline itself is a low-information update. Mechanically: a no-change print reduces the chance of a forced repricing in front-end EUR rates, leaving direction to be driven by (1) statement/press-conference tone and (2) the relative ECB-vs-Fed path implied by money-market forwards. Market linkage: the cleanest transmission is via EUR rates → EURFX (6E) and the Bund curve; then via Bund–UST spread moves into broader USD (DX) and, second-order, US equity duration sensitivity (ES/NQ). If guidance is interpreted as more dovish than priced, that typically leans toward lower EUR yields and softer EUR; a more restrictive hold does the opposite. With the rate unchanged, treat this as a ‘wait for the words/forwards’ event rather than a ‘rate level’ event."
+    },
+    "t_a2feb49766b6abaa": {
+      "count": 1,
+      "message_ids": [
+        "1468962748179284019"
+      ],
+      "last_update_utc": "2026-02-05T13:34:09+00:00",
+      "last_short": "Initial claims 231k vs 212k est (209k prior) is a clear softer-labor surprise; supportive for Treasuries (esp front-end) and a mild headwind",
+      "last_long": "What happened: US initial jobless claims rose to 231k vs 212k consensus and 209k prior, a meaningful upside miss that weakens the near-term labor momentum signal.\n\nMechanism (fast): Higher claims → slightly higher perceived labor slack → reduced urgency for further tightening / higher confidence in eventual easing → front-end yields tend to drift lower and curves can steepen modestly if growth fears also rise. Lower real-rate impulse is usually supportive for duration-sensitive equity segments (NQ) but the “growth scare” aspect can cap broad risk appetite (ES/RTY) if the print is read as trend rather than noise.\n\nWhy it matters now: With inflation still the dominant medium-term constraint, the market is hypersensitive to any labor cooling that can validate disinflation without recession. This print adds to “softening-at-the-margin” narratives and can shift near-term Fed pricing at the ma"
     }
   },
   "topic_index": {
