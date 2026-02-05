@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-04T14:00:46Z",
-  "last_delta_hash": "512afaaedb83ad07",
+  "last_run_utc": "2026-02-05T14:00:42Z",
+  "last_delta_hash": "9cb29bccb0a7ee85",
   "open_risks": [
-    "Tech-duration de-rating continues (AI disruption narrative broadens beyond ‘AI winners’ into software/analytics incumbents), dragging NQ and spilling into ES via concentration and risk-parity deleveraging",
-    "Rates re-acceleration on a strong ISM Services (and/or higher prices-paid), lifting real yields and compressing equity multiples; gold may not hedge cleanly if USD/real yields dominate",
-    "Gold/silver volatility triggers margin/VAR shocks → forced selling across equities/credit (correlations spike, intraday liquidity gaps)",
-    "U.S.–Iran incident follow-through (retaliation, shipping disruption headlines) lifts risk premia; oil up / equities down / gold up pattern, but highly headline-dependent",
-    "Shutdown ‘ended’ but DHS funding cliff around Feb 13 reintroduces political/policy uncertainty; risk premium can reappear quickly as the deadline approaches"
+    "Metals-volatility-to-cross-asset contagion (margin/VAR liquidation causing equity/credit air pockets; gold not acting as hedge).",
+    "Tech-duration de-rating broadens on AI capex shock and semiconductor/AI supply-chain warnings; NQ-driven index drag via concentration.",
+    "Labor-data pivot risk: JOLTS + sentiment can either validate benign cooling (rates down, NQ relief) or trigger growth scare (ES/RTY pressure).",
+    "Geopolitical headline gap into/around Friday U.S.–Iran talks; rapid repricing in oil/gold/USTs and equity vol.",
+    "USD strength persistence tightens global conditions, weighs commodities and non-US risk, and keeps gold under pressure during liquidation phases."
   ]
 }
