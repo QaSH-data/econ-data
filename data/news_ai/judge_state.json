@@ -206,7 +206,8 @@
     "1468665365285568587",
     "1468684336214839448",
     "1468695783560974462",
-    "1468710953578401915"
+    "1468710953578401915",
+    "1468766061703856241"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1830,6 +1831,15 @@
       "last_update_utc": "2026-02-04T19:53:21+00:00",
       "last_short": "Iran says US nuclear talks are set for Friday ~10:00 in Muscat — near-term headline risk can swing crude, gold, Treasuries and ES/NQ via ris",
       "last_long": "What happened: Iran’s foreign minister said nuclear talks with the US are scheduled for Friday at about 10:00 in Muscat (Oman). Why it matters (mechanism): this is a classic geopolitical risk-premium input. Any perceived shift toward de-escalation tends to compress the embedded tail-risk premium (typically supportive for broad risk; pressure on safe-havens), while signs of breakdown/escalation tend to do the opposite (risk-off impulse; bid for safe-havens and potentially higher oil risk premium). Likely cross-asset channels over the next 24–72 hours: (1) Energy: crude can react quickly if the market reads talks as increasing odds of sanctions relief / reduced disruption risk vs renewed tensions; (2) Safe havens: gold and USTs respond to changes in tail risk and volatility demand; (3) Equities/FX: ES/NQ and USD can move mainly through volatility and risk appetite rather than fundamentals,"
+    },
+    "t_f545aaaaf1fe60e6": {
+      "count": 1,
+      "message_ids": [
+        "1468766061703856241"
+      ],
+      "last_update_utc": "2026-02-05T00:32:26+00:00",
+      "last_short": "Australia Dec goods exports +1.0% m/m vs prior -2.9%, while imports -0.8% m/m — near-term net-trade impulse supportive for AUD; limited dire",
+      "last_long": "Australia’s December trade details show a cleaner near-term growth impulse: exports rose +1.0% m/m (a reversal from the prior -2.9% print) while imports fell -0.8% m/m (SA). Mechanically, that combination tends to improve net exports’ contribution to quarterly GDP and can (at the margin) tilt local rates expectations less dovish, which is typically AUD-supportive versus peers. Market transmission is mainly regional (AUD and AU rates; second-order to commodity-linked equities), while spillover to ES/NQ is usually modest unless the export lift is clearly China-driven and interpreted as a broader Asia demand re-acceleration. Given the still-fragile China-demand backdrop in the active context set, the base case is: mildly risk-positive/commodity-positive locally, but not a stand-alone driver for US equity index futures without corroborating China/commodities follow-through."
     }
   },
   "topic_index": {
