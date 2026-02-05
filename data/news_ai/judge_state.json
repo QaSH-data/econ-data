@@ -210,7 +210,8 @@
     "1468766061703856241",
     "1468939677980426373",
     "1468942242311049367",
-    "1468948096841941226"
+    "1468948096841941226",
+    "1468958498611007688"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1870,6 +1871,15 @@
       "last_update_utc": "2026-02-05T12:35:51+00:00",
       "last_short": "Europe data split: Germany industrial orders +7.8% m/m (likely volatile) offsets softer France output (-0.7%) and weaker EZ construction PMI",
       "last_long": "Germany’s industrial orders spike (+7.8% m/m; prior revised up) is a clear positive for near-term manufacturing momentum, but this series can be lumpy (large-ticket/one-off bookings), so markets will quickly ask whether it’s broad-based vs a single-sector swing. France’s industrial production (-0.7% m/m) and Eurozone construction PMI falling further into contraction (45.3) push the other way, reinforcing that parts of the real economy—especially construction—remain under pressure.\n\nMarket mechanism: this is primarily an ECB path/relative-rates input. The German upside can nudge European front-end yields up and trim near-term easing expectations, supporting EUR on the margin; however, the construction PMI and French weakness dilute the signal and should cap any sustained “Europe re-acceleration” narrative until follow-through data confirms.\n\nIndex-futures spillover (ES/NQ) is second-order"
+    },
+    "t_5c0bcf5f30ee6c30": {
+      "count": 1,
+      "message_ids": [
+        "1468958498611007688"
+      ],
+      "last_update_utc": "2026-02-05T13:17:14+00:00",
+      "last_short": "ECB holds 2.15% as expected; minimal rates shock. Immediate focus shifts to guidance — EUR (6E) and Bund/UST spreads likely do the work, not",
+      "last_long": "ECB’s policy rate decision at 2.15% matched forecast and prior, so the headline itself is a low-information update. Mechanically: a no-change print reduces the chance of a forced repricing in front-end EUR rates, leaving direction to be driven by (1) statement/press-conference tone and (2) the relative ECB-vs-Fed path implied by money-market forwards. Market linkage: the cleanest transmission is via EUR rates → EURFX (6E) and the Bund curve; then via Bund–UST spread moves into broader USD (DX) and, second-order, US equity duration sensitivity (ES/NQ). If guidance is interpreted as more dovish than priced, that typically leans toward lower EUR yields and softer EUR; a more restrictive hold does the opposite. With the rate unchanged, treat this as a ‘wait for the words/forwards’ event rather than a ‘rate level’ event."
     }
   },
   "topic_index": {
