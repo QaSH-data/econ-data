@@ -209,7 +209,8 @@
     "1468710953578401915",
     "1468766061703856241",
     "1468939677980426373",
-    "1468942242311049367"
+    "1468942242311049367",
+    "1468948096841941226"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1860,6 +1861,15 @@
       "last_update_utc": "2026-02-05T12:12:33+00:00",
       "last_short": "Money markets now price 50bp of BoE cuts by year-end (up from 35bp), pressuring UK front-end yields and GBP; gilts, sterling FX and UK banks",
       "last_long": "BoE statement triggered a money-market repricing: cumulative cuts priced to ~50bp by year-end (from 35bp). Primary mechanism: rates expectations. Causal chain (intraday → next few sessions): dovish/less-hawkish BoE tone increases odds of easing → OIS and short-end gilts fall as front-end yields drop → GBP tends to weaken on easier policy → UK banks/financials face margin and earnings-pressure via lower short rates; gilt-swap basis and cross-currency funding may move as well. Why now: the statement served as the catalyst; thin holiday liquidity can amplify immediate moves. Edge comes from tracking OIS/gilt curve moves, GBP crosses, BoE minutes/MPR, UK CPI/wages, and positioning/flow indicators to judge persistence."
+    },
+    "t_2af3a033e22b693f": {
+      "count": 1,
+      "message_ids": [
+        "1468948096841941226"
+      ],
+      "last_update_utc": "2026-02-05T12:35:51+00:00",
+      "last_short": "Europe data split: Germany industrial orders +7.8% m/m (likely volatile) offsets softer France output (-0.7%) and weaker EZ construction PMI",
+      "last_long": "Germany’s industrial orders spike (+7.8% m/m; prior revised up) is a clear positive for near-term manufacturing momentum, but this series can be lumpy (large-ticket/one-off bookings), so markets will quickly ask whether it’s broad-based vs a single-sector swing. France’s industrial production (-0.7% m/m) and Eurozone construction PMI falling further into contraction (45.3) push the other way, reinforcing that parts of the real economy—especially construction—remain under pressure.\n\nMarket mechanism: this is primarily an ECB path/relative-rates input. The German upside can nudge European front-end yields up and trim near-term easing expectations, supporting EUR on the margin; however, the construction PMI and French weakness dilute the signal and should cap any sustained “Europe re-acceleration” narrative until follow-through data confirms.\n\nIndex-futures spillover (ES/NQ) is second-order"
     }
   },
   "topic_index": {
