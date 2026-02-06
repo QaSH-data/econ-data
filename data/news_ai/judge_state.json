@@ -221,7 +221,8 @@
     "1469090888578896060",
     "1469226496890765353",
     "1469324727968595989",
-    "1469332379364495527"
+    "1469332379364495527",
+    "1469333302287667332"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1964,6 +1965,15 @@
       "last_update_utc": "2026-02-06T14:03:01+00:00",
       "last_short": "Iran says negotiators will return to capitals and talks with the US will continue; eases geopolitical risk premium — impacts oil, EM FX and",
       "last_long": "What happened: Iran’s FM says negotiators will go back to capitals for consultations and talks with the US will continue. Mechanism: primarily alters the geopolitical risk premium. Causal chain (intraday → next few sessions): the statement lowers the immediate probability of escalation, which should reduce safe-haven flows into USD/USTs and gold while trimming the upside risk premium on crude; that tends to bias US equity futures and EM FX mildly higher and relieve energy-sector risk premia. Parts most exposed: crude futures (WTI/Brent), energy equities, EMFX and sovereign bonds, gold and short-term Treasury demand, and index futures (ES/NQ) sensitive to risk sentiment. Why now: an explicit commitment to continue talks signals de‑escalation vs. headline shocks and can prompt quick repositioning in risk-sensitive assets, especially while liquidity is thinner. Information that provides edg"
+    },
+    "t_6f9a9923d4c12dff": {
+      "count": 1,
+      "message_ids": [
+        "1469333302287667332"
+      ],
+      "last_update_utc": "2026-02-06T14:06:30+00:00",
+      "last_short": "EU's 20th sanctions: full maritime-services ban on Russian crude + 20 regional banks listed — tightens seaborne supply; bullish for oil and",
+      "last_long": "What happened (intraday/next few sessions): The EU announced a 20th sanctions package including a full maritime‑services ban for Russian crude and the listing of ~20 regional banks. Primary market mechanism: risk premium (with secondary liquidity pressure on listed banks). Causal chain: banning maritime services (insurance, brokering/port support, inspections and related logistics) raises frictions and effective choke points for seaborne Russian crude exports — lowering available spot flows and increasing shipping/insurer counterparty risk. That elevates risk premia on crude (Brent/WTI) and increases tanker freight/insurance costs; energy and shipping sectors become relatively bid while Russian banks face funding/correspondent-access stress, pressuring RUB and regional financial names. Why it matters now: the announcement is a direct supply-friction shock that markets can reprice immedia"
     }
   },
   "topic_index": {
