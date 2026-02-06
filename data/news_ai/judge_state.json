@@ -223,7 +223,8 @@
     "1469324727968595989",
     "1469332379364495527",
     "1469333302287667332",
-    "1469340241398730905"
+    "1469340241398730905",
+    "1469347486559895632"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1976,6 +1977,15 @@
       "last_update_utc": "2026-02-06T14:06:30+00:00",
       "last_short": "EU's 20th sanctions: full maritime-services ban on Russian crude + 20 regional banks listed — tightens seaborne supply; bullish for oil and",
       "last_long": "What happened (intraday/next few sessions): The EU announced a 20th sanctions package including a full maritime‑services ban for Russian crude and the listing of ~20 regional banks. Primary market mechanism: risk premium (with secondary liquidity pressure on listed banks). Causal chain: banning maritime services (insurance, brokering/port support, inspections and related logistics) raises frictions and effective choke points for seaborne Russian crude exports — lowering available spot flows and increasing shipping/insurer counterparty risk. That elevates risk premia on crude (Brent/WTI) and increases tanker freight/insurance costs; energy and shipping sectors become relatively bid while Russian banks face funding/correspondent-access stress, pressuring RUB and regional financial names. Why it matters now: the announcement is a direct supply-friction shock that markets can reprice immedia"
+    },
+    "t_51439d86b66081d8": {
+      "count": 1,
+      "message_ids": [
+        "1469347486559895632"
+      ],
+      "last_update_utc": "2026-02-06T15:03:02+00:00",
+      "last_short": "U‑Mich prelim: sentiment/conditions beat; 1‑yr inflation expectations fell to 3.5% (vs 4.0% est). Net: mildly risk‑supportive, easing near‑t",
+      "last_long": "Why it matters now: this is a clean “growth ok / near‑term inflation fear down” mix. Sentiment (57.3) and conditions (58.3) beat, reducing immediate recession/consumer‑stall anxiety. More important for rates, 1‑yr inflation expectations dropping to 3.5% vs 4.0% prior/consensus should lean against a hawkish near‑term repricing, typically compressing front‑end inflation risk premia (breakevens) and calming 1–3y rate vol. The offset is the 5‑yr inflation expectations tick to 3.4% (vs 3.3% prior/consensus), which argues inflation anchoring isn’t “solved” and may limit a big long‑end rally. Cross‑asset mapping: front‑end Treasuries and TIPS breakevens should be the most sensitive; equities (ES/NQ) generally like the combo of better sentiment + lower near‑term inflation expectations via discount‑rate relief; USD impulse is usually softer only if the rates move is meaningful versus peers. Watch"
     }
   },
   "topic_index": {
