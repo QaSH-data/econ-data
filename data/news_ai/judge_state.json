@@ -220,7 +220,8 @@
     "1469073354345546002",
     "1469090888578896060",
     "1469226496890765353",
-    "1469324727968595989"
+    "1469324727968595989",
+    "1469332379364495527"
   ],
   "seen_max": 2000,
   "topics": {
@@ -1954,6 +1955,15 @@
       "last_update_utc": "2026-02-06T13:33:08+00:00",
       "last_short": "Canada jobs: -24.8k vs +5k exp. Clear downside growth signal; leans BoC path more dovish near-term → CAD softer bias, Canada front-end yield",
       "last_long": "Canada posted a large downside employment surprise (-24.8k vs +5k expected, prior +8.2k). The first-order channel is Bank of Canada reaction function: weaker labor momentum reduces the need to stay restrictive and typically pulls down Canada front-end yields (2Y / bill curve) while pressuring CAD (higher USD/CAD). This matters now because it counterweights the recent firmer Canada CPI narrative—i.e., it shifts the debate from “sticky inflation → hold/hike risk” toward “activity is cooling → cuts/earlier easing risk,” increasing sensitivity of rate pricing to the next data prints and any BoC communication. Spillover to U.S. indices (ES/NQ) is usually second-order and short-lived, mainly via broader North American growth tone and any USD strength impulse; bigger cross-asset impact would require confirmation (wage growth, unemployment rate, participation) or a synchronized risk-off move in"
+    },
+    "t_d2db7ee3c1db15fd": {
+      "count": 1,
+      "message_ids": [
+        "1469332379364495527"
+      ],
+      "last_update_utc": "2026-02-06T14:03:01+00:00",
+      "last_short": "Iran says negotiators will return to capitals and talks with the US will continue; eases geopolitical risk premium — impacts oil, EM FX and",
+      "last_long": "What happened: Iran’s FM says negotiators will go back to capitals for consultations and talks with the US will continue. Mechanism: primarily alters the geopolitical risk premium. Causal chain (intraday → next few sessions): the statement lowers the immediate probability of escalation, which should reduce safe-haven flows into USD/USTs and gold while trimming the upside risk premium on crude; that tends to bias US equity futures and EM FX mildly higher and relieve energy-sector risk premia. Parts most exposed: crude futures (WTI/Brent), energy equities, EMFX and sovereign bonds, gold and short-term Treasury demand, and index futures (ES/NQ) sensitive to risk sentiment. Why now: an explicit commitment to continue talks signals de‑escalation vs. headline shocks and can prompt quick repositioning in risk-sensitive assets, especially while liquidity is thinner. Information that provides edg"
     }
   },
   "topic_index": {

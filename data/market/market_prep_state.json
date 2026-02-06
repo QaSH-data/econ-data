@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-05T14:00:42Z",
-  "last_delta_hash": "9cb29bccb0a7ee85",
+  "last_run_utc": "2026-02-06T14:00:44Z",
+  "last_delta_hash": "4e9cdb0177a1ce55",
   "open_risks": [
-    "Metals-volatility-to-cross-asset contagion (margin/VAR liquidation causing equity/credit air pockets; gold not acting as hedge).",
-    "Tech-duration de-rating broadens on AI capex shock and semiconductor/AI supply-chain warnings; NQ-driven index drag via concentration.",
-    "Labor-data pivot risk: JOLTS + sentiment can either validate benign cooling (rates down, NQ relief) or trigger growth scare (ES/RTY pressure).",
-    "Geopolitical headline gap into/around Friday U.S.–Iran talks; rapid repricing in oil/gold/USTs and equity vol.",
-    "USD strength persistence tightens global conditions, weighs commodities and non-US risk, and keeps gold under pressure during liquidation phases."
+    "AI-capex shock broadens into a deeper tech-duration de-rating (software + mega-cap) and drags index-level risk via concentration; rebounds get sold as ‘capex-without-monetization’ narrative persists",
+    "UoM inflation expectations surprise higher → front-end reprices hawkish, real yields up → NQ underperforms and gold pressured (or gold rallies on policy-credibility fears; correlation unstable)",
+    "Vol-control / systematic deleveraging into Friday close amplifies any downside impulse; liquidity air-pockets possible if another mega-cap headline hits",
+    "EU growth downside (Germany IP) feeds a renewed global growth scare narrative; cyclicals/industrials weaken while rates rally, creating cross-asset whipsaw",
+    "Gold/metal volatility transmits into broader VAR/margin dynamics (forced selling), causing simultaneous pressure in equities and precious metals"
   ]
 }
