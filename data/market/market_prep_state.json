@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-06T14:00:44Z",
-  "last_delta_hash": "4e9cdb0177a1ce55",
+  "last_run_utc": "2026-02-07T14:00:47Z",
+  "last_delta_hash": "840f87144edb220d",
   "open_risks": [
-    "AI-capex shock broadens into a deeper tech-duration de-rating (software + mega-cap) and drags index-level risk via concentration; rebounds get sold as ‘capex-without-monetization’ narrative persists",
-    "UoM inflation expectations surprise higher → front-end reprices hawkish, real yields up → NQ underperforms and gold pressured (or gold rallies on policy-credibility fears; correlation unstable)",
-    "Vol-control / systematic deleveraging into Friday close amplifies any downside impulse; liquidity air-pockets possible if another mega-cap headline hits",
-    "EU growth downside (Germany IP) feeds a renewed global growth scare narrative; cyclicals/industrials weaken while rates rally, creating cross-asset whipsaw",
-    "Gold/metal volatility transmits into broader VAR/margin dynamics (forced selling), causing simultaneous pressure in equities and precious metals"
+    "AI-capex shock broadens into sustained tech-duration de-rating (multiple compression + FCF optics), pulling NQ/ES via concentration even if economic data is mixed.",
+    "Rates whipsaw: growth-slowdown data pushes yields down (supports equities) but any rebound in longer-run inflation expectations reverses the move, hitting NQ and destabilizing gold hedging behavior.",
+    "Labor-data uncertainty/processing risk after recent disruptions (delays/revisions) increases the chance of a sharp repricing in front-end rates on release day.",
+    "Systematic/positioning air-pockets: high dispersion and rapid factor rotations elevate the risk of liquidity-driven extensions (both directions) around key prints/mega-cap headlines.",
+    "Gold market volatility transmits into broader VAR/margin dynamics (forced selling) if macro shock causes simultaneous equity and precious-metals drawdown."
   ]
 }
