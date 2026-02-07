@@ -1577,3 +1577,15 @@ TimestampUtc,MeetingMonth,EventSlug,SubMarketSlug,Label,Pct,EventEndDateUtc
 2026-02-07T10:55:01Z,2026-03,fed-decision-in-march-885,will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting,Cut 25bps,12.5000,2026-03-18T00:00:00Z
 2026-02-07T10:55:01Z,2026-04,fed-decision-in-april,will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting,No change,73.5000,2026-04-29T00:00:00Z
 2026-02-07T10:55:01Z,2026-04,fed-decision-in-april,will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting,Cut 25bps,22.0000,2026-04-29T00:00:00Z
+2026-02-07T11:00:02Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change,100.0000,2026-01-28T00:00:00Z
+2026-02-07T11:00:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Cut 25bps,0.0000,2026-01-28T00:00:00Z
+2026-02-07T11:00:02Z,2026-03,fed-decision-in-march-885,will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting,No change,85.5000,2026-03-18T00:00:00Z
+2026-02-07T11:00:02Z,2026-03,fed-decision-in-march-885,will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting,Cut 25bps,12.5000,2026-03-18T00:00:00Z
+2026-02-07T11:00:02Z,2026-04,fed-decision-in-april,will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting,No change,73.5000,2026-04-29T00:00:00Z
+2026-02-07T11:00:02Z,2026-04,fed-decision-in-april,will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting,Cut 25bps,23.5000,2026-04-29T00:00:00Z
+2026-02-07T11:05:02Z,2026-01,fed-decision-in-january,no-change-in-fed-interest-rates-after-january-2026-meeting,No change,100.0000,2026-01-28T00:00:00Z
+2026-02-07T11:05:02Z,2026-01,fed-decision-in-january,fed-decreases-interest-rates-by-25-bps-after-january-2026-meeting,Cut 25bps,0.0000,2026-01-28T00:00:00Z
+2026-02-07T11:05:02Z,2026-03,fed-decision-in-march-885,will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting,No change,85.5000,2026-03-18T00:00:00Z
+2026-02-07T11:05:02Z,2026-03,fed-decision-in-march-885,will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting,Cut 25bps,12.5000,2026-03-18T00:00:00Z
+2026-02-07T11:05:02Z,2026-04,fed-decision-in-april,will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting,No change,72.5000,2026-04-29T00:00:00Z
+2026-02-07T11:05:02Z,2026-04,fed-decision-in-april,will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting,Cut 25bps,22.5000,2026-04-29T00:00:00Z
