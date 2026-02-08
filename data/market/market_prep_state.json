@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-07T14:00:47Z",
-  "last_delta_hash": "840f87144edb220d",
+  "last_run_utc": "2026-02-08T14:00:45Z",
+  "last_delta_hash": "9bee55260983d6e3",
   "open_risks": [
-    "AI-capex shock broadens into sustained tech-duration de-rating (multiple compression + FCF optics), pulling NQ/ES via concentration even if economic data is mixed.",
-    "Rates whipsaw: growth-slowdown data pushes yields down (supports equities) but any rebound in longer-run inflation expectations reverses the move, hitting NQ and destabilizing gold hedging behavior.",
-    "Labor-data uncertainty/processing risk after recent disruptions (delays/revisions) increases the chance of a sharp repricing in front-end rates on release day.",
-    "Systematic/positioning air-pockets: high dispersion and rapid factor rotations elevate the risk of liquidity-driven extensions (both directions) around key prints/mega-cap headlines.",
-    "Gold market volatility transmits into broader VAR/margin dynamics (forced selling) if macro shock causes simultaneous equity and precious-metals drawdown."
+    "Rates whipsaw around Tue/Wed macro cluster (Retail Sales + ECI + NFP/UE): 'growth scare' vs 'sticky inflation/wages' can flip the sign of equity and gold reactions intraday.",
+    "AI-capex/ROI narrative shock: guidance/headlines can re-open duration de-rating in NQ even if top-line demand is strong (FCF optics, margin anxiety).",
+    "Government funding/shutdown tail: DHS funding deadline can produce headline volatility and/or distort data timing, increasing probability of 'false signal' macro prints and abrupt repricing.",
+    "Gold 'failed hedge' episode: if real yields rise on upside inflation/wage surprise, gold drawdown can coincide with equity weakness, tightening financial conditions via margin/VAR effects.",
+    "Positioning air-pocket after a sharp Friday rebound: thin Sunday liquidity + heavy macro week can exaggerate overnight futures gaps and early-session trend moves."
   ]
 }
