@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-08T14:00:45Z",
-  "last_delta_hash": "9bee55260983d6e3",
+  "last_run_utc": "2026-02-09T14:00:44Z",
+  "last_delta_hash": "dd7518468f9096c4",
   "open_risks": [
-    "Rates whipsaw around Tue/Wed macro cluster (Retail Sales + ECI + NFP/UE): 'growth scare' vs 'sticky inflation/wages' can flip the sign of equity and gold reactions intraday.",
-    "AI-capex/ROI narrative shock: guidance/headlines can re-open duration de-rating in NQ even if top-line demand is strong (FCF optics, margin anxiety).",
-    "Government funding/shutdown tail: DHS funding deadline can produce headline volatility and/or distort data timing, increasing probability of 'false signal' macro prints and abrupt repricing.",
-    "Gold 'failed hedge' episode: if real yields rise on upside inflation/wage surprise, gold drawdown can coincide with equity weakness, tightening financial conditions via margin/VAR effects.",
-    "Positioning air-pocket after a sharp Friday rebound: thin Sunday liquidity + heavy macro week can exaggerate overnight futures gaps and early-session trend moves."
+    "Rates whipsaw around the Tue/Wed macro cluster (Retail Sales + ECI + NFP/UE): can flip ES/NQ and gold reactions intraday via real-yield impulse.",
+    "Nasdaq fragility / factor concentration: if the market re-focuses on AI-capex/ROI concerns, NQ downside can outpace ES even without broad risk-off.",
+    "Gold correlation regime risk: recent extreme precious-metals moves imply higher probability of disorderly positioning-driven selloffs on USD/real-yield spikes.",
+    "Headline/geopolitical tail (e.g., Iran-related risk) amplifies oil → inflation expectations channel, complicating the interpretation of 'growth vs inflation' data surprises.",
+    "Liquidity/positioning air-pocket after sharp rebound: early-session gaps and fast trend moves more likely around data releases."
   ]
 }
