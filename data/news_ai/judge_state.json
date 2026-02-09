@@ -1,5 +1,5 @@
 {
-  "date_utc": "2026-02-06",
+  "date_utc": "2026-02-09",
   "seen_message_ids": [
     "1457128626435915797",
     "1457137641328742591",
@@ -226,7 +226,8 @@
     "1469340241398730905",
     "1469347486559895632",
     "1469348148601421857",
-    "1469436123939078174"
+    "1469436123939078174",
+    "1470427106784579788"
   ],
   "seen_max": 2000,
   "topics": {
@@ -276,7 +277,7 @@
       "last_long": "As of 2026-01-03 22:59 UTC, I cannot corroborate “Neizchum” as a real location, agency, asset, or recognized geopolitical theater via accessible public sources, nor can I find credible-wire/official reporting tied to this specific claim. That strongly points to either (a) a fabricated headline, (b) a mistranslation/misspelling, or (c) an in-network/internal codename that is not publicly indexable.\n\nMarket read: if desks briefly priced a “nuclear threat” off this rumor, a debunk (“no nuclear threat”) typically removes the most acute tail-risk bid—supporting a normalization impulse (risk premia/volatility compression) rather than creating a new macro impulse. However, given the entity ambiguity, the safer posture is to treat this item as non-actionable until a top-tier source (official government statement or major wire) confirms both the original claim and its retraction.\n\nWhat to monitor"
     },
     "t_4e9a016194f8d732": {
-      "count": 17,
+      "count": 18,
       "message_ids": [
         "1460280326831079575",
         "1461005167326658778",
@@ -294,9 +295,10 @@
         "1468253039038300379",
         "1468615322108956804",
         "1468977757634433047",
-        "1469340241398730905"
+        "1469340241398730905",
+        "1470427106784579788"
       ],
-      "last_update_utc": "2026-02-06T14:34:12+00:00",
+      "last_update_utc": "2026-02-09T14:32:50+00:00",
       "last_short": "",
       "last_long": ""
     },
