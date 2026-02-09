@@ -227,7 +227,10 @@
     "1469347486559895632",
     "1469348148601421857",
     "1469436123939078174",
-    "1470427106784579788"
+    "1470427106784579788",
+    "1470428467865587834",
+    "1470516105830465568",
+    "1470523194221002963"
   ],
   "seen_max": 2000,
   "topics": {
@@ -348,7 +351,7 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 15,
+      "count": 16,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
@@ -364,9 +367,10 @@
         "1467986361356255356",
         "1468348597522403532",
         "1468710953578401915",
-        "1469073354345546002"
+        "1469073354345546002",
+        "1470523194221002963"
       ],
-      "last_update_utc": "2026-02-05T20:53:24+00:00",
+      "last_update_utc": "2026-02-09T21:00:51+00:00",
       "last_short": "",
       "last_long": ""
     },
@@ -2008,6 +2012,24 @@
       "last_update_utc": "2026-02-06T20:55:22+00:00",
       "last_short": "Fed’s Daly tilts reaction function toward labor: if firings emerge, cuts may be needed; she sees labor more vulnerable than inflation but wo",
       "last_long": "What happened (Feb 6, 2026): SF Fed’s Daly said a shift from “no firing” to “some firing” could warrant rate cuts; she sees more vulnerability in the labor market than in inflation, while adding she’d be comfortable holding rates steady longer if inflation picks back up.\n\nMarket mechanism: This is a reaction-function message that effectively increases the weight of labor deterioration in the near-term policy calculus while keeping an inflation backstop. Net effect is to make front-end rates more two-sided around labor data: softer jobs data can pull forward/steepen cut expectations (rates down, duration bid), but firmer inflation data can reprice “higher-for-longer” risk back in (rates up, real yields firmer).\n\nLikely near-term impact (intraday / next few sessions):\n- Rates: front-end and belly should be most responsive as traders translate “firings” into thresholds for cuts; conditional"
+    },
+    "t_747979753df7f0dd": {
+      "count": 1,
+      "message_ids": [
+        "1470428467865587834"
+      ],
+      "last_update_utc": "2026-02-09T21:00:13+00:00",
+      "last_short": "Scottish Labour leader urging Starmer to step down adds UK political-noise risk; near-term tilt is softer GBP and a higher UK risk premium,",
+      "last_long": "A public call from Labour’s Scotland leader for PM Keir Starmer to step down is a classic “intra-party fracture” signal that can raise the UK political risk premium over the next few sessions. The main transmission is via uncertainty: investors reassess policy/leadership continuity, which can pressure GBP (risk premium and positioning de-risk), and introduce a mild widening impulse for UK rates/credit (gilts and UK spreads) as volatility rises. UK domestically exposed equities (banks, homebuilders, consumer-sensitive names) tend to be most headline-sensitive; large-cap multinationals are typically less direct.\n\nWhy now: leadership-challenge chatter can shift quickly from a single-voice headline into a broader confidence narrative if echoed by MPs/cabinet figures, reflected in polling/betting odds, or paired with fiscal messaging. For global markets (ES/NQ/YM/RTY), this is usually second-"
+    },
+    "t_56d0558300af203f": {
+      "count": 1,
+      "message_ids": [
+        "1470516105830465568"
+      ],
+      "last_update_utc": "2026-02-09T21:00:30+00:00",
+      "last_short": "Bostic says choppy jobs warrant Fed caution — likely to delay easing and lift short-end yields, pressuring rate-sensitive growth stocks (NAS",
+      "last_long": "Bostic framing noisy labor prints as a reason for Fed caution tilts markets toward a later or more gradual easing path. Primary mechanism: rates expectations. Intraday to next few sessions, this comment can lift short-end Treasury yields and increase term premium as traders pull forward less easing, which in turn raises discount rates for long-duration assets and weighs on growth/tech equities (NQ/mega-caps). It also raises volatility and risk premium as positioning that priced earlier cuts adjusts. Why now: recent choppy payroll data gives Fed speakers cover to slow cut pricing; watch short-end moves (2s/5s, ZT/ZF), swap-implied cuts, and any follow-up Fed commentary or incoming inflation/labor prints for confirmation."
     }
   },
   "topic_index": {
