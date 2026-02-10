@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-09T14:00:44Z",
-  "last_delta_hash": "dd7518468f9096c4",
+  "last_run_utc": "2026-02-10T14:00:44Z",
+  "last_delta_hash": "b31391ff872d9b4c",
   "open_risks": [
-    "Rates whipsaw around the Tue/Wed macro cluster (Retail Sales + ECI + NFP/UE): can flip ES/NQ and gold reactions intraday via real-yield impulse.",
-    "Nasdaq fragility / factor concentration: if the market re-focuses on AI-capex/ROI concerns, NQ downside can outpace ES even without broad risk-off.",
-    "Gold correlation regime risk: recent extreme precious-metals moves imply higher probability of disorderly positioning-driven selloffs on USD/real-yield spikes.",
-    "Headline/geopolitical tail (e.g., Iran-related risk) amplifies oil → inflation expectations channel, complicating the interpretation of 'growth vs inflation' data surprises.",
-    "Liquidity/positioning air-pocket after sharp rebound: early-session gaps and fast trend moves more likely around data releases."
+    "Rates whipsaw around the US labor + CPI cluster (Feb 11 jobs; Feb 13 CPI): real-yield impulse can flip ES/NQ and drive gold convexity (especially if data conflict).",
+    "Growth-scare repricing: retail sales miss becomes a broader consumer slowdown narrative, weighing ES cyclicals/RTY even if yields fall (bad-good data paradox).",
+    "Gold positioning/liquidity air-pocket: elevated recent volatility increases probability of disorderly moves on USD spikes, real-yield jumps, or headline shocks.",
+    "Fed communication risk: speaker tone (Logan/Hammack/Bowman etc.) could push back on easing pricing after weak activity data, triggering rate back-up and duration drawdown.",
+    "Second-order political risk spillover (UK leadership noise): mostly GBP/gilts risk, but can contaminate global risk sentiment if it escalates into policy/fiscal uncertainty."
   ]
 }
