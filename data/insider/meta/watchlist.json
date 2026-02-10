@@ -1,0 +1,95 @@
+{
+  "generated_utc": "2026-02-10T19:08:48Z",
+  "lookback_days": 30,
+  "watchlist_file": "/home/tyarick/econ-data/config/insider_watchlist.txt",
+  "resolved_count": 20,
+  "missing_count": 1,
+  "resolved": [
+    {
+      "ticker": "AAPL",
+      "cik": 320193
+    },
+    {
+      "ticker": "MSFT",
+      "cik": 789019
+    },
+    {
+      "ticker": "NVDA",
+      "cik": 1045810
+    },
+    {
+      "ticker": "AMZN",
+      "cik": 1018724
+    },
+    {
+      "ticker": "GOOGL",
+      "cik": 1652044
+    },
+    {
+      "ticker": "GOOG",
+      "cik": 1652044
+    },
+    {
+      "ticker": "META",
+      "cik": 1326801
+    },
+    {
+      "ticker": "TSLA",
+      "cik": 1318605
+    },
+    {
+      "ticker": "AVGO",
+      "cik": 1730168
+    },
+    {
+      "ticker": "AMD",
+      "cik": 2488
+    },
+    {
+      "ticker": "INTC",
+      "cik": 50863
+    },
+    {
+      "ticker": "NFLX",
+      "cik": 1065280
+    },
+    {
+      "ticker": "COST",
+      "cik": 909832
+    },
+    {
+      "ticker": "QCOM",
+      "cik": 804328
+    },
+    {
+      "ticker": "JPM",
+      "cik": 19617
+    },
+    {
+      "ticker": "GS",
+      "cik": 886982
+    },
+    {
+      "ticker": "MS",
+      "cik": 895421
+    },
+    {
+      "ticker": "BAC",
+      "cik": 70858
+    },
+    {
+      "ticker": "SPY",
+      "cik": 884394
+    },
+    {
+      "ticker": "QQQ",
+      "cik": 1067839
+    }
+  ],
+  "missing": [
+    {
+      "ticker": "IWM",
+      "cik": null
+    }
+  ]
+}
