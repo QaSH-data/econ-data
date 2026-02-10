@@ -236,7 +236,8 @@
     "1470789786792099987",
     "1470809615238172880",
     "1470810045934469476",
-    "1470837505090912329"
+    "1470837505090912329",
+    "1470846929507188897"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2074,6 +2075,15 @@
       "last_update_utc": "2026-02-10T17:43:40+00:00",
       "last_short": "Fed’s Hammack ties any next rate change to getting inflation back to 2% — a hawkish hold signal that trims near-term cut odds, supporting th",
       "last_long": "Hammack’s “need 2% inflation before changing rates again” frames policy as constrained by the inflation endpoint, not just incremental progress. That’s a hawkish-hold message: it reduces the market’s willingness to price early cuts and can keep term structure anchored higher at the front end (2y/OIS; ZT/ZF most sensitive). Mechanism: fewer/ later cuts → higher real-rate expectations → firmer USD (DX) → tighter financial conditions → headwind for long-duration equities (NQ/mega-cap growth) and a modest risk-premium lift for broad indices (ES), while financials/value can be relatively less hit. Why now: with core inflation still above target in the baseline (Dec core CPI ~2.9% y/y in your snapshot), this reads as reinforcing the ‘higher for longer until target’ reaction function rather than a fresh pivot. Confirmation to monitor: front-end rate pricing (next 1–3 meetings), 2y yield reactio"
+    },
+    "t_3211fd460b056489": {
+      "count": 1,
+      "message_ids": [
+        "1470846929507188897"
+      ],
+      "last_update_utc": "2026-02-10T18:21:07+00:00",
+      "last_short": "Trump floats sending a 2nd carrier to the Middle East if talks fail — headline geopolitical risk-up: supports safe-havens (USTs/USD/gold), w",
+      "last_long": "Axios reports President Trump said he might send a second aircraft carrier to the Middle East if talks fail. Market impact is primarily via a fast risk-premium channel: conditional military escalation rhetoric increases perceived tail risk (shipping/security/sanctions/retaliation) -> investors de-risk -> bid for duration and liquidity (Treasuries; often USD) while equity index futures (ES/NQ) take a downside bias and implied vol can firm. Commodities transmit through risk premia: crude (CL) can catch a bid even without immediate supply disruption if markets price higher disruption probability for regional flows, while energy equities/defense may show relative resilience versus broader risk assets. Why now: carrier language is a concrete escalation marker (more specific than generic warnings), so it can move markets on its own and then re-price again on confirmation/denial from DoD/White"
     }
   },
   "topic_index": {
