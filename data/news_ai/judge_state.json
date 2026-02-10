@@ -234,7 +234,8 @@
     "1470528179784646706",
     "1470774281330757824",
     "1470789786792099987",
-    "1470809615238172880"
+    "1470809615238172880",
+    "1470810045934469476"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2054,6 +2055,15 @@
       "last_update_utc": "2026-02-10T15:53:02+00:00",
       "last_short": "Commerce Sec. Lutnick says Q4 GDP growth will be >5% — a growth-up cue that can lean equities bid but keeps upward pressure on Treasury yiel",
       "last_long": "Commerce Secretary Howard Lutnick saying Q4 GDP growth will be “over 5%” is a growth-positive signal, but the main transmission is through rates: if the market assigns any probability to a materially hotter Q4 print, it tends to lift expected real growth (and possibly inflation persistence), nudging nominal yields higher and keeping pressure on duration (ZN/ZB). For index futures, the first-order effect is often risk-on (ES/YM) with a relative tilt toward cyclicals/financials, while NQ can lag if the rates move dominates (higher real yields compress long-duration equity multiples). Second-order: stronger-growth talk can support USD via growth differentials, which can be a mild drag on multinational/commodity-sensitive risk if it tightens financial conditions at the margin. Why now: this hits ahead of the next official GDP revision and core PCE, so it can shift pre-data positioning and ma"
+    },
+    "t_b1c7e202b74d2c05": {
+      "count": 1,
+      "message_ids": [
+        "1470810045934469476"
+      ],
+      "last_update_utc": "2026-02-10T15:54:37+00:00",
+      "last_short": "Commerce Sec. Lutnick floats “over 6%” Q1 growth; headline likely nudges risk-on but mainly pressures rates higher — helps cyclicals/commodi",
+      "last_long": "Lutnick’s “reasonably over 6%” Q1 growth comment is a narrative shock rather than data, so the first-order transmission is through rates: stronger growth talk can lift term yields/real rates and steepen the curve, which is typically supportive for cyclicals/financials/energy and less friendly for long-duration equity (NQ/megacap growth) via higher discount rates. For index futures, expect an initial risk-on impulse if the market treats it as policy-informed, but with quick two-way risk if Treasury yields jump faster than earnings expectations re-rate. Persistence hinges on whether he pairs the claim with concrete drivers (inventory rebound, fiscal impulse, trade tailwinds, capex) and whether upcoming hard prints (jobs/inflation, then advance GDP) corroborate; absent that, this fades as “optimistic guidance.” Cross-asset tells: ZN weakness (yields up) + firmer USD would signal the market"
     }
   },
   "topic_index": {
