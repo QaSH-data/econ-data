@@ -244,7 +244,8 @@
     "1471136680840003584",
     "1471138084237082766",
     "1471144666249302159",
-    "1471152050153980122"
+    "1471152050153980122",
+    "1471159530736844871"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2138,6 +2139,15 @@
       "last_update_utc": "2026-02-11T14:04:15+00:00",
       "last_short": "ECB urges urgent collective EU action and says it stands ready to assist — reduces euro-area tail-risk; supportive for European equities (ba",
       "last_long": "Primary mechanism: risk premium. Lagarde signaling an ECB-ready-to-assist posture and pressing EU leaders for urgent collective action lowers perceived political/sovereign tail-risk and reduces risk premia across euro-area assets. Expect an intraday to next-few-sessions lift in European risk sentiment: narrower Italy/Greece spreads vs Bunds, firmer European bank and cyclical equities, and downward pressure on credit default swap premia. Secondary channels: if assistance implies balance-sheet/backstop language it can compress funding stress and steepen/tighten parts of the euro-area curve; conversely, details could shift rates expectations if linked to fiscal measures. Market edge: watch official EU/ECB follow-ups, leader communiques, moves in 10y Bund vs BTP spreads, EUR swap curve, peripheral sovereign auctions, Euribor/EONIA funding moves, European bank CDS and equity flows for confirm"
+    },
+    "t_17bf5953d0d7615b": {
+      "count": 1,
+      "message_ids": [
+        "1471159530736844871"
+      ],
+      "last_update_utc": "2026-02-11T15:03:04+00:00",
+      "last_short": "CBO says U.S. debt/GDP will exceed 1946 peak by 2030 — raises long-term fiscal risk; negative for long-duration assets like Treasuries/TIPS",
+      "last_long": "CBO projection that debt/GDP will top the 1946 record increases expected future Treasury supply and fiscal fragility, which lifts term premia and alters rates expectations over the medium term. Primary market mechanism involved: rates expectations (with a parallel rise in risk premium). Over the next few sessions this can shift session bias toward higher long-end yields, wider TIPS real yields/breakevens, and heavier scrutiny of duration-sensitive equity sectors (growth/tech) and municipal/credit markets. Why now: the published CBO path is a fresh, credible numeric anchor for markets already digesting growth/inflation prints and Fed timing — it reframes financing needs regardless of near-term Fed policy. Information that would give edge: Treasury issuance schedule and size, dealer/primary dealer positioning, TIPS break-even moves, foreign reserve flows, Fed balance-sheet guidance, and ho"
     }
   },
   "topic_index": {
