@@ -245,7 +245,8 @@
     "1471138084237082766",
     "1471144666249302159",
     "1471152050153980122",
-    "1471159530736844871"
+    "1471159530736844871",
+    "1471160723282595984"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2148,6 +2149,15 @@
       "last_update_utc": "2026-02-11T15:03:04+00:00",
       "last_short": "CBO says U.S. debt/GDP will exceed 1946 peak by 2030 — raises long-term fiscal risk; negative for long-duration assets like Treasuries/TIPS",
       "last_long": "CBO projection that debt/GDP will top the 1946 record increases expected future Treasury supply and fiscal fragility, which lifts term premia and alters rates expectations over the medium term. Primary market mechanism involved: rates expectations (with a parallel rise in risk premium). Over the next few sessions this can shift session bias toward higher long-end yields, wider TIPS real yields/breakevens, and heavier scrutiny of duration-sensitive equity sectors (growth/tech) and municipal/credit markets. Why now: the published CBO path is a fresh, credible numeric anchor for markets already digesting growth/inflation prints and Fed timing — it reframes financing needs regardless of near-term Fed policy. Information that would give edge: Treasury issuance schedule and size, dealer/primary dealer positioning, TIPS break-even moves, foreign reserve flows, Fed balance-sheet guidance, and ho"
+    },
+    "t_8fc0faf8ae40dc95": {
+      "count": 1,
+      "message_ids": [
+        "1471160723282595984"
+      ],
+      "last_update_utc": "2026-02-11T15:07:59+00:00",
+      "last_short": "CBO flags decade-ahead deficits as historically unusual — macro read-through is heavier Treasury supply/term-premium risk (bearish duration)",
+      "last_long": "This looks like “CBO” (Congressional Budget Office), i.e., a credible fiscal baseline update. Market mechanism is primarily rates: larger projected deficits imply larger expected Treasury borrowing needs, which can pressure the long end via higher term premium and steeper supply concessions (most direct in ZN/ZB; spillover into ES/NQ through discount-rate sensitivity). Second-order: if the narrative shifts from cyclical growth to fiscal/interest-cost sustainability, risk premia can widen—typically a headwind for rate-sensitive sectors and long-duration equity multiples even without a near-term Fed move. Why now: the projection language (“historically unusual deficits”) can refresh the ‘higher-for-longer issuance/term premium’ theme at a time when inflation is not fully back to 2%, keeping markets alert to any catalyst that lifts real yields. Key watch items are whether rates react (curve"
     }
   },
   "topic_index": {
