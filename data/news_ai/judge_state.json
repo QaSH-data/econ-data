@@ -249,7 +249,8 @@
     "1471160723282595984",
     "1471167046979948741",
     "1471222129130340506",
-    "1471231390027612382"
+    "1471231390027612382",
+    "1471247786648404091"
   ],
   "seen_max": 2000,
   "topics": {
@@ -372,7 +373,7 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 17,
+      "count": 18,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
@@ -390,9 +391,10 @@
         "1468710953578401915",
         "1469073354345546002",
         "1470523194221002963",
-        "1470885327412400159"
+        "1470885327412400159",
+        "1471247786648404091"
       ],
-      "last_update_utc": "2026-02-10T20:53:37+00:00",
+      "last_update_utc": "2026-02-11T20:53:44+00:00",
       "last_short": "",
       "last_long": ""
     },
