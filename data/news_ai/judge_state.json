@@ -251,7 +251,8 @@
     "1471222129130340506",
     "1471231390027612382",
     "1471247786648404091",
-    "1471261687087632425"
+    "1471261687087632425",
+    "1471292656339648740"
   ],
   "seen_max": 2000,
   "topics": {
@@ -564,13 +565,14 @@
       "last_long": "Headline increases perceived geopolitical risk and should lift the market’s risk premium and volatility intraday and into the next few sessions. Causal chain: a high-profile claim of cross‑side sourcing on Iran killings raises uncertainty about attribution and potential escalation → investors demand a higher risk premium, bid safe-haven assets (USTs, gold, USD) and push implied volatility higher → oil prices and defense sector equities react to a greater chance of supply disruption or military activity → broad equity indices (ES/NQ) face downside bias as risk‑off flows and deleveraging pressure position-sensitive products. Primary market mechanism: risk premium/volatility. Info that will reweight impact and provide edge: confirmation or denial from governments, any reported military movements or strikes, Iranian/state-proxy responses, disruptions to shipping or oil infrastructure, offici"
     },
     "t_5793d270074476f0": {
-      "count": 1,
+      "count": 2,
       "message_ids": [
-        "1461145781032452206"
+        "1461145781032452206",
+        "1471292656339648740"
       ],
-      "last_update_utc": "2026-01-14T23:52:13+00:00",
-      "last_short": "Japan PPI MoM rose 0.1% vs 0.2% expected (prior 0.3%), a small downside inflation surprise that leans mildly dovish for BoJ expectations and",
-      "last_long": "Japan PPI MoM at 0.1% (vs 0.2% consensus; prior 0.3%) is a modest cooling signal on upstream inflation. Mechanism: softer producer-price momentum marginally reduces urgency for additional BoJ tightening, which can ease upward pressure on JGB yields/real-rate expectations; that relative-rate channel can translate into a slightly softer JPY (USD/JPY firmer) and a better tone for duration-sensitive/rate-differential FX positioning. Why-now: with global markets still highly reactive to incremental inflation data into late-January central-bank windows, even small misses can matter at the margin via policy-path probabilities, but follow-through likely requires confirmation from CPI/wages or BoJ communication. Cross-asset read-through: most direct in JGBs and JPY; spillover to US index futures is usually second-order unless the FX move becomes large enough to tighten/loosen global financial con"
+      "last_update_utc": "2026-02-11T23:52:12+00:00",
+      "last_short": "Japan PPI m/m +0.2% (in-line). Slight firming vs prior keeps a mild inflation pulse, but should be low-impact for BoJ pricing; main sensitiv",
+      "last_long": "Japan PPI rose 0.2% m/m (forecast 0.2%, prior 0.1%). Because it matched expectations, the incremental information is small: it nudges the narrative toward “producer-side inflation not fully fading,” but it is unlikely by itself to force a meaningful repricing of near-term BoJ policy or a durable move in JGB yields. Transmission is mainly via relative rates: modest support to JPY on the margin if markets read it as keeping Japan’s inflation floor firm, while exporters/equities usually react more to FX follow-through than the PPI print itself. For global assets (ES/NQ), spillover should be limited unless it contributes to broader Asia-session risk-off via higher global rate sensitivity; the bigger swing factors remain US inflation/labor prints and broader China-demand tone. Watch for confirmation in Japan CPI/Tokyo CPI, services inflation signals, BoJ communication, and whether USD/JPY rea"
     },
     "t_34814f18bfee4a3f": {
       "count": 1,
