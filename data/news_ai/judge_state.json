@@ -248,7 +248,8 @@
     "1471159530736844871",
     "1471160723282595984",
     "1471167046979948741",
-    "1471222129130340506"
+    "1471222129130340506",
+    "1471231390027612382"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2178,6 +2179,15 @@
       "last_update_utc": "2026-02-11T19:12:04+00:00",
       "last_short": "WSJ: Pentagon readies a second aircraft carrier for Middle East deployment — adds geopolitical risk premium; supports defense/oil, bids Trea",
       "last_long": "Mechanism is a risk-premium shock. A reported move to prepare a second carrier strike group for the Middle East increases perceived probability of regional escalation and/or pressure on critical shipping lanes, which can reprice near-term tail risk across assets. Typical cross-asset chain: higher geopolitical uncertainty -> wider equity risk premia and higher implied vol (headwind for ES/NQ, especially duration/growth); simultaneous flight-to-quality flows into Treasuries (ZN/ZB) and USD; and a bid in energy (CL) on supply/disruption risk plus relative support for defense on heightened operational tempo/procurement visibility. Why now: a second carrier is a meaningful marginal step versus routine posture statements, so markets may treat it as a signal of elevated readiness rather than purely symbolic deterrence—impact will depend on whether follow-on details confirm a timeline/mission ti"
+    },
+    "t_54133d7a461d8dd1": {
+      "count": 1,
+      "message_ids": [
+        "1471231390027612382"
+      ],
+      "last_update_utc": "2026-02-11T19:48:52+00:00",
+      "last_short": "Report of snags in Apple’s long-delayed Siri upgrade is a modest negative for AAPL and can weigh on NQ/ES via mega-cap sentiment and “AI fea",
+      "last_long": "A delayed/troubled Siri relaunch reads as product-execution risk rather than a macro shock, but it matters because Apple is a heavy index weight and the market is treating assistant/AI features as an incremental services + device-cycle catalyst.\n\nMechanism: (1) Idiosyncratic risk premium: execution uncertainty can lift AAPL implied vol and dampen multiple expansion vs peers. (2) Narrative spillover: pushes back timelines for AI/assistant monetization (services attach, engagement, ecosystem stickiness), which can pressure the broader “AI-at-the-edge” narrative across mega-cap tech. (3) Second-order: suppliers/partners exposed to iPhone refresh and on-device AI features can see sympathy moves, though the transmission is weaker than for a demand miss.\n\nWhy now: “long-delayed” implies the market has had time to price in an eventual upgrade; renewed snags raise the probability of further slip"
     }
   },
   "topic_index": {
