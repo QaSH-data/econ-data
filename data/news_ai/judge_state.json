@@ -239,7 +239,8 @@
     "1470837505090912329",
     "1470846929507188897",
     "1470885327412400159",
-    "1470886849898741945"
+    "1470886849898741945",
+    "1470955911358054574"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2096,6 +2097,15 @@
       "last_update_utc": "2026-02-10T20:59:48+00:00",
       "last_short": "WSJ: US weighs seizing tankers carrying Iranian oil — adds Gulf supply/disruption risk premium; supportive for crude, modestly risk-off for",
       "last_long": "WSJ reports the US is considering seizures of tankers carrying Iranian oil. Market mechanism is a geopolitics-driven risk premium: (1) higher perceived probability of disruption to Gulf flows and shipping/insurance constraints (detentions, rerouting, higher freight) can lift front-month crude and implied vol; (2) broader risk assets can fade on higher macro uncertainty and a potential energy-cost shock (ES/NQ duration-sensitive sectors most exposed); (3) classic flight-to-quality can show up via firmer USD and a bid to Treasuries if markets price escalation over enforcement.\n\nWhy it matters now: it shifts the tail-risk distribution from sanctions enforcement to direct interdiction, raising odds of tit-for-tat responses and operational friction even without a full supply outage. What to monitor for follow-through vs headline fade: confirmation from US officials/DoD/OFAC, any reported dete"
+    },
+    "t_76844e123e7c639c": {
+      "count": 1,
+      "message_ids": [
+        "1470955911358054574"
+      ],
+      "last_update_utc": "2026-02-11T01:34:01+00:00",
+      "last_short": "China PPI y/y -1.4% (vs -1.5% exp, -1.9% prev): a small “less-deflationary” surprise that can modestly support global cyclicals/commodities",
+      "last_long": "China producer-price deflation eased to -1.4% y/y versus -1.5% expected and -1.9% prior. Mechanism: a less-negative PPI is a marginal “reflation” signal (less upstream price pressure), which can (1) support commodity/cyclical sentiment and Asia risk tone, and (2) slightly reduce the urgency of a pure disinflation narrative that typically supports duration. For US index futures, the impulse is modestly risk-supportive (cyclicals/industrials/energy at the margin), while for Treasuries it can be a small headwind to the safest-duration bid if the tape is already positioned for weak global prices. Why it’s capped: the broader China backdrop still leans toward demand softness/property drag, so this is more likely a short-lived tone shift than a regime change; watch whether follow-through shows up in CNH, base metals and crude as confirmation."
     }
   },
   "topic_index": {
