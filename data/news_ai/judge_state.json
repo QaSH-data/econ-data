@@ -242,7 +242,8 @@
     "1470886849898741945",
     "1470955911358054574",
     "1471136680840003584",
-    "1471138084237082766"
+    "1471138084237082766",
+    "1471144666249302159"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2126,6 +2127,15 @@
       "last_update_utc": "2026-02-11T13:37:54+00:00",
       "last_short": "Short-term US rate futures fell after January jobs data, repricing near-term Fed odds; front-end yields up, pressuring equities and rate-sen",
       "last_long": "Primary mechanism: rates expectations. The drop in short-term US interest-rate futures signals the market is raising near-term policy-rate odds after the January jobs report (stronger-than-expected labor signal implied). That pushes front-end Treasury yields higher (ZT/ZF, 2y), lifts the USD and increases discounting on equities—most acute intraday and across the next few sessions. Impacted areas: short-end futures and swaps, 2y/5y Treasury complex, equity index futures (ES/NQ), high-duration tech names and real-estate/REIT sectors, and volatility metrics which can spike as positioning adjusts. Why it matters now: jobs prints are a primary input to Fed timing expectations; a repricing can quickly alter risk premia and liquidity demand at the front end. Information that provides edge: payrolls vs consensus, private wage measures, participation/unemployment details, revisions, real-time fr"
+    },
+    "t_f4d6345bfa32f043": {
+      "count": 1,
+      "message_ids": [
+        "1471144666249302159"
+      ],
+      "last_update_utc": "2026-02-11T14:04:15+00:00",
+      "last_short": "ECB urges urgent collective EU action and says it stands ready to assist — reduces euro-area tail-risk; supportive for European equities (ba",
+      "last_long": "Primary mechanism: risk premium. Lagarde signaling an ECB-ready-to-assist posture and pressing EU leaders for urgent collective action lowers perceived political/sovereign tail-risk and reduces risk premia across euro-area assets. Expect an intraday to next-few-sessions lift in European risk sentiment: narrower Italy/Greece spreads vs Bunds, firmer European bank and cyclical equities, and downward pressure on credit default swap premia. Secondary channels: if assistance implies balance-sheet/backstop language it can compress funding stress and steepen/tighten parts of the euro-area curve; conversely, details could shift rates expectations if linked to fiscal measures. Market edge: watch official EU/ECB follow-ups, leader communiques, moves in 10y Bund vs BTP spreads, EUR swap curve, peripheral sovereign auctions, Euribor/EONIA funding moves, European bank CDS and equity flows for confirm"
     }
   },
   "topic_index": {

@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-02-10T14:00:44Z",
-  "last_delta_hash": "b31391ff872d9b4c",
+  "last_run_utc": "2026-02-11T14:00:42Z",
+  "last_delta_hash": "7ff9de26c052ed3e",
   "open_risks": [
-    "Rates whipsaw around the US labor + CPI cluster (Feb 11 jobs; Feb 13 CPI): real-yield impulse can flip ES/NQ and drive gold convexity (especially if data conflict).",
-    "Growth-scare repricing: retail sales miss becomes a broader consumer slowdown narrative, weighing ES cyclicals/RTY even if yields fall (bad-good data paradox).",
-    "Gold positioning/liquidity air-pocket: elevated recent volatility increases probability of disorderly moves on USD spikes, real-yield jumps, or headline shocks.",
-    "Fed communication risk: speaker tone (Logan/Hammack/Bowman etc.) could push back on easing pricing after weak activity data, triggering rate back-up and duration drawdown.",
-    "Second-order political risk spillover (UK leadership noise): mostly GBP/gilts risk, but can contaminate global risk sentiment if it escalates into policy/fiscal uncertainty."
+    "Rates whipsaw into CPI: conflicting signals (stronger headline jobs vs downward benchmark revisions + soft retail sales) create two-way risk in front-end and real yields, amplifying ES/NQ and gold volatility.",
+    "CPI ‘upside surprise’ risk underpriced relative to complacent cuts narrative after soft retail sales; could force abrupt de-risking in duration equities and pressure gold via real-yield jump.",
+    "CPI ‘downside surprise’ risk: could reignite aggressive easing expectations and steepen risk-on into NQ, but also signal demand weakness that later flips into growth-scare (bad-good paradox).",
+    "Geopolitical tail (Iran/shipping enforcement) adds fat-tail risk to oil and safe-haven flows; can produce cross-asset correlation breaks (gold bid even if yields firm).",
+    "Treasury auction tails (10y/30y) provoke term-premium jump and equity duration hit, independent of macro data direction."
   ]
 }
