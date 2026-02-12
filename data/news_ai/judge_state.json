@@ -260,7 +260,8 @@
     "1471510714526076959",
     "1471514343764918302",
     "1471521854639575172",
-    "1471549171298467872"
+    "1471549171298467872",
+    "1471610306886373399"
   ],
   "seen_max": 2000,
   "topics": {
@@ -384,7 +385,7 @@
       "last_long": "As of 2026-01-12 20:16 UTC, the item reads like a debunk/false-rumor update, but it lacks the minimum identifiers (carrier, flight number, airport/city, time) needed to confirm what exactly was being rumored. A web check did not surface a matching major breaking-news report or official aviation authority bulletin tied to a fresh crash “rumor” on Jan 12; instead, results clustered around unrelated, already-dated aviation incidents (e.g., the Jan 10, 2026 fatal crash near Paipa, Colombia, and other historical incidents). With no corroboration, treat this as misinformation-cleanup rather than a new fundamental macro catalyst. Market relevance is typically limited unless the rumor explicitly involved a major carrier, a mass-casualty event, or a high-profile individual—none of which can be confirmed from the provided headline alone."
     },
     "t_e42390b46bafaf85": {
-      "count": 18,
+      "count": 19,
       "message_ids": [
         "1460376050474418178",
         "1460738323470356743",
@@ -403,11 +404,12 @@
         "1469073354345546002",
         "1470523194221002963",
         "1470885327412400159",
-        "1471247786648404091"
+        "1471247786648404091",
+        "1471610306886373399"
       ],
-      "last_update_utc": "2026-02-11T20:53:44+00:00",
-      "last_short": "",
-      "last_long": ""
+      "last_update_utc": "2026-02-12T20:54:23+00:00",
+      "last_short": "Large sell MOC: S&P -$2.90B, NQ -$1.67B, Dow -$0.86B, Mag7 -$0.91B — mechanical downside pressure into the close; likely flow-driven vs macr",
+      "last_long": "A broad, multi-index sell skew into the closing auction (S&P -$2.90B, NQ -$1.67B, Dow -$0.86B; Mag7 -$0.91B) is a classic market-structure negative: it can force benchmarkers/ETFs and liquidity providers to source liquidity at the auction, with dealers often hedging inventory via ES/NQ into the bell. Why it matters: the breadth across S&P/NQ/Dow plus the Mag7 component raises odds this is program/portfolio re-risking (rebalance/derisk/hedge) rather than a single-name issue, which can steepen late-day downside and widen spreads into 16:00 ET. Expected horizon: highest impact in the final minutes and the print itself; spillover into the next session is usually limited unless the same institutions keep selling or the close triggers volatility-control / risk-parity de-leveraging. What to watch for confirmation: whether the imbalance persists/gets worse on subsequent updates, whether ES/NQ ba"
     },
     "t_e6be6b33661c274a": {
       "count": 1,
