@@ -255,7 +255,8 @@
     "1471292656339648740",
     "1471400901494312982",
     "1471401339471921234",
-    "1471499220677693503"
+    "1471499220677693503",
+    "1471510246647402496"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2224,6 +2225,15 @@
       "last_update_utc": "2026-02-12T07:04:03+00:00",
       "last_short": "UK activity still stuck: 3m/3m GDP 0.1% and manufacturing cooled to 0.5% y/y — nudges BoE path more dovish (gilt-supportive), weighs GBP and",
       "last_long": "UK data reinforced a “low/flat growth” setup: 3m/3m GDP printed 0.1% (unchanged vs prior) while manufacturing output slowed sharply to 0.5% y/y (down from 2.1%). Mechanism: weaker real-economy momentum typically lowers the risk of additional BoE tightening and can pull front-end UK rates/gilt yields down; that channel is mildly supportive for global duration sentiment (USTs) but primarily a UK/GBP story. In FX, softer growth tends to cap GBP (especially if paired with already-cooling Europe disinflation narratives), while equities see a cross-current—lower rates help multiples, but weaker manufacturing is a direct hit to cyclicals/industrials and confidence. Why now: in a market still highly sensitive to the “growth vs policy path” balance, this print tilts the UK toward earlier/greater easing odds unless inflation re-accelerates. Watch for follow-through in SONIA/gilt front-end, GBP cro"
+    },
+    "t_3bbf5ce7ac7271f4": {
+      "count": 1,
+      "message_ids": [
+        "1471510246647402496"
+      ],
+      "last_update_utc": "2026-02-12T14:16:50+00:00",
+      "last_short": "Report: Russia memo pitches Trump on re-integration with the dollar system; if markets believe it, it trims geopolitical/sanctions tail risk",
+      "last_long": "What happened: A report says a Russian memo pitched a “return to the dollar system” in outreach to President Trump. Market relevance is less about immediate policy and more about perceived odds of a sanctions/settlement thaw.\n\nMechanism (next few sessions): headline → reprices geopolitical risk premium and cross-border settlement friction → potential rotation out of havens (USD, USTs) into risk/credit; any follow-through could also reduce embedded disruption premium in parts of energy/EM.\n\nKey sensitivities: (1) USD/USTs as the cleanest “risk premium” expression; (2) energy (sanctions regime expectations); (3) EM sovereign/credit risk tone; (4) EURUSD as a proxy for broad USD beta.\n\nWhy it matters now: it’s politically timed and can create fast intraday repricing even without confirmation; persistence depends on concrete signals (official US response, sanctions/legal steps, payment/clear"
     }
   },
   "topic_index": {
