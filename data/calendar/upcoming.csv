@@ -24,7 +24,6 @@ ts_utc,title,impact,forecast,previous,url
 2026-02-11T21:00:00+00:00,FOMC Member Hammack Speaks,Low,,,https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks
 2026-02-12T13:30:00+00:00,Unemployment Claims,High,222K,231K,https://www.forexfactory.com/calendar/11-us-unemployment-claims
 2026-02-12T15:00:00+00:00,Existing Home Sales,Low,4.16M,4.35M,https://www.forexfactory.com/calendar/232-us-existing-home-sales
-2026-02-12T15:00:00+00:00,Mortgage Delinquencies,Low,,3.99%,https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies
 2026-02-12T15:30:00+00:00,Natural Gas Storage,Low,-256B,-360B,https://www.forexfactory.com/calendar/26-us-natural-gas-storage
 2026-02-12T18:01:00+00:00,30-y Bond Auction,Low,,4.83|2.4,https://www.forexfactory.com/calendar/540-us-30-y-bond-auction
 2026-02-13T00:00:00+00:00,FOMC Member Logan Speaks,Low,,,https://www.forexfactory.com/calendar/890-us-fomc-member-logan-speaks
@@ -32,3 +31,4 @@ ts_utc,title,impact,forecast,previous,url
 2026-02-13T13:30:00+00:00,Core CPI m/m,High,0.3%,0.2%,https://www.forexfactory.com/calendar/79-us-core-cpi-mm
 2026-02-13T13:30:00+00:00,CPI m/m,High,0.3%,0.3%,https://www.forexfactory.com/calendar/78-us-cpi-mm
 2026-02-13T13:30:00+00:00,CPI y/y,High,2.5%,2.7%,https://www.forexfactory.com/calendar/884-us-cpi-yy
+2026-02-13T15:00:00+00:00,Mortgage Delinquencies,Low,,3.99%,https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies
