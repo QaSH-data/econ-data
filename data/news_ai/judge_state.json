@@ -261,7 +261,8 @@
     "1471514343764918302",
     "1471521854639575172",
     "1471549171298467872",
-    "1471610306886373399"
+    "1471610306886373399",
+    "1471627431038160938"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2268,6 +2269,15 @@
       "last_update_utc": "2026-02-12T16:51:29+00:00",
       "last_short": "Netanyahu says Trump may reach a good Iran deal (Axios): mild de-escalation signal — supports risk sentiment; trims crude/geopolitical premi",
       "last_long": "Netanyahu’s comment (via Axios) reads as a de-escalation/negotiation signal rather than an immediate policy change. Mechanism: it can compress the geopolitical risk premium at the margin—typically supportive for US index futures (ES/NQ) via lower tail-risk and vol, while pressuring crude (CL) if the market infers a higher probability of reduced Middle East supply risk and/or a future sanctions-relief pathway. Secondary channel: safe-haven bid can fade modestly (supporting yields, softer ZN) and USD “risk-off” support can ebb, though FX/rates effects should be smaller than the oil impulse unless followed by concrete US/Iran statements. Why now: headlines around Iran talks tend to move quickly because positioning in energy and vol often embeds a persistent risk premium; follow-through will depend on confirmation (White House/State Dept messaging, Iranian response, and any details on scope/"
+    },
+    "t_0e8e838c9f6341a2": {
+      "count": 1,
+      "message_ids": [
+        "1471627431038160938"
+      ],
+      "last_update_utc": "2026-02-12T22:02:23+00:00",
+      "last_short": "US confirms tariff relief for Taiwan semiconductors — lowers policy risk and costs for chip supply chains; positive for semiconductor equiti",
+      "last_long": "Primary market mechanism: earnings. Confirmation of tariff relief reduces a policy-driven cost shock for semiconductors imported from Taiwan, which directly improves near-term margins for foundries, chip suppliers and OEMs and narrows the sector risk premium. Expect the move to be concentrated in semiconductor equities (SOX/SMH), large-cap chip names (including Taiwan-listed suppliers), and capital goods/equipment vendors over the intraday to next few sessions as market re-prices earnings trajectories and volatility falls. Broader indices may see only modest spillover given existing macro headwinds (e.g., China demand softness) and upcoming US macro prints (PCE/GDP). Information that will provide edge: exact tariff lines/HTS codes covered, effective/retroactive dates, duration (temporary vs permanent), agency implementation guidance (CBP/Commerce), and any near-term company-level revisio"
     }
   },
   "topic_index": {
