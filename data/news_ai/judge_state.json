@@ -258,7 +258,8 @@
     "1471499220677693503",
     "1471510246647402496",
     "1471510714526076959",
-    "1471514343764918302"
+    "1471514343764918302",
+    "1471521854639575172"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2246,6 +2247,15 @@
       "last_update_utc": "2026-02-12T14:18:47+00:00",
       "last_short": "Report: Russia memo pitches a return toward dollar-based rails to Trump; headline mainly works through geopolitics/risk-premium and USD/ener",
       "last_long": "Mechanism (next few sessions): if credible, a Russian pitch to re-engage with dollar settlement/clearing is less about near-term macro and more about (1) sanction/financial-access expectations and (2) perceived thaw in geopolitical posture. That can compress geopolitical risk premia, supporting risk assets while reducing safe-haven bid in USTs; the USD reaction is two-sided (less flight-to-quality vs potential USD demand if more trade/settlement uses USD rails). Energy/commodities are a key transmission route: any implied easing of constraints on Russian flows/pricing/invoicing can shift perceived tail-risk around supply and disrupt oil risk premia. Why now: tying the memo to Trump makes it a political catalyst headline—markets will quickly handicap probability of negotiations, messaging, or future policy shifts; early moves can be amplified if liquidity is thin and positioning is one-wa"
+    },
+    "t_ec29678e771e1596": {
+      "count": 1,
+      "message_ids": [
+        "1471521854639575172"
+      ],
+      "last_update_utc": "2026-02-12T15:02:56+00:00",
+      "last_short": "Existing home sales 3.91M vs 4.15M est (prior 4.35M) — downside demand signal; modestly bond-supportive, cyclicals/housing-sensitive likely",
+      "last_long": "US existing home sales materially missed consensus at 3.91M vs 4.15M and decelerated from 4.35M prior, reinforcing a “housing is cooling” impulse. First-order market channel is rates: a weaker housing turnover print leans toward softer growth momentum and less housing-related inflation pass-through, which can support Treasuries (especially belly/long end) and ease financial-conditions anxiety at the margin. Equity index futures (ES/NQ) typically read this as a rotation input rather than a broad risk-off shock: housing-linked cyclicals (homebuilders, mortgage originators/servicers, some regional banks) are the most directly exposed via volume/fee expectations, while duration-sensitive equities can take cues from any concurrent yield dip. Why now: the miss vs forecast plus a clear step-down vs the prior print makes it more than noise; watch immediate rates repricing and whether credit/mort"
     }
   },
   "topic_index": {
