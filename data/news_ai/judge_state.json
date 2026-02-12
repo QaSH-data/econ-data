@@ -253,7 +253,8 @@
     "1471247786648404091",
     "1471261687087632425",
     "1471292656339648740",
-    "1471400901494312982"
+    "1471400901494312982",
+    "1471401339471921234"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2212,6 +2213,15 @@
       "last_update_utc": "2026-02-12T07:02:19+00:00",
       "last_short": "UK data: GDP +0.1% m/m (as forecast) but IP -0.9% m/m miss and wider goods deficit — tilts growth/rates impulse dovish for BoE; modest GBP h",
       "last_long": "UK activity mix is soft. GDP met the +0.1% m/m consensus, but the bigger signal is the sharp industrial production downside surprise (-0.9% m/m vs 0%) alongside a slightly worse goods trade balance (-£22.724bn vs -£22.288bn). Mechanism: weaker IP typically feeds through to near-term growth tracking and reduces the need for restrictive policy; that leans SONIA/OIS pricing toward a more dovish BoE path, which is usually supportive for gilts and a mild negative for GBP on rate-differential logic. Cross-asset read-through: for broader risk, this is more “Europe growth drag” than a global impulse—potentially a small risk-off tint for cyclicals, but likely second-order for US index futures unless it meaningfully shifts global rates lower. Why now: the IP miss is a clean, high-signal growth datapoint that can reprice the front end quickly even when GDP matches; watch the immediate reaction in s"
+    },
+    "t_b68ac1c348ab6313": {
+      "count": 1,
+      "message_ids": [
+        "1471401339471921234"
+      ],
+      "last_update_utc": "2026-02-12T07:04:03+00:00",
+      "last_short": "UK activity still stuck: 3m/3m GDP 0.1% and manufacturing cooled to 0.5% y/y — nudges BoE path more dovish (gilt-supportive), weighs GBP and",
+      "last_long": "UK data reinforced a “low/flat growth” setup: 3m/3m GDP printed 0.1% (unchanged vs prior) while manufacturing output slowed sharply to 0.5% y/y (down from 2.1%). Mechanism: weaker real-economy momentum typically lowers the risk of additional BoE tightening and can pull front-end UK rates/gilt yields down; that channel is mildly supportive for global duration sentiment (USTs) but primarily a UK/GBP story. In FX, softer growth tends to cap GBP (especially if paired with already-cooling Europe disinflation narratives), while equities see a cross-current—lower rates help multiples, but weaker manufacturing is a direct hit to cyclicals/industrials and confidence. Why now: in a market still highly sensitive to the “growth vs policy path” balance, this print tilts the UK toward earlier/greater easing odds unless inflation re-accelerates. Watch for follow-through in SONIA/gilt front-end, GBP cro"
     }
   },
   "topic_index": {
