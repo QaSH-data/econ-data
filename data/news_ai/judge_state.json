@@ -268,7 +268,8 @@
     "1471861444814438422",
     "1471862230663303406",
     "1471863044433772638",
-    "1471863508680572971"
+    "1471863508680572971",
+    "1471876823792091337"
   ],
   "seen_max": 2000,
   "topics": {
@@ -318,7 +319,7 @@
       "last_long": "As of 2026-01-03 22:59 UTC, I cannot corroborate “Neizchum” as a real location, agency, asset, or recognized geopolitical theater via accessible public sources, nor can I find credible-wire/official reporting tied to this specific claim. That strongly points to either (a) a fabricated headline, (b) a mistranslation/misspelling, or (c) an in-network/internal codename that is not publicly indexable.\n\nMarket read: if desks briefly priced a “nuclear threat” off this rumor, a debunk (“no nuclear threat”) typically removes the most acute tail-risk bid—supporting a normalization impulse (risk premia/volatility compression) rather than creating a new macro impulse. However, given the entity ambiguity, the safer posture is to treat this item as non-actionable until a top-tier source (official government statement or major wire) confirms both the original claim and its retraction.\n\nWhat to monitor"
     },
     "t_4e9a016194f8d732": {
-      "count": 21,
+      "count": 22,
       "message_ids": [
         "1460280326831079575",
         "1461005167326658778",
@@ -340,11 +341,12 @@
         "1470427106784579788",
         "1470789786792099987",
         "1471152050153980122",
-        "1471514343764918302"
+        "1471514343764918302",
+        "1471876823792091337"
       ],
-      "last_update_utc": "2026-02-12T14:33:06+00:00",
-      "last_short": "",
-      "last_long": ""
+      "last_update_utc": "2026-02-13T14:33:23+00:00",
+      "last_short": "MOO shows S&P buy imbalance (~19.4M), Nasdaq mild buy (~2.2M), Dow large sell (~-28.4M). Could bias ES/NQ higher at open and weigh on Dow co",
+      "last_long": "Primary mechanism: liquidity (market-structure) with positioning follow-through. Market-on-open imbalances represent net orders that will clear at the open auction; a ~19.4M S&P buy skew versus a -28.4M Dow sell implies asymmetric opening flow that can nudge index opens and initial futures pricing. Expect intraday/early-session impact as arbitrage between SPX cash, ETFs and ES/NQ/YM futures absorbs the crossing volume; short-lived volatility and directional bias are typical. Watch pre-open auction prints and early bid/ask depth to gauge if the imbalance auto-corrects or generates sustained order flow. Headline lacks unit/context verification, so further detail (dollar value, constituent concentration, and whether these are net of crosses) is needed to judge persistence."
     },
     "t_580e22849c685f56": {
       "count": 1,
