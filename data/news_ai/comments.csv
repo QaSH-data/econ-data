@@ -23,3 +23,4 @@ ts_utc,message_id,seq,context_id,priority,text
 2026-02-13T10:01:56.662000+00:00,1471808606461628518,1,t_f694e005f2bd6071,2,Eurozone flash GDP +0.3% q/q (in line) reinforces a steady/low-vol growth backdrop — limited impulse for ECB repricing; primary sensitivity
 2026-02-13T13:31:54.307000+00:00,1471861444814438422,1,t_25546b89896b0c28,5,"US CPI m/m 0.2% vs 0.3% est: modest downside inflation surprise. Biases rates lower (Treasuries bid), supports duration-sensitive equity fut"
 2026-02-13T13:35:01.668000+00:00,1471862230663303406,1,t_74bd54c06e3c45ee,5,US Supercore CPI eased to 2.67% y/y (prev 2.74%) — softer inflation eases near-term rate pressure; likely to weigh on UST yields and support
+2026-02-13T13:38:15.686000+00:00,1471863044433772638,1,t_4e6c5106d7feecff,4,"Post-CPI, rate futures lift June Fed-easing odds to ~69% (from ~63%), a small dovish reprice that supports duration assets (USTs, growth equ"
