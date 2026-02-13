@@ -264,7 +264,8 @@
     "1471610306886373399",
     "1471627431038160938",
     "1471770997110607985",
-    "1471808606461628518"
+    "1471808606461628518",
+    "1471861444814438422"
   ],
   "seen_max": 2000,
   "topics": {
@@ -469,13 +470,14 @@
       "last_long": "This is a clean de-escalation because it negates a high-impact geopolitical tail that would have mechanically triggered risk-off positioning. If the false ‘war’ alert caused any knee-jerk repricing, the correction should (1) reduce demand for immediate downside hedges and safe havens (front-end/USTs, USD), and (2) allow equity index futures (ES/NQ) and EM risk sentiment to mean-revert as liquidity providers re-open risk and implied vol demand cools. Biggest near-term channel is volatility/risk-premium normalization rather than fundamentals. Residual sensitivity remains to follow-on clarification from the original source and to any repeat false alerts (credibility/operational-risk premium)."
     },
     "t_25546b89896b0c28": {
-      "count": 1,
+      "count": 2,
       "message_ids": [
-        "1460627519945441342"
+        "1460627519945441342",
+        "1471861444814438422"
       ],
-      "last_update_utc": "2026-01-13T13:32:43+00:00",
-      "last_short": "US CPI MoM +0.3% (in line). Little shock, but keeps “sticky inflation” narrative alive into Jan 28 FOMC.",
-      "last_long": "US CPI MoM printed +0.3% vs +0.3% expected (prior +0.2%). With the headline exactly at consensus, the first-order impulse is “no surprise,” so any immediate ES/NQ and UST reaction should be more about positioning and details than the top-line beat/miss.\n\nMechanism: an in-line but firmer-than-prior monthly pace leans against rapid easing expectations, supporting front-end rates (ZT/2Y-sensitive) and keeping real-rate pressure in play. That tends to be a headwind for duration-heavy equities (NQ/mega-cap growth) and a mild tailwind for USD (DX), unless the market interprets the broader print as disinflationary in composition.\n\nWhy now: into the Jan 28 FOMC decision window, an on-consensus CPI reduces the odds of an “immediate policy surprise,” but it also doesn’t provide relief that inflation momentum is re-accelerating downward; the path of expectations is likely to hinge on whether underl"
+      "last_update_utc": "2026-02-13T13:32:19+00:00",
+      "last_short": "US CPI m/m 0.2% vs 0.3% est: modest downside inflation surprise. Biases rates lower (Treasuries bid), supports duration-sensitive equity fut",
+      "last_long": "Jan 13, 2026 US CPI m/m printed 0.2% vs 0.3% consensus (prev 0.3%), a small but clean downside surprise. First-order channel is rates: softer realized inflation tends to pull down front-end and belly yields intraday, easing discount-rate pressure and typically helping duration-heavy equity indices (NQ > ES), while reducing near-term USD support from real-rate differentials. Because the miss is only 0.1ppt, persistence likely hinges on confirmation from core details (core CPI/services/shelter) and the next Fed-preferred core PCE; absent that, expect the move to be more repricing than narrative shift. Watch: 2y/5y yields and OIS pricing for the next 1–2 meetings, breakevens vs nominals (real-yield driver for equities), and whether risk takes it as “soft landing” friendly rather than “growth scare.”"
     },
     "t_841f88b7625c786c": {
       "count": 1,
