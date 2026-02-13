@@ -1,11 +1,10 @@
 {
-  "last_run_utc": "2026-02-12T14:00:43Z",
-  "last_delta_hash": "aa1847607d8b2846",
+  "last_run_utc": "2026-02-13T14:00:38Z",
+  "last_delta_hash": "23e8a01028e58109",
   "open_risks": [
-    "US CPI (Feb 13) upside surprise drives abrupt real-yield repricing; hits duration equities (NQ) and can pressure gold via higher real rates (dominant near-term tail).",
-    "US CPI downside surprise triggers aggressive easing expectations (risk-on initially) but raises growth-scare interpretation risk; can create whipsaw across ES/NQ and rates.",
-    "30-year auction tails (weak demand) steepens long end/raises term premium; negative for rate-sensitive equities independent of CPI direction.",
-    "Fiscal/deficit narrative (CBO outlook) reasserts as a market driver, reinforcing term-premium drift higher and crowding out duration risk appetite.",
-    "Earnings dispersion shock: large single-name gaps (notably in tech/comm services) spill into NQ index volatility even if macro is quiet intraday."
+    "Interpretation risk: CPI downside surprise is partly base-effects; if subsequent prints re-accelerate, the market could rapidly unwind dovish repricing (rates up, NQ down; gold pressured via real yields).",
+    "AI/tech de-grossing persists despite CPI relief; factor rotation becomes disorderly, keeping NQ volatility elevated and correlation spikes in index futures.",
+    "Flow/positioning risk: after large sell-side close imbalances and a weak prior tape, intraday liquidity pockets can amplify moves around headline follow-through (rates + megacap).",
+    "Trade-policy headline risk remains two-sided: US–Taiwan agreement helps semis at the margin, but broader tariff escalation/retaliation remains a latent macro shock channel."
   ]
 }
