@@ -1,3 +1,4 @@
 asof_utc,slug,outcome,anchor_ts_utc,anchor_prob,current_ts_utc,current_prob,delta_pp,minutes,statement
 2026-02-11T15:20:43Z,will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting,Cut 25bps,2026-01-27T00:35:01Z,0.240000,2026-02-11T15:20:02Z,0.135000,-10.50,22485.02,"Polymarket traders now price a 14% chance of Cut 25bps, down 10pp in 16 days."
 2026-02-12T07:00:46Z,will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting,No change,2026-01-26T18:20:02Z,0.825000,2026-02-12T07:00:01Z,0.925000,+10.00,23799.98,"Polymarket traders now price a 92% chance of No change, up 10pp in 17 days."
+2026-02-13T14:40:45Z,will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting,Cut 25bps,2026-01-26T18:20:02Z,0.145000,2026-02-13T14:40:02Z,0.045000,-10.00,25700.00,"Polymarket traders now price a 4% chance of Cut 25bps, down 10pp in 18 days."
