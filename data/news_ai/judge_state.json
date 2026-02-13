@@ -267,7 +267,8 @@
     "1471808606461628518",
     "1471861444814438422",
     "1471862230663303406",
-    "1471863044433772638"
+    "1471863044433772638",
+    "1471863508680572971"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2320,6 +2321,15 @@
       "last_update_utc": "2026-02-13T13:38:42+00:00",
       "last_short": "Post-CPI, rate futures lift June Fed-easing odds to ~69% (from ~63%), a small dovish reprice that supports duration assets (USTs, growth equ",
       "last_long": "The CPI print prompted an incremental dovish adjustment in the front-end: interest-rate futures nudged implied June easing odds up to ~69% from ~63%. The main transmission is through the expected policy path—slightly lower expected Fed funds in mid-2026 tends to pull down front-end Treasury yields and ease broader financial-conditions at the margin. That backdrop is typically supportive for duration-sensitive risk (ES/NQ) via lower discount rates, while the USD can soften as relative rate support ebbs. The signal here is modest (a ~6pp probability shift), so it’s more likely to influence near-term session bias than reset the macro regime unless follow-through arrives in subsequent inflation data (core services/shelter, supercore proxies) and Fed communication that validates earlier easing. Watch whether the OIS/fed-funds strip reprices beyond June (path shift vs one-meeting tweak) and wh"
+    },
+    "t_ee2b1385efd06407": {
+      "count": 1,
+      "message_ids": [
+        "1471863508680572971"
+      ],
+      "last_update_utc": "2026-02-13T13:40:26+00:00",
+      "last_short": "CPI revisions nudged 2026 easing expectations higher: rate futures now imply ~61bp of Fed cuts (vs ~58bp pre-data), a modest tailwind for du",
+      "last_long": "Post-CPI (and annual/seasonal-factor revisions) the front-end re-priced to a bit more cumulative easing in 2026 (~61bp vs ~58bp just before). Mechanism: softer perceived inflation persistence / slightly better disinflation signal → lower expected policy path → front-end yields down / Treasury futures bid → lower discount rates that tend to support high-duration equities (esp. NQ/long-growth) and rate-sensitive defensives; offsets include modest pressure on banks via NIM expectations. FX channel is typically a marginal USD-negative impulse if the move is driven by US rate differentials. Why now: CPI revisions can alter the baseline path markets anchor on between major prints, so even small changes can move OIS/ED pricing when positioning is tight. Persistence likely depends on confirmation from next core PCE/CPI prints and Fed messaging; absent follow-through, this reads as a small recali"
     }
   },
   "topic_index": {
