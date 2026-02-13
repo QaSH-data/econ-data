@@ -262,7 +262,8 @@
     "1471521854639575172",
     "1471549171298467872",
     "1471610306886373399",
-    "1471627431038160938"
+    "1471627431038160938",
+    "1471770997110607985"
   ],
   "seen_max": 2000,
   "topics": {
@@ -2278,6 +2279,15 @@
       "last_update_utc": "2026-02-12T22:02:23+00:00",
       "last_short": "US confirms tariff relief for Taiwan semiconductors — lowers policy risk and costs for chip supply chains; positive for semiconductor equiti",
       "last_long": "Primary market mechanism: earnings. Confirmation of tariff relief reduces a policy-driven cost shock for semiconductors imported from Taiwan, which directly improves near-term margins for foundries, chip suppliers and OEMs and narrows the sector risk premium. Expect the move to be concentrated in semiconductor equities (SOX/SMH), large-cap chip names (including Taiwan-listed suppliers), and capital goods/equipment vendors over the intraday to next few sessions as market re-prices earnings trajectories and volatility falls. Broader indices may see only modest spillover given existing macro headwinds (e.g., China demand softness) and upcoming US macro prints (PCE/GDP). Information that will provide edge: exact tariff lines/HTS codes covered, effective/retroactive dates, duration (temporary vs permanent), agency implementation guidance (CBP/Commerce), and any near-term company-level revisio"
+    },
+    "t_4ef6896026110a8a": {
+      "count": 1,
+      "message_ids": [
+        "1471770997110607985"
+      ],
+      "last_update_utc": "2026-02-13T07:32:51+00:00",
+      "last_short": "Swiss CPI m/m -0.1% vs 0% forecast: marginally softer inflation nudges SNB path a bit more dovish, leaning CHF softer and Swiss/EU front-end",
+      "last_long": "Swiss CPI printed -0.1% m/m versus 0% expected, a small downside surprise that primarily works through policy-path expectations. Mechanically, a softer monthly inflation read reduces the near-term need for the SNB to sound/act hawkish, which typically pulls Swiss front-end rate expectations down, supports Swiss duration, and can translate into a modestly weaker CHF (notably vs EUR).\n\nWhy it matters now: CHF and Swiss rates are an input to broader European rates/FX relative-value. If EUR/CHF firms on the data, it can slightly loosen financial conditions for Switzerland/adjacent Europe and offer a mild tailwind to European risk assets; spillover to US index futures (ES/NQ) is usually second-order unless it coincides with a broader global “disinflation/rates-down” impulse.\n\nWhat to monitor for confirmation: immediate EUR/CHF and USD/CHF reaction, Swiss 2y/5y yield move (front-end sensitivit"
     }
   },
   "topic_index": {
