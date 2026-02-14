@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-02-13T14:00:38Z",
-  "last_delta_hash": "23e8a01028e58109",
+  "last_run_utc": "2026-02-14T14:00:37Z",
+  "last_delta_hash": "840f87144edb220d",
   "open_risks": [
-    "Interpretation risk: CPI downside surprise is partly base-effects; if subsequent prints re-accelerate, the market could rapidly unwind dovish repricing (rates up, NQ down; gold pressured via real yields).",
-    "AI/tech de-grossing persists despite CPI relief; factor rotation becomes disorderly, keeping NQ volatility elevated and correlation spikes in index futures.",
-    "Flow/positioning risk: after large sell-side close imbalances and a weak prior tape, intraday liquidity pockets can amplify moves around headline follow-through (rates + megacap).",
-    "Trade-policy headline risk remains two-sided: US–Taiwan agreement helps semis at the margin, but broader tariff escalation/retaliation remains a latent macro shock channel."
+    "CPI-driven dovish repricing proves fragile (base effects / one-off components); any hotter follow-up data forces a fast rates unwind (yields up), pressuring NQ and potentially gold via higher real yields.",
+    "AI-capex/AI-disruption narrative deepens into a broader megacap de-grossing; index-level downside transmission via concentrated weights (NQ especially) even if macro data is benign.",
+    "Holiday-thinned liquidity and post-holiday gap risk: headline sensitivity increases and intraday depth can be poor, amplifying moves in ES/NQ and gold futures around any surprise macro/policy headlines.",
+    "Cross-asset correlation snap: a sharp move in yields (auction dynamics / risk-off bid) cascades into equities and gold simultaneously, raising hedging error for balanced books."
   ]
 }
